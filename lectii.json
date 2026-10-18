@@ -1,0 +1,56 @@
+[
+ {
+  "fotmobId": 0,
+  "match": "ADO Den Haag – PSV",
+  "score": "2-1",
+  "pick": null,
+  "correct": null,
+  "lesson": "Favorit clar învins cu 3 zile înainte de Liga Campionilor (PSV–Porto, 20.10): rotațiile dinaintea unui meci european scad șansele favoritului în campionat.",
+  "createdAt": 1792333427670
+ },
+ {
+  "fotmobId": 0,
+  "match": "Venezia – Napoli",
+  "score": "1-0",
+  "pick": null,
+  "correct": null,
+  "lesson": "Napoli joacă marți în LC cu Bodø/Glimt; după 1-0 la Venezia, de luat în calcul oboseala și rotația înainte de LC la pariurile pe favoriți.",
+  "createdAt": 1792333427670
+ },
+ {
+  "fotmobId": 0,
+  "match": "Union Berlin – Dortmund",
+  "score": "0-0",
+  "pick": null,
+  "correct": null,
+  "lesson": "Dortmund joacă marți în LC la Sabah; un deplasare grea cu meci european în față duce des la egal.",
+  "createdAt": 1792333427670
+ },
+ {
+  "fotmobId": 0,
+  "match": "Hamburger SV – Stuttgart",
+  "score": "1-0",
+  "pick": null,
+  "correct": null,
+  "lesson": "Stuttgart (LC marți cu Atlético) a pierdut 1-0; a treia echipă din LC care ratează înainte de etapă – o tendință de urmărit.",
+  "createdAt": 1792333427670
+ },
+ {
+  "fotmobId": 0,
+  "match": "Telstar – Feyenoord",
+  "score": "3-4",
+  "pick": null,
+  "correct": null,
+  "lesson": "Gazda a marcat 3 în fața unui favorit: apărarea Feyenoord a fost permisivă, GG/peste 2.5 era piața de urmărit.",
+  "createdAt": 1792333427670
+ },
+ {
+  "fotmobId": 0,
+  "match": "Dundee FC – Rangers",
+  "score": "2-2",
+  "pick": null,
+  "correct": null,
+  "lesson": "Rangers pierde puncte în deplasare contra echipelor mici din Scoția; nu supraestima 1X2 pentru ele în deplasare.",
+  "createdAt": 1792333427670
+ }
+]

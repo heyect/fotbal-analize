@@ -1,0 +1,179 @@
+{
+ "Premier League": {
+  "meciuri": 5,
+  "goluriMedii": 2.4,
+  "procentGG": 40.0,
+  "procentPeste25": 40.0,
+  "victoriiGazde": 40.0,
+  "note": [
+   "Eșantion mic (5 meciuri, 17.10); de actualizat zilnic.",
+   "Toate cele 5 meciuri de sâmbătă au avut un câștigător; gazdele 2/5."
+  ],
+  "echipe": {
+   "Arsenal": "Formă bună: 11 goluri în 5 meciuri",
+   "Tottenham": "6 meciuri fără victorie, mai multe absențe"
+  }
+ },
+ "Bundesliga": {
+  "meciuri": 2,
+  "goluriMedii": 4.5,
+  "procentGG": 50.0,
+  "procentPeste25": 100.0,
+  "victoriiGazde": 50.0,
+  "note": [
+   "Eșantion mic (2 meciuri, 17.10); de actualizat zilnic.",
+   "Bayern 6-1 cu Leipzig; Dortmund 0-0 la Union, Stuttgart 0-1 la HSV înaintea LC."
+  ],
+  "echipe": {
+   "Mönchengladbach": "4 înfrângeri în 5, multe goluri primite",
+   "Hoffenheim": "4 înfrângeri consecutive"
+  }
+ },
+ "LaLiga": {
+  "meciuri": 4,
+  "goluriMedii": 2.0,
+  "procentGG": 25.0,
+  "procentPeste25": 25.0,
+  "victoriiGazde": 0.0,
+  "note": [
+   "Eșantion mic (4 meciuri, 17.10); de actualizat zilnic."
+  ],
+  "echipe": {}
+ },
+ "Ligue 1": {
+  "meciuri": 3,
+  "goluriMedii": 3.33,
+  "procentGG": 100.0,
+  "procentPeste25": 66.7,
+  "victoriiGazde": 0.0,
+  "note": [
+   "Eșantion mic (3 meciuri, 17.10); de actualizat zilnic."
+  ],
+  "echipe": {}
+ },
+ "Serie A": {
+  "meciuri": 3,
+  "goluriMedii": 2.33,
+  "procentGG": 33.3,
+  "procentPeste25": 33.3,
+  "victoriiGazde": 66.7,
+  "note": [
+   "Eșantion mic (3 meciuri, 17.10); de actualizat zilnic."
+  ],
+  "echipe": {
+   "Lazio": "Neînvinsă în 8 meciuri",
+   "Atalanta": "8 absenți, 3 înfrângeri în ultimele 5"
+  }
+ },
+ "2. Bundesliga": {
+  "meciuri": 4,
+  "goluriMedii": 2.5,
+  "procentGG": 50.0,
+  "procentPeste25": 25.0,
+  "victoriiGazde": 75.0,
+  "note": [
+   "Eșantion mic (4 meciuri, 17.10); de actualizat zilnic."
+  ],
+  "echipe": {}
+ },
+ "Ekstraklasa": {
+  "meciuri": 3,
+  "goluriMedii": 2.67,
+  "procentGG": 66.7,
+  "procentPeste25": 33.3,
+  "victoriiGazde": 33.3,
+  "note": [
+   "Eșantion mic (3 meciuri, 17.10); de actualizat zilnic."
+  ],
+  "echipe": {}
+ },
+ "Eredivisie": {
+  "meciuri": 3,
+  "goluriMedii": 5.0,
+  "procentGG": 100.0,
+  "procentPeste25": 100.0,
+  "victoriiGazde": 66.7,
+  "note": [
+   "Eșantion mic (3 meciuri, 17.10); de actualizat zilnic.",
+   "PSV a pierdut 1-2 la ADO înainte de LC; Feyenoord a câștigat 4-3 la Telstar."
+  ],
+  "echipe": {}
+ },
+ "LaLiga2": {
+  "meciuri": 4,
+  "goluriMedii": 3.5,
+  "procentGG": 75.0,
+  "procentPeste25": 75.0,
+  "victoriiGazde": 25.0,
+  "note": [
+   "Eșantion mic (4 meciuri, 17.10); de actualizat zilnic."
+  ],
+  "echipe": {}
+ },
+ "NB I": {
+  "meciuri": 3,
+  "goluriMedii": 1.67,
+  "procentGG": 33.3,
+  "procentPeste25": 33.3,
+  "victoriiGazde": 0.0,
+  "note": [
+   "Eșantion mic (3 meciuri, 17.10); de actualizat zilnic."
+  ],
+  "echipe": {}
+ },
+ "Premiership": {
+  "meciuri": 5,
+  "goluriMedii": 3.6,
+  "procentGG": 100.0,
+  "procentPeste25": 80.0,
+  "victoriiGazde": 40.0,
+  "note": [
+   "Eșantion mic (5 meciuri, 17.10); de actualizat zilnic."
+  ],
+  "echipe": {}
+ },
+ "Super League": {
+  "meciuri": 1,
+  "goluriMedii": 0.0,
+  "procentGG": 0.0,
+  "procentPeste25": 0.0,
+  "victoriiGazde": 0.0,
+  "note": [
+   "Eșantion mic (1 meciuri, 17.10); de actualizat zilnic."
+  ],
+  "echipe": {}
+ },
+ "Super Lig": {
+  "meciuri": 4,
+  "goluriMedii": 1.75,
+  "procentGG": 0.0,
+  "procentPeste25": 25.0,
+  "victoriiGazde": 75.0,
+  "note": [
+   "Eșantion mic (4 meciuri, 17.10); de actualizat zilnic."
+  ],
+  "echipe": {}
+ },
+ "Superliga": {
+  "meciuri": 2,
+  "goluriMedii": 2.0,
+  "procentGG": 50.0,
+  "procentPeste25": 0.0,
+  "victoriiGazde": 50.0,
+  "note": [
+   "Eșantion mic (2 meciuri, 17.10); de actualizat zilnic."
+  ],
+  "echipe": {}
+ },
+ "Championship": {
+  "meciuri": 11,
+  "goluriMedii": 2.45,
+  "procentGG": 36.4,
+  "procentPeste25": 45.5,
+  "victoriiGazde": 36.4,
+  "note": [
+   "Eșantion mic (11 meciuri, 17.10); de actualizat zilnic."
+  ],
+  "echipe": {}
+ }
+}
