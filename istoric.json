@@ -1,1 +1,72 @@
-[]
+[
+ {
+  "fotmobId": 5795483,
+  "match": "Nottingham Forest – Arsenal",
+  "kickoff": "2026-10-18T15:30:00Z",
+  "pick": "Arsenal câștigă",
+  "code": "2",
+  "probability": 0.58,
+  "score": "0-1",
+  "correct": true
+ },
+ {
+  "fotmobId": 5868098,
+  "match": "Real Madrid – Sevilla",
+  "kickoff": "2026-10-18T19:00:00Z",
+  "pick": "Peste 2.5 goluri",
+  "code": "O2.5",
+  "probability": 0.62,
+  "score": "4-1",
+  "correct": true
+ },
+ {
+  "fotmobId": 5749700,
+  "match": "Milan – Atalanta",
+  "kickoff": "2026-10-18T16:00:00Z",
+  "pick": "Ambele echipe marchează",
+  "code": "GG",
+  "probability": 0.62,
+  "score": "3-2",
+  "correct": true
+ },
+ {
+  "fotmobId": 5749705,
+  "match": "Juventus – Lazio",
+  "kickoff": "2026-10-18T18:45:00Z",
+  "pick": "Ambele echipe marchează",
+  "code": "GG",
+  "probability": 0.6,
+  "score": "0-3",
+  "correct": false
+ },
+ {
+  "fotmobId": 5802960,
+  "match": "Lyon – Nice",
+  "kickoff": "2026-10-18T18:45:00Z",
+  "pick": "Lyon câștigă",
+  "code": "1",
+  "probability": 0.59,
+  "score": "2-1",
+  "correct": true
+ },
+ {
+  "fotmobId": 5853526,
+  "match": "Universitatea Craiova – FCV Farul Constanța",
+  "kickoff": "2026-10-18T18:00:00Z",
+  "pick": "Echipa gazdă nu primește gol",
+  "code": "NG",
+  "probability": 0.58,
+  "score": "2-0",
+  "correct": true
+ },
+ {
+  "fotmobId": 5881190,
+  "match": "Borussia Mönchengladbach – Hoffenheim",
+  "kickoff": "2026-10-18T15:30:00Z",
+  "pick": "Peste 2.5 goluri",
+  "code": "O2.5",
+  "probability": 0.7,
+  "score": "1-2",
+  "correct": true
+ }
+]
