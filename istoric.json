@@ -68,5 +68,35 @@
   "probability": 0.7,
   "score": "1-2",
   "correct": true
+ },
+ {
+  "fotmobId": 5904767,
+  "match": "Trabzonspor – Beşiktaş",
+  "kickoff": "2026-10-19T17:00:00Z",
+  "pick": "Peste 2.5 goluri",
+  "code": "O2.5",
+  "probability": 0.66,
+  "score": "2-0",
+  "correct": false
+ },
+ {
+  "fotmobId": 5853522,
+  "match": "FC Voluntari – FCSB",
+  "kickoff": "2026-10-19T18:00:00Z",
+  "pick": "FCSB câștigă",
+  "code": "2",
+  "probability": 0.49,
+  "score": "1-2",
+  "correct": true
+ },
+ {
+  "fotmobId": 5795484,
+  "match": "Tottenham Hotspur – Coventry City",
+  "kickoff": "2026-10-19T19:00:00Z",
+  "pick": "Ambele echipe marchează",
+  "code": "GG",
+  "probability": 0.58,
+  "score": "3-1",
+  "correct": true
  }
 ]

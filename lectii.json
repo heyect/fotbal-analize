@@ -169,5 +169,68 @@
   "correct": null,
   "lesson": "Gazda favorită a pierdut acasă în Eredivisie, unde media este ~4 goluri/meci și gazdele câștigă doar 35%: evită 1 simplu, preferă GG/peste 2.5 sau 1X.",
   "createdAt": 1792397170818
+ },
+ {
+  "fotmobId": 5904767,
+  "match": "Trabzonspor – Beşiktaş",
+  "score": "2-0",
+  "pick": "Peste 2.5 goluri",
+  "correct": false,
+  "lesson": "Trabzonspor a câștigat 2-0 fără al treilea gol; în Süper Lig 69% peste 2.5 e în eșantion, dar un derby cu miză produce meciuri tactice – 2.5 la derby cere un favorit ofensiv clar, nu doar medie de ligă.",
+  "createdAt": 1792484189953
+ },
+ {
+  "fotmobId": 5853522,
+  "match": "FC Voluntari – FCSB",
+  "score": "1-2",
+  "pick": "FCSB câștigă",
+  "correct": true,
+  "lesson": "FCSB a câștigat în deplasare la Voluntari (1-2) deși a fost surprinsă; echipa de top din SuperLiga rămâne favorită chiar la cote mari, dar marja e mică – nu supraestima 2 în deplasare.",
+  "createdAt": 1792484189953
+ },
+ {
+  "fotmobId": 5795484,
+  "match": "Tottenham Hotspur – Coventry City",
+  "score": "3-1",
+  "pick": "Ambele echipe marchează",
+  "correct": true,
+  "lesson": "Tottenham 3-1 Coventry: ambele au marcat, dar gazdele au dominat; GG a ieșit prin golul de onoare al unei echipe mai slabe – în PL GG la ~58% e corect, dar 1X ar fi fost mai sigur.",
+  "createdAt": 1792484189953
+ },
+ {
+  "fotmobId": 5887594,
+  "match": "Braga – Gil Vicente",
+  "score": "1-2",
+  "pick": null,
+  "correct": null,
+  "lesson": "Gil Vicente a câștigat la Braga: favoritul acasă cu 3 goluri în Liga Portugal nu e sigur; semnalul era forma slabă acasă a gazdelor – nu da 1 simplu fără formă acasă verificată.",
+  "createdAt": 1792484189953
+ },
+ {
+  "fotmobId": 5739528,
+  "match": "Viborg – Midtjylland",
+  "score": "1-2",
+  "pick": null,
+  "correct": null,
+  "lesson": "Midtjylland a câștigat în deplasare: în Danemarca echipa mare câștigă des în deplasare, 12 sau X2 merită luat în calcul față de 1 al gazdei.",
+  "createdAt": 1792484189953
+ },
+ {
+  "fotmobId": 5749707,
+  "match": "Parma – Torino",
+  "score": "0-3",
+  "pick": null,
+  "correct": null,
+  "lesson": "Torino 3-0 în deplasare: gazda nou-promovată/de jos de tabel a fost învinsă clar; în Serie A gazdele din subsolul clasamentului nu sunt favorite automat.",
+  "createdAt": 1792484189953
+ },
+ {
+  "fotmobId": 5749706,
+  "match": "Monza – Cagliari",
+  "score": "4-0",
+  "pick": null,
+  "correct": null,
+  "lesson": "4-0 pentru Monza: Serie A are medie >3 goluri, iar scorurile largi apar des; evită U2.5 în Serie A.",
+  "createdAt": 1792484189953
  }
 ]
