@@ -98,5 +98,95 @@
   "probability": 0.58,
   "score": "3-1",
   "correct": true
+ },
+ {
+  "fotmobId": 6106287,
+  "match": "FC Porto – PSV Eindhoven",
+  "kickoff": "2026-10-20T19:00:00Z",
+  "pick": "Porto sau egal",
+  "code": "1X",
+  "probability": 0.68,
+  "score": "0-1",
+  "correct": false
+ },
+ {
+  "fotmobId": 6106320,
+  "match": "Napoli – Bodø/Glimt",
+  "kickoff": "2026-10-20T19:00:00Z",
+  "pick": "Ambele echipe marchează",
+  "code": "GG",
+  "probability": 0.62,
+  "score": "4-3",
+  "correct": true
+ },
+ {
+  "fotmobId": 6106422,
+  "match": "Sabah FK – Borussia Dortmund",
+  "kickoff": "2026-10-20T16:45:00Z",
+  "pick": "Peste 2.5 goluri",
+  "code": "O2.5",
+  "probability": 0.6,
+  "score": "1-2",
+  "correct": true
+ },
+ {
+  "fotmobId": 6106277,
+  "match": "Roma – Slovan Bratislava",
+  "kickoff": "2026-10-20T19:00:00Z",
+  "pick": "Roma câștigă",
+  "code": "1",
+  "probability": 0.66,
+  "score": "4-0",
+  "correct": true
+ },
+ {
+  "fotmobId": 6106333,
+  "match": "Fenerbahçe – Slavia Praga",
+  "kickoff": "2026-10-20T16:45:00Z",
+  "pick": "Ambele echipe marchează",
+  "code": "GG",
+  "probability": 0.62,
+  "score": "2-2",
+  "correct": true
+ },
+ {
+  "fotmobId": 6106234,
+  "match": "Paris Saint-Germain – Barcelona",
+  "kickoff": "2026-10-20T19:00:00Z",
+  "pick": "Ambele echipe marchează",
+  "code": "GG",
+  "probability": 0.7,
+  "score": "4-2",
+  "correct": true
+ },
+ {
+  "fotmobId": 6106248,
+  "match": "Liverpool – Villarreal",
+  "kickoff": "2026-10-20T19:00:00Z",
+  "pick": "Liverpool câștigă",
+  "code": "1",
+  "probability": 0.58,
+  "score": "4-3",
+  "correct": true
+ },
+ {
+  "fotmobId": 6106257,
+  "match": "Manchester City – AEK Atena",
+  "kickoff": "2026-10-20T19:00:00Z",
+  "pick": "Peste 2.5 goluri",
+  "code": "O2.5",
+  "probability": 0.7,
+  "score": "5-1",
+  "correct": true
+ },
+ {
+  "fotmobId": 6106397,
+  "match": "VfB Stuttgart – Atlético Madrid",
+  "kickoff": "2026-10-20T19:00:00Z",
+  "pick": "Dublă șansă X2",
+  "code": "X2",
+  "probability": 0.71,
+  "score": "1-1",
+  "correct": true
  }
 ]

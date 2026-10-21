@@ -156,12 +156,14 @@
   "echipe": {}
  },
  "Liga 2 România": {
-  "meciuri": 20,
-  "goluriMedii": 2.45,
-  "procentGG": 25.0,
-  "procentPeste25": 45.0,
-  "victoriiGazde": 55.0,
-  "note": [],
+  "meciuri": 21,
+  "goluriMedii": 2.62,
+  "procentGG": 28.6,
+  "procentPeste25": 47.6,
+  "victoriiGazde": 52.4,
+  "note": [
+   "ASA Târgu Mureș 2-4 Chindia (20.10): Chindia a câștigat în deplasare cu 4 goluri."
+  ],
   "echipe": {}
  },
  "NB I Ungaria": {
@@ -252,12 +254,14 @@
   "echipe": {}
  },
  "Championship": {
-  "meciuri": 35,
-  "goluriMedii": 2.83,
-  "procentGG": 48.6,
-  "procentPeste25": 57.1,
-  "victoriiGazde": 37.1,
-  "note": [],
+  "meciuri": 36,
+  "goluriMedii": 2.81,
+  "procentGG": 50.0,
+  "procentPeste25": 55.6,
+  "victoriiGazde": 36.1,
+  "note": [
+   "Wolves 1-1 Portsmouth (20.10): victorii ale gazdelor doar ~36%, X/2 subestimate."
+  ],
   "echipe": {}
  },
  "Europa League": {
@@ -283,16 +287,23 @@
   "echipe": {}
  },
  "Liga Campionilor": {
-  "meciuri": 18,
-  "goluriMedii": 4.33,
-  "procentGG": 55.6,
-  "procentPeste25": 72.2,
+  "meciuri": 27,
+  "goluriMedii": 4.11,
+  "procentGG": 63.0,
+  "procentPeste25": 74.1,
   "victoriiGazde": 55.6,
   "note": [
-   "Eșantion mic (18 meciuri, 10-18.10); procentele se stabilizează în zilele următoare.",
-   "Etapele de până acum au dat ~4.3 goluri/meci, 72% peste 2.5."
+   "Eșantion mic (27 meciuri, 10-20.10).",
+   "20.10: 9 meciuri, 33 goluri, 7 din 9 GG: GG și peste 2.5 sunt de ~63-74%.",
+   "Gazdele din top (City 5-1, Roma 4-0, PSG 4-2, Liverpool 4-3) au câștigat; Porto a pierdut cu PSV (0-1)."
   ],
-  "echipe": {}
+  "echipe": {
+   "PSV": "1-0 la Porto în LC; formă bună",
+   "Liverpool": "4-3 cu Villarreal, apărare vulnerabilă",
+   "Napoli": "4-3 cu Bodø/Glimt, primește goluri",
+   "Manchester City": "5-1 cu AEK",
+   "PSG": "4-2 cu Barcelona"
+  }
  },
  "Primeira Liga": {
   "meciuri": 8,

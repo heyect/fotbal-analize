@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-20T08:16:29+00:00",
+ "updatedAt": "2026-10-21T10:00:00+02:00",
  "analyses": [
   {
    "fotmobId": 5795483,
@@ -606,202 +606,6 @@
    }
   },
   {
-   "fotmobId": 6106238,
-   "home": "Bayern München",
-   "away": "Arsenal",
-   "kickoff": "2026-10-21T19:00:00Z",
-   "createdAt": 1792484189953,
-   "text": "## Pe scurt\nMeci cu goluri între două echipe în formă; Bayern ușor favorită acasă.\n## Ce s-a schimbat (știri și absențe)\nBayern fără Musiala, Neuer incert. Arsenal fără Hincapié și Tzolis; Saliba abia revenit la antrenamente.\n## Analiză\nBayern: V-V-E-E-V (21 goluri înscrise, 6 primite în 5 meciuri). Arsenal: V-Î-V-V-V (1-0 la Forest). Istoric direct echilibrat. Absențele din apărare ale ambelor părți cresc șansele de goluri de ambele părți.\n## Pontul principal\nAmbele echipe marchează (~62%).\n## Alte ponturi\nPeste 2.5 goluri ~66%; 1X ~69%.\n\n_Cote bookmaker indisponibile la momentul analizei; probabilitățile sunt estimarea mea din formă, absențe și date FotMob (fără garanții)._",
-   "verdict": {
-    "summary": "Duel de top la Munchen: Bayern ușor favorită acasă, dar Arsenal vine cu formă excelentă.",
-    "home": 0.45,
-    "draw": 0.24,
-    "away": 0.31,
-    "over25": 0.66,
-    "btts": 0.62,
-    "expectedCorners": 10.0,
-    "expectedCards": 3.6,
-    "mostLikelyScore": "2-1",
-    "confidence": "medie",
-    "keyAbsences": [
-     "Jamal Musiala (Bayern) – accidentare, câteva săptămâni",
-     "Manuel Neuer (Bayern) – incert",
-     "Piero Hincapié (Arsenal) – accidentare",
-     "William Saliba (Arsenal) – revine la antrenamente"
-    ],
-    "mainPick": {
-     "market": "Ambele echipe marchează",
-     "code": "GG",
-     "probability": 0.62,
-     "confidence": "medie",
-     "reason": "Bayern 7-0/6-1 în ultimele meciuri, Arsenal marchează constant; Neuer incert, Saliba la limită"
-    },
-    "picks": [
-     {
-      "market": "Peste 2.5 goluri",
-      "code": "O2.5",
-      "probability": 0.66,
-      "confidence": "medie",
-      "reason": "Bayern: 21 de goluri în ultimele 5"
-     },
-     {
-      "market": "Dublă șansă 1X",
-      "code": "1X",
-      "probability": 0.69,
-      "confidence": "medie",
-      "reason": "Bayern acasă, Arsenal fără Hincapié"
-     }
-    ]
-   }
-  },
-  {
-   "fotmobId": 6106244,
-   "home": "Real Madrid",
-   "away": "RB Leipzig",
-   "kickoff": "2026-10-21T19:00:00Z",
-   "createdAt": 1792484189953,
-   "text": "## Pe scurt\nReal Madrid, favorită, joacă acasă; Leipzig în formă ofensivă.\n## Ce s-a schimbat (știri și absențe)\nReal fără Vinícius (suspendat), Rodrygo, Asencio. Leipzig fără Guiu, Ouédraogo, Baumgartner.\n## Analiză\nReal: V-Î-V-V-V cu 12 goluri în 5 meciuri. Leipzig: V-Î-V-V-Î cu 19 goluri în 5, dar în meciuri contra adversari mai slabi. Piața probabil dă ~1.50-1.60 la Real; cota la peste 2.5 e mai valoroasă decât 1 evident.\n## Pontul principal\nPeste 2.5 goluri (~66%).\n## Alte ponturi\nReal câștigă ~64%; GG ~55%.\n\n_Cote bookmaker indisponibile la momentul analizei; probabilitățile sunt estimarea mea din formă, absențe și date FotMob (fără garanții)._",
-   "verdict": {
-    "summary": "Real Madrid favorită clară acasă, deși fără Vinícius (suspendat).",
-    "home": 0.64,
-    "draw": 0.19,
-    "away": 0.17,
-    "over25": 0.66,
-    "btts": 0.55,
-    "expectedCorners": 9.8,
-    "expectedCards": 3.5,
-    "mostLikelyScore": "2-1",
-    "confidence": "medie",
-    "keyAbsences": [
-     "Vinícius Júnior (Real Madrid) – suspendat",
-     "Rodrygo (Real Madrid) – accidentare",
-     "Raúl Asencio (Real Madrid) – accidentare",
-     "Christoph Baumgartner (Leipzig) – accidentare"
-    ],
-    "mainPick": {
-     "market": "Peste 2.5 goluri",
-     "code": "O2.5",
-     "probability": 0.66,
-     "confidence": "medie",
-     "reason": "Real a marcat 4 cu Sevilla; Leipzig 5-0, 6-0 în ultimele meciuri – atacuri productive"
-    },
-    "picks": [
-     {
-      "market": "Real Madrid câștigă",
-      "code": "1",
-      "probability": 0.64,
-      "confidence": "medie",
-      "reason": "Calitate și avantaj acasă"
-     },
-     {
-      "market": "Ambele echipe marchează",
-      "code": "GG",
-      "probability": 0.55,
-      "confidence": "mică",
-      "reason": "Leipzig marchează, dar Real e solidă acasă"
-     }
-    ]
-   }
-  },
-  {
-   "fotmobId": 6106252,
-   "home": "Inter",
-   "away": "Shakhtar Donetsk",
-   "kickoff": "2026-10-21T19:00:00Z",
-   "createdAt": 1792484189953,
-   "text": "## Pe scurt\nInter fără golgheterul Lautaro; Shakhtar în formă.\n## Ce s-a schimbat (știri și absențe)\nInter fără Lautaro, Pavard. Shakhtar fără mai mulți jucători secundari.\n## Analiză\nInter: V-E-V-Î-V cu 11 goluri primite în 5 meciuri, apărarea e vulnerabilă. Shakhtar 5V (9 goluri date, 3 primite) dar împotriva unor adversari modești.\n## Pontul principal\nPeste 2.5 goluri (~62%).\n## Alte ponturi\nGG ~55%.\n\n_Cote bookmaker indisponibile la momentul analizei; probabilitățile sunt estimarea mea din formă, absențe și date FotMob (fără garanții)._",
-   "verdict": {
-    "summary": "Inter favorită, dar fără Lautaro; Shakhtar vine cu 5 victorii la rând.",
-    "home": 0.55,
-    "draw": 0.24,
-    "away": 0.21,
-    "over25": 0.62,
-    "btts": 0.55,
-    "expectedCorners": 9.5,
-    "expectedCards": 3.8,
-    "mostLikelyScore": "2-1",
-    "confidence": "mică",
-    "keyAbsences": [
-     "Lautaro Martínez (Inter) – accidentare, mijlocul lui noiembrie",
-     "Benjamin Pavard (Inter) – accidentare",
-     "Eguinaldo (Shakhtar) – accidentare"
-    ],
-    "mainPick": {
-     "market": "Peste 2.5 goluri",
-     "code": "O2.5",
-     "probability": 0.62,
-     "confidence": "mică",
-     "reason": "Inter 5-3, 3-4 în ultimele meciuri – apărare slabă; Shakhtar marchează constant"
-    },
-    "picks": [
-     {
-      "market": "Ambele echipe marchează",
-      "code": "GG",
-      "probability": 0.55,
-      "confidence": "mică",
-      "reason": "Inter primește goluri, Shakhtar 5 victorii"
-     },
-     {
-      "market": "Dublă șansă 1X",
-      "code": "1X",
-      "probability": 0.76,
-      "confidence": "medie",
-      "reason": "Prea evident"
-     }
-    ]
-   }
-  },
-  {
-   "fotmobId": 6106410,
-   "home": "Como",
-   "away": "Manchester United",
-   "kickoff": "2026-10-21T16:45:00Z",
-   "createdAt": 1792484189953,
-   "text": "## Pe scurt\nMeci echilibrat cu goluri probabile.\n## Ce s-a schimbat (știri și absențe)\nComo fără Kean, Diao, Couto incert. United fără Šeško, Dorgu, Ugarte; Shaw și Mainoo incerți.\n## Analiză\nComo: V-Î-E-Î-V. United: Î-E-E-Î-E (0 victorii în 5). United marchează puțin, dar și Como primește goluri.\n## Pontul principal\nAmbele echipe marchează (~62%).\n## Alte ponturi\nX2 ~60%; peste 2.5 ~58%.\n\n_Cote bookmaker indisponibile la momentul analizei; probabilitățile sunt estimarea mea din formă, absențe și date FotMob (fără garanții)._",
-   "verdict": {
-    "summary": "Meci echilibrat; Como ușor favorită acasă, United în criză de formă și absențe.",
-    "home": 0.4,
-    "draw": 0.28,
-    "away": 0.32,
-    "over25": 0.58,
-    "btts": 0.62,
-    "expectedCorners": 10.5,
-    "expectedCards": 4.0,
-    "mostLikelyScore": "1-1",
-    "confidence": "mică",
-    "keyAbsences": [
-     "Moise Kean (Como) – accidentare",
-     "Assane Diao (Como) – accidentare",
-     "Benjamin Šeško (Man United) – accidentare",
-     "Luke Shaw (Man United) – incert",
-     "Kobbie Mainoo (Man United) – incert"
-    ],
-    "mainPick": {
-     "market": "Ambele echipe marchează",
-     "code": "GG",
-     "probability": 0.62,
-     "confidence": "medie",
-     "reason": "Como și United marchează constant (6 din ultimele 10 meciuri GG); ambele cu apărări găurite"
-    },
-    "picks": [
-     {
-      "market": "Dublă șansă X2",
-      "code": "X2",
-      "probability": 0.6,
-      "confidence": "mică",
-      "reason": "United 0 victorii în ultimele 5"
-     },
-     {
-      "market": "Peste 2.5 goluri",
-      "code": "O2.5",
-      "probability": 0.58,
-      "confidence": "mică",
-      "reason": "Medie ridicată de goluri"
-     }
-    ]
-   }
-  },
-  {
    "fotmobId": 6106285,
    "home": "Aston Villa",
    "away": "Viking",
@@ -846,55 +650,6 @@
       "probability": 0.62,
       "confidence": "mică",
       "reason": "Villa cu apărarea decimată, Viking marchează"
-     }
-    ]
-   }
-  },
-  {
-   "fotmobId": 6106312,
-   "home": "Lille",
-   "away": "Galatasaray",
-   "kickoff": "2026-10-21T16:45:00Z",
-   "createdAt": 1792484189953,
-   "text": "## Pe scurt\nMeci echilibrat, miza mare pentru ambele.\n## Ce s-a schimbat (știri și absențe)\nLille fără Ueda, Mbappé (suspendat), Igamane. Galatasaray cu Singo incert.\n## Analiză\nLille: V-Î-V-Î-E. Galatasaray: V-Î-V-Î-V, cu 1-4 și 0-1 în ultimele deplasări. Meci cu goluri medii.\n## Pontul principal\nDublă șansă 1X (~70%).\n## Alte ponturi\nPeste 4.5 cartonașe ~52%.\n\n_Cote bookmaker indisponibile la momentul analizei; probabilitățile sunt estimarea mea din formă, absențe și date FotMob (fără garanții)._",
-   "verdict": {
-    "summary": "Meci echilibrat; Lille ușor favorită acasă, dar fără mai mulți atacanți.",
-    "home": 0.42,
-    "draw": 0.28,
-    "away": 0.3,
-    "over25": 0.52,
-    "btts": 0.52,
-    "expectedCorners": 9.8,
-    "expectedCards": 4.3,
-    "mostLikelyScore": "1-1",
-    "confidence": "mică",
-    "keyAbsences": [
-     "Ayase Ueda (Lille) – accidentare",
-     "Ethan Mbappé (Lille) – suspendat",
-     "Osame Sahraoui (Lille) – incert",
-     "Wilfried Singo (Galatasaray) – incert"
-    ],
-    "mainPick": {
-     "market": "Dublă șansă 1X",
-     "code": "1X",
-     "probability": 0.7,
-     "confidence": "medie",
-     "reason": "Lille acasă, Galatasaray nesigură în deplasare (1-4, 0-1 recent)"
-    },
-    "picks": [
-     {
-      "market": "Sub 3.5 goluri",
-      "code": "U3.5",
-      "probability": 0.78,
-      "confidence": "medie",
-      "reason": "Meci echilibrat, atacul Lille slăbit"
-     },
-     {
-      "market": "Peste 4.5 cartonașe",
-      "code": "KO4.5",
-      "probability": 0.52,
-      "confidence": "mică",
-      "reason": "Meci intens, arbitraj turc/francez"
      }
     ]
    }
@@ -1085,6 +840,481 @@
       "probability": 0.55,
       "confidence": "mică",
       "reason": "Atlético marchează constant"
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 6106238,
+   "home": "Bayern München",
+   "away": "Arsenal",
+   "kickoff": "2026-10-21T19:00:00Z",
+   "createdAt": 1792570800000,
+   "text": "## Pe scurt\nDouă atacuri în formă la München; GG e cea mai sigură piață.\n## Ce s-a schimbat (știri și absențe)\nBayern fără Musiala (câteva săptămâni). Arsenal: Saliba revine la antrenamente (incert), Tzolis out.\n## Analiză\nBayern: 7-0 și 6-1 acasă, dar 3-3 la Viking și 2-2 la Augsburg arată goluri primite. Arsenal marchează constant (3-0 Lille, 2-1 Leeds, 1-0 Forest). În LC seara trecută 7 din 9 meciuri au avut GG.\n## Pontul principal\nAmbele echipe marchează (~64%). Ambele au atac de top, Bayern a primit goluri la Viking/Augsburg; LC a dat 63% GG.\n## Alte ponturi\nPeste 2.5 goluri ~68%; Arsenal sau egal ~55%\n\n_Cote bookmaker indisponibile la momentul analizei; probabilitățile sunt estimarea mea din formă, absențe și date FotMob (fără garanții)._",
+   "verdict": {
+    "summary": "Două atacuri în formă la München; GG e cea mai sigură piață.",
+    "home": 0.45,
+    "draw": 0.24,
+    "away": 0.31,
+    "over25": 0.68,
+    "btts": 0.64,
+    "expectedCorners": 10.0,
+    "expectedCards": 3.8,
+    "mostLikelyScore": "2-2",
+    "confidence": "medie",
+    "keyAbsences": [
+     "Jamal Musiala (Bayern) – accidentare",
+     "William Saliba (Arsenal) – incert",
+     "Christos Tzolis (Arsenal) – accidentare"
+    ],
+    "mainPick": {
+     "market": "Ambele echipe marchează",
+     "code": "GG",
+     "probability": 0.64,
+     "confidence": "medie",
+     "reason": "Ambele au atac de top, Bayern a primit goluri la Viking/Augsburg; LC a dat 63% GG."
+    },
+    "picks": [
+     {
+      "market": "Peste 2.5 goluri",
+      "code": "O2.5",
+      "probability": 0.68,
+      "confidence": "medie",
+      "reason": "Medie LC 4.1 goluri/meci."
+     },
+     {
+      "market": "Arsenal sau egal",
+      "code": "X2",
+      "probability": 0.55,
+      "confidence": "mică",
+      "reason": "Arsenal în formă, dar la München."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 6106244,
+   "home": "Real Madrid",
+   "away": "RB Leipzig",
+   "kickoff": "2026-10-21T19:00:00Z",
+   "createdAt": 1792570800000,
+   "text": "## Pe scurt\nReal acasă cu atac bun, Leipzig marchează mult; peste 2.5 e preferat.\n## Ce s-a schimbat (știri și absențe)\nReal fără Mendy (revine în curând), Asencio și Rodrygo. Leipzig fără Guiu și Ouédraogo.\n## Analiză\nReal: 4-1 Sevilla, 3-4 la Roma, 3-2 la Elche – apărare permisivă. Leipzig: 5-0, 6-0 cu echipe slabe, dar 6-1 la Bayern. Meci cu goluri în ambele sensuri; Real rămâne favorit.\n## Pontul principal\nPeste 2.5 goluri (~66%). Real a avut 3+ goluri în 4 din ultimele 5; Leipzig marchează mult.\n## Alte ponturi\nAmbele echipe marchează ~55%; Real Madrid câștigă ~62%\n\n_Cote bookmaker indisponibile la momentul analizei; probabilitățile sunt estimarea mea din formă, absențe și date FotMob (fără garanții)._",
+   "verdict": {
+    "summary": "Real acasă cu atac bun, Leipzig marchează mult; peste 2.5 e preferat.",
+    "home": 0.62,
+    "draw": 0.2,
+    "away": 0.18,
+    "over25": 0.66,
+    "btts": 0.55,
+    "expectedCorners": 9.5,
+    "expectedCards": 3.6,
+    "mostLikelyScore": "3-1",
+    "confidence": "medie",
+    "keyAbsences": [
+     "Ferland Mendy (Real) – revine la antrenamente",
+     "Raúl Asencio (Real) – accidentare",
+     "Rodrygo (Real) – accidentare",
+     "Marc Guiu (Leipzig) – accidentare"
+    ],
+    "mainPick": {
+     "market": "Peste 2.5 goluri",
+     "code": "O2.5",
+     "probability": 0.66,
+     "confidence": "medie",
+     "reason": "Real a avut 3+ goluri în 4 din ultimele 5; Leipzig marchează mult."
+    },
+    "picks": [
+     {
+      "market": "Ambele echipe marchează",
+      "code": "GG",
+      "probability": 0.55,
+      "confidence": "mică",
+      "reason": "Leipzig a marcat în majoritatea meciurilor."
+     },
+     {
+      "market": "Real Madrid câștigă",
+      "code": "1",
+      "probability": 0.62,
+      "confidence": "medie",
+      "reason": "Acasă, dar cota mică."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 6106410,
+   "home": "Como",
+   "away": "Manchester United",
+   "kickoff": "2026-10-21T16:45:00Z",
+   "createdAt": 1792570800000,
+   "text": "## Pe scurt\nComo acasă cu United decimat – apărări fragile, GG preferat.\n## Ce s-a schimbat (știri și absențe)\nComo fără Kean și Diao. United: Heaton, Ugarte, Șeșko, Dorgu out; Lisandro Martínez, Shaw și Mainoo incerți.\n## Analiză\nUnited: 1-1 cu Fulham, Tottenham și Leeds, 2-3 cu Brighton – primește și marchează. Como: 3-2 la Feyenoord, 2-1 cu Parma, dar 0-2 la Frosinone. Cu apărarea United slăbită, un gol de ambele părți e probabil.\n## Pontul principal\nAmbele echipe marchează (~62%). United primește goluri cu apărarea decimată; Como marchează acasă.\n## Alte ponturi\nManchester United sau egal ~64%; Peste 2.5 goluri ~57%\n\n_Cote bookmaker indisponibile la momentul analizei; probabilitățile sunt estimarea mea din formă, absențe și date FotMob (fără garanții)._",
+   "verdict": {
+    "summary": "Como acasă cu United decimat – apărări fragile, GG preferat.",
+    "home": 0.38,
+    "draw": 0.28,
+    "away": 0.34,
+    "over25": 0.58,
+    "btts": 0.62,
+    "expectedCorners": 9.5,
+    "expectedCards": 3.8,
+    "mostLikelyScore": "2-2",
+    "confidence": "mică",
+    "keyAbsences": [
+     "Moise Kean (Como) – accidentare",
+     "Benjamin Šeško (United) – accidentare",
+     "Lisandro Martínez, Shaw, Mainoo (United) – incerți"
+    ],
+    "mainPick": {
+     "market": "Ambele echipe marchează",
+     "code": "GG",
+     "probability": 0.62,
+     "confidence": "medie",
+     "reason": "United primește goluri cu apărarea decimată; Como marchează acasă."
+    },
+    "picks": [
+     {
+      "market": "Manchester United sau egal",
+      "code": "X2",
+      "probability": 0.64,
+      "confidence": "mică",
+      "reason": "Calitate mai mare, dar absențe multe."
+     },
+     {
+      "market": "Peste 2.5 goluri",
+      "code": "O2.5",
+      "probability": 0.58,
+      "confidence": "mică",
+      "reason": "Apărări fragile."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 6106312,
+   "home": "Lille",
+   "away": "Galatasaray",
+   "kickoff": "2026-10-21T16:45:00Z",
+   "createdAt": 1792570800000,
+   "text": "## Pe scurt\nLille cu atacul decimat, Galatasaray fără Leão; dubla șansă 1X.\n## Ce s-a schimbat (știri și absențe)\nLille fără Ueda, Sahraoui, Igamane, Tiago Santos; Ethan Mbappé suspendat. Galatasaray fără Leão.\n## Analiză\nLille: 3-0 la Arsenal, 1-1 cu Brest – marchează puțin, dar apără bine acasă. Galatasaray: 1-4 cu Barcelona, 0-4 la Trabzonspor, deplasări fragile. Lille nu e dominant ofensiv, deci 1X pare mai sigur decât 1.\n## Pontul principal\nDublă șansă 1X (~65%). Lille acasă, Galatasaray fragilă în deplasare, dar atacul Lille e slăbit.\n## Alte ponturi\nSub 3.5 goluri ~66%\n\n_Cote bookmaker indisponibile la momentul analizei; probabilitățile sunt estimarea mea din formă, absențe și date FotMob (fără garanții)._",
+   "verdict": {
+    "summary": "Lille cu atacul decimat, Galatasaray fără Leão; dubla șansă 1X.",
+    "home": 0.41,
+    "draw": 0.28,
+    "away": 0.31,
+    "over25": 0.5,
+    "btts": 0.5,
+    "expectedCorners": 9.0,
+    "expectedCards": 3.9,
+    "mostLikelyScore": "1-1",
+    "confidence": "mică",
+    "keyAbsences": [
+     "Ayase Ueda (Lille) – accidentare",
+     "Osame Sahraoui (Lille) – accidentare",
+     "Ethan Mbappé (Lille) – suspendat",
+     "Rafael Leão (Galatasaray) – accidentare"
+    ],
+    "mainPick": {
+     "market": "Dublă șansă 1X",
+     "code": "1X",
+     "probability": 0.65,
+     "confidence": "mică",
+     "reason": "Lille acasă, Galatasaray fragilă în deplasare, dar atacul Lille e slăbit."
+    },
+    "picks": [
+     {
+      "market": "Sub 3.5 goluri",
+      "code": "U3.5",
+      "probability": 0.66,
+      "confidence": "mică",
+      "reason": "Lille cu atac redus."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 6106252,
+   "home": "Inter",
+   "away": "Shakhtar Donetsk",
+   "kickoff": "2026-10-21T19:00:00Z",
+   "createdAt": 1792570800000,
+   "text": "## Pe scurt\nInter fără Lautaro, dar cu meci deschis; peste 2.5 rămâne piața.\n## Ce s-a schimbat (știri și absențe)\nInter fără Lautaro Martínez, Pavard, Stones, Curtis Jones. Shakhtar cu mai mulți incerți (Azarovi etc.).\n## Analiză\nInter: 5-3 Udinese, 3-4 cu Brugge, 2-2 Roma – meciuri cu multe goluri, apărare cu probleme. Shakhtar în formă (3-1 AEK, 3-0, 2-0 în ligă). Fără Lautaro, Inter încă marchează, dar se așteaptă un meci deschis.\n## Pontul principal\nPeste 2.5 goluri (~63%). Inter 5-3, 3-4, 2-2 în ultimele; Shakhtar marchează constant.\n## Alte ponturi\nAmbele echipe marchează ~55%; Inter câștigă ~55%\n\n_Cote bookmaker indisponibile la momentul analizei; probabilitățile sunt estimarea mea din formă, absențe și date FotMob (fără garanții)._",
+   "verdict": {
+    "summary": "Inter fără Lautaro, dar cu meci deschis; peste 2.5 rămâne piața.",
+    "home": 0.55,
+    "draw": 0.24,
+    "away": 0.21,
+    "over25": 0.63,
+    "btts": 0.55,
+    "expectedCorners": 9.0,
+    "expectedCards": 3.5,
+    "mostLikelyScore": "2-1",
+    "confidence": "mică",
+    "keyAbsences": [
+     "Lautaro Martínez (Inter) – accidentare",
+     "Benjamin Pavard (Inter) – accidentare",
+     "John Stones (Inter) – accidentare"
+    ],
+    "mainPick": {
+     "market": "Peste 2.5 goluri",
+     "code": "O2.5",
+     "probability": 0.63,
+     "confidence": "medie",
+     "reason": "Inter 5-3, 3-4, 2-2 în ultimele; Shakhtar marchează constant."
+    },
+    "picks": [
+     {
+      "market": "Ambele echipe marchează",
+      "code": "GG",
+      "probability": 0.55,
+      "confidence": "mică",
+      "reason": "Shakhtar a marcat în toate meciurile recente."
+     },
+     {
+      "market": "Inter câștigă",
+      "code": "1",
+      "probability": 0.55,
+      "confidence": "mică",
+      "reason": "Absențele cresc riscul."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 6106297,
+   "home": "Club Brugge",
+   "away": "Lens",
+   "kickoff": "2026-10-21T19:00:00Z",
+   "createdAt": 1792570800000,
+   "text": "## Pe scurt\nBrugge în formă ofensivă, Lens cu 5 absenți în apărare; GG.\n## Ce s-a schimbat (știri și absențe)\nBrugge: doar Ordóñez zilnic incert. Lens fără Nawrocki, Gradit, Ganiou, Sima, Chávez.\n## Analiză\nBrugge: 3-0 Genk, 3-1 Antwerp, 3-4 Inter – marchează mult și primește. Lens: 2-2 Le Mans, 1-2 Monaco, 0-2 Sporting – apărarea nu ține, dar marchează uneori. Brugge favorit acasă.\n## Pontul principal\nAmbele echipe marchează (~60%). Brugge a primit goluri cu Inter; Lens marchează în deplasare.\n## Alte ponturi\nPeste 2.5 goluri ~62%; Club Brugge câștigă ~52%\n\n_Cote bookmaker indisponibile la momentul analizei; probabilitățile sunt estimarea mea din formă, absențe și date FotMob (fără garanții)._",
+   "verdict": {
+    "summary": "Brugge în formă ofensivă, Lens cu 5 absenți în apărare; GG.",
+    "home": 0.5,
+    "draw": 0.25,
+    "away": 0.25,
+    "over25": 0.62,
+    "btts": 0.6,
+    "expectedCorners": 9.5,
+    "expectedCards": 3.7,
+    "mostLikelyScore": "2-1",
+    "confidence": "mică",
+    "keyAbsences": [
+     "Maik Nawrocki, Jonathan Gradit (Lens) – accidentări",
+     "Abdallah Sima (Lens) – accidentare",
+     "Joel Ordóñez (Brugge) – incert"
+    ],
+    "mainPick": {
+     "market": "Ambele echipe marchează",
+     "code": "GG",
+     "probability": 0.6,
+     "confidence": "medie",
+     "reason": "Brugge a primit goluri cu Inter; Lens marchează în deplasare."
+    },
+    "picks": [
+     {
+      "market": "Peste 2.5 goluri",
+      "code": "O2.5",
+      "probability": 0.62,
+      "confidence": "mică",
+      "reason": "Brugge 3+ goluri în ultimele 4."
+     },
+     {
+      "market": "Club Brugge câștigă",
+      "code": "1",
+      "probability": 0.52,
+      "confidence": "mică",
+      "reason": "Absențele Lens."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 6106300,
+   "home": "Real Betis",
+   "away": "Feyenoord",
+   "kickoff": "2026-10-21T19:00:00Z",
+   "createdAt": 1792570800000,
+   "text": "## Pe scurt\nDouă echipe ofensive, Feyenoord cu 7 absenți; peste 2.5.\n## Ce s-a schimbat (știri și absențe)\nBetis fără Firpo și Juan Hernández. Feyenoord fără Beelen, Nieuwkoop, Smal, Bos, Moder, Nelson (mulți day-to-day).\n## Analiză\nBetis: 5-2 Osasuna, 3-2 Porto, 2-5 cu Barcelona – meciuri cu goluri. Feyenoord: 7-0, 5-0, 3-4 la Telstar, 3-2 Como – atac bun, apărare fragilă. Cu apărarea Feyenoord decimată, goluri multe.\n## Pontul principal\nPeste 2.5 goluri (~67%). Ambele cu 3+ goluri în majoritatea meciurilor recente.\n## Alte ponturi\nAmbele echipe marchează ~64%; Real Betis câștigă ~50%\n\n_Cote bookmaker indisponibile la momentul analizei; probabilitățile sunt estimarea mea din formă, absențe și date FotMob (fără garanții)._",
+   "verdict": {
+    "summary": "Două echipe ofensive, Feyenoord cu 7 absenți; peste 2.5.",
+    "home": 0.5,
+    "draw": 0.24,
+    "away": 0.26,
+    "over25": 0.67,
+    "btts": 0.64,
+    "expectedCorners": 9.5,
+    "expectedCards": 3.5,
+    "mostLikelyScore": "2-2",
+    "confidence": "medie",
+    "keyAbsences": [
+     "Gijs Smal, Bart Nieuwkoop (Feyenoord) – day-to-day",
+     "Jordan Bos (Feyenoord) – accidentare",
+     "Júnior Firpo (Betis) – accidentare"
+    ],
+    "mainPick": {
+     "market": "Peste 2.5 goluri",
+     "code": "O2.5",
+     "probability": 0.67,
+     "confidence": "medie",
+     "reason": "Ambele cu 3+ goluri în majoritatea meciurilor recente."
+    },
+    "picks": [
+     {
+      "market": "Ambele echipe marchează",
+      "code": "GG",
+      "probability": 0.64,
+      "confidence": "medie",
+      "reason": "Feyenoord a marcat în toate."
+     },
+     {
+      "market": "Real Betis câștigă",
+      "code": "1",
+      "probability": 0.5,
+      "confidence": "mică",
+      "reason": "Acasă, dar apărare fragilă."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 6106281,
+   "home": "Sporting CP",
+   "away": "LASK",
+   "kickoff": "2026-10-21T19:00:00Z",
+   "createdAt": 1792570800000,
+   "text": "## Pe scurt\nSporting mult superior, dar cota la 1 e mică; peste 2.5 e alternativa.\n## Ce s-a schimbat (știri și absențe)\nSporting fără Debast și Zalazar, Nuno Santos zilnic. LASK fără Usor, Bello, Harakaté.\n## Analiză\nSporting: 3-1 Galatasaray, 1-3 la Braga, dar 1-1 și 2-2 în ultimele. LASK: 3-6 cu Liverpool, 2-1 Sturm, 0-2 Rapid – apărare slabă, 3-3 la Hartberg. Sporting domină, LASK primește goluri.\n## Pontul principal\nPeste 2.5 goluri (~65%). LASK primește mult (6 cu Liverpool); Sporting marchează acasă.\n## Alte ponturi\nSporting câștigă ~72%; Ambele echipe marchează ~50%\n\n_Cote bookmaker indisponibile la momentul analizei; probabilitățile sunt estimarea mea din formă, absențe și date FotMob (fără garanții)._",
+   "verdict": {
+    "summary": "Sporting mult superior, dar cota la 1 e mică; peste 2.5 e alternativa.",
+    "home": 0.72,
+    "draw": 0.15,
+    "away": 0.13,
+    "over25": 0.65,
+    "btts": 0.5,
+    "expectedCorners": 8.5,
+    "expectedCards": 3.0,
+    "mostLikelyScore": "3-1",
+    "confidence": "medie",
+    "keyAbsences": [
+     "Zeno Debast (Sporting) – accidentare",
+     "Moses Usor (LASK) – accidentare"
+    ],
+    "mainPick": {
+     "market": "Peste 2.5 goluri",
+     "code": "O2.5",
+     "probability": 0.65,
+     "confidence": "medie",
+     "reason": "LASK primește mult (6 cu Liverpool); Sporting marchează acasă."
+    },
+    "picks": [
+     {
+      "market": "Sporting câștigă",
+      "code": "1",
+      "probability": 0.72,
+      "confidence": "medie",
+      "reason": "Diferență clară de calitate, cota sub 1.40."
+     },
+     {
+      "market": "Ambele echipe marchează",
+      "code": "GG",
+      "probability": 0.5,
+      "confidence": "mică",
+      "reason": "LASK marchează rar la Lisabona."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 6112251,
+   "home": "Juventus",
+   "away": "Rennes",
+   "kickoff": "2026-10-22T16:45:00Z",
+   "createdAt": 1792570800000,
+   "text": "## Pe scurt\nJuve cu 7 absenți, Rennes inconsistent; 1X mai sigur.\n## Ce s-a schimbat (știri și absențe)\nJuventus fără Yıldız, Conceição, Locatelli, Thuram, portar Grabara (sezon încheiat), Durmiši suspendat. Rennes doar Lepaul out.\n## Analiză\nJuventus: 0-3 cu Lazio, 0-1 cu Cremonese, dar 2-0 cu Atalanta; acasă e fragilă fără ofensiva obișnuită. Rennes: 0-4 la Lyon, 0-0 Sturm, 4-3 la Paris FC. Meci cu risc; evităm victoria simplă.\n## Pontul principal\nDublă șansă 1X (~70%). Juve acasă; Rennes pierde des în deplasare.\n## Alte ponturi\nSub 3.5 goluri ~68%; Ambele echipe marchează ~50%\n\n_Cote bookmaker indisponibile la momentul analizei; probabilitățile sunt estimarea mea din formă, absențe și date FotMob (fără garanții)._",
+   "verdict": {
+    "summary": "Juve cu 7 absenți, Rennes inconsistent; 1X mai sigur.",
+    "home": 0.45,
+    "draw": 0.28,
+    "away": 0.27,
+    "over25": 0.48,
+    "btts": 0.5,
+    "expectedCorners": 9.5,
+    "expectedCards": 4.2,
+    "mostLikelyScore": "1-1",
+    "confidence": "mică",
+    "keyAbsences": [
+     "Kenan Yıldız (Juve) – accidentare",
+     "Manuel Locatelli (Juve) – accidentare",
+     "Kamil Grabara (Juve) – accidentare",
+     "Arman Durmiši (Juve) – suspendat"
+    ],
+    "mainPick": {
+     "market": "Dublă șansă 1X",
+     "code": "1X",
+     "probability": 0.7,
+     "confidence": "mică",
+     "reason": "Juve acasă; Rennes pierde des în deplasare."
+    },
+    "picks": [
+     {
+      "market": "Sub 3.5 goluri",
+      "code": "U3.5",
+      "probability": 0.68,
+      "confidence": "mică",
+      "reason": "Juve cu atac slăbit."
+     },
+     {
+      "market": "Ambele echipe marchează",
+      "code": "GG",
+      "probability": 0.5,
+      "confidence": "mică",
+      "reason": "Echipe cu apărări nesigure."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 6112326,
+   "home": "AFC Bournemouth",
+   "away": "Milan",
+   "kickoff": "2026-10-22T19:00:00Z",
+   "createdAt": 1792570800000,
+   "text": "## Pe scurt\nBournemouth ofensiv, Milan cu apărarea slăbită; GG.\n## Ce s-a schimbat (știri și absențe)\nBournemouth fără Araujo, Scott, Kroupi, Milosavljević incert. Milan fără Terracciano (suspendat), Gabbia, Saelemaekers.\n## Analiză\nBournemouth: 2-0 Sunderland, 3-0 Sturm, 5-1 cu Chelsea, 0-1 cu Liverpool. Milan: 3-2 Atalanta, 4-0 Salzburg, 0-2 Benfica, 1-1 Sassuolo. Cu apărarea Milan fără trei titulari, un gol din ambele părți e probabil.\n## Pontul principal\nAmbele echipe marchează (~57%). Milan primește goluri fără 3 apărători; Bournemouth marchează acasă.\n## Alte ponturi\nPeste 2.5 goluri ~55%; Milan sau egal ~60%\n\n_Cote bookmaker indisponibile la momentul analizei; probabilitățile sunt estimarea mea din formă, absențe și date FotMob (fără garanții)._",
+   "verdict": {
+    "summary": "Bournemouth ofensiv, Milan cu apărarea slăbită; GG.",
+    "home": 0.38,
+    "draw": 0.27,
+    "away": 0.35,
+    "over25": 0.55,
+    "btts": 0.58,
+    "expectedCorners": 9.0,
+    "expectedCards": 3.8,
+    "mostLikelyScore": "2-2",
+    "confidence": "mică",
+    "keyAbsences": [
+     "Filippo Terracciano (Milan) – suspendat",
+     "Matteo Gabbia (Milan) – accidentare",
+     "Alex Scott (Bournemouth) – accidentare"
+    ],
+    "mainPick": {
+     "market": "Ambele echipe marchează",
+     "code": "GG",
+     "probability": 0.58,
+     "confidence": "mică",
+     "reason": "Milan primește goluri fără 3 apărători; Bournemouth marchează acasă."
+    },
+    "picks": [
+     {
+      "market": "Peste 2.5 goluri",
+      "code": "O2.5",
+      "probability": 0.55,
+      "confidence": "mică",
+      "reason": "Ambele cu goluri multe recent."
+     },
+     {
+      "market": "Milan sau egal",
+      "code": "X2",
+      "probability": 0.6,
+      "confidence": "mică",
+      "reason": "Calitate, dar deplasare."
      }
     ]
    }

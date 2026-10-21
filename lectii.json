@@ -232,5 +232,113 @@
   "correct": null,
   "lesson": "4-0 pentru Monza: Serie A are medie >3 goluri, iar scorurile largi apar des; evită U2.5 în Serie A.",
   "createdAt": 1792484189953
+ },
+ {
+  "fotmobId": 6106287,
+  "match": "FC Porto – PSV Eindhoven",
+  "score": "0-1",
+  "pick": "Porto sau egal",
+  "correct": false,
+  "lesson": "Porto–PSV 0-1: am dat 1X (68%) deși PSV era mai în formă; Porto acasă în LC nu e garant, iar PSV cu absenți a închis meciul – la echipe cu forme apropiate nu pune 68% pe dubla șansă a gazdei.",
+  "createdAt": 1792570000000
+ },
+ {
+  "fotmobId": 6106320,
+  "match": "Napoli – Bodø/Glimt",
+  "score": "4-3",
+  "pick": "Ambele echipe marchează",
+  "correct": true,
+  "lesson": "Napoli–Bodø 4-3: GG a ieșit lejer; echipele nordice cu atac liber primesc și dau goluri în LC – GG/peste 2.5 rămân piețe bune contra Bodø.",
+  "createdAt": 1792570000000
+ },
+ {
+  "fotmobId": 6106422,
+  "match": "Sabah FK – Borussia Dortmund",
+  "score": "1-2",
+  "pick": "Peste 2.5 goluri",
+  "correct": true,
+  "lesson": "Sabah–Dortmund 1-2: peste 2.5 a ieșit la limită (3 goluri); Dortmund a învins din nou după 0-0 cu Union – gazdele mici din LC marchează acasă.",
+  "createdAt": 1792570000000
+ },
+ {
+  "fotmobId": 6106277,
+  "match": "Roma – Slovan Bratislava",
+  "score": "4-0",
+  "pick": "Roma câștigă",
+  "correct": true,
+  "lesson": "Roma–Slovan 4-0: favoritul clar acasă a câștigat larg; în LC fazei de ligă echipele mari își fac golaverajul cu adversarii slabi – 1 la ~66% a fost corect.",
+  "createdAt": 1792570000000
+ },
+ {
+  "fotmobId": 6106333,
+  "match": "Fenerbahçe – Slavia Praga",
+  "score": "2-2",
+  "pick": "Ambele echipe marchează",
+  "correct": true,
+  "lesson": "Fenerbahçe–Slavia 2-2: GG a ieșit pe baza duelurilor directe cu multe goluri; istoricul H2H cu goluri de ambele părți e un semnal valid pentru GG.",
+  "createdAt": 1792570000000
+ },
+ {
+  "fotmobId": 6106234,
+  "match": "Paris Saint-Germain – Barcelona",
+  "score": "4-2",
+  "pick": "Ambele echipe marchează",
+  "correct": true,
+  "lesson": "PSG–Barcelona 4-2: GG la 70% cu apărări decimate a ieșit; când ambele echipe au absențe în linia defensivă și atac de top, GG e mai sigur decât 1X2.",
+  "createdAt": 1792570000000
+ },
+ {
+  "fotmobId": 6106248,
+  "match": "Liverpool – Villarreal",
+  "score": "4-3",
+  "pick": "Liverpool câștigă",
+  "correct": true,
+  "lesson": "Liverpool–Villarreal 4-3: victoria a venit dar cu 7 goluri; Villarreal a marcat 3 în deplasare, așa că GG/peste 2.5 erau mai bune decât 1 simplu.",
+  "createdAt": 1792570000000
+ },
+ {
+  "fotmobId": 6106257,
+  "match": "Manchester City – AEK Atena",
+  "score": "5-1",
+  "pick": "Peste 2.5 goluri",
+  "correct": true,
+  "lesson": "City–AEK 5-1: peste 2.5 la 70% a ieșit; contra echipelor cu apărare slabă, City înscrie ușor – dar cota mică îl face pariu evident.",
+  "createdAt": 1792570000000
+ },
+ {
+  "fotmobId": 6106397,
+  "match": "VfB Stuttgart – Atlético Madrid",
+  "score": "1-1",
+  "pick": "Dublă șansă X2",
+  "correct": true,
+  "lesson": "Stuttgart–Atlético 1-1: X2 a ieșit; Stuttgart cu apărare decimată a ținut totuși egal – egalul e subestimat când ambele echipe au absențe.",
+  "createdAt": 1792570000000
+ },
+ {
+  "fotmobId": 5836821,
+  "match": "Wolverhampton – Portsmouth",
+  "score": "1-1",
+  "pick": null,
+  "correct": null,
+  "lesson": "Wolves nu a câștigat acasă cu Portsmouth (1-1): în Championship doar 36% din meciuri sunt victorii ale gazdelor, deci 1 simplu acasă e supraevaluat; X2/1X e mai potrivit.",
+  "createdAt": 1792570000000
+ },
+ {
+  "fotmobId": 5976920,
+  "match": "ASA Târgu Mureș – Chindia Târgoviște",
+  "score": "2-4",
+  "pick": null,
+  "correct": null,
+  "lesson": "Chindia a câștigat 4-2 în deplasare: în Liga 2 gazdele au victorii doar ~52%, iar scorurile largi apar – nu îți lua U2.5 automat în Liga 2.",
+  "createdAt": 1792570000000
+ },
+ {
+  "fotmobId": null,
+  "match": "Liga Campionilor – etapa 20.10",
+  "score": "9 meciuri, 33 goluri",
+  "pick": null,
+  "correct": null,
+  "lesson": "Seara de LC din 20.10 a dat 3.7 goluri/meci și 7 din 9 GG: în faza de ligă a LC GG și peste 2.5 au fost sistematic subestimate; media de 4+ goluri impune pondere mai mare pe aceste piețe.",
+  "createdAt": 1792570000000
  }
 ]
