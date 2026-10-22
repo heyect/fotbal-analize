@@ -340,5 +340,104 @@
   "correct": null,
   "lesson": "Seara de LC din 20.10 a dat 3.7 goluri/meci și 7 din 9 GG: în faza de ligă a LC GG și peste 2.5 au fost sistematic subestimate; media de 4+ goluri impune pondere mai mare pe aceste piețe.",
   "createdAt": 1792570000000
+ },
+ {
+  "fotmobId": 6106285,
+  "match": "Aston Villa – Viking",
+  "score": "3-1",
+  "pick": "Peste 2.5 goluri",
+  "correct": true,
+  "lesson": "Aston Villa a bifat O2.5 cu 3-1 în LC: gazdele cu atac bun contra unei echipe mai slabe marchează de obicei 3+ în acest sezon de LC.",
+  "createdAt": 1792656925206
+ },
+ {
+  "fotmobId": 6106238,
+  "match": "Bayern München – Arsenal",
+  "score": "2-2",
+  "pick": "Ambele echipe marchează",
+  "correct": true,
+  "lesson": "Bayern–Arsenal 2-2: între două echipe de top cu atacuri puternice GG a ieșit, chiar dacă mizam pe meci tactic; GG în LC rămâne subevaluat.",
+  "createdAt": 1792656925206
+ },
+ {
+  "fotmobId": 6106244,
+  "match": "Real Madrid – RB Leipzig",
+  "score": "4-1",
+  "pick": "Peste 2.5 goluri",
+  "correct": true,
+  "lesson": "Real Madrid 4-1 cu Leipzig: gazdele de top câștigă clar în LC; O2.5 corect, dar victoria gazdelor cu handicap era și ea o variantă bună.",
+  "createdAt": 1792656925206
+ },
+ {
+  "fotmobId": 6106410,
+  "match": "Como – Manchester United",
+  "score": "4-1",
+  "pick": "Ambele echipe marchează",
+  "correct": true,
+  "lesson": "Como 4-1 cu Manchester United: GG a ieșit, dar subestimat gazdele – United în deplasare în LC cedează ușor; forma defensivă slabă contează mai mult decât numele.",
+  "createdAt": 1792656925206
+ },
+ {
+  "fotmobId": 6106312,
+  "match": "Lille – Galatasaray",
+  "score": "2-4",
+  "pick": "Dublă șansă 1X",
+  "correct": false,
+  "lesson": "Lille 2-4 Galatasaray: 1X picat – am supraestimat gazda și apărarea ei; Galatasaray în deplasare marchează mult, nu pune 1X pe gazde cu apărare fragilă.",
+  "createdAt": 1792656925206
+ },
+ {
+  "fotmobId": 6106252,
+  "match": "Inter – Shakhtar Donetsk",
+  "score": "1-0",
+  "pick": "Peste 2.5 goluri",
+  "correct": false,
+  "lesson": "Inter 1-0 Shakhtar: O2.5 picat – favoritul clar vs echipă defensivă ia 1-0; când un adversar mult mai slab joacă retras, nu merge pe peste 2.5 doar din media ligii.",
+  "createdAt": 1792656925206
+ },
+ {
+  "fotmobId": 6106297,
+  "match": "Club Brugge – Lens",
+  "score": "3-0",
+  "pick": "Ambele echipe marchează",
+  "correct": false,
+  "lesson": "Club Brugge 3-0 Lens: GG picat – gazda a dominat și adversarul n-a marcat; GG la 60% e prea mult când o echipă are dezavantaj clar de formă/absenți.",
+  "createdAt": 1792656925206
+ },
+ {
+  "fotmobId": 6106300,
+  "match": "Real Betis – Feyenoord",
+  "score": "1-0",
+  "pick": "Peste 2.5 goluri",
+  "correct": false,
+  "lesson": "Betis 1-0 Feyenoord: O2.5 picat – două meciuri de 1-0 în aceeași seară arată că peste 2.5 la ~66% e prea optimist; scad cu 4-5 puncte când echipele sunt prudente în deplasare.",
+  "createdAt": 1792656925206
+ },
+ {
+  "fotmobId": 6106281,
+  "match": "Sporting CP – LASK",
+  "score": "2-3",
+  "pick": "Peste 2.5 goluri",
+  "correct": true,
+  "lesson": "Sporting 2-3 LASK: O2.5 corect (5 goluri), dar favoritul a pierdut – echipe austriece în deplasare în LC marchează și se apără prost; GG/O2.5 sigure, 1 nu.",
+  "createdAt": 1792656925206
+ },
+ {
+  "fotmobId": 5868067,
+  "match": "Levante – Athletic Club",
+  "score": "3-1",
+  "pick": null,
+  "correct": null,
+  "lesson": "Levante (gazdă, formă proastă pe hârtie) a câștigat 3-1 cu Athletic: în LaLiga gazdele câștigă doar ~40%, dar echipele de bază din subsolul clasamentului acasă sunt subevaluate de modelele pe formă; verifică forma acasă separat.",
+  "createdAt": 1792656925206
+ },
+ {
+  "fotmobId": null,
+  "match": "Liga Campionilor – etapa 21.10",
+  "score": "9 meciuri, 35 goluri",
+  "pick": null,
+  "correct": null,
+  "lesson": "A doua seară de LC: 3.9 goluri/meci, dar 3 din 9 sub 2.5 (1-0, 1-0, 3-0 fără GG): picks O2.5/GG la 60-67% au ieșit 5/9 – rămân valabile, dar nu le stivui la acumulatoare.",
+  "createdAt": 1792656925206
  }
 ]

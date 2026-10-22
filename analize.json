@@ -1,211 +1,6 @@
 {
- "updatedAt": "2026-10-21T10:00:00+02:00",
+ "updatedAt": "2026-10-22T08:15:25+00:00",
  "analyses": [
-  {
-   "fotmobId": 5795483,
-   "home": "Nottingham Forest",
-   "away": "Arsenal",
-   "kickoff": "2026-10-18T15:30:00Z",
-   "createdAt": 1792333427670,
-   "text": "## Pe scurt\nArsenal e favorită la Nottingham, dar absențele din apărare și forma bună a lui Forest în ultimul timp o fac mai puțin sigură decât pare.\n## Ce s-a schimbat (știri și absențe)\nForest: Igor Jesus și Savona ieșiți până la sfârșitul lunii, Gibbs-White și Milenković incerți. Arsenal: Hincapié și Tzolis out, Saliba abia revenit la antrenamente, Zubimendi incert.\n## Analiză\nForest are 1 victorie în ultimele 5 (2 egaluri, 2 înfrângeri) și 5 goluri marcate. Arsenal a înscris 11 în 5 meciuri și nu a pierdut cu Forest în ultimele 6 dueluri (4V, 2E). Fără bază de cote, rămân aproape de o prudență: câștig Arsenal ~58%, egal ~25%.\n## Pontul principal\nArsenal câștigă (2), ~58% (cotă corectă ≈1.72).\n## Alte ponturi\nX2 (~83%) e prea scurt ca să fie pont; sub 3.5 goluri ~72%.\n\n_Cote bookmaker indisponibile la momentul analizei; probabilitățile sunt estimarea mea din formă, absențe și clasament._",
-   "verdict": {
-    "summary": "Arsenal ușor favorită, cu risc de egal din cauza absențelor din ambele tabere.",
-    "home": 0.17,
-    "draw": 0.25,
-    "away": 0.58,
-    "over25": 0.5,
-    "btts": 0.45,
-    "expectedCorners": 10.0,
-    "expectedCards": 4.2,
-    "mostLikelyScore": "0-2",
-    "confidence": "medie",
-    "keyAbsences": [
-     "Igor Jesus (Forest) – accidentare",
-     "Gibbs-White (Forest) – incert",
-     "Saliba (Arsenal) – revenire",
-     "Zubimendi (Arsenal) – incert"
-    ],
-    "mainPick": {
-     "market": "Arsenal câștigă",
-     "code": "2",
-     "probability": 0.58,
-     "confidence": "medie",
-     "reason": "Formă mult mai bună (11 goluri în 5 meciuri), Forest fără Igor Jesus și cu Gibbs-White incert."
-    },
-    "picks": [
-     {
-      "market": "Sub 3.5 goluri",
-      "code": "U3.5",
-      "probability": 0.72,
-      "confidence": "medie",
-      "reason": "ambele echipe controlează de obicei ritmul"
-     }
-    ]
-   }
-  },
-  {
-   "fotmobId": 5868098,
-   "home": "Real Madrid",
-   "away": "Sevilla",
-   "kickoff": "2026-10-18T19:00:00Z",
-   "createdAt": 1792333427670,
-   "text": "## Pe scurt\nMadrid e mare favorită acasă (nu a pierdut cu Sevilla în 15 dueluri), pontul de valoare e pe goluri.\n## Ce s-a schimbat (știri și absențe)\nMadrid fără Vinícius (suspendat), Rodrygo și Asencio; Mendy revine. Sevilla fără Isaac Romero (suspendat), Marcão, Sierra; Guridi și Kochorashvili incerți.\n## Analiză\nVictoria Madrid (~74%) e evidentă și cu cotă mică. Madrid a marcat 13 în 5 meciuri și a primit 5 goluri în meciurile din deplasare/Europa recente (Roma, Elche), Sevilla a primit 3+3 în ultimele deplasări. Peste 2.5 e mai valoros decât 1.\n## Pontul principal\nPeste 2.5 goluri, ~62%.\n## Alte ponturi\nGG ~48%; Madrid -1 handicap probabil bun, dar fără cod în aplicație.\n\n_Cote bookmaker indisponibile la momentul analizei; probabilitățile sunt estimarea mea din formă, absențe și clasament._",
-   "verdict": {
-    "summary": "Madrid câștigă probabil confortabil, cu 3+ goluri destul de probabile.",
-    "home": 0.74,
-    "draw": 0.15,
-    "away": 0.11,
-    "over25": 0.62,
-    "btts": 0.48,
-    "expectedCorners": 9.5,
-    "expectedCards": 4.5,
-    "mostLikelyScore": "3-1",
-    "confidence": "medie",
-    "keyAbsences": [
-     "Vinícius Jr. (Madrid) – suspendat",
-     "Rodrygo (Madrid) – accidentare",
-     "Isaac Romero (Sevilla) – suspendat"
-    ],
-    "mainPick": {
-     "market": "Peste 2.5 goluri",
-     "code": "O2.5",
-     "probability": 0.62,
-     "confidence": "medie",
-     "reason": "Madrid 13 goluri în 5 meciuri, Sevilla primește goluri în deplasare (3-3, 1-3)."
-    },
-    "picks": [
-     {
-      "market": "Madrid câștigă",
-      "code": "1",
-      "probability": 0.74,
-      "confidence": "mare",
-      "reason": "dominanță istorică și acasă"
-     }
-    ]
-   }
-  },
-  {
-   "fotmobId": 5749700,
-   "home": "Milan",
-   "away": "Atalanta",
-   "kickoff": "2026-10-18T16:00:00Z",
-   "createdAt": 1792333427670,
-   "text": "## Pe scurt\nMeci echilibrat în care ambele pot marca; Atalanta vine cu lot foarte subțiat.\n## Ce s-a schimbat (știri și absențe)\nMilan: Gabbia și Saelemaekers out. Atalanta: Kessié, Scalvini, Kossounou, Raspadori, Sulemana, Pompei out, Elmas suspendat, Hien incert.\n## Analiză\nAtalanta nu a ținut poarta intactă în ultimele 5 și a pierdut 3 din 5 în deplasări/campionat, dar nu a pierdut cu Milan în ultimele 7 (5V, 2E). Milan are formă bună în atac. Apărarea Atalantei fără Kossounou/Scalvini e vulnerabilă, iar Scamacca/De Ketelaere marchează.\n## Pontul principal\nGG, ~62%.\n## Alte ponturi\nPeste 2.5 ~58%; 1X ~70%.\n\n_Cote bookmaker indisponibile la momentul analizei; probabilitățile sunt estimarea mea din formă, absențe și clasament._",
-   "verdict": {
-    "summary": "Milan ușor favorit, dar ambele vor marca.",
-    "home": 0.43,
-    "draw": 0.27,
-    "away": 0.3,
-    "over25": 0.58,
-    "btts": 0.62,
-    "expectedCorners": 9.5,
-    "expectedCards": 4.8,
-    "mostLikelyScore": "2-1",
-    "confidence": "medie",
-    "keyAbsences": [
-     "Kessié, Scalvini, Kossounou (Atalanta) – accidentări",
-     "Elmas (Atalanta) – suspendat",
-     "Gabbia (Milan) – accidentare"
-    ],
-    "mainPick": {
-     "market": "Ambele echipe marchează",
-     "code": "GG",
-     "probability": 0.62,
-     "confidence": "medie",
-     "reason": "Milan 10 goluri în 5; Atalanta 8 goluri și nicio poartă intactă în 5 meciuri, deși decimată de absențe."
-    },
-    "picks": [
-     {
-      "market": "Peste 2.5 goluri",
-      "code": "O2.5",
-      "probability": 0.58,
-      "confidence": "mică",
-      "reason": "ritm ridicat, apărări slăbite"
-     }
-    ]
-   }
-  },
-  {
-   "fotmobId": 5749705,
-   "home": "Juventus",
-   "away": "Lazio",
-   "kickoff": "2026-10-18T18:45:00Z",
-   "createdAt": 1792333427670,
-   "text": "## Pe scurt\nMeci incert: Juve are multe absențe, Lazio e neînvinsă în 8 meciuri și cea mai bună deplasare din ligă.\n## Ce s-a schimbat (știri și absențe)\nJuventus: Yıldız, Locatelli, Thuram-Ulien, Grabara out; Spalletti suspendat de pe bancă. Lazio: Guðmundsson și Cancellieri out, Marušić/Rovella incerți.\n## Analiză\nFără Yıldız și Locatelli Juve pierde creativitate, dar are 10 goluri în 5 meciuri. Lazio a înscris 12 în 5. Rezultatul 1X2 e foarte echilibrat; GG e piața cu cea mai bună stabilitate.\n## Pontul principal\nGG ~60%.\n## Alte ponturi\nEgal ~30%; sub 3.5 ~68%.\n\n_Cote bookmaker indisponibile la momentul analizei; probabilitățile sunt estimarea mea din formă, absențe și clasament._",
-   "verdict": {
-    "summary": "Meci echilibrat, cu goluri în ambele părți.",
-    "home": 0.38,
-    "draw": 0.3,
-    "away": 0.32,
-    "over25": 0.52,
-    "btts": 0.6,
-    "expectedCorners": 9.0,
-    "expectedCards": 5.0,
-    "mostLikelyScore": "1-1",
-    "confidence": "mică",
-    "keyAbsences": [
-     "Yıldız, Locatelli, Grabara (Juventus) – accidentări",
-     "Spalletti (Juventus) – suspendat",
-     "Guðmundsson, Cancellieri (Lazio) – accidentări"
-    ],
-    "mainPick": {
-     "market": "Ambele echipe marchează",
-     "code": "GG",
-     "probability": 0.6,
-     "confidence": "mică",
-     "reason": "Lazio 12 goluri în 5, neînvinsă în 8; Juventus 10 goluri, dar decimată în mijloc/atac."
-    },
-    "picks": [
-     {
-      "market": "Sub 3.5 goluri",
-      "code": "U3.5",
-      "probability": 0.68,
-      "confidence": "mică",
-      "reason": "echilibru"
-     }
-    ]
-   }
-  },
-  {
-   "fotmobId": 5802960,
-   "home": "Lyon",
-   "away": "Nice",
-   "kickoff": "2026-10-18T18:45:00Z",
-   "createdAt": 1792333427670,
-   "text": "## Pe scurt\nLyon e favorită acasă împotriva unui Nice în formă slabă.\n## Ce s-a schimbat (știri și absențe)\nLyon: Openda (până la jumătatea lui noiembrie), Tagliafico, Ouédraogo out. Nice: Bombito, Abergel, Mendy out, Abdi 1-2 săptămâni.\n## Analiză\nNice a pierdut 3-0 cu Paris FC și 1-0 la Auxerre, fără clean sheet în 5. Lyon a bătut Rennes 4-0. Ultimele 5 dueluri directe au toate un câștigător, deci egalul nu e favorizat.\n## Pontul principal\nLyon câștigă (1), ~59%.\n## Alte ponturi\nPeste 2.5 ~58%; GG ~55%.\n\n_Cote bookmaker indisponibile la momentul analizei; probabilitățile sunt estimarea mea din formă, absențe și clasament._",
-   "verdict": {
-    "summary": "Lyon favorită clară contra unui Nice instabil.",
-    "home": 0.59,
-    "draw": 0.21,
-    "away": 0.2,
-    "over25": 0.58,
-    "btts": 0.55,
-    "expectedCorners": 10.0,
-    "expectedCards": 4.2,
-    "mostLikelyScore": "2-1",
-    "confidence": "medie",
-    "keyAbsences": [
-     "Openda (Lyon) – accidentare",
-     "Bombito, Abergel (Nice) – accidentări"
-    ],
-    "mainPick": {
-     "market": "Lyon câștigă",
-     "code": "1",
-     "probability": 0.59,
-     "confidence": "medie",
-     "reason": "Lyon 10 goluri în 5 meciuri acasă/în formă, Nice fără clean sheet în 5 și învinsă 3-0 recent."
-    },
-    "picks": [
-     {
-      "market": "Peste 2.5 goluri",
-      "code": "O2.5",
-      "probability": 0.58,
-      "confidence": "mică",
-      "reason": "apărare Nice vulnerabilă"
-     }
-    ]
-   }
-  },
   {
    "fotmobId": 5904767,
    "home": "Trabzonspor",
@@ -279,85 +74,6 @@
       "probability": 0.55,
       "confidence": "mică",
       "reason": "ritm bun, Voluntari concede"
-     }
-    ]
-   }
-  },
-  {
-   "fotmobId": 5853526,
-   "home": "Universitatea Craiova",
-   "away": "FCV Farul Constanța",
-   "kickoff": "2026-10-18T18:00:00Z",
-   "createdAt": 1792333427670,
-   "text": "## Pe scurt\nCraiova e în formă excelentă acasă (4-0, 5-0) și are cea mai solidă apărare din ligă.\n## Ce s-a schimbat (știri și absențe)\nCraiova: doar Isenko (incert). Farul: fără absențe raportate.\n## Analiză\nFarul a marcat 7 în 5 meciuri, dar a pierdut 4-0 cu Dinamo. Craiova a bătut FCSB 5-0 și Cluj 4-0. Piața NG (cel puțin una nu marchează) e susținută de cele 6 clean sheet-uri ale Craiovei.\n## Pontul principal\nNG (cel puțin una nu marchează), ~58%.\n## Alte ponturi\nVictorie Craiova ~62%; peste 2.5 ~52%.\n\n_Cote bookmaker indisponibile la momentul analizei; probabilitățile sunt estimarea mea din formă, absențe și clasament._",
-   "verdict": {
-    "summary": "Craiova favorită, probabil fără gol primit.",
-    "home": 0.62,
-    "draw": 0.22,
-    "away": 0.16,
-    "over25": 0.52,
-    "btts": 0.42,
-    "expectedCorners": 9.5,
-    "expectedCards": 5.0,
-    "mostLikelyScore": "2-0",
-    "confidence": "medie",
-    "keyAbsences": [
-     "Isenko (Craiova) – incert"
-    ],
-    "mainPick": {
-     "market": "Echipa gazdă nu primește gol",
-     "code": "NG",
-     "probability": 0.58,
-     "confidence": "medie",
-     "reason": "Craiova cele mai multe clean sheet-uri (6) și 12 goluri în 5; Farul înscrie puțin în deplasare."
-    },
-    "picks": [
-     {
-      "market": "Craiova câștigă",
-      "code": "1",
-      "probability": 0.62,
-      "confidence": "medie",
-      "reason": "formă și apărare"
-     }
-    ]
-   }
-  },
-  {
-   "fotmobId": 5881190,
-   "home": "Borussia Mönchengladbach",
-   "away": "Hoffenheim",
-   "kickoff": "2026-10-18T15:30:00Z",
-   "createdAt": 1792333427670,
-   "text": "## Pe scurt\nDouă apărări în dificultate – meci cu goluri.\n## Ce s-a schimbat (știri și absențe)\nGladbach: Kleindienst, Honorat, Fleck (1-2 săpt.), Leszczyński, Leopold out; Kühn/Itakura incerți. Hoffenheim: Hajdari, Wimmer out, Bernardo suspendat.\n## Analiză\nGladbach: 4-3 cu Elversberg, 0-5 cu Freiburg, 3-4 cu Mainz; Hoffenheim 4 înfrângeri consecutive și fără clean sheet în 7. Ambele marchează destul pentru a trece de 2.5.\n## Pontul principal\nPeste 2.5 goluri, ~70%.\n## Alte ponturi\nGG ~74% (prea mică cotă); 1X2 echilibrat.\n\n_Cote bookmaker indisponibile la momentul analizei; probabilitățile sunt estimarea mea din formă, absențe și clasament._",
-   "verdict": {
-    "summary": "Meci cu multe goluri între apărări slabe.",
-    "home": 0.4,
-    "draw": 0.24,
-    "away": 0.36,
-    "over25": 0.7,
-    "btts": 0.74,
-    "expectedCorners": 10.5,
-    "expectedCards": 4.5,
-    "mostLikelyScore": "2-2",
-    "confidence": "medie",
-    "keyAbsences": [
-     "Kleindienst, Honorat (Gladbach) – accidentări",
-     "Wimmer, Hajdari (Hoffenheim) – accidentări"
-    ],
-    "mainPick": {
-     "market": "Peste 2.5 goluri",
-     "code": "O2.5",
-     "probability": 0.7,
-     "confidence": "medie",
-     "reason": "Gladbach a primit 4+ goluri în 3 din ultimele 5; Hoffenheim fără clean sheet în 7 meciuri."
-    },
-    "picks": [
-     {
-      "market": "Ambele echipe marchează",
-      "code": "GG",
-      "probability": 0.74,
-      "confidence": "medie",
-      "reason": "apărări slabe"
      }
     ]
    }
@@ -1223,98 +939,500 @@
    }
   },
   {
+   "fotmobId": 6112326,
+   "home": "AFC Bournemouth",
+   "away": "Milan",
+   "kickoff": "2026-10-22T19:00:00Z",
+   "createdAt": 1792656925206,
+   "text": "## Pe scurt\nBournemouth (4-2-3-1) primește Milan în Europa League; cotele de pe piață dau ușor favorită gazda (~2.25-2.30) față de Milan (~3.1-3.2), egal ~3.7.\n## Ce s-a schimbat (știri și absențe)\nBournemouth: lipsesc Araujo, Milosavljević, Scott, Kroupi. Milan: Terracciano suspendat, Ramos, Chukwueze, Gabbia, Saelemaekers accidentați – apărarea și ofensiva laterală sunt afectate.\n## Analiză\nBournemouth vine cu 3-0 cu Sturm Graz și 2-0 cu Sunderland, dar cu înfrângeri puternice cu Chelsea. Milan a bătut Salzburg 4-0, a pierdut cu Benfica. În Europa League GG a ieșit în ~67% din meciuri; mă abat puțin de la cote spre GG, dar sub 65% pentru că ambele echipe pot controla ritmul.\n## Pontul principal\nGG, ~60% (cota corectă ~1.67).\n## Alte ponturi\nPeste 1.5 goluri; 1X ca variantă prudentă.\nNu e o promisiune de câștig; cotele casei rămân referința principală.",
+   "verdict": {
+    "summary": "Meci deschis la Bournemouth, ușor avantaj gazdelor, GG probabil.",
+    "home": 0.42,
+    "draw": 0.27,
+    "away": 0.31,
+    "over25": 0.55,
+    "btts": 0.6,
+    "expectedCorners": 10.0,
+    "expectedCards": 4.0,
+    "mostLikelyScore": "2-1",
+    "confidence": "medie",
+    "keyAbsences": [
+     "Alex Scott (Bournemouth) – accidentare",
+     "Junior Kroupi (Bournemouth) – accidentare",
+     "Julián Araujo (Bournemouth) – accidentare",
+     "Gonçalo Ramos (Milan) – accidentare",
+     "Samuel Chukwueze (Milan) – accidentare",
+     "Matteo Gabbia (Milan) – accidentare",
+     "Alexis Saelemaekers (Milan) – accidentare",
+     "Filippo Terracciano (Milan) – suspendat"
+    ],
+    "mainPick": {
+     "market": "Ambele echipe marchează",
+     "code": "GG",
+     "probability": 0.6,
+     "confidence": "medie",
+     "reason": "Ambele atacă bine; Milan fără Gabbia și Terracciano în apărare, Bournemouth fără câțiva ofensivi."
+    },
+    "picks": [
+     {
+      "market": "Peste 1.5 goluri",
+      "code": "O1.5",
+      "probability": 0.82,
+      "confidence": "mare",
+      "reason": "Ambele echipe marchează constant în Europa."
+     },
+     {
+      "market": "Bournemouth sau egal",
+      "code": "1X",
+      "probability": 0.69,
+      "confidence": "medie",
+      "reason": "Avantaj teren, dar Milan are calitate."
+     }
+    ]
+   }
+  },
+  {
    "fotmobId": 6112251,
    "home": "Juventus",
    "away": "Rennes",
    "kickoff": "2026-10-22T16:45:00Z",
-   "createdAt": 1792570800000,
-   "text": "## Pe scurt\nJuve cu 7 absenți, Rennes inconsistent; 1X mai sigur.\n## Ce s-a schimbat (știri și absențe)\nJuventus fără Yıldız, Conceição, Locatelli, Thuram, portar Grabara (sezon încheiat), Durmiši suspendat. Rennes doar Lepaul out.\n## Analiză\nJuventus: 0-3 cu Lazio, 0-1 cu Cremonese, dar 2-0 cu Atalanta; acasă e fragilă fără ofensiva obișnuită. Rennes: 0-4 la Lyon, 0-0 Sturm, 4-3 la Paris FC. Meci cu risc; evităm victoria simplă.\n## Pontul principal\nDublă șansă 1X (~70%). Juve acasă; Rennes pierde des în deplasare.\n## Alte ponturi\nSub 3.5 goluri ~68%; Ambele echipe marchează ~50%\n\n_Cote bookmaker indisponibile la momentul analizei; probabilitățile sunt estimarea mea din formă, absențe și date FotMob (fără garanții)._",
+   "createdAt": 1792656925206,
+   "text": "## Pe scurt\nJuventus joacă acasă fără Yıldız, Locatelli, Conceição și Thuram; Rennes e aproape complet.\n## Ce s-a schimbat (știri și absențe)\nLipsuri mari la Juventus (șapte absenți, incl. portarul Grabara). Rennes: doar Lepaul.\n## Analiză\nJuventus vine după 0-3 cu Lazio, 0-1 cu Cremonese, 1-1 cu Cagliari. Rennes a avut rezultate variabile (0-0 Sturm, 2-1 OFI, 4-3 PFC). Nu am găsit cote actualizate; pornesc de la formă și absențe: avantaj mic gazdă, deci 1X cu probabilitate moderată.\n## Pontul principal\n1X, ~66%.\n## Alte ponturi\nSub 3.5 goluri; peste 1.5.\nNu e o promisiune de câștig; cotele casei rămân referința principală.",
    "verdict": {
-    "summary": "Juve cu 7 absenți, Rennes inconsistent; 1X mai sigur.",
-    "home": 0.45,
-    "draw": 0.28,
-    "away": 0.27,
+    "summary": "Juventus decimată de absențe, dar acasă; meci echilibrat.",
+    "home": 0.42,
+    "draw": 0.29,
+    "away": 0.29,
     "over25": 0.48,
     "btts": 0.5,
     "expectedCorners": 9.5,
-    "expectedCards": 4.2,
+    "expectedCards": 4.0,
     "mostLikelyScore": "1-1",
     "confidence": "mică",
     "keyAbsences": [
-     "Kenan Yıldız (Juve) – accidentare",
-     "Manuel Locatelli (Juve) – accidentare",
-     "Kamil Grabara (Juve) – accidentare",
-     "Arman Durmiši (Juve) – suspendat"
+     "Kenan Yıldız (Juventus) – accidentare",
+     "Manuel Locatelli (Juventus) – accidentare",
+     "Francisco Conceição (Juventus) – accidentare",
+     "Khéphren Thuram (Juventus) – accidentare",
+     "Kamil Grabara (Juventus) – accidentare",
+     "Arman Durmiši (Juventus) – suspendat",
+     "Estéban Lepaul (Rennes) – accidentare"
     ],
     "mainPick": {
      "market": "Dublă șansă 1X",
      "code": "1X",
-     "probability": 0.7,
-     "confidence": "mică",
-     "reason": "Juve acasă; Rennes pierde des în deplasare."
+     "probability": 0.66,
+     "confidence": "medie",
+     "reason": "Gazdă cu avantaj de teren, deși Juventus e în formă slabă și fără mulți titulari."
     },
     "picks": [
      {
       "market": "Sub 3.5 goluri",
       "code": "U3.5",
       "probability": 0.68,
-      "confidence": "mică",
-      "reason": "Juve cu atac slăbit."
+      "confidence": "medie",
+      "reason": "Juventus a marcat puțin recent (0-1, 1-1, 0-3)."
      },
      {
-      "market": "Ambele echipe marchează",
-      "code": "GG",
-      "probability": 0.5,
-      "confidence": "mică",
-      "reason": "Echipe cu apărări nesigure."
+      "market": "Peste 1.5 goluri",
+      "code": "O1.5",
+      "probability": 0.74,
+      "confidence": "medie",
+      "reason": "Ambele echipe au marcat în meciurile recente."
      }
     ]
    }
   },
   {
-   "fotmobId": 6112326,
-   "home": "AFC Bournemouth",
-   "away": "Milan",
+   "fotmobId": 6112350,
+   "home": "Hoffenheim",
+   "away": "Lyon",
    "kickoff": "2026-10-22T19:00:00Z",
-   "createdAt": 1792570800000,
-   "text": "## Pe scurt\nBournemouth ofensiv, Milan cu apărarea slăbită; GG.\n## Ce s-a schimbat (știri și absențe)\nBournemouth fără Araujo, Scott, Kroupi, Milosavljević incert. Milan fără Terracciano (suspendat), Gabbia, Saelemaekers.\n## Analiză\nBournemouth: 2-0 Sunderland, 3-0 Sturm, 5-1 cu Chelsea, 0-1 cu Liverpool. Milan: 3-2 Atalanta, 4-0 Salzburg, 0-2 Benfica, 1-1 Sassuolo. Cu apărarea Milan fără trei titulari, un gol din ambele părți e probabil.\n## Pontul principal\nAmbele echipe marchează (~57%). Milan primește goluri fără 3 apărători; Bournemouth marchează acasă.\n## Alte ponturi\nPeste 2.5 goluri ~55%; Milan sau egal ~60%\n\n_Cote bookmaker indisponibile la momentul analizei; probabilitățile sunt estimarea mea din formă, absențe și date FotMob (fără garanții)._",
+   "createdAt": 1792656925206,
+   "text": "## Pe scurt\nHoffenheim pierde constant (4 meciuri fără victorie), Lyon bate Rennes 4-0 și Anderlecht.\n## Ce s-a schimbat (știri și absențe)\nLyon fără Openda, Šulc și Tagliafico; Hoffenheim fără De Cat, Hajdari, Wimmer.\n## Analiză\nHoffenheim primește mult (scoruri 3-1, 2-3, 2-3), Lyon marchează în aproape toate meciurile. Cota pe Lyon estimată ~2.2; mă abat spre GG față de 1X2 pentru valoare.\n## Pontul principal\nGG, ~64%.\n## Alte ponturi\nPeste 2.5; X2.\nNu e o promisiune de câștig; cotele casei rămân referința principală.",
    "verdict": {
-    "summary": "Bournemouth ofensiv, Milan cu apărarea slăbită; GG.",
-    "home": 0.38,
+    "summary": "Hoffenheim în criză, Lyon ușor favorit; goluri la ambele echipe.",
+    "home": 0.3,
+    "draw": 0.26,
+    "away": 0.44,
+    "over25": 0.64,
+    "btts": 0.64,
+    "expectedCorners": 10.0,
+    "expectedCards": 3.5,
+    "mostLikelyScore": "1-2",
+    "confidence": "medie",
+    "keyAbsences": [
+     "Nathan De Cat (Hoffenheim) – accidentare",
+     "Albian Hajdari (Hoffenheim) – accidentare",
+     "Patrick Wimmer (Hoffenheim) – accidentare",
+     "Loïs Openda (Lyon) – accidentare",
+     "Pavel Šulc (Lyon) – accidentare",
+     "Nicolás Tagliafico (Lyon) – accidentare"
+    ],
+    "mainPick": {
+     "market": "Ambele echipe marchează",
+     "code": "GG",
+     "probability": 0.64,
+     "confidence": "medie",
+     "reason": "Hoffenheim a primit gol în toate meciurile recente (2-3, 2-3, 3-1), iar Lyon marchează constant."
+    },
+    "picks": [
+     {
+      "market": "Peste 2.5 goluri",
+      "code": "O2.5",
+      "probability": 0.64,
+      "confidence": "medie",
+      "reason": "Ambele apărări cedează; Bundesliga ~65% peste 2.5."
+     },
+     {
+      "market": "Lyon sau egal",
+      "code": "X2",
+      "probability": 0.7,
+      "confidence": "medie",
+      "reason": "Hoffenheim are 4 înfrângeri consecutive."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 6112356,
+   "home": "Beşiktaş",
+   "away": "Crystal Palace",
+   "kickoff": "2026-10-22T19:00:00Z",
+   "createdAt": 1792656925206,
+   "text": "## Pe scurt\nPalace, fără Henderson, Chilwell, Tomiyasu, Riad, vine după 0-5 și 2-3. Beşiktaş a bătut Marseille 4-1.\n## Ce s-a schimbat (știri și absențe)\nPatru absenți importanți la Palace (apărare+portar); Beşiktaş fără Kökcü, Rashica.\n## Analiză\nBeşiktaş a învins Marseille 4-1 și Hoffenheim, dar a pierdut cu Trabzonspor (0-2). Palace încasează mult. GG și peste 2.5 se potrivesc; Süper Lig doar ~35% GG, dar în Europa acasă Beşiktaş scoate goluri.\n## Pontul principal\nGG, ~62%.\n## Alte ponturi\nPeste 2.5; 1X.\nNu e o promisiune de câștig; cotele casei rămân referința principală.",
+   "verdict": {
+    "summary": "Palace cu apărare decimată și în formă proastă; Beşiktaş ușor favorit, goluri probabile.",
+    "home": 0.4,
     "draw": 0.27,
-    "away": 0.35,
+    "away": 0.33,
+    "over25": 0.6,
+    "btts": 0.62,
+    "expectedCorners": 10.0,
+    "expectedCards": 4.5,
+    "mostLikelyScore": "2-1",
+    "confidence": "medie",
+    "keyAbsences": [
+     "Orkun Kökcü (Beşiktaş) – accidentare",
+     "Milot Rashica (Beşiktaş) – accidentare",
+     "Ben Chilwell (Palace) – accidentare",
+     "Takehiro Tomiyasu (Palace) – accidentare",
+     "Dean Henderson (Palace) – accidentare",
+     "Chadi Riad (Palace) – accidentare"
+    ],
+    "mainPick": {
+     "market": "Ambele echipe marchează",
+     "code": "GG",
+     "probability": 0.62,
+     "confidence": "medie",
+     "reason": "Palace a primit 5-0, 3-2; Beşiktaş a marcat 4-1, 3-2, 2-1 recent."
+    },
+    "picks": [
+     {
+      "market": "Peste 2.5 goluri",
+      "code": "O2.5",
+      "probability": 0.6,
+      "confidence": "medie",
+      "reason": "Palace fără portar titular și fundași; Beşiktaş atac bun."
+     },
+     {
+      "market": "Beşiktaş sau egal",
+      "code": "1X",
+      "probability": 0.67,
+      "confidence": "medie",
+      "reason": "Avantaj teren și forma Palace în scădere."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 6112393,
+   "home": "Ajax",
+   "away": "Atalanta",
+   "kickoff": "2026-10-22T19:00:00Z",
+   "createdAt": 1792656925206,
+   "text": "## Pe scurt\nAjax primește o Atalanta slăbită de absențe; formă bună în Eredivisie.\n## Ce s-a schimbat (știri și absențe)\nAtalanta: 8 absenți (Kessié, Hien, Kossounou, Scalvini, Raspadori etc.); Ajax: Blind, Dolberg, Berghuis, Gaaei.\n## Analiză\nAtalanta a pierdut 0-2 cu Juventus și 1-2 cu Cagliari. Ajax e acasă și motivat. Pontul 1X la ~70% e la limita cotei de 1.40.\n## Pontul principal\n1X, ~70%.\n## Alte ponturi\nPeste 2.5; GG.\nNu e o promisiune de câștig; cotele casei rămân referința principală.",
+   "verdict": {
+    "summary": "Atalanta cu 8 absenți; Ajax acasă favorit moderat.",
+    "home": 0.46,
+    "draw": 0.26,
+    "away": 0.28,
+    "over25": 0.6,
+    "btts": 0.6,
+    "expectedCorners": 10.0,
+    "expectedCards": 3.5,
+    "mostLikelyScore": "2-1",
+    "confidence": "medie",
+    "keyAbsences": [
+     "Daley Blind (Ajax) – accidentare",
+     "Kasper Dolberg (Ajax) – accidentare",
+     "Steven Berghuis (Ajax) – accidentare",
+     "Anton Gaaei (Ajax) – accidentare",
+     "Kamaldeen Sulemana (Atalanta) – accidentare",
+     "Giacomo Raspadori (Atalanta) – accidentare",
+     "Franck Kessié (Atalanta) – accidentare",
+     "Isak Hien (Atalanta) – accidentare",
+     "Odilon Kossounou (Atalanta) – accidentare",
+     "Sead Kolašinac (Atalanta) – accidentare",
+     "Giorgio Scalvini (Atalanta) – accidentare"
+    ],
+    "mainPick": {
+     "market": "Ajax sau egal",
+     "code": "1X",
+     "probability": 0.7,
+     "confidence": "medie",
+     "reason": "Atalanta cu opt absenți (și 3 înfrângeri din ultimele 5)."
+    },
+    "picks": [
+     {
+      "market": "Peste 2.5 goluri",
+      "code": "O2.5",
+      "probability": 0.6,
+      "confidence": "medie",
+      "reason": "Eredivisie ~76% peste 2.5; Ajax 5-1 recent."
+     },
+     {
+      "market": "Ambele echipe marchează",
+      "code": "GG",
+      "probability": 0.6,
+      "confidence": "medie",
+      "reason": "Ajax primește goluri."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 6112300,
+   "home": "Celtic",
+   "away": "Celta Vigo",
+   "kickoff": "2026-10-22T19:00:00Z",
+   "createdAt": 1792656925206,
+   "text": "## Pe scurt\nCeltic fără Carter-Vickers și Johnston (apărare), Celta fără 6 jucători.\n## Ce s-a schimbat (știri și absențe)\nAbsențe multe la Celta; Celtic își pierde fundașul central.\n## Analiză\nCeltic are rezultate mixte (1-3 cu Ferencváros, 0-1 cu Rangers, dar 7-1 Hearts). Celta a bătut Racing 5-0, a pierdut 1-0 cu Omonia. GG la 60%.\n## Pontul principal\nGG, ~60%.\n## Alte ponturi\n1X; peste 2.5.\nNu e o promisiune de câștig; cotele casei rămân referința principală.",
+   "verdict": {
+    "summary": "Celtic acasă, favorit ușor; ambele defensive fragile.",
+    "home": 0.45,
+    "draw": 0.26,
+    "away": 0.29,
+    "over25": 0.58,
+    "btts": 0.6,
+    "expectedCorners": 9.5,
+    "expectedCards": 4.0,
+    "mostLikelyScore": "2-1",
+    "confidence": "medie",
+    "keyAbsences": [
+     "Cameron Carter-Vickers (Celtic) – accidentare",
+     "Alistair Johnston (Celtic) – accidentare",
+     "Yang Hyun-Jun (Celtic) – accidentare",
+     "Borja Iglesias (Celta) – accidentare",
+     "Carl Starfelt (Celta) – accidentare",
+     "Pablo Durán (Celta) – accidentare"
+    ],
+    "mainPick": {
+     "market": "Ambele echipe marchează",
+     "code": "GG",
+     "probability": 0.6,
+     "confidence": "medie",
+     "reason": "Celtic a primit 3-1, 4-1 recent; Celta fără Iglesias dar marchează."
+    },
+    "picks": [
+     {
+      "market": "Celtic sau egal",
+      "code": "1X",
+      "probability": 0.7,
+      "confidence": "medie",
+      "reason": "Avantaj teren la Glasgow."
+     },
+     {
+      "market": "Peste 2.5 goluri",
+      "code": "O2.5",
+      "probability": 0.58,
+      "confidence": "medie",
+      "reason": "Premiership scoțian ~67% peste 2.5."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 6112320,
+   "home": "Lech Poznań",
+   "away": "Sunderland",
+   "kickoff": "2026-10-22T16:45:00Z",
+   "createdAt": 1792656925206,
+   "text": "## Pe scurt\nSunderland vine fără Brobbey și Isidor; Lech fără 6 jucători.\n## Ce s-a schimbat (știri și absențe)\nSunderland: 5 absenți, mai ales în atac; Lech: Moutinho, Gumny, Gholizadeh, Douglas.\n## Analiză\nNu am cote actualizate; formele se anulează. Lech e agresiv acasă în campionat (6-1, 5-1) dar slab cu echipe europene. Încredere mică.\n## Pontul principal\nGG, ~58%.\n## Alte ponturi\nPeste 1.5.\nNu e o promisiune de câștig; cotele casei rămân referința principală.",
+   "verdict": {
+    "summary": "Meci echilibrat între două echipe cu absențe multe.",
+    "home": 0.38,
+    "draw": 0.28,
+    "away": 0.34,
     "over25": 0.55,
     "btts": 0.58,
-    "expectedCorners": 9.0,
-    "expectedCards": 3.8,
-    "mostLikelyScore": "2-2",
+    "expectedCorners": 9.5,
+    "expectedCards": 4.0,
+    "mostLikelyScore": "1-1",
     "confidence": "mică",
     "keyAbsences": [
-     "Filippo Terracciano (Milan) – suspendat",
-     "Matteo Gabbia (Milan) – accidentare",
-     "Alex Scott (Bournemouth) – accidentare"
+     "Brian Brobbey (Sunderland) – accidentare",
+     "Wilson Isidor (Sunderland) – accidentare",
+     "Daniel Ballard (Sunderland) – accidentare",
+     "Thomas Meunier (Sunderland) – accidentare",
+     "Romaine Mundle (Sunderland) – accidentare",
+     "João Moutinho (Lech) – accidentare",
+     "Robert Gumny (Lech) – accidentare",
+     "Ali Gholizadeh (Lech) – accidentare"
     ],
     "mainPick": {
      "market": "Ambele echipe marchează",
      "code": "GG",
      "probability": 0.58,
      "confidence": "mică",
-     "reason": "Milan primește goluri fără 3 apărători; Bournemouth marchează acasă."
+     "reason": "Lech marchează mult acasă (5-1, 6-1) și a primit 4-0, 0-4; Sunderland fără atacanți."
     },
     "picks": [
      {
-      "market": "Peste 2.5 goluri",
-      "code": "O2.5",
-      "probability": 0.55,
-      "confidence": "mică",
-      "reason": "Ambele cu goluri multe recent."
+      "market": "Peste 1.5 goluri",
+      "code": "O1.5",
+      "probability": 0.78,
+      "confidence": "medie",
+      "reason": "Ambele pot marca."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 6112314,
+   "home": "Sturm Graz",
+   "away": "Marseille",
+   "kickoff": "2026-10-22T16:45:00Z",
+   "createdAt": 1792656925206,
+   "text": "## Pe scurt\nSturm Graz cu 7 absenți, Marseille cu formă proastă (3 înfrângeri din 5).\n## Ce s-a schimbat (știri și absențe)\nMarseille fără Højbjerg; Sturm fără Kiteishvili, Rózga, Mamageishvili, Jatta.\n## Analiză\nMarseille a pierdut cu Beşiktaş 1-4, PSG, Olympiacos. Sturm a pierdut 0-3 la Bournemouth. X2 oferă siguranță pentru un meci neclar.\n## Pontul principal\nX2, ~67%.\n## Alte ponturi\nPeste 1.5.\nNu e o promisiune de câștig; cotele casei rămân referința principală.",
+   "verdict": {
+    "summary": "Marseille în formă proastă, Sturm decimat; Marseille nu pierde mult probabil.",
+    "home": 0.33,
+    "draw": 0.28,
+    "away": 0.39,
+    "over25": 0.55,
+    "btts": 0.55,
+    "expectedCorners": 9.5,
+    "expectedCards": 4.0,
+    "mostLikelyScore": "1-1",
+    "confidence": "mică",
+    "keyAbsences": [
+     "Seedy Jatta (Sturm) – accidentare",
+     "Otar Kiteishvili (Sturm) – accidentare",
+     "Gizo Mamageishvili (Sturm) – accidentare",
+     "Filip Rózga (Sturm) – accidentare",
+     "Pierre-Emile Højbjerg (Marseille) – accidentare",
+     "Derek Cornelius (Marseille) – accidentare"
+    ],
+    "mainPick": {
+     "market": "Dublă șansă X2",
+     "code": "X2",
+     "probability": 0.67,
+     "confidence": "medie",
+     "reason": "Sturm are 7 absenți și a pierdut 0-3 cu Bournemouth; Marseille are calitate."
+    },
+    "picks": [
+     {
+      "market": "Peste 1.5 goluri",
+      "code": "O1.5",
+      "probability": 0.78,
+      "confidence": "medie",
+      "reason": "Marseille marchează și primește (2-5, 1-4)."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 5881205,
+   "home": "VfB Stuttgart",
+   "away": "Borussia Mönchengladbach",
+   "kickoff": "2026-10-23T18:30:00Z",
+   "createdAt": 1792656925206,
+   "text": "## Pe scurt\nStuttgart acasă contra unui Gladbach cu 9 absenți.\n## Ce s-a schimbat (știri și absențe)\nGladbach fără Kleindienst, Itakura, Honorat, Kühn, Leopold etc.\n## Analiză\nGladbach: L 0-5 Freiburg, L 3-4 Mainz. Stuttgart bate Gladbach cu goluri multe în ultimele meciuri directe. Victoria gazdei ~1.50; peste 2.5 oferă valoare mai bună.\n## Pontul principal\nPeste 2.5 goluri, ~64%.\n## Alte ponturi\nStuttgart 1; peste 1.5.\nNu e o promisiune de câștig; cotele casei rămân referința principală.",
+   "verdict": {
+    "summary": "Stuttgart favorit clar vs Gladbach cu 9 absenți și formă dezastruoasă.",
+    "home": 0.66,
+    "draw": 0.19,
+    "away": 0.15,
+    "over25": 0.64,
+    "btts": 0.55,
+    "expectedCorners": 9.5,
+    "expectedCards": 3.5,
+    "mostLikelyScore": "3-1",
+    "confidence": "medie",
+    "keyAbsences": [
+     "Tiago Tomás (Stuttgart) – accidentare",
+     "Josha Vagnoman (Stuttgart) – accidentare",
+     "Justin Diehl (Stuttgart) – accidentare",
+     "Tim Kleindienst (Gladbach) – accidentare",
+     "Ko Itakura (Gladbach) – accidentare",
+     "Franck Honorat (Gladbach) – accidentare",
+     "Nicolas-Gerrit Kühn (Gladbach) – accidentare",
+     "Enzo Leopold (Gladbach) – accidentare"
+    ],
+    "mainPick": {
+     "market": "Peste 2.5 goluri",
+     "code": "O2.5",
+     "probability": 0.64,
+     "confidence": "medie",
+     "reason": "Gladbach a primit 5-0, 3-4, 2-1 recent; Bundesliga ~65% peste 2.5."
+    },
+    "picks": [
+     {
+      "market": "Stuttgart câștigă",
+      "code": "1",
+      "probability": 0.66,
+      "confidence": "medie",
+      "reason": "Diferență clară de formă și lot."
      },
      {
-      "market": "Milan sau egal",
-      "code": "X2",
-      "probability": 0.6,
+      "market": "Peste 1.5 goluri",
+      "code": "O1.5",
+      "probability": 0.88,
+      "confidence": "mare",
+      "reason": "Prea evident, dar sigur."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 5795491,
+   "home": "Ipswich Town",
+   "away": "Nottingham Forest",
+   "kickoff": "2026-10-23T19:00:00Z",
+   "createdAt": 1792656925206,
+   "text": "## Pe scurt\nForest fără Gibbs-White și Igor Jesus după serie proastă.\n## Ce s-a schimbat (știri și absențe)\nForest: 3 absenți ofensivi; Ipswich: doar Taylor.\n## Analiză\nForest: 0-0 Tottenham, W 2-1 Villa, L 0-1 Coventry, L 1-3 Palace, L 0-1 Arsenal. Ipswich variabil. Încredere mică; fără cote verificate.\n## Pontul principal\nGG, ~56%.\n## Alte ponturi\n1X.\nNu e o promisiune de câștig; cotele casei rămân referința principală.",
+   "verdict": {
+    "summary": "Forest în formă proastă, fără Gibbs-White și Igor Jesus; meci echilibrat.",
+    "home": 0.38,
+    "draw": 0.29,
+    "away": 0.33,
+    "over25": 0.52,
+    "btts": 0.56,
+    "expectedCorners": 10.0,
+    "expectedCards": 3.5,
+    "mostLikelyScore": "1-1",
+    "confidence": "mică",
+    "keyAbsences": [
+     "Morgan Gibbs-White (Forest) – accidentare",
+     "Igor Jesus (Forest) – accidentare",
+     "Nicolò Savona (Forest) – accidentare",
+     "Jack Taylor (Ipswich) – accidentare"
+    ],
+    "mainPick": {
+     "market": "Ambele echipe marchează",
+     "code": "GG",
+     "probability": 0.56,
+     "confidence": "mică",
+     "reason": "Ipswich primește mult (2-4, 3-2), Forest are probleme ofensive dar marchează."
+    },
+    "picks": [
+     {
+      "market": "Ipswich sau egal",
+      "code": "1X",
+      "probability": 0.67,
       "confidence": "mică",
-      "reason": "Calitate, dar deplasare."
+      "reason": "Forest a pierdut 4 din ultimele 5."
      }
     ]
    }

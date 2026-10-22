@@ -33,18 +33,19 @@
   }
  },
  "LaLiga": {
-  "meciuri": 19,
-  "goluriMedii": 3.05,
-  "procentGG": 57.9,
-  "procentPeste25": 52.7,
-  "victoriiGazde": 36.9,
+  "meciuri": 20,
+  "goluriMedii": 3.1,
+  "procentGG": 60.0,
+  "procentPeste25": 55.0,
+  "victoriiGazde": 40.0,
   "note": [
-   "Eșantion mic (18 meciuri, 10-18.10); procentele se stabilizează în zilele următoare.",
-   "Real Madrid 4-1 Sevilla; Real Sociedad a câștigat 5-2 la Málaga; gazdele câștigă doar 39%."
+   "Eșantion 20 meciuri (10-21.10).",
+   "Real Madrid 4-1 Sevilla; Real Sociedad 5-2 la Málaga; Levante 3-1 Athletic; gazdele câștigă ~40%."
   ],
   "echipe": {
    "Real Madrid": "4-1 cu Sevilla",
-   "Real Sociedad": "5-2 în deplasare la Málaga"
+   "Real Sociedad": "5-2 în deplasare la Málaga",
+   "Levante": "3-1 acasă cu Athletic"
   }
  },
  "Ligue 1": {
@@ -287,22 +288,28 @@
   "echipe": {}
  },
  "Liga Campionilor": {
-  "meciuri": 27,
-  "goluriMedii": 4.11,
-  "procentGG": 63.0,
-  "procentPeste25": 74.1,
-  "victoriiGazde": 55.6,
+  "meciuri": 36,
+  "goluriMedii": 4.06,
+  "procentGG": 63.9,
+  "procentPeste25": 75.0,
+  "victoriiGazde": 58.3,
   "note": [
-   "Eșantion mic (27 meciuri, 10-20.10).",
-   "20.10: 9 meciuri, 33 goluri, 7 din 9 GG: GG și peste 2.5 sunt de ~63-74%.",
-   "Gazdele din top (City 5-1, Roma 4-0, PSG 4-2, Liverpool 4-3) au câștigat; Porto a pierdut cu PSV (0-1)."
+   "Eșantion 36 meciuri (10-21.10), ~4 goluri/meci.",
+   "20.10: 9 meciuri, 33 goluri, 7 din 9 GG; 21.10: 9 meciuri, 35 goluri, dar 3 meciuri 1-0/1-0/3-0 fără GG.",
+   "Gazdele din top câștigă mult (Real 4-1, Villa 3-1, Como 4-1, Brugge 3-0), dar Galatasaray (4-2 la Lille) și LASK (3-2 la Sporting) au câștigat în deplasare."
   ],
   "echipe": {
    "PSV": "1-0 la Porto în LC; formă bună",
    "Liverpool": "4-3 cu Villarreal, apărare vulnerabilă",
    "Napoli": "4-3 cu Bodø/Glimt, primește goluri",
    "Manchester City": "5-1 cu AEK",
-   "PSG": "4-2 cu Barcelona"
+   "PSG": "4-2 cu Barcelona",
+   "Galatasaray": "4-2 în deplasare la Lille în LC",
+   "Como": "4-1 cu Manchester United",
+   "Manchester United": "4-1 la Como, apărare vulnerabilă în deplasare",
+   "Real Madrid": "4-1 cu Leipzig",
+   "Bayern München": "2-2 cu Arsenal",
+   "Arsenal": "2-2 la Bayern"
   }
  },
  "Primeira Liga": {

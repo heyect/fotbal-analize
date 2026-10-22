@@ -188,5 +188,95 @@
   "probability": 0.71,
   "score": "1-1",
   "correct": true
+ },
+ {
+  "fotmobId": 6106285,
+  "match": "Aston Villa – Viking",
+  "kickoff": "2026-10-21T19:00:00Z",
+  "pick": "Peste 2.5 goluri",
+  "code": "O2.5",
+  "probability": 0.66,
+  "score": "3-1",
+  "correct": true
+ },
+ {
+  "fotmobId": 6106238,
+  "match": "Bayern München – Arsenal",
+  "kickoff": "2026-10-21T19:00:00Z",
+  "pick": "Ambele echipe marchează",
+  "code": "GG",
+  "probability": 0.64,
+  "score": "2-2",
+  "correct": true
+ },
+ {
+  "fotmobId": 6106244,
+  "match": "Real Madrid – RB Leipzig",
+  "kickoff": "2026-10-21T19:00:00Z",
+  "pick": "Peste 2.5 goluri",
+  "code": "O2.5",
+  "probability": 0.66,
+  "score": "4-1",
+  "correct": true
+ },
+ {
+  "fotmobId": 6106410,
+  "match": "Como – Manchester United",
+  "kickoff": "2026-10-21T16:45:00Z",
+  "pick": "Ambele echipe marchează",
+  "code": "GG",
+  "probability": 0.62,
+  "score": "4-1",
+  "correct": true
+ },
+ {
+  "fotmobId": 6106312,
+  "match": "Lille – Galatasaray",
+  "kickoff": "2026-10-21T16:45:00Z",
+  "pick": "Dublă șansă 1X",
+  "code": "1X",
+  "probability": 0.65,
+  "score": "2-4",
+  "correct": false
+ },
+ {
+  "fotmobId": 6106252,
+  "match": "Inter – Shakhtar Donetsk",
+  "kickoff": "2026-10-21T19:00:00Z",
+  "pick": "Peste 2.5 goluri",
+  "code": "O2.5",
+  "probability": 0.63,
+  "score": "1-0",
+  "correct": false
+ },
+ {
+  "fotmobId": 6106297,
+  "match": "Club Brugge – Lens",
+  "kickoff": "2026-10-21T19:00:00Z",
+  "pick": "Ambele echipe marchează",
+  "code": "GG",
+  "probability": 0.6,
+  "score": "3-0",
+  "correct": false
+ },
+ {
+  "fotmobId": 6106300,
+  "match": "Real Betis – Feyenoord",
+  "kickoff": "2026-10-21T19:00:00Z",
+  "pick": "Peste 2.5 goluri",
+  "code": "O2.5",
+  "probability": 0.67,
+  "score": "1-0",
+  "correct": false
+ },
+ {
+  "fotmobId": 6106281,
+  "match": "Sporting CP – LASK",
+  "kickoff": "2026-10-21T19:00:00Z",
+  "pick": "Peste 2.5 goluri",
+  "code": "O2.5",
+  "probability": 0.65,
+  "score": "2-3",
+  "correct": true
  }
 ]
