@@ -157,7 +157,7 @@
   "echipe": {}
  },
  "Liga 2 România": {
-  "meciuri": 21,
+  "meciuri": 22,
   "goluriMedii": 2.62,
   "procentGG": 28.6,
   "procentPeste25": 47.6,
@@ -266,26 +266,35 @@
   "echipe": {}
  },
  "Europa League": {
-  "meciuri": 18,
-  "goluriMedii": 3.11,
-  "procentGG": 66.7,
-  "procentPeste25": 72.2,
-  "victoriiGazde": 44.4,
+  "meciuri": 36,
+  "goluriMedii": 3.3,
+  "procentGG": 58.4,
+  "procentPeste25": 75.0,
+  "victoriiGazde": 38.8,
   "note": [
-   "Eșantion mic (18 meciuri, 10-18.10); procentele se stabilizează în zilele următoare."
+   "22.10: 3.5 goluri/meci, 78% peste 2.5 dar doar 50% GG – scoruri la zero frecvente (Hoffenheim 3-0 Lyon, Sturm 1-0 Marseille, Bournemouth 3-0 Milan cu roșu); echipele franceze în deplasare marchează rar.",
+   "Gazdele au câștigat doar 33% ieri (6/18): deplasările au 4 victorii (Real Sociedad 6-0, Benfica, Anderlecht, Levski)."
   ],
-  "echipe": {}
+  "echipe": {
+   "Bournemouth": "3-0 cu Milan (22.10), Milan cu 10 oameni din min. 28",
+   "Hoffenheim": "3-0 cu Lyon, xG 2.09",
+   "Sturm Graz": "1-0 cu Marseille"
+  }
  },
  "Conference League": {
-  "meciuri": 18,
-  "goluriMedii": 2.94,
-  "procentGG": 66.7,
-  "procentPeste25": 55.6,
-  "victoriiGazde": 66.7,
+  "meciuri": 36,
+  "goluriMedii": 2.97,
+  "procentGG": 61.2,
+  "procentPeste25": 50.0,
+  "victoriiGazde": 47.3,
   "note": [
-   "Eșantion mic (18 meciuri, 10-18.10); procentele se stabilizează în zilele următoare."
+   "22.10: doar 28% victorii gazde, 5 egaluri din 18; Getafe 2-5 Lugano și Dinamo Zagreb 2-4 NEC (EL) arată apărări fragile ale gazdelor mediocre.",
+   "Echipele britanice/franceze (Brighton 0-0, Monaco 3-0) au profitat în Conference de echipe mai slabe."
   ],
-  "echipe": {}
+  "echipe": {
+   "Ajax": "2-0 cu Atalanta (22.10), ambele goluri după min. 85",
+   "Trabzonspor": "2-0 cu Hearts (22.10)"
+  }
  },
  "Liga Campionilor": {
   "meciuri": 36,

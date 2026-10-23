@@ -439,5 +439,113 @@
   "correct": null,
   "lesson": "A doua seară de LC: 3.9 goluri/meci, dar 3 din 9 sub 2.5 (1-0, 1-0, 3-0 fără GG): picks O2.5/GG la 60-67% au ieșit 5/9 – rămân valabile, dar nu le stivui la acumulatoare.",
   "createdAt": 1792656925206
+ },
+ {
+  "fotmobId": 6112326,
+  "match": "AFC Bournemouth – Milan",
+  "score": "3-0",
+  "pick": "Ambele echipe marchează",
+  "correct": false,
+  "lesson": "Bournemouth 3-0 Milan: GG picat – Maignan eliminat în min. 28 (la 1-0) și xG 3.14-0.11; un cartonaș roșu timpuriu strică orice pont GG/peste, iar Milan în deplasare în Europa a produs aproape zero; scad GG când deplasarea are risc mare de dezechilibru.",
+  "createdAt": 1792743367461
+ },
+ {
+  "fotmobId": 6112251,
+  "match": "Juventus – Rennes",
+  "score": "2-2",
+  "pick": "Dublă șansă 1X",
+  "correct": true,
+  "lesson": "Juventus 2-2 Rennes: 1X corect – dar la 1-2 la pauză; gazdele mari în Europa League nu închid meciul, 1X rămâne mai sigur decât 1 pur.",
+  "createdAt": 1792743367461
+ },
+ {
+  "fotmobId": 6112350,
+  "match": "Hoffenheim – Lyon",
+  "score": "3-0",
+  "pick": "Ambele echipe marchează",
+  "correct": false,
+  "lesson": "Hoffenheim 3-0 Lyon: GG picat – xG 2.09-0.87 pentru gazde, Lyon a marcat zero în ciuda a 8 șuturi; în ultimele 2 meciuri echipele franceze în deplasare nu au marcat în 3 din 4 – nu mai pun GG la 64% pe deplasări franceze în EL.",
+  "createdAt": 1792743367461
+ },
+ {
+  "fotmobId": 6112356,
+  "match": "Beşiktaş – Crystal Palace",
+  "score": "2-2",
+  "pick": "Ambele echipe marchează",
+  "correct": true,
+  "lesson": "Beşiktaş 2-2 Crystal Palace: GG corect cu xG mic (0.69-0.44) – patru goluri din ocazii puține și un roșu; GG a ieșit mai mult din varianță decât din joc, nu cresc încrederea.",
+  "createdAt": 1792743367461
+ },
+ {
+  "fotmobId": 6112393,
+  "match": "Ajax – Atalanta",
+  "score": "2-0",
+  "pick": "Ajax sau egal",
+  "correct": true,
+  "lesson": "Ajax 2-0 Atalanta: 1X corect, dar ambele goluri în minutele 87 și 90 – Atalanta a fost aproape de egal (xG 0.97); dublă șansă pe gazdă cu formă bună rămâne pont solid.",
+  "createdAt": 1792743367461
+ },
+ {
+  "fotmobId": 6112300,
+  "match": "Celtic – Celta Vigo",
+  "score": "1-2",
+  "pick": "Ambele echipe marchează",
+  "correct": true,
+  "lesson": "Celtic 1-2 Celta Vigo: GG corect, deși Celta a dominat (xG 1.30-0.48) – echipele spaniole în deplasare marchează chiar dacă gazda e mai slabă ofensiv; GG a funcționat, 1X nu.",
+  "createdAt": 1792743367461
+ },
+ {
+  "fotmobId": 6112320,
+  "match": "Lech Poznań – Sunderland",
+  "score": "1-1",
+  "pick": "Ambele echipe marchează",
+  "correct": true,
+  "lesson": "Lech 1-1 Sunderland: GG corect, xG 2.64-2.97 – meci deschis cu multe ocazii; echipele englezești promovate joacă ofensiv în deplasare și ies bine la GG.",
+  "createdAt": 1792743367461
+ },
+ {
+  "fotmobId": 6112314,
+  "match": "Sturm Graz – Marseille",
+  "score": "1-0",
+  "pick": "Dublă șansă X2",
+  "correct": false,
+  "lesson": "Sturm Graz 1-0 Marseille: X2 picat – gol în minutul 13 pentru gazde, Marseille a avut 14 șuturi (xG 0.74) dar n-a marcat; deplasările franceze în EL nu sunt de încredere, nu mai folosesc X2 la 67% când gazda are momentum și public.",
+  "createdAt": 1792743367461
+ },
+ {
+  "fotmobId": 6112475,
+  "match": "Getafe – Lugano",
+  "score": "2-5",
+  "pick": null,
+  "correct": null,
+  "lesson": "Getafe a dominat statistic (15-2 cornere, xG 2.48-1.94) dar a primit 5 goluri; Lugano a marcat 3 goluri în primele 26 de minute – în Conference gazdele din ligi mari cu apărare fragilă sunt supraevaluate pe 1X2, iar peste 2.5 era semnalul.",
+  "createdAt": 1792743367461
+ },
+ {
+  "fotmobId": 6112293,
+  "match": "Dinamo Zagreb – NEC Nijmegen",
+  "score": "2-4",
+  "pick": null,
+  "correct": null,
+  "lesson": "NEC a câștigat în deplasare cu 4 goluri (xG 1.39) – echipele olandeze ofensive marchează mult chiar și în deplasare; semnal: Eredivisie 4.06 goluri/meci în observații.",
+  "createdAt": 1792743367461
+ },
+ {
+  "fotmobId": 6112406,
+  "match": "FC Midtjylland – St.Truiden",
+  "score": "0-1",
+  "pick": null,
+  "correct": null,
+  "lesson": "Midtjylland xG 2.90 vs 1.98, dar a pierdut 0-1 cu un singur gol – meci cu multe ocazii pierdute, nu merită să schimb pontul pe baza unui singur scor; semnal: eficiență slabă la finalizare, peste 2.5 a fost sub așteptări.",
+  "createdAt": 1792743367461
+ },
+ {
+  "fotmobId": 6112285,
+  "match": "Viktoria Plzeň – Levski Sofia",
+  "score": "1-2",
+  "pick": null,
+  "correct": null,
+  "lesson": "Levski a câștigat în deplasare la Plzeň (xG 1.04 vs 1.05, ambele echipe egale statistic) – gazdele cehe nu sunt favorite clare în EL, diferența de nivel e mai mică decât indică cotele de campionat.",
+  "createdAt": 1792743367461
  }
 ]

@@ -278,5 +278,85 @@
   "probability": 0.65,
   "score": "2-3",
   "correct": true
+ },
+ {
+  "fotmobId": 6112326,
+  "match": "AFC Bournemouth – Milan",
+  "kickoff": "2026-10-22T19:00:00Z",
+  "pick": "Ambele echipe marchează",
+  "code": "GG",
+  "probability": 0.6,
+  "score": "3-0",
+  "correct": false
+ },
+ {
+  "fotmobId": 6112251,
+  "match": "Juventus – Rennes",
+  "kickoff": "2026-10-22T16:45:00Z",
+  "pick": "Dublă șansă 1X",
+  "code": "1X",
+  "probability": 0.66,
+  "score": "2-2",
+  "correct": true
+ },
+ {
+  "fotmobId": 6112350,
+  "match": "Hoffenheim – Lyon",
+  "kickoff": "2026-10-22T19:00:00Z",
+  "pick": "Ambele echipe marchează",
+  "code": "GG",
+  "probability": 0.64,
+  "score": "3-0",
+  "correct": false
+ },
+ {
+  "fotmobId": 6112356,
+  "match": "Beşiktaş – Crystal Palace",
+  "kickoff": "2026-10-22T19:00:00Z",
+  "pick": "Ambele echipe marchează",
+  "code": "GG",
+  "probability": 0.62,
+  "score": "2-2",
+  "correct": true
+ },
+ {
+  "fotmobId": 6112393,
+  "match": "Ajax – Atalanta",
+  "kickoff": "2026-10-22T19:00:00Z",
+  "pick": "Ajax sau egal",
+  "code": "1X",
+  "probability": 0.7,
+  "score": "2-0",
+  "correct": true
+ },
+ {
+  "fotmobId": 6112300,
+  "match": "Celtic – Celta Vigo",
+  "kickoff": "2026-10-22T19:00:00Z",
+  "pick": "Ambele echipe marchează",
+  "code": "GG",
+  "probability": 0.6,
+  "score": "1-2",
+  "correct": true
+ },
+ {
+  "fotmobId": 6112320,
+  "match": "Lech Poznań – Sunderland",
+  "kickoff": "2026-10-22T16:45:00Z",
+  "pick": "Ambele echipe marchează",
+  "code": "GG",
+  "probability": 0.58,
+  "score": "1-1",
+  "correct": true
+ },
+ {
+  "fotmobId": 6112314,
+  "match": "Sturm Graz – Marseille",
+  "kickoff": "2026-10-22T16:45:00Z",
+  "pick": "Dublă șansă X2",
+  "code": "X2",
+  "probability": 0.67,
+  "score": "1-0",
+  "correct": false
  }
 ]
