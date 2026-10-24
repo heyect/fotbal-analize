@@ -1,208 +1,6 @@
 {
- "updatedAt": "2026-10-23T08:16:07+00:00",
+ "updatedAt": "2026-10-24T10:15:00+02:00",
  "analyses": [
-  {
-   "fotmobId": 6106287,
-   "home": "FC Porto",
-   "away": "PSV Eindhoven",
-   "kickoff": "2026-10-20T19:00:00Z",
-   "createdAt": 1792397227222,
-   "text": "## Pe scurt\nPorto are avantaj de formă și teren; PSV are lotul decimat.\n## Ce s-a schimbat (știri și absențe)\nPSV: Wanner, Pepi, Lammers, Pléa, Schouten, Nagalo, Sildillia, Ouaissa out (8 absenți). Porto: Gomes și Sousa out.\n## Analiză\nPSV a pierdut 1-2 la ADO Den Haag în campionat înainte de meci (rotații). Porto vine cu 7 goluri în 3 meciuri. Fără cote verificate: 42/28/30.\n## Pontul principal\nPorto sau egal (~68%). Porto 4V-1Î în ultimele 5; PSV 2V-3Î, cu 8 absenți.\n## Alte ponturi\nBTTS ~58%, peste 2.5 ~55%.\n\n_Cote bookmaker indisponibile la momentul analizei; probabilitățile sunt estimarea mea din formă, absențe și date FotMob (fără garanții)._",
-   "verdict": {
-    "summary": "Porto ușor favorită acasă, PSV afectată de 8 absențe și 3 înfrângeri în ultimele 5.",
-    "home": 0.42,
-    "draw": 0.28,
-    "away": 0.3,
-    "over25": 0.55,
-    "btts": 0.58,
-    "expectedCorners": 10.0,
-    "expectedCards": 4.8,
-    "mostLikelyScore": "2-1",
-    "confidence": "medie",
-    "keyAbsences": [
-     "William Gomes (Porto) – accidentare",
-     "Vasco Sousa (Porto) – accidentare",
-     "Paul Wanner, Ricardo Pepi, Sam Lammers, Alassane Pléa, Jerdy Schouten (PSV) – accidentări",
-     "Adamo Nagalo, Kilian Sildillia, Sami Ouaissa (PSV) – accidentări"
-    ],
-    "mainPick": {
-     "market": "Porto sau egal",
-     "code": "1X",
-     "probability": 0.68,
-     "confidence": "medie",
-     "reason": "Porto 4V-1Î în ultimele 5; PSV 2V-3Î, cu 8 absenți."
-    },
-    "picks": [
-     {
-      "market": "Ambele echipe marchează",
-      "code": "GG",
-      "probability": 0.58,
-      "confidence": "mică",
-      "reason": "Porto 7 goluri în 3 meciuri, PSV 3"
-     }
-    ]
-   }
-  },
-  {
-   "fotmobId": 6106320,
-   "home": "Napoli",
-   "away": "Bodø/Glimt",
-   "kickoff": "2026-10-20T19:00:00Z",
-   "createdAt": 1792397227222,
-   "text": "## Pe scurt\nNapoli e favorită, dar Bodø/Glimt e în formă și lipsurile din lotul Napoli sunt multe.\n## Ce s-a schimbat (știri și absențe)\nNapoli: lipsesc Buongiorno și patru jucători din atac/mijloc. Bodø: Riisnæs, Evjen, Mikkelsen out.\n## Analiză\nNapoli a pierdut 0-1 la Venezia în campionat (formă WDWLL). Bodø: LWWWW, 6 goluri în ultimele 3. Cote nu am putut verifica: GG e cea mai bună estimare.\n## Pontul principal\nAmbele echipe marchează (~62%). Bodø a marcat în ultimele 3 deplasări, Napoli primește goluri cu apărarea fără Buongiorno.\n## Alte ponturi\nPeste 2.5 ~62%; Napoli 1X2 fără valoare clară.\n\n_Cote bookmaker indisponibile la momentul analizei; probabilitățile sunt estimarea mea din formă, absențe și date FotMob (fără garanții)._",
-   "verdict": {
-    "summary": "Napoli favorită, dar Bodø/Glimt vine cu 4 victorii consecutive și marchează în deplasare.",
-    "home": 0.55,
-    "draw": 0.24,
-    "away": 0.21,
-    "over25": 0.62,
-    "btts": 0.62,
-    "expectedCorners": 10.0,
-    "expectedCards": 3.6,
-    "mostLikelyScore": "2-1",
-    "confidence": "mică",
-    "keyAbsences": [
-     "Alisson Santos, David Neres, Antonio Vergara, Costantino Favasuli (Napoli) – accidentări",
-     "Alessandro Buongiorno (Napoli) – accidentare",
-     "Bjørn Magnus Riisnæs, Håkon Evjen, August Mikkelsen (Bodø) – accidentări"
-    ],
-    "mainPick": {
-     "market": "Ambele echipe marchează",
-     "code": "GG",
-     "probability": 0.62,
-     "confidence": "medie",
-     "reason": "Bodø a marcat în ultimele 3 deplasări, Napoli primește goluri cu apărarea fără Buongiorno."
-    },
-    "picks": [
-     {
-      "market": "Peste 2.5 goluri",
-      "code": "O2.5",
-      "probability": 0.62,
-      "confidence": "medie",
-      "reason": "Napoli 4 goluri în 3 meciuri, Bodø 6"
-     }
-    ]
-   }
-  },
-  {
-   "fotmobId": 6106422,
-   "home": "Sabah FK",
-   "away": "Borussia Dortmund",
-   "kickoff": "2026-10-20T16:45:00Z",
-   "createdAt": 1792397227222,
-   "text": "## Pe scurt\nDortmund e favorită, dar deplasarea e grea și lotul are lipsuri.\n## Ce s-a schimbat (știri și absențe)\nDortmund: Can, Lerma, Konstantelias out. Sabah: lot complet.\n## Analiză\nSabah WWDWW, Dortmund WWDLD. Dortmund a remizat 0-0 la Union înainte de LC. Cote nu au fost verificate.\n## Pontul principal\nPeste 2.5 goluri (~60%). Sabah a marcat în ultimele 6 acasă; Dortmund a remizat 0-0 la Union, dar Sabah marchează constant acasă.\n## Alte ponturi\nBTTS ~55%.\n\n_Cote bookmaker indisponibile la momentul analizei; probabilitățile sunt estimarea mea din formă, absențe și date FotMob (fără garanții)._",
-   "verdict": {
-    "summary": "Dortmund favorită, dar Sabah e neînvinsă în 5 și marchează acasă.",
-    "home": 0.2,
-    "draw": 0.24,
-    "away": 0.56,
-    "over25": 0.6,
-    "btts": 0.55,
-    "expectedCorners": 9.5,
-    "expectedCards": 3.8,
-    "mostLikelyScore": "1-2",
-    "confidence": "mică",
-    "keyAbsences": [
-     "Justin Lerma, Giannis Konstantelias, Emre Can (Dortmund) – accidentări"
-    ],
-    "mainPick": {
-     "market": "Peste 2.5 goluri",
-     "code": "O2.5",
-     "probability": 0.6,
-     "confidence": "mică",
-     "reason": "Sabah a marcat în ultimele 6 acasă; Dortmund a remizat 0-0 la Union, dar Sabah marchează constant acasă."
-    },
-    "picks": [
-     {
-      "market": "Dortmund câștigă",
-      "code": "2",
-      "probability": 0.56,
-      "confidence": "mică",
-      "reason": "calitate superioară, dar mulți absenți și drum lung"
-     }
-    ]
-   }
-  },
-  {
-   "fotmobId": 6106277,
-   "home": "Roma",
-   "away": "Slovan Bratislava",
-   "kickoff": "2026-10-20T19:00:00Z",
-   "createdAt": 1792397227222,
-   "text": "## Pe scurt\nRoma are calitate superioară, deși fără portarul Svilar.\n## Ce s-a schimbat (știri și absențe)\nRoma: Svilar, Koné, Cristante out. Slovan: lot complet.\n## Analiză\nRoma WDDLW, Slovan WWDLW. Fără cote verificate.\n## Pontul principal\nRoma câștigă (~66%). Roma a marcat în ultimele 5 acasă; Slovan are 4 goluri în 3 meciuri.\n## Alte ponturi\nSub 3.5 goluri ~72% (prea evident).\n\n_Cote bookmaker indisponibile la momentul analizei; probabilitățile sunt estimarea mea din formă, absențe și date FotMob (fără garanții)._",
-   "verdict": {
-    "summary": "Roma favorită acasă; Slovan joacă în formă dar fără atac mare.",
-    "home": 0.66,
-    "draw": 0.2,
-    "away": 0.14,
-    "over25": 0.52,
-    "btts": 0.45,
-    "expectedCorners": 9.5,
-    "expectedCards": 3.8,
-    "mostLikelyScore": "2-0",
-    "confidence": "medie",
-    "keyAbsences": [
-     "Manu Koné, Bryan Cristante (Roma) – accidentări",
-     "Mile Svilar (Roma) – accidentare, portar titular"
-    ],
-    "mainPick": {
-     "market": "Roma câștigă",
-     "code": "1",
-     "probability": 0.66,
-     "confidence": "medie",
-     "reason": "Roma a marcat în ultimele 5 acasă; Slovan are 4 goluri în 3 meciuri."
-    },
-    "picks": [
-     {
-      "market": "Sub 3.5 goluri",
-      "code": "U3.5",
-      "probability": 0.72,
-      "confidence": "medie",
-      "reason": "ambele echipe au înscris moderat"
-     }
-    ]
-   }
-  },
-  {
-   "fotmobId": 6106333,
-   "home": "Fenerbahçe",
-   "away": "Slavia Praga",
-   "kickoff": "2026-10-20T16:45:00Z",
-   "createdAt": 1792397227222,
-   "text": "## Pe scurt\nAmbele echipe au absențe multe; duelurile anterioare au avut mereu goluri.\n## Ce s-a schimbat (știri și absențe)\nFenerbahçe: Asensio, Müldür, Diouf, Oosterwolde out. Slavia: șase absenți.\n## Analiză\nFenerbahçe WWWLW, Slavia WWWLD. Fără cote.\n## Pontul principal\nAmbele echipe marchează (~62%). Ultimele 3 dueluri: 2-3, 3-2, 1-2; Fener a marcat în ultimele 6 acasă.\n## Alte ponturi\nPeste 2.5 ~62%.\n\n_Cote bookmaker indisponibile la momentul analizei; probabilitățile sunt estimarea mea din formă, absențe și date FotMob (fără garanții)._",
-   "verdict": {
-    "summary": "Fenerbahçe ușor favorită, dar duelurile cu Slavia au avut multe goluri.",
-    "home": 0.52,
-    "draw": 0.24,
-    "away": 0.24,
-    "over25": 0.62,
-    "btts": 0.62,
-    "expectedCorners": 9.5,
-    "expectedCards": 4.5,
-    "mostLikelyScore": "2-1",
-    "confidence": "medie",
-    "keyAbsences": [
-     "Marco Asensio, Mert Müldür, Amara Diouf, Jayden Oosterwolde (Fenerbahçe) – accidentări",
-     "Eliás Piták, Ivan Schranz, David Jurásek, Stepán Chaloupek, Adonija Ouanda, Igoh Ogbu (Slavia) – accidentări"
-    ],
-    "mainPick": {
-     "market": "Ambele echipe marchează",
-     "code": "GG",
-     "probability": 0.62,
-     "confidence": "medie",
-     "reason": "Ultimele 3 dueluri: 2-3, 3-2, 1-2; Fener a marcat în ultimele 6 acasă."
-    },
-    "picks": [
-     {
-      "market": "Peste 2.5 goluri",
-      "code": "O2.5",
-      "probability": 0.62,
-      "confidence": "medie",
-      "reason": "dueluri anterioare cu 5, 5 și 3 goluri"
-     }
-    ]
-   }
-  },
   {
    "fotmobId": 6106285,
    "home": "Aston Villa",
@@ -248,196 +46,6 @@
       "probability": 0.62,
       "confidence": "mică",
       "reason": "Villa cu apărarea decimată, Viking marchează"
-     }
-    ]
-   }
-  },
-  {
-   "fotmobId": 6106234,
-   "home": "Paris Saint-Germain",
-   "away": "Barcelona",
-   "kickoff": "2026-10-20T19:00:00Z",
-   "createdAt": 1792484189953,
-   "text": "## Pe scurt\nDouă atacuri de top cu apărări subțiate.\n## Ce s-a schimbat (știri și absențe)\nPSG fără Nuno Mendes, Akliouche incert. Barcelona fără Koundé, García, Christensen – apărare decimată.\n## Analiză\nPSG: 5 victorii la rând (11 goluri date, 7 primite). Barça: 5 victorii (22 de goluri date, 14 primite). Ambele primesc multe goluri. Prea evident peste 2.5, GG rămâne valoroasă.\n## Pontul principal\nAmbele echipe marchează (~70%).\n## Alte ponturi\nPeste 2.5 ~72%; peste 3.5 ~45%.\n\n_Cote bookmaker indisponibile la momentul analizei; probabilitățile sunt estimarea mea din formă, absențe și date FotMob (fără garanții)._",
-   "verdict": {
-    "summary": "Hit al serii: PSG ușor favorită acasă, dar ambele atacă și apără slab.",
-    "home": 0.42,
-    "draw": 0.24,
-    "away": 0.34,
-    "over25": 0.72,
-    "btts": 0.72,
-    "expectedCorners": 10.0,
-    "expectedCards": 3.8,
-    "mostLikelyScore": "2-2",
-    "confidence": "medie",
-    "keyAbsences": [
-     "Nuno Mendes (PSG) – accidentare",
-     "Maghnes Akliouche (PSG) – incert",
-     "Jules Koundé (Barcelona) – accidentare",
-     "Eric García (Barcelona) – accidentare",
-     "Andreas Christensen (Barcelona) – accidentare"
-    ],
-    "mainPick": {
-     "market": "Ambele echipe marchează",
-     "code": "GG",
-     "probability": 0.7,
-     "confidence": "medie",
-     "reason": "Ambele cu 5 victorii la rând și multe goluri, apărări decimate; ultimele 5 ale lui Barça: 7-2, 4-1, 5-2 etc."
-    },
-    "picks": [
-     {
-      "market": "Peste 2.5 goluri",
-      "code": "O2.5",
-      "probability": 0.72,
-      "confidence": "medie",
-      "reason": "Medie foarte mare de goluri"
-     },
-     {
-      "market": "Peste 3.5 goluri",
-      "code": "O3.5",
-      "probability": 0.45,
-      "confidence": "mică",
-      "reason": "Posibil spectacol"
-     }
-    ]
-   }
-  },
-  {
-   "fotmobId": 6106248,
-   "home": "Liverpool",
-   "away": "Villarreal",
-   "kickoff": "2026-10-20T19:00:00Z",
-   "createdAt": 1792484189953,
-   "text": "## Pe scurt\nLiverpool favorită, dar cu probleme în atac.\n## Ce s-a schimbat (știri și absențe)\nLiverpool fără Szoboszlai, Ekitiké, Frimpong, Bradley, Leoni. Villarreal fără Pépé.\n## Analiză\nLiverpool V-V-Î-V-V; Villarreal V-V-Î-V-E. 1-0 în ultimul meci direct. Liverpool primește goluri (6 în 5).\n## Pontul principal\nLiverpool câștigă (~58%).\n## Alte ponturi\nPeste 2.5 ~58%.\n\n_Cote bookmaker indisponibile la momentul analizei; probabilitățile sunt estimarea mea din formă, absențe și date FotMob (fără garanții)._",
-   "verdict": {
-    "summary": "Liverpool favorită acasă, dar fără mai mulți titulari ofensivi.",
-    "home": 0.58,
-    "draw": 0.23,
-    "away": 0.19,
-    "over25": 0.58,
-    "btts": 0.52,
-    "expectedCorners": 10.5,
-    "expectedCards": 3.5,
-    "mostLikelyScore": "2-1",
-    "confidence": "medie",
-    "keyAbsences": [
-     "Dominik Szoboszlai (Liverpool) – accidentare",
-     "Hugo Ekitiké (Liverpool) – accidentare lungă",
-     "Jeremie Frimpong (Liverpool) – accidentare",
-     "Conor Bradley (Liverpool) – accidentare",
-     "Nicolas Pépé (Villarreal) – accidentare"
-    ],
-    "mainPick": {
-     "market": "Liverpool câștigă",
-     "code": "1",
-     "probability": 0.58,
-     "confidence": "medie",
-     "reason": "Anfield, 4V din 5; Villarreal 3-1, 0-1 în ultimele deplasări"
-    },
-    "picks": [
-     {
-      "market": "Peste 2.5 goluri",
-      "code": "O2.5",
-      "probability": 0.58,
-      "confidence": "medie",
-      "reason": "Liverpool: 3-6, 0-3 în ultimele; apărare fragilă"
-     }
-    ]
-   }
-  },
-  {
-   "fotmobId": 6106257,
-   "home": "Manchester City",
-   "away": "AEK Atena",
-   "kickoff": "2026-10-20T19:00:00Z",
-   "createdAt": 1792484189953,
-   "text": "## Pe scurt\nCity e mare favorită.\n## Ce s-a schimbat (știri și absențe)\nCity fără Semenyo; Nunes și Kovačić incerți. AEK fără Strakosha (portar).\n## Analiză\nCity V-V-V-Î-V (15 goluri date). AEK E-V-V-V-Î. Cota la 1 e prea mică, valoarea e în piața de goluri.\n## Pontul principal\nPeste 2.5 goluri (~70%).\n## Alte ponturi\nPeste 3.5 ~48%; NG ~62%.\n\n_Cote bookmaker indisponibile la momentul analizei; probabilitățile sunt estimarea mea din formă, absențe și date FotMob (fără garanții)._",
-   "verdict": {
-    "summary": "City mare favorită acasă; întrebarea e câte goluri.",
-    "home": 0.8,
-    "draw": 0.12,
-    "away": 0.08,
-    "over25": 0.78,
-    "btts": 0.38,
-    "expectedCorners": 9.5,
-    "expectedCards": 2.6,
-    "mostLikelyScore": "3-0",
-    "confidence": "medie",
-    "keyAbsences": [
-     "Matheus Nunes (Man City) – incert",
-     "Kovačić (Man City) – incert",
-     "Antoine Semenyo (Man City) – accidentare"
-    ],
-    "mainPick": {
-     "market": "Peste 2.5 goluri",
-     "code": "O2.5",
-     "probability": 0.7,
-     "confidence": "medie",
-     "reason": "City: 5-0, 5-3 în ultimele; AEK primește goluri (1-2, 3-1)"
-    },
-    "picks": [
-     {
-      "market": "Peste 3.5 goluri",
-      "code": "O3.5",
-      "probability": 0.48,
-      "confidence": "mică",
-      "reason": "City 5 goluri în două din ultimele 5"
-     },
-     {
-      "market": "Nu ambele marchează",
-      "code": "NG",
-      "probability": 0.62,
-      "confidence": "mică",
-      "reason": "AEK fără oportunități mari"
-     }
-    ]
-   }
-  },
-  {
-   "fotmobId": 6106397,
-   "home": "VfB Stuttgart",
-   "away": "Atlético Madrid",
-   "kickoff": "2026-10-20T19:00:00Z",
-   "createdAt": 1792484189953,
-   "text": "## Pe scurt\nAtlético în formă, Stuttgart în dificultate defensivă.\n## Ce s-a schimbat (știri și absențe)\nStuttgart fără Al Dakhil, Zagadou, Diehl; Nartey incert. Atlético fără Romero.\n## Analiză\nStuttgart V-V-V-Î-V (incl. 5-0). Atlético 5 victorii la rând. Cota la X2 ~1.35-1.40: la limita pragului.\n## Pontul principal\nDublă șansă X2 (~73%).\n## Alte ponturi\nPeste 2.5 ~55%; GG ~55%.\n\n_Cote bookmaker indisponibile la momentul analizei; probabilitățile sunt estimarea mea din formă, absențe și date FotMob (fără garanții)._",
-   "verdict": {
-    "summary": "Atlético în formă (5 victorii) față de Stuttgart cu defensiva decimată.",
-    "home": 0.27,
-    "draw": 0.27,
-    "away": 0.46,
-    "over25": 0.55,
-    "btts": 0.55,
-    "expectedCorners": 9.5,
-    "expectedCards": 4.3,
-    "mostLikelyScore": "1-2",
-    "confidence": "medie",
-    "keyAbsences": [
-     "Ameen Al Dakhil (Stuttgart) – accidentare",
-     "Dan-Axel Zagadou (Stuttgart) – accidentare",
-     "Justin Diehl (Stuttgart) – accidentare",
-     "Cristian Romero (Atlético) – accidentare 1-2 săptămâni"
-    ],
-    "mainPick": {
-     "market": "Dublă șansă X2",
-     "code": "X2",
-     "probability": 0.71,
-     "confidence": "medie",
-     "reason": "Atlético 5V din 5, Stuttgart cu apărarea decimată"
-    },
-    "picks": [
-     {
-      "market": "Peste 2.5 goluri",
-      "code": "O2.5",
-      "probability": 0.55,
-      "confidence": "mică",
-      "reason": "Stuttgart a primit 5 goluri în ultimele meciuri"
-     },
-     {
-      "market": "Ambele echipe marchează",
-      "code": "GG",
-      "probability": 0.55,
-      "confidence": "mică",
-      "reason": "Atlético marchează constant"
      }
     ]
    }
@@ -1320,287 +928,6 @@
    }
   },
   {
-   "fotmobId": 5795486,
-   "home": "Aston Villa",
-   "away": "Manchester City",
-   "kickoff": "2026-10-24T11:30:00Z",
-   "createdAt": 1792743367461,
-   "text": "## Pe scurt\nVilla în formă (6-0 cu Fenerbahçe, 1-0 la Newcastle), City câștigă dar primește goluri (5-3, 2-4, 3-2 în meciurile recente).\n## Ce s-a schimbat (știri și absențe)\nVilla fără Wan-Bissaka, Onana, Ruggeri, Manzambi. City fără Semenyo (până în decembrie), Nunes, O'Reilly și Kovačić incerți; Haaland, Foden, Doku în unsprezece probabil.\n## Analiză\nCity a primit gol în fiecare dintre ultimele 5 meciuri cu 2+ goluri în 4 din ele. Villa are un atac rapid cu Jackson și Buendía. Meciul de ora 13:30 (RO) la Villa Park: City favorit ușor la bookmakeri, dar Villa acasă e periculoasă.\n## Pontul principal\nAmbele marchează (~64%): City a primit goluri constant, Villa a marcat în 5 din 5.\n## Alte ponturi\nPeste 2.5 ~68% (probabil cotă sub 1.40 – nu merită ca pont principal); X2 ~68%.\nNotă: cotele casei de pariuri nu au putut fi găsite azi; probabilitățile pornesc din forma recentă, absențe și observațiile ligii. Nu promit câștiguri.",
-   "verdict": {
-    "summary": "Meci deschis între două echipe în formă; ambele vor marca.",
-    "home": 0.3,
-    "draw": 0.22,
-    "away": 0.48,
-    "over25": 0.68,
-    "btts": 0.64,
-    "expectedCorners": 10.5,
-    "expectedCards": 3.5,
-    "mostLikelyScore": "2-2",
-    "confidence": "medie",
-    "keyAbsences": [
-     "Wan-Bissaka, Onana (Aston Villa) – accidentări lungi",
-     "Semenyo (Man City) – accidentare până în decembrie"
-    ],
-    "mainPick": {
-     "market": "Ambele marchează",
-     "code": "GG",
-     "probability": 0.64,
-     "confidence": "medie",
-     "reason": "City primește goluri, Villa marchează în fiecare meci"
-    },
-    "picks": [
-     {
-      "market": "Peste 2.5 goluri",
-      "code": "O2.5",
-      "probability": 0.68,
-      "confidence": "medie",
-      "reason": "City și Villa ofensive"
-     },
-     {
-      "market": "Egal sau victorie City",
-      "code": "X2",
-      "probability": 0.7,
-      "confidence": "medie",
-      "reason": "City totuși favorit"
-     }
-    ]
-   }
-  },
-  {
-   "fotmobId": 5795487,
-   "home": "Chelsea",
-   "away": "Tottenham Hotspur",
-   "kickoff": "2026-10-24T16:30:00Z",
-   "createdAt": 1792743367461,
-   "text": "## Pe scurt\nDerby londonez: Chelsea ofensiv (6-3, 5-1) dar primește goluri, Tottenham cu lot decimat (Porro, Bergvall, Mudryk, Simons, Sávio, Odobert).\n## Ce s-a schimbat (știri și absențe)\nChelsea fără Reece James, Martínez, Gittens; Gusto, Chavarría, Emegha incerți. Tottenham are 7 absenți, printre care Simons (până în februarie).\n## Analiză\nChelsea a marcat 5+ în 2 din ultimele 5 acasă, dar a primit 3 de la Brentford. Tottenham a primit 3 de la Liverpool și 3 de la Villa. Premier League în observațiile mele: 3.1 goluri/meci, 60% peste 2.5.\n## Pontul principal\nPeste 2.5 goluri (~62%): Chelsea ofensiv acasă, Tottenham cu apărare slăbită de absențe.\n## Alte ponturi\nVictorie Chelsea ~50% (cotă mică); GG ~57%.\nNotă: cotele casei de pariuri nu au putut fi găsite azi; probabilitățile pornesc din forma recentă, absențe și observațiile ligii. Nu promit câștiguri.",
-   "verdict": {
-    "summary": "Chelsea favorit acasă, Tottenham slăbit; meciul ar trebui să aibă goluri.",
-    "home": 0.5,
-    "draw": 0.25,
-    "away": 0.25,
-    "over25": 0.62,
-    "btts": 0.57,
-    "expectedCorners": 10.5,
-    "expectedCards": 4.0,
-    "mostLikelyScore": "2-1",
-    "confidence": "medie",
-    "keyAbsences": [
-     "Reece James (Chelsea) – accidentare lungă",
-     "Simons, Porro, Bergvall, Mudryk (Tottenham) – accidentări"
-    ],
-    "mainPick": {
-     "market": "Peste 2.5 goluri",
-     "code": "O2.5",
-     "probability": 0.62,
-     "confidence": "medie",
-     "reason": "Chelsea ofensiv, Tottenham slăbit defensiv"
-    },
-    "picks": [
-     {
-      "market": "Ambele marchează",
-      "code": "GG",
-      "probability": 0.57,
-      "confidence": "mică",
-      "reason": "ambele cu atacuri bune"
-     },
-     {
-      "market": "Victorie Chelsea",
-      "code": "1",
-      "probability": 0.5,
-      "confidence": "mică",
-      "reason": "Chelsea acasă, Spurs decimat"
-     }
-    ]
-   }
-  },
-  {
-   "fotmobId": 5881198,
-   "home": "Borussia Dortmund",
-   "away": "Eintracht Frankfurt",
-   "kickoff": "2026-10-24T16:30:00Z",
-   "createdAt": 1792743367461,
-   "text": "## Pe scurt\nDortmund e instabil (0-1, 2-2, 0-1, 0-0, 1-2 în ultimele meciuri), Frankfurt a primit 6 de la Leipzig dar a câștigat la Mainz.\n## Ce s-a schimbat (știri și absențe)\nDortmund fără Emre Can, Konstantelias, Lerma, Karetsas; Frankfurt doar cu Ngankam și Pimpong accidentați.\n## Analiză\nFrankfurt a marcat 4+ în 3 din ultimele 5 meciuri; Dortmund a marcat sub 2 în 4 din 5. Formă contradictorie: peste 2.5 e susținut de apărările celor două echipe și media Bundesliga (65% peste 2.5), dar Dortmund nu mai marchează ușor.\n## Pontul principal\nPeste 2.5 goluri (~59%): Frankfurt marchează și primește mult, Dortmund acasă domină posesia.\n## Alte ponturi\nVictorie Dortmund ~48% fără valoare; GG ~55%.\nNotă: cotele casei de pariuri nu au putut fi găsite azi; probabilitățile pornesc din forma recentă, absențe și observațiile ligii. Nu promit câștiguri.",
-   "verdict": {
-    "summary": "Meci cu goluri probabile, dar Dortmund e instabil în atac.",
-    "home": 0.48,
-    "draw": 0.25,
-    "away": 0.27,
-    "over25": 0.59,
-    "btts": 0.55,
-    "expectedCorners": 10.0,
-    "expectedCards": 4.0,
-    "mostLikelyScore": "2-1",
-    "confidence": "mică",
-    "keyAbsences": [
-     "Emre Can, Konstantelias (Dortmund) – accidentări lungi",
-     "Ngankam, Pimpong (Frankfurt) – accidentări"
-    ],
-    "mainPick": {
-     "market": "Peste 2.5 goluri",
-     "code": "O2.5",
-     "probability": 0.59,
-     "confidence": "mică",
-     "reason": "Frankfurt marchează mult, Bundesliga cu 65% peste 2.5"
-    },
-    "picks": [
-     {
-      "market": "Ambele marchează",
-      "code": "GG",
-      "probability": 0.55,
-      "confidence": "mică",
-      "reason": "Dortmund primește gol des"
-     },
-     {
-      "market": "Victorie Dortmund",
-      "code": "1",
-      "probability": 0.48,
-      "confidence": "mică",
-      "reason": "acasă dar instabil"
-     }
-    ]
-   }
-  },
-  {
-   "fotmobId": 5749717,
-   "home": "Napoli",
-   "away": "Roma",
-   "kickoff": "2026-10-24T16:00:00Z",
-   "createdAt": 1792743367461,
-   "text": "## Pe scurt\nNapoli – Roma cu absențe importante de ambele părți; ambele joacă în 3-4-2-1 și au marcat des recent.\n## Ce s-a schimbat (știri și absențe)\nNapoli fără Neres, Buongiorno, Alisson Santos, Favasuli. Roma fără Dybala, Svilar (portar titular), Pellegrini, Koné – Gollini în poartă.\n## Analiză\nRoma a primit 4 de la Real Madrid și a făcut 2-2 cu Inter; Napoli 4-3 cu Bodø/Glimt, 1-3 cu Villarreal. Serie A în observațiile mele: 75% peste 2.5. Fără Svilar, Roma are portar de rezervă.\n## Pontul principal\nPeste 2.5 goluri (~60%): apărări cu probleme și Serie A cu media 3.1 goluri/meci.\n## Alte ponturi\nGG ~56%; X ~27%.\nNotă: cotele casei de pariuri nu au putut fi găsite azi; probabilitățile pornesc din forma recentă, absențe și observațiile ligii. Nu promit câștiguri.",
-   "verdict": {
-    "summary": "Meci tactic dar cu absențe care favorizează golurile.",
-    "home": 0.45,
-    "draw": 0.28,
-    "away": 0.27,
-    "over25": 0.6,
-    "btts": 0.56,
-    "expectedCorners": 9.5,
-    "expectedCards": 4.5,
-    "mostLikelyScore": "2-1",
-    "confidence": "mică",
-    "keyAbsences": [
-     "Svilar, Dybala, Pellegrini, Koné (Roma) – accidentări",
-     "Neres, Buongiorno (Napoli) – accidentări"
-    ],
-    "mainPick": {
-     "market": "Peste 2.5 goluri",
-     "code": "O2.5",
-     "probability": 0.6,
-     "confidence": "mică",
-     "reason": "apărări slăbite de absențe, Serie A cu goluri multe"
-    },
-    "picks": [
-     {
-      "market": "Ambele marchează",
-      "code": "GG",
-      "probability": 0.56,
-      "confidence": "mică",
-      "reason": "ambele marchează constant"
-     },
-     {
-      "market": "Egal sau victorie Roma",
-      "code": "X2",
-      "probability": 0.55,
-      "confidence": "mică",
-      "reason": "Napoli fără Neres"
-     }
-    ]
-   }
-  },
-  {
-   "fotmobId": 5795485,
-   "home": "Arsenal",
-   "away": "Everton",
-   "kickoff": "2026-10-24T14:00:00Z",
-   "createdAt": 1792743367461,
-   "text": "## Pe scurt\nArsenal favorit clar acasă, dar fără Saka; Everton joacă prudent (0-0, 1-0, 1-0 în meciurile recente) și marchează puțin.\n## Ce s-a schimbat (știri și absențe)\nArsenal fără Saka și Tzolis (noiembrie), Hincapié incert, Saliba revine din antrenamente. Everton fără probleme majore.\n## Analiză\nArsenal a pierdut 0-3 la Brighton recent, dar a ținut poarta intactă în 2 din ultimele 5. Everton a marcat doar 0,1,1,2,0 în ultimele 5 meciuri. Probabilitate Arsenal ~65%, cotă mică. Pontul cu valoare: Everton nu marchează.\n## Pontul principal\nNu marchează ambele (~57%): Everton marchează sub 1 gol/meci, în deplasare la o echipă puternică.\n## Alte ponturi\nVictorie Arsenal ~65% (fără valoare); U3.5 ~74% (evident).\nNotă: cotele casei de pariuri nu au putut fi găsite azi; probabilitățile pornesc din forma recentă, absențe și observațiile ligii. Nu promit câștiguri.",
-   "verdict": {
-    "summary": "Arsenal domină, Everton prudent; Everton greu va marca.",
-    "home": 0.65,
-    "draw": 0.22,
-    "away": 0.13,
-    "over25": 0.5,
-    "btts": 0.4,
-    "expectedCorners": 10.0,
-    "expectedCards": 3.5,
-    "mostLikelyScore": "2-0",
-    "confidence": "medie",
-    "keyAbsences": [
-     "Saka (Arsenal) – accidentare până în noiembrie",
-     "Hincapié (Arsenal) – incert"
-    ],
-    "mainPick": {
-     "market": "Nu marchează ambele",
-     "code": "NG",
-     "probability": 0.57,
-     "confidence": "mică",
-     "reason": "Everton are atac slab (sub 1 gol/meci recent)"
-    },
-    "picks": [
-     {
-      "market": "Victorie Arsenal",
-      "code": "1",
-      "probability": 0.65,
-      "confidence": "medie",
-      "reason": "cotă mică, fără valoare"
-     },
-     {
-      "market": "Sub 3.5 goluri",
-      "code": "U3.5",
-      "probability": 0.74,
-      "confidence": "medie",
-      "reason": "Everton prudent"
-     }
-    ]
-   }
-  },
-  {
-   "fotmobId": 5853534,
-   "home": "FCSB",
-   "away": "Rapid București",
-   "kickoff": "2026-10-24T18:00:00Z",
-   "createdAt": 1792743367461,
-   "text": "## Pe scurt\nDerbiul Bucureștiului: Rapid în formă (5 victorii la rând), FCSB instabilă (0-5 cu Universitatea, înfrângere cu Dinamo).\n## Ce s-a schimbat (știri și absențe)\nRapid doar cu Baroan accidentat (zi cu zi). FCSB fără absențe majore anunțate.\n## Analiză\nSuperLiga în observațiile mele: doar 2.4 goluri/meci, 29% peste 2.5 și 43% GG – ligă cu puține goluri. Rapid câștigă dar nu prin multe goluri. FCSB acasă e încă periculoasă într-un derby.\n## Pontul principal\nEgal sau victorie Rapid (~65%): Rapid în formă mult mai bună, FCSB vulnerabilă, iar derby-urile se rezolvă în detalii.\n## Alte ponturi\nSub 2.5 goluri ~56%; victorie Rapid ~38%.\nNotă: cotele casei de pariuri nu au putut fi găsite azi; probabilitățile pornesc din forma recentă, absențe și observațiile ligii. Nu promit câștiguri.",
-   "verdict": {
-    "summary": "Rapid ușor mai în formă; derby cu puține goluri în SuperLiga.",
-    "home": 0.34,
-    "draw": 0.28,
-    "away": 0.38,
-    "over25": 0.4,
-    "btts": 0.45,
-    "expectedCorners": 9.5,
-    "expectedCards": 5.0,
-    "mostLikelyScore": "1-1",
-    "confidence": "mică",
-    "keyAbsences": [
-     "Baroan (Rapid) – zi cu zi"
-    ],
-    "mainPick": {
-     "market": "Egal sau victorie Rapid",
-     "code": "X2",
-     "probability": 0.65,
-     "confidence": "mică",
-     "reason": "Rapid în formă, FCSB instabilă"
-    },
-    "picks": [
-     {
-      "market": "Sub 2.5 goluri",
-      "code": "U2.5",
-      "probability": 0.56,
-      "confidence": "mică",
-      "reason": "SuperLiga cu 29% peste 2.5"
-     },
-     {
-      "market": "Peste 4.5 cartonașe",
-      "code": "KO4.5",
-      "probability": 0.55,
-      "confidence": "mică",
-      "reason": "derby tensionat"
-     }
-    ]
-   }
-  },
-  {
    "fotmobId": 5868110,
    "home": "Valencia",
    "away": "Villarreal",
@@ -1690,6 +1017,477 @@
       "probability": 0.72,
       "confidence": "medie",
       "reason": "Atlético joacă strâns"
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 5795486,
+   "home": "Aston Villa",
+   "away": "Manchester City",
+   "kickoff": "2026-10-24T11:30:00Z",
+   "createdAt": 1792829700000,
+   "text": "## Pe scurt\nCity e ușor favorită, dar ambele echipe sunt în formă ofensivă și au absențe; cel mai solid unghi este GG.\n## Ce s-a schimbat (știri și absențe)\nVilla: lipsesc Onana (până în aprilie), Wan-Bissaka, Ruggeri; Manzambi incert. City: Semenyo out până în decembrie, Nunes, O'Reilly și Kovačić incerți.\n## Analiză\nVilla vine cu WDWWW (6-0 cu Fenerbahçe, 3-1 cu Viking), City cu WWLWW (5-3 cu Sunderland, 5-1 cu AEK, 3-2 cu Ipswich). City marchează mult, dar a primit 3, 2, 3 goluri în ultimele meciuri; Villa are atac bun acasă. Premier League are media 3.1 goluri și ~60% GG. Nu am găsit cote actuale ale caselor de pariuri pentru acest meci, așa că probabilitățile pornesc de la formă, absențe și mediile recente ale ligii; tratează-le cu prudență.\n## Pontul principal\nAmbele echipe marchează (GG), probabilitate ~64%.\n## Alte ponturi\nPeste 2.5 goluri ~64%; City sau egal (X2) ~70%.",
+   "verdict": {
+    "summary": "City ușor favorită, dar meci deschis cu goluri de ambele părți.",
+    "home": 0.3,
+    "draw": 0.24,
+    "away": 0.46,
+    "over25": 0.64,
+    "btts": 0.64,
+    "expectedCorners": 10.2,
+    "expectedCards": 4.2,
+    "mostLikelyScore": "1-2",
+    "confidence": "medie",
+    "keyAbsences": [
+     "Amadou Onana (Villa) – accidentare lungă",
+     "Aaron Wan-Bissaka (Villa) – accidentare",
+     "Antoine Semenyo (City) – accidentare lungă",
+     "Matheus Nunes, Nico O'Reilly, Mateo Kovačić (City) – incerți"
+    ],
+    "mainPick": {
+     "market": "Ambele echipe marchează",
+     "code": "GG",
+     "probability": 0.64,
+     "confidence": "medie",
+     "reason": "Atacuri în formă, ambele primesc goluri."
+    },
+    "picks": [
+     {
+      "market": "Peste 2.5 goluri",
+      "code": "O2.5",
+      "probability": 0.64,
+      "confidence": "medie",
+      "reason": "Media ligii 3.1 goluri."
+     },
+     {
+      "market": "City sau egal",
+      "code": "X2",
+      "probability": 0.7,
+      "confidence": "medie",
+      "reason": "City mai bună pe lot, dar Villa e periculoasă acasă."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 5795487,
+   "home": "Chelsea",
+   "away": "Tottenham Hotspur",
+   "kickoff": "2026-10-24T16:30:00Z",
+   "createdAt": 1792829700000,
+   "text": "## Pe scurt\nChelsea acasă cu un Tottenham decimat de absențe; meciul pare deschis, peste 2.5 e pontul principal.\n## Ce s-a schimbat (știri și absențe)\nChelsea: lipsesc Reece James (până în ianuarie), Chavarría, Emegha, Gittens, portarul E. Martínez. Tottenham: Xavi Simons, Mudryk, Sávio, Odobert, Bentancur, Bergvall out; Porro, Udogie și Adarabioyo incerți.\n## Analiză\nChelsea: 6-3 cu Leeds, 5-1 cu Bournemouth, dar și 0-3 la Brentford și 2-2 cu Hull – marchează mult și primește mult. Tottenham DLLDW, 9 absenți, 1-3 la Liverpool și 2-3 cu Villa. Defensivele fragile ale ambelor părți susțin goluri multe. Nu am găsit cote actuale ale caselor de pariuri pentru acest meci, așa că probabilitățile pornesc de la formă, absențe și mediile recente ale ligii; tratează-le cu prudență.\n## Pontul principal\nPeste 2.5 goluri, ~68%.\n## Alte ponturi\nAmbele marchează ~62%; Chelsea câștigă ~52%.",
+   "verdict": {
+    "summary": "Chelsea favorită acasă, meci cu multe goluri.",
+    "home": 0.52,
+    "draw": 0.24,
+    "away": 0.24,
+    "over25": 0.68,
+    "btts": 0.62,
+    "expectedCorners": 10.0,
+    "expectedCards": 3.8,
+    "mostLikelyScore": "2-1",
+    "confidence": "medie",
+    "keyAbsences": [
+     "Reece James (Chelsea) – accidentare lungă",
+     "Xavi Simons, Mudryk, Sávio, Odobert (Tottenham) – accidentări",
+     "Porro, Udogie, Adarabioyo (Tottenham) – incerți"
+    ],
+    "mainPick": {
+     "market": "Peste 2.5 goluri",
+     "code": "O2.5",
+     "probability": 0.68,
+     "confidence": "medie",
+     "reason": "Defensive fragile, atacuri în formă."
+    },
+    "picks": [
+     {
+      "market": "Ambele echipe marchează",
+      "code": "GG",
+      "probability": 0.62,
+      "confidence": "medie",
+      "reason": "Tottenham a marcat în 4 din 5."
+     },
+     {
+      "market": "Chelsea câștigă",
+      "code": "1",
+      "probability": 0.52,
+      "confidence": "mică",
+      "reason": "Avantaj acasă și lot mai complet."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 5749717,
+   "home": "Napoli",
+   "away": "Roma",
+   "kickoff": "2026-10-24T16:00:00Z",
+   "createdAt": 1792829700000,
+   "text": "## Pe scurt\nDerby-ul sudului cu absențe grele la ambele; Napoli e ușor favorită, dar fără apărare solidă, 1X e varianta cea mai sigură.\n## Ce s-a schimbat (știri și absențe)\nNapoli: lipsesc Buongiorno, Neres, Alisson Santos, Favasuli (până în noiembrie). Roma: portarul Svilar, Pellegrini, Koné și Dybala out.\n## Analiză\nNapoli DWLLW (1-1 cu Fiorentina, 3-1 pierdut la Villarreal, 0-1 la Venezia, 4-3 cu Bodø/Glimt); Roma DDLWW (2-2 Inter, 0-0 Como, 3-4 cu Real Madrid). Roma fără portar titular și cu mijlocul decimat, Napoli fără fundaș central. Serie A: ~3.1 goluri/meci. Nu am găsit cote actuale ale caselor de pariuri pentru acest meci, așa că probabilitățile pornesc de la formă, absențe și mediile recente ale ligii; tratează-le cu prudență.\n## Pontul principal\nNapoli sau egal (1X), ~69%.\n## Alte ponturi\nGG ~56%; peste 2.5 ~52%.",
+   "verdict": {
+    "summary": "Napoli ușor favorită acasă, dar cu apărarea slăbită.",
+    "home": 0.42,
+    "draw": 0.29,
+    "away": 0.29,
+    "over25": 0.52,
+    "btts": 0.56,
+    "expectedCorners": 9.6,
+    "expectedCards": 4.6,
+    "mostLikelyScore": "2-1",
+    "confidence": "mică",
+    "keyAbsences": [
+     "Alessandro Buongiorno, David Neres (Napoli) – accidentări",
+     "Mile Svilar, Lorenzo Pellegrini, Manu Koné, Paulo Dybala (Roma) – accidentări"
+    ],
+    "mainPick": {
+     "market": "Napoli sau egal",
+     "code": "1X",
+     "probability": 0.69,
+     "confidence": "medie",
+     "reason": "Acasă, Roma cu portar și mijloc de rezervă."
+    },
+    "picks": [
+     {
+      "market": "Ambele echipe marchează",
+      "code": "GG",
+      "probability": 0.56,
+      "confidence": "mică",
+      "reason": "Ambele cu apărări slăbite."
+     },
+     {
+      "market": "Peste 2.5 goluri",
+      "code": "O2.5",
+      "probability": 0.52,
+      "confidence": "mică",
+      "reason": "Ambele au prins meciuri cu 6-7 goluri recent."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 5881198,
+   "home": "Borussia Dortmund",
+   "away": "Eintracht Frankfurt",
+   "kickoff": "2026-10-24T16:30:00Z",
+   "createdAt": 1792829700000,
+   "text": "## Pe scurt\nDortmund acasă, formă mixtă; Frankfurt a luat 0-6 de la Leipzig dar a bătut și cu 4-0; peste 2.5 e pontul.\n## Ce s-a schimbat (știri și absențe)\nDortmund: lipsesc Emre Can, Konstantelias, Karetsas, Prates, Lerma. Frankfurt: doar Ngankam și Pimpong (neimportanți).\n## Analiză\nDortmund WDLDW (2-2 cu Werder, 0-0 la Union, 1-2 la Sabah) are dificultăți la finalizare; Frankfurt WDWLW foarte inegal (6-0 pierdut, 2-2, 4-0). Bundesliga ~3.4 goluri/meci, peste 2.5 ~65%. Nu am găsit cote actuale ale caselor de pariuri pentru acest meci, așa că probabilitățile pornesc de la formă, absențe și mediile recente ale ligii; tratează-le cu prudență.\n## Pontul principal\nPeste 2.5 goluri, ~66%.\n## Alte ponturi\nDortmund câștigă ~50%; GG ~64%.",
+   "verdict": {
+    "summary": "Dortmund favorită, meci cu goluri datorită defensivelor inegale.",
+    "home": 0.5,
+    "draw": 0.24,
+    "away": 0.26,
+    "over25": 0.66,
+    "btts": 0.64,
+    "expectedCorners": 9.8,
+    "expectedCards": 3.6,
+    "mostLikelyScore": "2-1",
+    "confidence": "medie",
+    "keyAbsences": [
+     "Emre Can, Konstantinos Karetsas (Dortmund) – accidentări",
+     "Giannis Konstantelias (Dortmund) – accidentare lungă"
+    ],
+    "mainPick": {
+     "market": "Peste 2.5 goluri",
+     "code": "O2.5",
+     "probability": 0.66,
+     "confidence": "medie",
+     "reason": "Media ligii 3.4 goluri, defensive inegale."
+    },
+    "picks": [
+     {
+      "market": "Ambele echipe marchează",
+      "code": "GG",
+      "probability": 0.64,
+      "confidence": "medie",
+      "reason": "Frankfurt marchează constant în deplasare."
+     },
+     {
+      "market": "Dortmund câștigă",
+      "code": "1",
+      "probability": 0.5,
+      "confidence": "mică",
+      "reason": "Avantaj acasă."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 5795485,
+   "home": "Arsenal",
+   "away": "Everton",
+   "kickoff": "2026-10-24T14:00:00Z",
+   "createdAt": 1792829700000,
+   "text": "## Pe scurt\nArsenal favorită, dar fără Saka și Saliba; Everton e compactă – nu mizez pe multe goluri, NG e pontul.\n## Ce s-a schimbat (știri și absențe)\nArsenal: Saka (până în decembrie), Saliba (noiembrie), Tzolis out; Hincapié incert. Everton: fără absențe.\n## Analiză\nArsenal LWWWD (0-3 la Brighton, 1-0 la Forest). Everton DWWDL: 1-0, 1-0, 0-0, 2-2, 0-2 – a marcat în doar 2 din ultimele 5. Arsenal rămâne solidă defensiv chiar și fără Saliba, dar atacul pierde creativitate fără Saka. Nu am găsit cote actuale ale caselor de pariuri pentru acest meci, așa că probabilitățile pornesc de la formă, absențe și mediile recente ale ligii; tratează-le cu prudență.\n## Pontul principal\nAmbele NU marchează (NG), ~58%.\n## Alte ponturi\nSub 3.5 goluri ~72%; Arsenal câștigă ~58%.",
+   "verdict": {
+    "summary": "Arsenal favorită, meci cu puține goluri.",
+    "home": 0.58,
+    "draw": 0.24,
+    "away": 0.18,
+    "over25": 0.45,
+    "btts": 0.42,
+    "expectedCorners": 8.8,
+    "expectedCards": 3.4,
+    "mostLikelyScore": "2-0",
+    "confidence": "medie",
+    "keyAbsences": [
+     "Bukayo Saka, William Saliba (Arsenal) – accidentări",
+     "Piero Hincapié (Arsenal) – incert"
+    ],
+    "mainPick": {
+     "market": "Ambele nu marchează",
+     "code": "NG",
+     "probability": 0.58,
+     "confidence": "mică",
+     "reason": "Everton a marcat în 2 din 5 meciuri."
+    },
+    "picks": [
+     {
+      "market": "Sub 3.5 goluri",
+      "code": "U3.5",
+      "probability": 0.72,
+      "confidence": "medie",
+      "reason": "Everton joacă cu puține goluri."
+     },
+     {
+      "market": "Arsenal câștigă",
+      "code": "1",
+      "probability": 0.58,
+      "confidence": "mică",
+      "reason": "Calitate superioară, acasă."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 5853534,
+   "home": "FCSB",
+   "away": "Rapid București",
+   "kickoff": "2026-10-24T18:00:00Z",
+   "createdAt": 1792829700000,
+   "text": "## Pe scurt\nDerby-ul Bucureștiului între o FCSB inegală și un Rapid cu 5 victorii la rând; ligă cu puține goluri, U3.5 este pontul.\n## Ce s-a schimbat (știri și absențe)\nFCSB: fără absențe notabile. Rapid: doar Baroan e incert.\n## Analiză\nFCSB LDLWW (0-5 cu U Cluj, 1-2 cu Dinamo), Rapid WWWWW (3-4 la U Cluj, 3-1, 2-1). SuperLiga: media doar 2.42 goluri și ~29% peste 2.5. Derby-urile sunt tensionate. Rapid e în formă, dar nu le presupun un meci spectaculos. Nu am găsit cote actuale ale caselor de pariuri pentru acest meci, așa că probabilitățile pornesc de la formă, absențe și mediile recente ale ligii; tratează-le cu prudență.\n## Pontul principal\nSub 3.5 goluri, ~70%.\n## Alte ponturi\nRapid sau egal (X2) ~64%.",
+   "verdict": {
+    "summary": "Meci echilibrat, Rapid în formă mai bună.",
+    "home": 0.38,
+    "draw": 0.29,
+    "away": 0.33,
+    "over25": 0.42,
+    "btts": 0.5,
+    "expectedCorners": 9.4,
+    "expectedCards": 5.2,
+    "mostLikelyScore": "1-1",
+    "confidence": "mică",
+    "keyAbsences": [],
+    "mainPick": {
+     "market": "Sub 3.5 goluri",
+     "code": "U3.5",
+     "probability": 0.7,
+     "confidence": "medie",
+     "reason": "Media ligii 2.4 goluri; derby tensionat."
+    },
+    "picks": [
+     {
+      "market": "Rapid sau egal",
+      "code": "X2",
+      "probability": 0.64,
+      "confidence": "mică",
+      "reason": "Rapid are 5 victorii la rând."
+     },
+     {
+      "market": "Peste 4.5 cartonașe",
+      "code": "KO4.5",
+      "probability": 0.55,
+      "confidence": "mică",
+      "reason": "Derby cu multe faulturi."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 5868105,
+   "home": "Barcelona",
+   "away": "Real Madrid",
+   "kickoff": "2026-10-25T20:00:00Z",
+   "createdAt": 1792829700000,
+   "text": "## Pe scurt\nEl Clásico cu absențe pe ambele părți; goluri de ambele părți e cea mai probabilă variantă.\n## Ce s-a schimbat (știri și absențe)\nBarcelona: Koundé, Eric García, Christensen, Olmo out. Real Madrid: Vinícius (noiembrie), Rodrigo, Asencio out; Mendy revine în antrenament.\n## Analiză\nBarcelona WWWWL (4-1 la Galatasaray, 5-2 la Betis, 4-2 pierdut la PSG); Real Madrid LWWWW (1-2 la Atlético, apoi 4-1 cu Sevilla și 4-1 cu Leipzig). Ambele concedează constant și marchează 3-5. Apărarea Barcelonei este decimată (3 fundași out). LaLiga ~3.1 goluri, 60% GG. Nu am găsit cote actuale ale caselor de pariuri pentru acest meci, așa că probabilitățile pornesc de la formă, absențe și mediile recente ale ligii; tratează-le cu prudență.\n## Pontul principal\nAmbele marchează (GG), ~68%.\n## Alte ponturi\nPeste 2.5 ~66%; Barcelona câștigă ~46%.",
+   "verdict": {
+    "summary": "Clásico deschis, ușor avantaj acasă pentru Barcelona.",
+    "home": 0.46,
+    "draw": 0.24,
+    "away": 0.3,
+    "over25": 0.66,
+    "btts": 0.68,
+    "expectedCorners": 9.4,
+    "expectedCards": 5.0,
+    "mostLikelyScore": "2-2",
+    "confidence": "medie",
+    "keyAbsences": [
+     "Jules Koundé, Eric García, Andreas Christensen (Barcelona) – accidentări",
+     "Dani Olmo (Barcelona) – accidentare",
+     "Vinícius Júnior, Rodrygo (Real Madrid) – accidentări"
+    ],
+    "mainPick": {
+     "market": "Ambele echipe marchează",
+     "code": "GG",
+     "probability": 0.68,
+     "confidence": "medie",
+     "reason": "Ambele concedează constant, apărarea Barcelonei decimată."
+    },
+    "picks": [
+     {
+      "market": "Peste 2.5 goluri",
+      "code": "O2.5",
+      "probability": 0.66,
+      "confidence": "medie",
+      "reason": "Formă ofensivă, apărări slăbite."
+     },
+     {
+      "market": "Peste 4.5 cartonașe",
+      "code": "KO4.5",
+      "probability": 0.6,
+      "confidence": "mică",
+      "reason": "Clásico, tensiune ridicată."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 5781783,
+   "home": "PSV Eindhoven",
+   "away": "Feyenoord",
+   "kickoff": "2026-10-25T13:30:00Z",
+   "createdAt": 1792829700000,
+   "text": "## Pe scurt\nEredivisie cu 4 goluri/meci și 82% GG; ambele echipe cu multe absențe în apărare/mijloc: GG.\n## Ce s-a schimbat (știri și absențe)\nPSV: 8 absenți (Mijnans, Wanner, Pléa, Nagalo etc.; Pepi, Lammers, Schouten day to day). Feyenoord: 7 absenți (Bos, Nelson, Moder, Smal, Nieuwkoop etc.).\n## Analiză\nPSV LWLLW (3-2 pierdut cu Twente, 1-0 la Leipzig), Feyenoord WWWWL (5-0 cu Utrecht, 3-4 la Telstar, 3-2 cu Como). Liga olandeză: 4.06 goluri/meci, GG 82%, peste 2.5 77%. Feyenoord în formă mai bună. Nu am găsit cote actuale ale caselor de pariuri pentru acest meci, așa că probabilitățile pornesc de la formă, absențe și mediile recente ale ligii; tratează-le cu prudență.\n## Pontul principal\nAmbele marchează (GG), ~70%.\n## Alte ponturi\nPeste 2.5 goluri ~74%.",
+   "verdict": {
+    "summary": "Meci cu multe goluri în care Feyenoord e în formă mai bună.",
+    "home": 0.42,
+    "draw": 0.24,
+    "away": 0.34,
+    "over25": 0.74,
+    "btts": 0.7,
+    "expectedCorners": 10.4,
+    "expectedCards": 3.6,
+    "mostLikelyScore": "2-2",
+    "confidence": "medie",
+    "keyAbsences": [
+     "Sven Mijnans, Paul Wanner, Alassane Pléa (PSV) – accidentări",
+     "Jordan Bos, Reiss Nelson (Feyenoord) – accidentări"
+    ],
+    "mainPick": {
+     "market": "Ambele echipe marchează",
+     "code": "GG",
+     "probability": 0.7,
+     "confidence": "medie",
+     "reason": "Eredivisie 82% GG, apărări decimate."
+    },
+    "picks": [
+     {
+      "market": "Peste 2.5 goluri",
+      "code": "O2.5",
+      "probability": 0.74,
+      "confidence": "medie",
+      "reason": "Media ligii 4 goluri/meci."
+     },
+     {
+      "market": "Peste 3.5 goluri",
+      "code": "O3.5",
+      "probability": 0.52,
+      "confidence": "mică",
+      "reason": "Eredivisie cu multe goluri."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 5881200,
+   "home": "Freiburg",
+   "away": "Bayern München",
+   "kickoff": "2026-10-25T16:30:00Z",
+   "createdAt": 1792829700000,
+   "text": "## Pe scurt\nBayern favorită clară, dar fără Musiala și Díaz, iar Freiburg marchează acasă; GG e pontul.\n## Ce s-a schimbat (știri și absențe)\nFreiburg: doar Muslija out. Bayern: Musiala (câteva săptămâni), Díaz (noiembrie) out; Kim Min-jae incert.\n## Analiză\nFreiburg WWWLL (4-2, 2-1, 3-2 acasă), Bayern WDDWD (7-0 cu Union, 2-2 cu Arsenal, 3-3 la Viking, 2-2 la Augsburg). Bayern a primit goluri în 4 din ultimele 5 meciuri. Bundesliga: peste 2.5 ~65%. Nu am găsit cote actuale ale caselor de pariuri pentru acest meci, așa că probabilitățile pornesc de la formă, absențe și mediile recente ale ligii; tratează-le cu prudență.\n## Pontul principal\nAmbele marchează (GG), ~64%.\n## Alte ponturi\nPeste 2.5 goluri ~74%; Bayern câștigă ~63%.",
+   "verdict": {
+    "summary": "Bayern favorită, dar Freiburg marchează acasă.",
+    "home": 0.17,
+    "draw": 0.2,
+    "away": 0.63,
+    "over25": 0.74,
+    "btts": 0.64,
+    "expectedCorners": 9.0,
+    "expectedCards": 3.4,
+    "mostLikelyScore": "1-3",
+    "confidence": "medie",
+    "keyAbsences": [
+     "Jamal Musiala, Luis Díaz (Bayern) – accidentări",
+     "Kim Min-jae (Bayern) – incert"
+    ],
+    "mainPick": {
+     "market": "Ambele echipe marchează",
+     "code": "GG",
+     "probability": 0.64,
+     "confidence": "medie",
+     "reason": "Bayern primește goluri constant, Freiburg a marcat 3-4 acasă."
+    },
+    "picks": [
+     {
+      "market": "Peste 2.5 goluri",
+      "code": "O2.5",
+      "probability": 0.74,
+      "confidence": "medie",
+      "reason": "Bayern în meciuri cu mulți goluri."
+     },
+     {
+      "market": "Bayern câștigă",
+      "code": "2",
+      "probability": 0.63,
+      "confidence": "medie",
+      "reason": "Calitate superioară."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 5795492,
+   "home": "Liverpool",
+   "away": "Brighton & Hove Albion",
+   "kickoff": "2026-10-25T14:00:00Z",
+   "createdAt": 1792829700000,
+   "text": "## Pe scurt\nLiverpool decimată de accidentări (Szoboszlai, Frimpong, Ekitike, Bradley), Brighton în formă; meci cu goluri de ambele părți.\n## Ce s-a schimbat (știri și absențe)\nLiverpool: Szoboszlai (noiembrie), Frimpong, Ekitike (ianuarie), Bradley, Leoni out; Muñoz incert. Brighton: Mitoma, Ferguson, Minteh, Tzimas, Azeez, Yohanna out; Struijk incert.\n## Analiză\nLiverpool WLWWW (0-3 cu City, 4-3 cu Villarreal, 6-3 la LASK), Brighton WWWWD (3-0 cu Arsenal, 5-0 cu Palace). Ambele apărări primesc goluri în cupe europene. Brighton cu 8 absenți. Nu am găsit cote actuale ale caselor de pariuri pentru acest meci, așa că probabilitățile pornesc de la formă, absențe și mediile recente ale ligii; tratează-le cu prudență.\n## Pontul principal\nAmbele marchează (GG), ~60%.\n## Alte ponturi\nPeste 2.5 goluri ~60%; Liverpool sau egal ~75%.",
+   "verdict": {
+    "summary": "Liverpool ușor favorită acasă, dar cu lotul subțire.",
+    "home": 0.5,
+    "draw": 0.25,
+    "away": 0.25,
+    "over25": 0.6,
+    "btts": 0.6,
+    "expectedCorners": 10.0,
+    "expectedCards": 3.4,
+    "mostLikelyScore": "2-1",
+    "confidence": "mică",
+    "keyAbsences": [
+     "Dominik Szoboszlai, Jeremie Frimpong, Hugo Ekitiké, Conor Bradley (Liverpool) – accidentări",
+     "Kaoru Mitoma, Evan Ferguson, Yankuba Minteh (Brighton) – accidentări"
+    ],
+    "mainPick": {
+     "market": "Ambele echipe marchează",
+     "code": "GG",
+     "probability": 0.6,
+     "confidence": "mică",
+     "reason": "Ambele în formă ofensivă, cu absențe în apărare."
+    },
+    "picks": [
+     {
+      "market": "Peste 2.5 goluri",
+      "code": "O2.5",
+      "probability": 0.6,
+      "confidence": "mică",
+      "reason": "Media ligii 3.1 goluri."
+     },
+     {
+      "market": "Liverpool sau egal",
+      "code": "1X",
+      "probability": 0.75,
+      "confidence": "medie",
+      "reason": "Acasă, formă bună."
      }
     ]
    }

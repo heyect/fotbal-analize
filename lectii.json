@@ -547,5 +547,77 @@
   "correct": null,
   "lesson": "Levski a câștigat în deplasare la Plzeň (xG 1.04 vs 1.05, ambele echipe egale statistic) – gazdele cehe nu sunt favorite clare în EL, diferența de nivel e mai mică decât indică cotele de campionat.",
   "createdAt": 1792743367461
+ },
+ {
+  "fotmobId": 5795491,
+  "match": "Ipswich Town – Nottingham Forest",
+  "score": "1-1",
+  "pick": "Ambele echipe marchează",
+  "correct": true,
+  "lesson": "GG a ieșit, dar Forest a dominat (xG 2.29 vs 0.46, 17-7 la șuturi) – la o gazdă promovată, GG se păstrează și când oaspetele e clar superior, fiindcă gazda marchează din puținele ocazii.",
+  "createdAt": 1792829700000
+ },
+ {
+  "fotmobId": 5881205,
+  "match": "VfB Stuttgart – Borussia Mönchengladbach",
+  "score": "2-3",
+  "pick": "Peste 2.5 goluri",
+  "correct": true,
+  "lesson": "Peste 2.5 a ieșit ușor (5 goluri, xG 1.53-2.60); Stuttgart cu 5 absenți și 70% posesie a primit 3 goluri – gazdele cu absenți în apărare sunt vulnerabile.",
+  "createdAt": 1792829700000
+ },
+ {
+  "fotmobId": 5836887,
+  "match": "Bolton Wanderers – Middlesbrough",
+  "score": "1-5",
+  "pick": null,
+  "correct": null,
+  "lesson": "Middlesbrough a câștigat cu 5-1 în deplasare (xG 4.17 vs 0.91, 31 de șuturi); în Championship, victoriile gazdelor sunt doar ~36%, deci favoriții din deplasare sunt subestimați de cotele de gazdă.",
+  "createdAt": 1792829700000
+ },
+ {
+  "fotmobId": 5887662,
+  "match": "Vitória de Guimarães – Marítimo",
+  "score": "5-0",
+  "pick": null,
+  "correct": null,
+  "lesson": "5-0 cu xG doar 1.78-0.52 – scorul a fost umflat de finalizare; nu extrapola un scor-fluviu, ci forma pe xG.",
+  "createdAt": 1792829700000
+ },
+ {
+  "fotmobId": 5853533,
+  "match": "Botoșani – Petrolul Ploiești",
+  "score": "1-3",
+  "pick": null,
+  "correct": null,
+  "lesson": "Petrolul a câștigat 3-1 în deplasare cu 4 cartonașe pentru gazde și 12-10 la șuturi; în SuperLiga, victoriile oaspeților apar mai des decât indică cota de gazdă.",
+  "createdAt": 1792829700000
+ },
+ {
+  "fotmobId": 5853529,
+  "match": "Corvinul Hunedoara – Universitatea Cluj",
+  "score": "0-3",
+  "pick": null,
+  "correct": null,
+  "lesson": "U Cluj a câștigat 3-0 deși Corvinul a avut 19 șuturi și 10 cornere; 2 goluri în ultimele 9 minute – eficiența bate dominarea la cornere în SuperLiga.",
+  "createdAt": 1792829700000
+ },
+ {
+  "fotmobId": 5739531,
+  "match": "Randers FC – Brøndby IF",
+  "score": "1-3",
+  "pick": null,
+  "correct": null,
+  "lesson": "Brøndby a câștigat 3-1 în deplasare cu xG 3.50 vs 2.03; ambele echipe au creat mult, deci peste 2.5 era semnalul în Superliga daneză (3.55 goluri/meci).",
+  "createdAt": 1792829700000
+ },
+ {
+  "fotmobId": 5802966,
+  "match": "Brest – Nice",
+  "score": "1-2",
+  "pick": null,
+  "correct": null,
+  "lesson": "Brest a dominat (xG 2.48 vs 0.44, 13-9 la șuturi) dar a pierdut cu 1-2 – Nice a marcat 2 din 2 ocazii; xG mare al unei gazde nu garantează câștigul.",
+  "createdAt": 1792829700000
  }
 ]
