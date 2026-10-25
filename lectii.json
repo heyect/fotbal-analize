@@ -619,5 +619,149 @@
   "correct": null,
   "lesson": "Brest a dominat (xG 2.48 vs 0.44, 13-9 la șuturi) dar a pierdut cu 1-2 – Nice a marcat 2 din 2 ocazii; xG mare al unei gazde nu garantează câștigul.",
   "createdAt": 1792829700000
+ },
+ {
+  "fotmobId": 5868110,
+  "match": "Valencia – Villarreal",
+  "score": "1-2",
+  "pick": "Egal sau victorie Villarreal",
+  "correct": true,
+  "lesson": "Villarreal a câștigat la Valencia (1-2); dublă șansă pe oaspetele mai bun la formă a ieșit – când cotele și forma indică aceeași echipă, X2/1X rămâne un pont stabil.",
+  "createdAt": 1792919621250
+ },
+ {
+  "fotmobId": 5868103,
+  "match": "Atlético Madrid – Deportivo A Coruña",
+  "score": "1-0",
+  "pick": "Victorie Atlético",
+  "correct": true,
+  "lesson": "Atlético a câștigat doar 1-0 cu o echipă de nivel inferior; victoria simplă a ieșit, dar scorul mic arată că favoriții din La Liga nu închid meciul – evită handicapuri largi.",
+  "createdAt": 1792919621250
+ },
+ {
+  "fotmobId": 5795486,
+  "match": "Aston Villa – Manchester City",
+  "score": "2-1",
+  "pick": "Ambele echipe marchează",
+  "correct": true,
+  "lesson": "Villa a învins City cu 2-1 și GG a ieșit; ambele atacuri au marcat, confirmând că în meciurile dintre echipe din top GG e mai sigur decât victoria favoritei.",
+  "createdAt": 1792919621250
+ },
+ {
+  "fotmobId": 5795487,
+  "match": "Chelsea – Tottenham Hotspur",
+  "score": "0-2",
+  "pick": "Peste 2.5 goluri",
+  "correct": false,
+  "lesson": "Chelsea–Tottenham 0-2 cu xG doar 0.47-0.74 și cu un roșu pentru Chelsea; ambele goluri au venit abia în min. 77 și 87 – peste 2.5 a fost supraestimat într-un meci cu xG total sub 1.5; am ignorat că derby-urile londoneze sunt tensionate și închise.",
+  "createdAt": 1792919621250
+ },
+ {
+  "fotmobId": 5749717,
+  "match": "Napoli – Roma",
+  "score": "3-3",
+  "pick": "Napoli sau egal",
+  "correct": true,
+  "lesson": "Napoli–Roma 3-3 (xG 2.44-1.90): 1X a ieșit, dar Napoli a condus de 2 ori și a fost egalată; apărarea ambelor echipe primește goluri, GG/peste 2.5 era piața mai potrivită.",
+  "createdAt": 1792919621250
+ },
+ {
+  "fotmobId": 5881198,
+  "match": "Borussia Dortmund – Eintracht Frankfurt",
+  "score": "1-0",
+  "pick": "Peste 2.5 goluri",
+  "correct": false,
+  "lesson": "Dortmund–Frankfurt 1-0 cu gol în min. 80 deși a avut 18 șuturi, xG 1.48 și 13 cornere; dominarea gazdei nu a produs al doilea gol – am supraestimat peste 2.5 pentru o echipă care domină dar finalizează slab.",
+  "createdAt": 1792919621250
+ },
+ {
+  "fotmobId": 5795485,
+  "match": "Arsenal – Everton",
+  "score": "2-0",
+  "pick": "Ambele nu marchează",
+  "correct": true,
+  "lesson": "Arsenal–Everton 2-0 (xG 1.96-0.63): NG a ieșit fiindcă Everton a fost slabă în atac; echipele din top cu apărare solidă acasă contra unei echipe fără atac sunt un pont NG fiabil.",
+  "createdAt": 1792919621250
+ },
+ {
+  "fotmobId": 5853534,
+  "match": "FCSB – Rapid București",
+  "score": "4-1",
+  "pick": "Sub 3.5 goluri",
+  "correct": false,
+  "lesson": "FCSB–Rapid 4-1: 22 de șuturi la 6 și 3 goluri în ultimele 32 de minute; sub 3.5 a căzut din cauza dominării totale a gazdelor – în SuperLiga, când o echipă domină clar la șuturi, golurile târzii apar frecvent.",
+  "createdAt": 1792919621250
+ },
+ {
+  "fotmobId": 5781785,
+  "match": "Willem II – Cambuur",
+  "score": "1-6",
+  "pick": null,
+  "correct": null,
+  "lesson": "Cambuur a câștigat 6-1 în deplasare cu xG 1.91 vs 1.04 – scor umflat de finalizare; în Eredivisie (4+ goluri/meci) apărările se prăbușesc rapid când gazda cade în urmă, deci peste 3.5 era de luat în calcul.",
+  "createdAt": 1792919621250
+ },
+ {
+  "fotmobId": 5811790,
+  "match": "Westerlo – SK Beveren",
+  "score": "4-4",
+  "pick": null,
+  "correct": null,
+  "lesson": "4-4 cu xG 2.41-2.08 și un roșu pentru Westerlo; în Pro League belgiană (3.6 goluri/meci) meciurile între echipe de mijloc cu apărări slabe merită peste 3.5 și GG.",
+  "createdAt": 1792919621250
+ },
+ {
+  "fotmobId": 5881705,
+  "match": "Magdeburg – Karlsruher SC",
+  "score": "6-1",
+  "pick": null,
+  "correct": null,
+  "lesson": "Magdeburg a câștigat 6-1 cu xG 2.70-0.71; în 2. Bundesliga gazdele puternice acasă pot rupe echipe slabe în deplasare – cota de victorie a gazdei era subevaluată de media ligii (2.5 goluri).",
+  "createdAt": 1792919621250
+ },
+ {
+  "fotmobId": 5836893,
+  "match": "Queens Park Rangers – Swansea City",
+  "score": "5-0",
+  "pick": null,
+  "correct": null,
+  "lesson": "QPR 5-0 cu xG 3.90 vs 0.43: în Championship o echipă în formă acasă contra uneia fără atac poate câștiga la diferență mare; handicapul gazdei merită luat în calcul.",
+  "createdAt": 1792919621250
+ },
+ {
+  "fotmobId": 1000015156,
+  "match": "Partizan Beograd – Čukarički",
+  "score": "0-2",
+  "pick": null,
+  "correct": null,
+  "lesson": "Partizan a pierdut 0-2 deși a avut 28 de șuturi la 7 și 12 cornere vs 2; în SuperLiga sârbă dominarea la șuturi nu garantează victoria – Čukarički a marcat din contraatacuri; nu da prea mult credit gazdei favorite.",
+  "createdAt": 1792919621250
+ },
+ {
+  "fotmobId": 5868107,
+  "match": "Rayo Vallecano – Elche",
+  "score": "0-3",
+  "pick": null,
+  "correct": null,
+  "lesson": "Elche a câștigat 3-0 în deplasare cu xG 2.52 vs 1.52; echipele promovate cu atac bun pot bate gazde de mijloc – cota de gazdă a lui Rayo a fost prea mică.",
+  "createdAt": 1792919621250
+ },
+ {
+  "fotmobId": 5836889,
+  "match": "Charlton Athletic – Norwich City",
+  "score": "1-3",
+  "pick": null,
+  "correct": null,
+  "lesson": "Norwich a câștigat 3-1 la Charlton (xG 1.77 vs 0.68, 16 șuturi la 8); în Championship favoriții din deplasare cu xG superior bat gazdele, victoriile gazdelor fiind sub 40%.",
+  "createdAt": 1792919621250
+ },
+ {
+  "fotmobId": 5904784,
+  "match": "Samsunspor – Amed Sportif",
+  "score": "1-2",
+  "pick": null,
+  "correct": null,
+  "lesson": "Amed a câștigat 2-1 în deplasare cu 22 de șuturi la 10, xG 1.63 vs 1.08, ambele echipe cu roșu; în Süper Lig gazdele se mai chinuie – victoriile oaspeților apar mai des decât cotele sugerează.",
+  "createdAt": 1792919621250
  }
 ]

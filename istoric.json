@@ -378,5 +378,85 @@
   "probability": 0.65,
   "score": "2-3",
   "correct": true
+ },
+ {
+  "fotmobId": 5868110,
+  "match": "Valencia – Villarreal",
+  "kickoff": "2026-10-24T16:30:00Z",
+  "pick": "Egal sau victorie Villarreal",
+  "code": "X2",
+  "probability": 0.65,
+  "score": "1-2",
+  "correct": true
+ },
+ {
+  "fotmobId": 5868103,
+  "match": "Atlético Madrid – Deportivo A Coruña",
+  "kickoff": "2026-10-24T19:00:00Z",
+  "pick": "Victorie Atlético",
+  "code": "1",
+  "probability": 0.69,
+  "score": "1-0",
+  "correct": true
+ },
+ {
+  "fotmobId": 5795486,
+  "match": "Aston Villa – Manchester City",
+  "kickoff": "2026-10-24T11:30:00Z",
+  "pick": "Ambele echipe marchează",
+  "code": "GG",
+  "probability": 0.64,
+  "score": "2-1",
+  "correct": true
+ },
+ {
+  "fotmobId": 5795487,
+  "match": "Chelsea – Tottenham Hotspur",
+  "kickoff": "2026-10-24T16:30:00Z",
+  "pick": "Peste 2.5 goluri",
+  "code": "O2.5",
+  "probability": 0.68,
+  "score": "0-2",
+  "correct": false
+ },
+ {
+  "fotmobId": 5749717,
+  "match": "Napoli – Roma",
+  "kickoff": "2026-10-24T16:00:00Z",
+  "pick": "Napoli sau egal",
+  "code": "1X",
+  "probability": 0.69,
+  "score": "3-3",
+  "correct": true
+ },
+ {
+  "fotmobId": 5881198,
+  "match": "Borussia Dortmund – Eintracht Frankfurt",
+  "kickoff": "2026-10-24T16:30:00Z",
+  "pick": "Peste 2.5 goluri",
+  "code": "O2.5",
+  "probability": 0.66,
+  "score": "1-0",
+  "correct": false
+ },
+ {
+  "fotmobId": 5795485,
+  "match": "Arsenal – Everton",
+  "kickoff": "2026-10-24T14:00:00Z",
+  "pick": "Ambele nu marchează",
+  "code": "NG",
+  "probability": 0.58,
+  "score": "2-0",
+  "correct": true
+ },
+ {
+  "fotmobId": 5853534,
+  "match": "FCSB – Rapid București",
+  "kickoff": "2026-10-24T18:00:00Z",
+  "pick": "Sub 3.5 goluri",
+  "code": "U3.5",
+  "probability": 0.7,
+  "score": "4-1",
+  "correct": false
  }
 ]
