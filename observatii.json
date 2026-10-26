@@ -1,16 +1,17 @@
 {
  "Premier League": {
-  "meciuri": 25,
-  "goluriMedii": 2.88,
-  "procentGG": 56.0,
-  "procentPeste25": 52.0,
-  "victoriiGazde": 48.0,
+  "meciuri": 30,
+  "goluriMedii": 2.7,
+  "procentGG": 50.0,
+  "procentPeste25": 46.7,
+  "victoriiGazde": 43.3,
   "note": [
    "Brighton 5-0 Palace, Bournemouth 2-0 Sunderland; Arsenal a câștigat 1-0 la Forest (18.10).",
    "Medie ridicată (3 goluri/meci): peste 2.5 și GG la ~58%.",
    "19.10: Tottenham 3-1 Coventry; câștigătorii cu 3 goluri apar des în PL.",
    "23.10: Ipswich 1-1 Forest (xG 0.46-2.29) – Forest a dominat dar n-a câștigat; promovatele rămân greu de bătut în meciuri echilibrate.",
-   "24.10: Villa 2-1 City, Arsenal 2-0 Everton, Chelsea 0-2 Spurs (roșu Chelsea); xG mic (0.47-0.74) = peste 2.5 greșit."
+   "24.10: Villa 2-1 City, Arsenal 2-0 Everton, Chelsea 0-2 Spurs (roșu Chelsea); xG mic (0.47-0.74) = peste 2.5 greșit.",
+   "25.10: Liverpool 2-0 Brighton, Man United 0-3 Bournemouth, Palace 0-2 Newcastle, Sunderland 0-0 Leeds, Hull 1-1 Brentford; 3 din 5 meciuri fără GG – GG supraestimat în PL în ultimele zile."
   ],
   "echipe": {
    "Arsenal": "Formă bună: 1-0 la Forest, 11 goluri în 5 meciuri",
@@ -18,19 +19,23 @@
    "Brighton": "5-0 cu Palace (18.10)",
    "Nottingham Forest": "1-1 la Ipswich (23.10), dominare xG 2.29-0.46",
    "Chelsea": "0-2 acasă cu Spurs, roșu",
-   "Aston Villa": "2-1 cu City"
+   "Aston Villa": "2-1 cu City",
+   "Bournemouth": "3-0 la Man United (25.10), xG 2.15; formă foarte bună",
+   "Newcastle United": "2-0 la Palace (25.10)",
+   "Manchester United": "0-3 acasă cu Bournemouth, 17 șuturi dar fără gol"
   }
  },
  "Bundesliga": {
-  "meciuri": 24,
-  "goluriMedii": 3.17,
-  "procentGG": 54.2,
-  "procentPeste25": 58.4,
+  "meciuri": 26,
+  "goluriMedii": 3.2,
+  "procentGG": 53.9,
+  "procentPeste25": 61.6,
   "victoriiGazde": 50.0,
   "note": [
    "Leverkusen 2-1 Freiburg, Gladbach 1-2 Hoffenheim: ~3.4 goluri/meci în ultimele etape.",
    "23.10: Stuttgart 2-3 Gladbach (xG 1.53-2.60) – gazdele cu 5 absenți cad, GG și peste 2.5 bine în 62% din meciuri.",
-   "24.10: Dortmund 1-0 Frankfurt (18 șuturi, gol la 80'), Leipzig 4-0, Mainz 2-3 Bremen; dominarea nu garantează goluri."
+   "24.10: Dortmund 1-0 Frankfurt (18 șuturi, gol la 80'), Leipzig 4-0, Mainz 2-3 Bremen; dominarea nu garantează goluri.",
+   "25.10: Hoffenheim 3-0 Leverkusen (roșu), Freiburg 1-3 Bayern; Bayern cedează de obicei un gol în deplasare."
   ],
   "echipe": {
    "Mönchengladbach": "3-2 la Stuttgart (23.10) deși cu 9 absenți",
@@ -38,63 +43,66 @@
   }
  },
  "LaLiga": {
-  "meciuri": 25,
-  "goluriMedii": 2.96,
-  "procentGG": 60.0,
-  "procentPeste25": 56.0,
-  "victoriiGazde": 40.0,
+  "meciuri": 29,
+  "goluriMedii": 2.9,
+  "procentGG": 58.6,
+  "procentPeste25": 58.6,
+  "victoriiGazde": 41.4,
   "note": [
    "Eșantion 20 meciuri (10-21.10).",
-   "Real Madrid 4-1 Sevilla; Real Sociedad 5-2 la Málaga; Levante 3-1 Athletic; gazdele câștigă ~40%."
+   "Real Madrid 4-1 Sevilla; Real Sociedad 5-2 la Málaga; Levante 3-1 Athletic; gazdele câștigă ~40%.",
+   "25.10: Barça 1-2 Real Madrid, Athletic 4-0 Getafe, Celta 0-0 Betis; Real câștigă clasicul în deplasare."
   ],
   "echipe": {
-   "Real Madrid": "4-1 cu Sevilla",
+   "Real Madrid": "2-1 la Barcelona (25.10)",
    "Real Sociedad": "5-2 în deplasare la Málaga",
    "Levante": "3-1 acasă cu Athletic"
   }
  },
  "Ligue 1": {
-  "meciuri": 19,
-  "goluriMedii": 3.53,
-  "procentGG": 73.7,
-  "procentPeste25": 73.7,
-  "victoriiGazde": 52.6,
+  "meciuri": 25,
+  "goluriMedii": 3.24,
+  "procentGG": 68.0,
+  "procentPeste25": 64.0,
+  "victoriiGazde": 48.0,
   "note": [
    "Cea mai ofensivă ligă mare: ~3.6 goluri/meci, 70% GG și peste 2.5; Marseille 5-2 la Angers, Paris FC 4-3 Rennes.",
-   "23.10: Brest 1-2 Nice (xG 2.48-0.44) – gazdele dominante au pierdut din eficiență; nu supraestima xG."
+   "23.10: Brest 1-2 Nice (xG 2.48-0.44) – gazdele dominante au pierdut din eficiență; nu supraestima xG.",
+   "25.10: Marseille 4-3 Le Havre, Rennes 3-0 Strasbourg, 3 egaluri 0-0/1-1; PSG–Lyon pe 26.10."
   ],
   "echipe": {
    "Nice": "2-1 la Brest (23.10) cu xG 0.44"
   }
  },
  "Serie A": {
-  "meciuri": 25,
+  "meciuri": 30,
   "goluriMedii": 3.2,
-  "procentGG": 56.0,
-  "procentPeste25": 72.0,
-  "victoriiGazde": 56.0,
+  "procentGG": 53.3,
+  "procentPeste25": 66.7,
+  "victoriiGazde": 53.3,
   "note": [
    "Peste 2.5 la ~72%; Milan 3-2 Atalanta, Lazio 3-0 la Juventus (Lazio neînvinsă în 9).",
    "19.10: Monza 4-0 Cagliari, Torino 3-0 la Parma – scoruri largi, evită U2.5.",
    "23.10: Torino 3-2 Monza – 5 goluri, peste 2.5 în 75% din meciuri; echipele de jos primesc multe goluri.",
-   "24.10: Napoli 3-3 Roma (xG 2.44-1.90); Como 2-0, Bologna 2-0 la Cagliari; Serie A 72% peste 2.5 în ultimele meciuri."
+   "24.10: Napoli 3-3 Roma (xG 2.44-1.90); Como 2-0, Bologna 2-0 la Cagliari; Serie A 72% peste 2.5 în ultimele meciuri.",
+   "25.10: Atalanta 4-4 Frosinone (xG 3.88-1.95), Inter 2-1 Fiorentina, Udinese 0-2 Milan, Lecce 0-2 Juventus; Atalanta e sursă de goluri."
   ],
   "echipe": {
    "Lazio": "Neînvinsă în 9; 3-0 la Juventus",
-   "Atalanta": "8 absenți, 3 înfrângeri în ultimele 5",
+   "Atalanta": "4-4 cu Frosinone acasă, apărare vulnerabilă",
    "Juventus": "0-3 acasă cu Lazio",
-   "Milan": "3-2 cu Atalanta",
+   "Milan": "2-0 la Udinese (25.10)",
    "Torino": "3-0 la Parma (19.10)",
    "Napoli": "3-3 cu Roma",
    "Udinese": "5 înfrângeri la rând, 8:16"
   }
  },
  "Liga Cehă": {
-  "meciuri": 19,
-  "goluriMedii": 2.06,
-  "procentGG": 36.9,
-  "procentPeste25": 31.6,
-  "victoriiGazde": 36.9,
+  "meciuri": 22,
+  "goluriMedii": 2.32,
+  "procentGG": 45.5,
+  "procentPeste25": 40.9,
+  "victoriiGazde": 36.4,
   "note": [
    "Eșantion mic (15 meciuri, 10-18.10); procentele se stabilizează în zilele următoare.",
    "Media cea mai mică dintre ligile urmărite: ~2.1 goluri, doar 27% GG; Baník–Sparta 0-0."
@@ -102,87 +110,88 @@
   "echipe": {}
  },
  "2. Bundesliga": {
-  "meciuri": 22,
-  "goluriMedii": 2.59,
-  "procentGG": 50.0,
-  "procentPeste25": 36.4,
-  "victoriiGazde": 54.6,
+  "meciuri": 25,
+  "goluriMedii": 2.6,
+  "procentGG": 44.0,
+  "procentPeste25": 40.0,
+  "victoriiGazde": 60.0,
   "note": [
    "Eșantion mic (16 meciuri, 10-18.10); procentele se stabilizează în zilele următoare."
   ],
   "echipe": {}
  },
  "Bundesliga Austria": {
-  "meciuri": 16,
-  "goluriMedii": 3.37,
-  "procentGG": 50.0,
-  "procentPeste25": 62.6,
-  "victoriiGazde": 56.2,
+  "meciuri": 18,
+  "goluriMedii": 3.44,
+  "procentGG": 55.6,
+  "procentPeste25": 66.8,
+  "victoriiGazde": 50.0,
   "note": [
    "Eșantion mic (12 meciuri, 10-18.10); procentele se stabilizează în zilele următoare."
   ],
   "echipe": {}
  },
  "Ekstraklasa": {
-  "meciuri": 23,
-  "goluriMedii": 3.09,
-  "procentGG": 69.6,
-  "procentPeste25": 56.5,
-  "victoriiGazde": 56.5,
+  "meciuri": 26,
+  "goluriMedii": 2.96,
+  "procentGG": 65.4,
+  "procentPeste25": 53.8,
+  "victoriiGazde": 57.7,
   "note": [
    "Eșantion mic (16 meciuri, 10-18.10); procentele se stabilizează în zilele următoare."
   ],
   "echipe": {}
  },
  "Eredivisie": {
-  "meciuri": 21,
-  "goluriMedii": 4.19,
-  "procentGG": 85.8,
-  "procentPeste25": 76.2,
-  "victoriiGazde": 33.3,
+  "meciuri": 26,
+  "goluriMedii": 3.85,
+  "procentGG": 80.8,
+  "procentPeste25": 69.2,
+  "victoriiGazde": 30.7,
   "note": [
    "Eșantion mic (17 meciuri, 10-18.10); procentele se stabilizează în zilele următoare.",
    "~4 goluri/meci și 82% GG; gazdele câștigă doar 35%: Ajax 5-2 la Groningen, Utrecht 2-1 la Twente.",
-   "24.10: Willem II 1-6 Cambuur, Heerenveen 3-2 la Den Haag; medie 4.2 goluri."
+   "24.10: Willem II 1-6 Cambuur, Heerenveen 3-2 la Den Haag; medie 4.2 goluri.",
+   "25.10: PSV 1-1 Feyenoord, Sparta 1-2 Ajax, AZ 0-2 Twente; 2 din 5 meciuri GG la 3+ goluri."
   ],
   "echipe": {}
  },
  "HNL Croația": {
-  "meciuri": 11,
-  "goluriMedii": 2.73,
-  "procentGG": 63.7,
-  "procentPeste25": 54.6,
-  "victoriiGazde": 36.3,
+  "meciuri": 12,
+  "goluriMedii": 2.59,
+  "procentGG": 58.4,
+  "procentPeste25": 50.1,
+  "victoriiGazde": 33.3,
   "note": [
    "Eșantion mic (9 meciuri, 10-18.10); procentele se stabilizează în zilele următoare."
   ],
   "echipe": {}
  },
  "LaLiga2": {
-  "meciuri": 37,
-  "goluriMedii": 2.89,
-  "procentGG": 59.5,
-  "procentPeste25": 56.8,
-  "victoriiGazde": 48.7,
+  "meciuri": 41,
+  "goluriMedii": 2.9,
+  "procentGG": 58.6,
+  "procentPeste25": 56.1,
+  "victoriiGazde": 51.3,
   "note": [],
   "echipe": {}
  },
  "Liga 2 România": {
-  "meciuri": 28,
-  "goluriMedii": 2.63,
-  "procentGG": 33.2,
-  "procentPeste25": 51.7,
-  "victoriiGazde": 55.5,
+  "meciuri": 31,
+  "goluriMedii": 2.7,
+  "procentGG": 36.4,
+  "procentPeste25": 53.1,
+  "victoriiGazde": 56.6,
   "note": [
    "ASA Târgu Mureș 2-4 Chindia (20.10): Chindia a câștigat în deplasare cu 4 goluri."
   ],
   "echipe": {}
  },
  "NB I Ungaria": {
-  "meciuri": 15,
-  "goluriMedii": 2.13,
-  "procentGG": 46.7,
-  "procentPeste25": 26.6,
+  "meciuri": 18,
+  "goluriMedii": 2.33,
+  "procentGG": 44.5,
+  "procentPeste25": 33.3,
   "victoriiGazde": 33.3,
   "note": [
    "Eșantion mic (12 meciuri, 10-18.10); procentele se stabilizează în zilele următoare."
@@ -190,11 +199,11 @@
   "echipe": {}
  },
  "Premiership Scoția": {
-  "meciuri": 16,
-  "goluriMedii": 3.56,
-  "procentGG": 62.5,
-  "procentPeste25": 75.0,
-  "victoriiGazde": 62.5,
+  "meciuri": 18,
+  "goluriMedii": 3.44,
+  "procentGG": 61.1,
+  "procentPeste25": 72.2,
+  "victoriiGazde": 55.6,
   "note": [
    "Eșantion mic (12 meciuri, 10-18.10); procentele se stabilizează în zilele următoare.",
    "Celtic 7-1 Hearts; Rangers a remizat 2-2 la Dundee (17.10)."
@@ -202,11 +211,11 @@
   "echipe": {}
  },
  "Super League Grecia": {
-  "meciuri": 16,
-  "goluriMedii": 3.18,
+  "meciuri": 20,
+  "goluriMedii": 3.19,
   "procentGG": 50.0,
-  "procentPeste25": 62.5,
-  "victoriiGazde": 62.5,
+  "procentPeste25": 65.0,
+  "victoriiGazde": 65.0,
   "note": [
    "Eșantion mic (13 meciuri, 10-18.10); procentele se stabilizează în zilele următoare.",
    "Gazdele câștigă 69%: Panathinaikos 5-1, Olympiacos 2-0 la Panetolikos."
@@ -214,11 +223,11 @@
   "echipe": {}
  },
  "Süper Lig": {
-  "meciuri": 21,
-  "goluriMedii": 2.58,
-  "procentGG": 42.9,
-  "procentPeste25": 66.8,
-  "victoriiGazde": 38.1,
+  "meciuri": 23,
+  "goluriMedii": 2.53,
+  "procentGG": 39.2,
+  "procentPeste25": 61.0,
+  "victoriiGazde": 43.5,
   "note": [
    "Eșantion mic (16 meciuri, 10-18.10); procentele se stabilizează în zilele următoare.",
    "Kasımpaşa 4-1 Samsunspor, Başakşehir 2-1 Gaziantep; 69% peste 2.5 dar doar 38% GG."
@@ -228,11 +237,11 @@
   }
  },
  "SuperLiga României": {
-  "meciuri": 19,
-  "goluriMedii": 2.62,
-  "procentGG": 47.3,
-  "procentPeste25": 42.1,
-  "victoriiGazde": 47.4,
+  "meciuri": 21,
+  "goluriMedii": 2.89,
+  "procentGG": 52.3,
+  "procentPeste25": 47.6,
+  "victoriiGazde": 47.6,
   "note": [
    "Medie ~2.25 goluri, doar 17% peste 2.5 în eșantion; gazdele câștigă 58%; Craiova 2-0 Farul, UTA 1-0 CFR.",
    "23.10: Botoșani 1-3 Petrolul, Corvinul 0-3 U Cluj – ambele deplasări câștigate la scor; peste 2.5 rămâne rar în medie (~30%), dar victoriile oaspeților apar.",
@@ -244,11 +253,11 @@
   }
  },
  "Superliga Danemarca": {
-  "meciuri": 12,
-  "goluriMedii": 3.59,
-  "procentGG": 66.6,
+  "meciuri": 16,
+  "goluriMedii": 3.69,
+  "procentGG": 74.9,
   "procentPeste25": 75.0,
-  "victoriiGazde": 41.7,
+  "victoriiGazde": 50.0,
   "note": [
    "23.10: Randers 1-3 Brøndby (xG 2.03-3.50) – deplasări ale echipelor de top sunt valorificate, 4 goluri/meci."
   ],
@@ -258,11 +267,11 @@
   }
  },
  "SuperLiga Serbia": {
-  "meciuri": 20,
-  "goluriMedii": 2.3,
-  "procentGG": 30.0,
-  "procentPeste25": 40.0,
-  "victoriiGazde": 45.0,
+  "meciuri": 21,
+  "goluriMedii": 2.24,
+  "procentGG": 28.6,
+  "procentPeste25": 38.1,
+  "victoriiGazde": 42.9,
   "note": [
    "Eșantion mic (14 meciuri, 10-18.10); procentele se stabilizează în zilele următoare."
   ],
@@ -340,23 +349,26 @@
   }
  },
  "Primeira Liga": {
-  "meciuri": 12,
-  "goluriMedii": 2.67,
-  "procentGG": 41.7,
-  "procentPeste25": 50.0,
-  "victoriiGazde": 41.7,
+  "meciuri": 16,
+  "goluriMedii": 2.75,
+  "procentGG": 43.8,
+  "procentPeste25": 56.2,
+  "victoriiGazde": 37.5,
   "note": [
    "19.10: Gil Vicente 2-1 la Braga – surpriză în deplasare.",
-   "23.10: Vitória Guimarães 5-0 Marítimo (xG 1.78-0.52) – scor umflat de eficiență; gazdele cu dominanță clară câștigă."
+   "23.10: Vitória Guimarães 5-0 Marítimo (xG 1.78-0.52) – scor umflat de eficiență; gazdele cu dominanță clară câștigă.",
+   "25.10: Sporting 1-2 Viseu (xG 1.98-0.80), Rio Ave 0-4 Famalicão; favoriții mari pot pierde."
   ],
-  "echipe": {}
+  "echipe": {
+   "Sporting CP": "Pierdere 1-2 cu Viseu în ciuda dominării"
+  }
  },
  "Pro League Belgia": {
-  "meciuri": 12,
-  "goluriMedii": 3.91,
-  "procentGG": 58.3,
-  "procentPeste25": 75.0,
-  "victoriiGazde": 41.7,
+  "meciuri": 16,
+  "goluriMedii": 4.12,
+  "procentGG": 62.5,
+  "procentPeste25": 81.2,
+  "victoriiGazde": 56.3,
   "note": [
    "Eșantion mic (8 meciuri, 10-18.10); procentele se stabilizează în zilele următoare.",
    "24.10: Westerlo 4-4 Beveren, Antwerp 3-0, La Louvière 3-0; media crește la 3.9 goluri."
@@ -364,11 +376,11 @@
   "echipe": {}
  },
  "Super League Elveția": {
-  "meciuri": 9,
-  "goluriMedii": 3.0,
+  "meciuri": 12,
+  "goluriMedii": 2.75,
   "procentGG": 33.4,
-  "procentPeste25": 66.7,
-  "victoriiGazde": 88.9,
+  "procentPeste25": 58.4,
+  "victoriiGazde": 75.0,
   "note": [
    "Eșantion mic (6 meciuri, 10-18.10); procentele se stabilizează în zilele următoare."
   ],

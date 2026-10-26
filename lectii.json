@@ -763,5 +763,140 @@
   "correct": null,
   "lesson": "Amed a câștigat 2-1 în deplasare cu 22 de șuturi la 10, xG 1.63 vs 1.08, ambele echipe cu roșu; în Süper Lig gazdele se mai chinuie – victoriile oaspeților apar mai des decât cotele sugerează.",
   "createdAt": 1792919621250
+ },
+ {
+  "fotmobId": 5781783,
+  "match": "PSV Eindhoven – Feyenoord",
+  "score": "1-1",
+  "pick": "Ambele echipe marchează",
+  "correct": true,
+  "lesson": "PSV–Feyenoord 1-1 a ieșit GG, dar cu goluri puține; la derby-uri olandeze echilibrate GG rămâne plauzibil dacă ambele au atac sănătos.",
+  "createdAt": 1793006137227
+ },
+ {
+  "fotmobId": 5881200,
+  "match": "Freiburg – Bayern München",
+  "score": "1-3",
+  "pick": "Ambele echipe marchează",
+  "correct": true,
+  "lesson": "Freiburg a marcat acasă cu Bayern (1-3); Bayern cedează aproape mereu un gol în deplasare, deci GG cu Bayern oaspete e o bază solidă.",
+  "createdAt": 1793006137227
+ },
+ {
+  "fotmobId": 5795492,
+  "match": "Liverpool – Brighton & Hove Albion",
+  "score": "2-0",
+  "pick": "Ambele echipe marchează",
+  "correct": false,
+  "lesson": "Liverpool–Brighton 2-0 cu xG 1.20-1.32: GG a picat pentru că Brighton n-a transformat; nu am dat destulă pondere faptului că Liverpool acasă ține poarta curată cu șanse bune.",
+  "createdAt": 1793006137227
+ },
+ {
+  "fotmobId": 5868105,
+  "match": "Barcelona – Real Madrid",
+  "score": "1-2",
+  "pick": "Ambele echipe marchează",
+  "correct": true,
+  "lesson": "Barça–Real 1-2 cu GG: clasicele au ambele echipe cu gol la ~65%, pont corect, dar câștigătorul a fost la limită (xG 1.19-1.94).",
+  "createdAt": 1793006137227
+ },
+ {
+  "fotmobId": 5749714,
+  "match": "Inter – Fiorentina",
+  "score": "2-1",
+  "pick": "Peste 2.5 goluri",
+  "correct": true,
+  "lesson": "Inter–Fiorentina 2-1: peste 2.5 a ieșit prin favorit acasă care marchează de 2 ori; confirmă că Inter acasă dă 2+ goluri frecvent.",
+  "createdAt": 1793006137227
+ },
+ {
+  "fotmobId": 5795493,
+  "match": "Manchester United – AFC Bournemouth",
+  "score": "0-3",
+  "pick": "Ambele echipe marchează",
+  "correct": false,
+  "lesson": "Man United–Bournemouth 0-3: am pariat GG, dar gazdele nu au marcat în ciuda a 17 șuturi (xG 1.17); Bournemouth eficient în deplasare – GG supraestimat la echipe cu finalizare slabă.",
+  "createdAt": 1793006137227
+ },
+ {
+  "fotmobId": 5881201,
+  "match": "Hoffenheim – Bayer Leverkusen",
+  "score": "3-0",
+  "pick": "Peste 2.5 goluri",
+  "correct": true,
+  "lesson": "Hoffenheim–Leverkusen 3-0 (xG 3.46-0.57, roșu Leverkusen): peste 2.5 corect; gazdele cu presiune și oaspeți instabili produc multe goluri.",
+  "createdAt": 1793006137227
+ },
+ {
+  "fotmobId": 5749719,
+  "match": "Udinese – Milan",
+  "score": "0-2",
+  "pick": "Milan câștigă",
+  "correct": true,
+  "lesson": "Udinese–Milan 0-2: victoria oaspeților a ieșit; Milan în deplasare la gazde fără atac eficient a fost pontul corect.",
+  "createdAt": 1793006137227
+ },
+ {
+  "fotmobId": 5795489,
+  "match": "Crystal Palace – Newcastle United",
+  "score": "0-2",
+  "pick": "Ambele echipe marchează",
+  "correct": false,
+  "lesson": "Crystal Palace–Newcastle 0-2: GG greșit, Palace a avut xG 1.59 dar n-a marcat; după 0-5 cu Brighton, Palace marchează greu în ultimele meciuri – ține cont de formarea ofensivă recentă, nu doar de media sezonului.",
+  "createdAt": 1793006137227
+ },
+ {
+  "fotmobId": 5781778,
+  "match": "Sparta Rotterdam – Ajax",
+  "score": "1-2",
+  "pick": "Peste 2.5 goluri",
+  "correct": true,
+  "lesson": "Sparta Rotterdam–Ajax 1-2: peste 2.5 a ieșit la limită (3 goluri); în Eredivisie peste 2.5 rămâne un pont stabil.",
+  "createdAt": 1793006137227
+ },
+ {
+  "fotmobId": 5853528,
+  "match": "CFR Cluj – Dinamo București",
+  "score": "2-2",
+  "pick": "Dinamo sau egal",
+  "correct": true,
+  "lesson": "CFR Cluj–Dinamo 2-2: X2 corect; Dinamo ca oaspete în SuperLiga ia frecvent punct.",
+  "createdAt": 1793006137227
+ },
+ {
+  "fotmobId": 5887661,
+  "match": "Sporting CP – Académico Viseu",
+  "score": "1-2",
+  "pick": null,
+  "correct": null,
+  "lesson": "Viseu a câștigat 2-1 la Lisabona deși Sporting a avut xG 1.98-0.80, 28 de șuturi și 10 cornere; un favorit foarte clar poate pierde din cauza eficienței – cota foarte mică nu acoperă riscul, de evitat în ponturi.",
+  "createdAt": 1793006137227
+ },
+ {
+  "fotmobId": 5749710,
+  "match": "Atalanta – Frosinone",
+  "score": "4-4",
+  "pick": null,
+  "correct": null,
+  "lesson": "4-4 cu xG 3.88-1.95 și 46 de șuturi: Atalanta dă și primește multe; meciurile ei acasă merită peste 2.5/GG chiar contra unui outsider.",
+  "createdAt": 1793006137227
+ },
+ {
+  "fotmobId": 5887659,
+  "match": "Rio Ave – Famalicão",
+  "score": "0-4",
+  "pick": null,
+  "correct": null,
+  "lesson": "Famalicão a câștigat 4-0 în deplasare cu xG doar 1.65: scor umflat de eficiență; echipele oaspete cu formă bună în Liga Portugal pot câștiga clar, dar 4 goluri din xG 1.65 nu se repetă.",
+  "createdAt": 1793006137227
+ },
+ {
+  "fotmobId": 5802968,
+  "match": "Marseille – Le Havre",
+  "score": "4-3",
+  "pick": null,
+  "correct": null,
+  "lesson": "4-3 cu xG 1.55-3.10 pentru Le Havre: Marseille a câștigat cu 11 șuturi la 22; apărarea lui Marseille concede mult acasă, GG și peste 2.5 erau de urmărit.",
+  "createdAt": 1793006137227
  }
 ]
