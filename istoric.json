@@ -568,5 +568,75 @@
   "probability": 0.7,
   "score": "2-2",
   "correct": true
+ },
+ {
+  "fotmobId": 5802972,
+  "match": "Paris Saint-Germain – Lyon",
+  "kickoff": "2026-10-26T19:30:00Z",
+  "pick": "Peste 2.5 goluri",
+  "code": "O2.5",
+  "probability": 0.62,
+  "score": "2-0",
+  "correct": false
+ },
+ {
+  "fotmobId": 5904782,
+  "match": "Galatasaray – Fenerbahçe",
+  "kickoff": "2026-10-26T18:30:00Z",
+  "pick": "Peste 4.5 cartonașe",
+  "code": "KO4.5",
+  "probability": 0.68,
+  "score": "2-1",
+  "correct": true
+ },
+ {
+  "fotmobId": 5868109,
+  "match": "Sevilla – Osasuna",
+  "kickoff": "2026-10-26T20:00:00Z",
+  "pick": "Sub 2.5 goluri",
+  "code": "U2.5",
+  "probability": 0.57,
+  "score": "2-0",
+  "correct": true
+ },
+ {
+  "fotmobId": 5887660,
+  "match": "Santa Clara – Benfica",
+  "kickoff": "2026-10-26T18:45:00Z",
+  "pick": "Benfica câștigă",
+  "code": "2",
+  "probability": 0.66,
+  "score": "1-2",
+  "correct": true
+ },
+ {
+  "fotmobId": 5904783,
+  "match": "Beşiktaş – Başakşehir",
+  "kickoff": "2026-10-26T16:00:00Z",
+  "pick": "Beşiktaş nu pierde",
+  "code": "1X",
+  "probability": 0.7,
+  "score": "2-0",
+  "correct": true
+ },
+ {
+  "fotmobId": 5853535,
+  "match": "Sepsi OSK – Universitatea Craiova",
+  "kickoff": "2026-10-26T18:00:00Z",
+  "pick": "Craiova câștigă",
+  "code": "2",
+  "probability": 0.54,
+  "score": "0-5",
+  "correct": true
+ },
+ {
+  "fotmobId": 5739530,
+  "match": "FC København – OB",
+  "kickoff": "2026-10-26T18:00:00Z",
+  "pick": "Peste 2.5 goluri",
+  "code": "O2.5",
+  "probability": 0.56,
+  "score": "1-1",
+  "correct": false
  }
 ]

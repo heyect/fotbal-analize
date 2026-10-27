@@ -898,5 +898,77 @@
   "correct": null,
   "lesson": "4-3 cu xG 1.55-3.10 pentru Le Havre: Marseille a câștigat cu 11 șuturi la 22; apărarea lui Marseille concede mult acasă, GG și peste 2.5 erau de urmărit.",
   "createdAt": 1793006137227
+ },
+ {
+  "fotmobId": 5802972,
+  "match": "Paris Saint-Germain – Lyon",
+  "score": "2-0",
+  "pick": "Peste 2.5 goluri",
+  "correct": false,
+  "lesson": "PSG 2-0 Lyon cu xG doar 0.96-0.65: ambele goluri au venit după min. 70. Peste 2.5 într-un meci cu xG total sub 1.7 e supraestimat chiar dacă gazdele sunt favorite clare; ia în calcul 'sub 3.5' sau victoria simplă.",
+  "createdAt": 1793092726565
+ },
+ {
+  "fotmobId": 5904782,
+  "match": "Galatasaray – Fenerbahçe",
+  "score": "2-1",
+  "pick": "Peste 4.5 cartonașe",
+  "correct": true,
+  "lesson": "Galatasaray 2-1 Fenerbahçe: 9 galbene și 2 roșii (3 cartonașe în primele 20 min). La derby-urile turcești cartonașele rămân o piață stabilă; linia 4.5 e prea mică.",
+  "createdAt": 1793092726565
+ },
+ {
+  "fotmobId": 5868109,
+  "match": "Sevilla – Osasuna",
+  "score": "2-0",
+  "pick": "Sub 2.5 goluri",
+  "correct": true,
+  "lesson": "Sevilla 2-0 Osasuna: xG 1.14-0.77, goluri la 24' și 82'; sub 2.5 a ieșit în meciurile cu xG total ~2 și echipe prudente.",
+  "createdAt": 1793092726565
+ },
+ {
+  "fotmobId": 5887660,
+  "match": "Santa Clara – Benfica",
+  "score": "1-2",
+  "pick": "Benfica câștigă",
+  "correct": true,
+  "lesson": "Santa Clara 1-2 Benfica: oaspeții au întors scorul de la 1-0 (xG 1.81 vs 1.56). Benfica favorită în deplasare a funcționat, dar xG echilibrat arată că marja e mică.",
+  "createdAt": 1793092726565
+ },
+ {
+  "fotmobId": 5904783,
+  "match": "Beşiktaş – Başakşehir",
+  "score": "2-0",
+  "pick": "Beşiktaş nu pierde",
+  "correct": true,
+  "lesson": "Beşiktaş 2-0 Başakşehir: xG 1.94-0.43, ambele goluri după min. 75. 1X pe gazde dominante (17 șuturi la 9) e o alegere sigură.",
+  "createdAt": 1793092726565
+ },
+ {
+  "fotmobId": 5853535,
+  "match": "Sepsi OSK – Universitatea Craiova",
+  "score": "0-5",
+  "pick": "Craiova câștigă",
+  "correct": true,
+  "lesson": "Sepsi 0-5 Craiova: gol în min. 2 împotriva Sepsi, apoi 4 goluri; 25 de șuturi la 0, Sepsi a terminat în 10. Craiova în deplasare contra unei echipe slabe în atac e pont solid.",
+  "createdAt": 1793092726565
+ },
+ {
+  "fotmobId": 5739530,
+  "match": "FC København – OB",
+  "score": "1-1",
+  "pick": "Peste 2.5 goluri",
+  "correct": false,
+  "lesson": "København 1-1 OB cu xG 2.42-0.45 și 22 de șuturi la 7: peste 2.5 a căzut din lipsă de eficiență; OB a egalat la singura ocazie reală (min. 77). La xG foarte dispersat, victoria gazdelor era mai sigură decât totalul de goluri.",
+  "createdAt": 1793092726565
+ },
+ {
+  "fotmobId": 5904779,
+  "match": "Rizespor – Trabzonspor",
+  "score": "3-4",
+  "pick": null,
+  "correct": null,
+  "lesson": "7 goluri în Süper Lig: ligile cu apărări slabe produc GG și peste 2.5 mai des decât sugerează media; verifică golurile primite în ultimele 5 meciuri ale ambelor echipe.",
+  "createdAt": 1793092726565
  }
 ]
