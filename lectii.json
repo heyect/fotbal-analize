@@ -970,5 +970,50 @@
   "correct": null,
   "lesson": "7 goluri în Süper Lig: ligile cu apărări slabe produc GG și peste 2.5 mai des decât sugerează media; verifică golurile primite în ultimele 5 meciuri ale ambelor echipe.",
   "createdAt": 1793092726565
+ },
+ {
+  "fotmobId": 5749727,
+  "match": "Sassuolo – Lazio",
+  "score": "2-6",
+  "pick": "Lazio nu pierde",
+  "correct": true,
+  "lesson": "Sassuolo a rămas în 10 oameni și a primit 6 goluri (xG 0.76-3.57): Lazio nu pierde a ieșit lejer; un cartonaș roșu devreme schimbă totul, iar echipele de jos cu apărare slabă se prăbușesc la deficit.",
+  "createdAt": 1793178933639
+ },
+ {
+  "fotmobId": 5749721,
+  "match": "Roma – Cagliari",
+  "score": "4-2",
+  "pick": "Roma câștigă",
+  "correct": true,
+  "lesson": "Roma 4-2 Cagliari cu xG 2.87-2.61: victoria favoritei a ieșit, dar Cagliari a creat la fel de mult; cu absențe în poartă (Svilar), GG/peste 2.5 era piața mai valoroasă decât 1X2 simplu.",
+  "createdAt": 1793178933639
+ },
+ {
+  "fotmobId": 5749728,
+  "match": "Torino – Como",
+  "score": "1-3",
+  "pick": "Torino nu pierde",
+  "correct": false,
+  "lesson": "Torino 1-3 Como (xG 1.13-2.26, 18 șuturi Como la 11): am dat avantaj gazdelor deși Como domina clar în ocazii; nu supraestima gazda doar pentru terenul propriu când deplasarea are xG mai bun în ultimele meciuri.",
+  "createdAt": 1793178933639
+ },
+ {
+  "fotmobId": 6093740,
+  "match": "Progresul Spartac – Petrolul Ploiești",
+  "score": "0-6",
+  "pick": null,
+  "correct": null,
+  "lesson": "În grupele Cupei României diferența de nivel (SuperLiga vs liga inferioară) produce scoruri-fluviu: Petrolul 6-0; la astfel de meciuri totalul de goluri al favoritei merită urmărit, nu doar victoria.",
+  "createdAt": 1793178933639
+ },
+ {
+  "fotmobId": 6093726,
+  "match": "Corvinul Hunedoara – Rapid București",
+  "score": "0-0",
+  "pick": null,
+  "correct": null,
+  "lesson": "Rapid a remizat 0-0 la Hunedoara în Cupă: echipele mari rotesc în grupele Cupei României, iar favorita cu lot schimbat nu merită cotă mică.",
+  "createdAt": 1793178933639
  }
 ]
