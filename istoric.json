@@ -668,5 +668,85 @@
   "probability": 0.63,
   "score": "1-3",
   "correct": false
+ },
+ {
+  "fotmobId": 5749720,
+  "match": "Milan – Bologna",
+  "kickoff": "2026-10-28T17:30:00Z",
+  "pick": "Milan câștigă",
+  "code": "1",
+  "probability": 0.57,
+  "score": "2-4",
+  "correct": false
+ },
+ {
+  "fotmobId": 5749729,
+  "match": "Venezia – Inter",
+  "kickoff": "2026-10-28T17:30:00Z",
+  "pick": "Inter câștigă",
+  "code": "2",
+  "probability": 0.62,
+  "score": "0-2",
+  "correct": true
+ },
+ {
+  "fotmobId": 5749724,
+  "match": "Genoa – Juventus",
+  "kickoff": "2026-10-28T19:45:00Z",
+  "pick": "Sub 3.5 goluri",
+  "code": "U3.5",
+  "probability": 0.66,
+  "score": "2-0",
+  "correct": true
+ },
+ {
+  "fotmobId": 5749725,
+  "match": "Monza – Napoli",
+  "kickoff": "2026-10-28T19:45:00Z",
+  "pick": "Peste 2.5 goluri",
+  "code": "O2.5",
+  "probability": 0.64,
+  "score": "1-4",
+  "correct": true
+ },
+ {
+  "fotmobId": 5793961,
+  "match": "Heart of Midlothian – Rangers",
+  "kickoff": "2026-10-28T20:00:00Z",
+  "pick": "Sub 3.5 goluri",
+  "code": "U3.5",
+  "probability": 0.66,
+  "score": "2-2",
+  "correct": true
+ },
+ {
+  "fotmobId": 5793959,
+  "match": "Celtic – Dundee United",
+  "kickoff": "2026-10-28T19:45:00Z",
+  "pick": "Peste 2.5 goluri",
+  "code": "O2.5",
+  "probability": 0.62,
+  "score": "2-2",
+  "correct": true
+ },
+ {
+  "fotmobId": 6093735,
+  "match": "CFR Cluj – Universitatea Cluj",
+  "kickoff": "2026-10-28T19:30:00Z",
+  "pick": "Sub 3.5 goluri",
+  "code": "U3.5",
+  "probability": 0.7,
+  "score": "1-3",
+  "correct": false
+ },
+ {
+  "fotmobId": 5749726,
+  "match": "Parma – Udinese",
+  "kickoff": "2026-10-28T17:30:00Z",
+  "pick": "Sub 3.5 goluri",
+  "code": "U3.5",
+  "probability": 0.7,
+  "score": "0-0",
+  "correct": true
  }
 ]

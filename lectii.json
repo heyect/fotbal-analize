@@ -1015,5 +1015,131 @@
   "correct": null,
   "lesson": "Rapid a remizat 0-0 la Hunedoara în Cupă: echipele mari rotesc în grupele Cupei României, iar favorita cu lot schimbat nu merită cotă mică.",
   "createdAt": 1793178933639
+ },
+ {
+  "fotmobId": 5749720,
+  "match": "Milan – Bologna",
+  "score": "2-4",
+  "pick": "Milan câștigă",
+  "correct": false,
+  "lesson": "Am dat Milan favorit la 1 pe baza absențelor din atacul Bologna, dar xG a fost 1.80–2.09 pentru Bologna: o echipă „decimată” poate rămâne periculoasă prin tineri. Nu mai pune 1 pe favorită doar pentru lipsuri, fără să verifici xG-ul recent al adversarului.",
+  "createdAt": 1793265336346
+ },
+ {
+  "fotmobId": 5749729,
+  "match": "Venezia – Inter",
+  "score": "0-2",
+  "pick": "Inter câștigă",
+  "correct": true,
+  "lesson": "Inter a câștigat la Venezia fără să impresioneze (xG 2.33 vs 1.59, ambele goluri în ultimele 10 minute): victoria favoritei în deplasare la o echipă de jos iese, dar târziu, deci evită piețele de ritm/goluri timpurii.",
+  "createdAt": 1793265336346
+ },
+ {
+  "fotmobId": 5749724,
+  "match": "Genoa – Juventus",
+  "score": "2-0",
+  "pick": "Sub 3.5 goluri",
+  "correct": true,
+  "lesson": "Genoa 2-0 Juventus: U3.5 a ieșit ușor, dar Juventus a pierdut la xG mic (1.26); Juventus în deplasare produce puțin, iar dublul 1X pe gazde ar fi fost mai valoros decât favorita străină.",
+  "createdAt": 1793265336346
+ },
+ {
+  "fotmobId": 5749725,
+  "match": "Monza – Napoli",
+  "score": "1-4",
+  "pick": "Peste 2.5 goluri",
+  "correct": true,
+  "lesson": "Monza 1-4 Napoli: Peste 2.5 a ieșit pe baza ambelor apărări slabe; în Serie A media de goluri rămâne peste 3, deci O2.5 are în continuare valoare când una dintre echipe e în formă ofensivă.",
+  "createdAt": 1793265336346
+ },
+ {
+  "fotmobId": 5793961,
+  "match": "Heart of Midlothian – Rangers",
+  "score": "2-2",
+  "pick": "Sub 3.5 goluri",
+  "correct": true,
+  "lesson": "Hearts 2-2 Rangers: U3.5 a ieșit cu 4 goluri, la limită (două goluri în minutele 48-57 și unul în 89); în derby-urile scoțiene cu lipsuri pe ambele părți U3.5 e sigur doar sub 70%, nu peste.",
+  "createdAt": 1793265336346
+ },
+ {
+  "fotmobId": 5793959,
+  "match": "Celtic – Dundee United",
+  "score": "2-2",
+  "pick": "Peste 2.5 goluri",
+  "correct": true,
+  "lesson": "Celtic 2-2 Dundee United: O2.5 a ieșit, dar Celtic a avut 13 cornere și 8 șuturi pe poartă și tot a primit 2 goluri; nu mizez pe clean sheet/victorie la scor pentru Celtic acasă, GG/O2.5 e mai sigur.",
+  "createdAt": 1793265336346
+ },
+ {
+  "fotmobId": 6093735,
+  "match": "CFR Cluj – Universitatea Cluj",
+  "score": "1-3",
+  "pick": "Sub 3.5 goluri",
+  "correct": false,
+  "lesson": "CFR Cluj 1-3 Universitatea Cluj: am pus U3.5 la 70% într-un meci de grupă a Cupei, dar au fost 4 goluri; în grupele Cupei României rotațiile produc apărări neînchegate, deci nu da probabilități mari pentru Sub goluri.",
+  "createdAt": 1793265336346
+ },
+ {
+  "fotmobId": 5749726,
+  "match": "Parma – Udinese",
+  "score": "0-0",
+  "pick": "Sub 3.5 goluri",
+  "correct": true,
+  "lesson": "Parma 0-0 Udinese: U3.5 a ieșit, dar probabilitatea de 70% pentru o piață „sigură” cu cotă mică aduce puțină valoare; între echipe slabe din Serie A 0-0 apare mai des decât crede modelul.",
+  "createdAt": 1793265336346
+ },
+ {
+  "fotmobId": 5749720,
+  "match": "Milan – Bologna",
+  "score": "2-4",
+  "pick": null,
+  "correct": null,
+  "lesson": "Bologna 4-2 la Milan acasă, deși Milan era favorit: xG-ul lui Bologna (2.09) depășea al lui Milan (1.80) și trei goluri au venit din minutele 8-27; semnal ratat: Bologna avea ritm ofensiv bun, iar lipsurile nu au contat.",
+  "createdAt": 1793265336346
+ },
+ {
+  "fotmobId": 5749725,
+  "match": "Monza – Napoli",
+  "score": "1-4",
+  "pick": null,
+  "correct": null,
+  "lesson": "Napoli a câștigat 4-1 la Monza: șuturi pe poartă 7-5 și două goluri între minutele 43 și 48; semnal: Monza primește multe goluri acasă, iar victoria clară a oaspeților la cotă ~1.5 era previzibilă.",
+  "createdAt": 1793265336346
+ },
+ {
+  "fotmobId": 6093735,
+  "match": "CFR Cluj – Universitatea Cluj",
+  "score": "1-3",
+  "pick": null,
+  "correct": null,
+  "lesson": "Universitatea Cluj a câștigat 3-1 la CFR în grupa Cupei, deși CFR era favorită pe hârtie; semnal: CFR rotea lotul în Cupă, iar Jovo Lukić a marcat de două ori.",
+  "createdAt": 1793265336346
+ },
+ {
+  "fotmobId": 5793958,
+  "match": "Aberdeen – Falkirk",
+  "score": "0-1",
+  "pick": null,
+  "correct": null,
+  "lesson": "Falkirk a câștigat 1-0 la Aberdeen: gazda favorită nu a marcat; semnal: Aberdeen producea puțin în ultimele meciuri, deci evită Aberdeen câștigă/peste 2.5 fără formă ofensivă.",
+  "createdAt": 1793265336346
+ },
+ {
+  "fotmobId": 5793963,
+  "match": "St. Mirren – Hibernian",
+  "score": "1-1",
+  "pick": null,
+  "correct": null,
+  "lesson": "1-1 între St. Mirren și Hibernian: Hibernian favorită în deplasare nu a câștigat; semnal: în Scoția favoritele din deplasare pierd puncte frecvent.",
+  "createdAt": 1793265336346
+ },
+ {
+  "fotmobId": 1000015091,
+  "match": "Radnički Niš – Partizan Beograd",
+  "score": "2-3",
+  "pick": null,
+  "correct": null,
+  "lesson": "Partizan a câștigat 3-2 la Niš: 5 goluri într-un meci unde Partizan era favorit; semnal: gazdele din Serbia marchează acasă, deci GG/O2.5 era o variantă mai valoroasă decât victoria simplă.",
+  "createdAt": 1793265336346
  }
 ]
