@@ -79,11 +79,11 @@
   }
  },
  "Serie A": {
-  "meciuri": 38,
-  "goluriMedii": 3.4,
-  "procentGG": 55.2,
-  "procentPeste25": 65.8,
-  "victoriiGazde": 47.4,
+  "meciuri": 40,
+  "goluriMedii": 3.43,
+  "procentGG": 57.5,
+  "procentPeste25": 67.5,
+  "victoriiGazde": 47.5,
   "note": [
    "Peste 2.5 la ~72%; Milan 3-2 Atalanta, Lazio 3-0 la Juventus (Lazio neînvinsă în 9).",
    "19.10: Monza 4-0 Cagliari, Torino 3-0 la Parma – scoruri largi, evită U2.5.",
@@ -91,11 +91,12 @@
    "24.10: Napoli 3-3 Roma (xG 2.44-1.90); Como 2-0, Bologna 2-0 la Cagliari; Serie A 72% peste 2.5 în ultimele meciuri.",
    "25.10: Atalanta 4-4 Frosinone (xG 3.88-1.95), Inter 2-1 Fiorentina, Udinese 0-2 Milan, Lecce 0-2 Juventus; Atalanta e sursă de goluri.",
    "27.10: Sassuolo 2-6 Lazio (roșu Sassuolo), Roma 4-2 Cagliari, Torino 1-3 Como – 18 goluri în 3 meciuri; scoruri mari constant, evită U2.5.",
-   "28.10: Milan 2-4 Bologna, Genoa 2-0 Juventus, Monza 1-4 Napoli, Venezia 0-2 Inter, Parma 0-0 Udinese – 13 goluri în 5 meciuri; favoritele din deplasare câștigă, dar gazdele din subsol nu pot fi excluse."
+   "28.10: Milan 2-4 Bologna, Genoa 2-0 Juventus, Monza 1-4 Napoli, Venezia 0-2 Inter, Parma 0-0 Udinese – 13 goluri în 5 meciuri; favoritele din deplasare câștigă, dar gazdele din subsol nu pot fi excluse.",
+   "29.10: Frosinone 5-1 Lecce (xG 3.36-1.40), Fiorentina 2-2 Atalanta – 10 goluri în 2 meciuri, GG în ambele."
   ],
   "echipe": {
    "Lazio": "6-2 la Sassuolo (27.10), neînvinsă în 10",
-   "Atalanta": "4-4 cu Frosinone acasă, apărare vulnerabilă",
+   "Atalanta": "2-2 la Fiorentina (29.10), încă primește goluri",
    "Juventus": "0-2 la Genoa, xG 1.26",
    "Milan": "2-0 la Udinese (25.10)",
    "Torino": "3-0 la Parma (19.10)",
@@ -105,7 +106,8 @@
    "Roma": "4-2 cu Cagliari, apărare vulnerabilă fără Svilar",
    "Bologna": "4-2 la Milan (28.10), xG 2.09",
    "Inter": "2-0 la Venezia, câștigat târziu",
-   "Genoa": "2-0 cu Juventus (28.10)"
+   "Genoa": "2-0 cu Juventus (28.10)",
+   "Frosinone": "5-1 cu Lecce (29.10), atac în formă acasă"
   }
  },
  "Liga Cehă": {
@@ -422,11 +424,13 @@
   "victoriiGazde": 10.0,
   "note": [
    "27.10 (grupe): Progresul 0-6 Petrolul, UTA 2-2 Botoșani, Corvinul 0-0 Rapid, Csikszereda 1-2 Bihor – gazdele nu au câștigat niciun meci.",
-   "28.10: Dinamo 5-2 Chindia, CFR Cluj 1-3 U Cluj, Argeș 3-0 Corona; grupele aduc scoruri largi și rotații, evită Sub goluri la probabilități mari."
+   "28.10: Dinamo 5-2 Chindia, CFR Cluj 1-3 U Cluj, Argeș 3-0 Corona; grupele aduc scoruri largi și rotații, evită Sub goluri la probabilități mari.",
+   "29.10: Gloria Bistrița 1-0 FCSB, Voluntari 1-1 Craiova, Concordia 1-1 Sepsi – favoritele pierd puncte în grupe, 1-1 și 1-0 dominante."
   ],
   "echipe": {
    "Petrolul Ploiești": "6-0 la Progresul Spartac",
-   "Rapid București": "0-0 la Corvinul, echipă rotită"
+   "Rapid București": "0-0 la Corvinul, echipă rotită",
+   "FCSB": "1-0 la Gloria Bistrița (29.10), înfrângere surprinzătoare"
   }
  }
 }

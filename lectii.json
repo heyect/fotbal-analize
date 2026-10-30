@@ -1141,5 +1141,50 @@
   "correct": null,
   "lesson": "Partizan a câștigat 3-2 la Niš: 5 goluri într-un meci unde Partizan era favorit; semnal: gazdele din Serbia marchează acasă, deci GG/O2.5 era o variantă mai valoroasă decât victoria simplă.",
   "createdAt": 1793265336346
+ },
+ {
+  "fotmobId": 5749722,
+  "match": "Fiorentina – Atalanta",
+  "score": "2-2",
+  "pick": "Ambele marchează",
+  "correct": true,
+  "lesson": "2-2 Fiorentina–Atalanta (xG 1.51-1.01): GG a ieșit, Atalanta marchează în aproape fiecare meci; GG la meciurile ei rămâne o piață solidă.",
+  "createdAt": 1793351691034
+ },
+ {
+  "fotmobId": 5749723,
+  "match": "Frosinone – Lecce",
+  "score": "5-1",
+  "pick": "Frosinone nu pierde",
+  "correct": true,
+  "lesson": "Frosinone a învins Lecce cu 5-1 (xG 3.36-1.40): 1X a ieșit ușor; gazdele din subsolul Serie A cu atac în formă nu trebuie subestimate și acasă, iar scorurile largi continuă.",
+  "createdAt": 1793351691034
+ },
+ {
+  "fotmobId": 6093745,
+  "match": "Gloria Bistrița – FCSB",
+  "score": "1-0",
+  "pick": "FCSB câștigă",
+  "correct": false,
+  "lesson": "Gloria Bistrița a învins FCSB cu 1-0 în Cupa României: am supraestimat favorita din deplasare într-o fază de grupe; echipele de top rotesc lotul, deci victoria simplă a favoritei ar trebui plafonată sub 55%.",
+  "createdAt": 1793351691034
+ },
+ {
+  "fotmobId": 6093754,
+  "match": "FC Voluntari – Universitatea Craiova",
+  "score": "1-1",
+  "pick": null,
+  "correct": null,
+  "lesson": "Voluntari a smuls 1-1 cu Universitatea Craiova în Cupa României: favorita nu a câștigat; semnal: în grupele Cupei echipele mari joacă fără ritm, iar dublă șansă/sub goluri are valoare mai mare decât victoria.",
+  "createdAt": 1793351691034
+ },
+ {
+  "fotmobId": 6093736,
+  "match": "Concordia Chiajna – Sepsi OSK",
+  "score": "1-1",
+  "pick": null,
+  "correct": null,
+  "lesson": "Concordia Chiajna – Sepsi 1-1: o echipă din liga inferioară a ținut piept unei echipe de SuperLiga; semnal: diferența de clasă e mică în Cupă, miza redusă ridică probabilitatea egalului.",
+  "createdAt": 1793351691034
  }
 ]

@@ -748,5 +748,35 @@
   "probability": 0.7,
   "score": "0-0",
   "correct": true
+ },
+ {
+  "fotmobId": 5749722,
+  "match": "Fiorentina – Atalanta",
+  "kickoff": "2026-10-29T19:45:00Z",
+  "pick": "Ambele marchează",
+  "code": "GG",
+  "probability": 0.58,
+  "score": "2-2",
+  "correct": true
+ },
+ {
+  "fotmobId": 5749723,
+  "match": "Frosinone – Lecce",
+  "kickoff": "2026-10-29T17:30:00Z",
+  "pick": "Frosinone nu pierde",
+  "code": "1X",
+  "probability": 0.7,
+  "score": "5-1",
+  "correct": true
+ },
+ {
+  "fotmobId": 6093745,
+  "match": "Gloria Bistrița – FCSB",
+  "kickoff": "2026-10-29T19:30:00Z",
+  "pick": "FCSB câștigă",
+  "code": "2",
+  "probability": 0.6,
+  "score": "1-0",
+  "correct": false
  }
 ]
