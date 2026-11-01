@@ -1285,5 +1285,59 @@
   "correct": null,
   "lesson": "Derbiul din Liga 2 s-a terminat 0-0: la meciurile cu miză emoțională, egalul și sub-ul sunt subevaluate; semnal: ambele echipe au marcat puțin în deplasări.",
   "createdAt": 1793438060081
+ },
+ {
+  "fotmobId": 5795496,
+  "match": "Aston Villa – Fulham",
+  "score": "1-1",
+  "pick": "Aston Villa câștigă",
+  "correct": false,
+  "lesson": "Villa–Fulham 1-1: victoria gazdelor la ~55% a fost prea optimistă; meciurile echilibrate între echipe de mijloc se termină des egal – nu urca victoria gazdelor peste 50% fără avantaj clar în xG.",
+  "createdAt": 1793523817959
+ },
+ {
+  "fotmobId": 5749730,
+  "match": "Milan – Inter",
+  "score": "3-1",
+  "pick": "Sub 3.5 goluri",
+  "correct": false,
+  "lesson": "Milan–Inter 3-1 (4 goluri): Sub 3.5 la 70% a fost prea încrezător într-un derby cu două atacuri puternice; în derby-uri între echipe de top, 4+ goluri apar mai des decât arată media ligii – plafonează Sub 3.5 la ~62%.",
+  "createdAt": 1793523817959
+ },
+ {
+  "fotmobId": 5795502,
+  "match": "Manchester City – Brighton & Hove Albion",
+  "score": "0-1",
+  "pick": "Peste 2.5 goluri",
+  "correct": false,
+  "lesson": "City–Brighton 0-1: Peste 2.5 pe baza numelui favoritei a eșuat; Brighton s-a apărat jos și City a avut finalizare slabă. Nu baza Over pe prestigiul echipei gazdă – verifică xG-ul și ritmul din ultimele 3 meciuri.",
+  "createdAt": 1793523817959
+ },
+ {
+  "fotmobId": 5904791,
+  "match": "Fenerbahçe – Göztepe",
+  "score": "1-2",
+  "pick": null,
+  "correct": null,
+  "lesson": "Fenerbahçe a pierdut acasă cu Göztepe: favoritele din Süper Lig pierd puncte acasă contra echipelor cu contraatac rapid; semnal: Göztepe venea cu serie bună în deplasare.",
+  "createdAt": 1793523817959
+ },
+ {
+  "fotmobId": 5749739,
+  "match": "Udinese – Roma",
+  "score": "2-5",
+  "pick": null,
+  "correct": null,
+  "lesson": "Udinese 2-5 Roma: gazdele au primit 5 goluri; semnal: apărarea Udinese cu goluri primite multe și Roma în formă ofensivă – Peste 2.5 și victoria oaspeților erau subevaluate.",
+  "createdAt": 1793523817959
+ },
+ {
+  "fotmobId": 5836908,
+  "match": "West Ham – West Bromwich",
+  "score": "1-3",
+  "pick": null,
+  "correct": null,
+  "lesson": "West Ham, retrogradată recent, a pierdut acasă 1-3 cu WBA în Championship: numele mare nu garantează; semnal: West Brom mai bună în deplasare și mai organizată.",
+  "createdAt": 1793523817959
  }
 ]

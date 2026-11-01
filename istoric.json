@@ -848,5 +848,85 @@
   "probability": 0.72,
   "score": "1-0",
   "correct": true
+ },
+ {
+  "fotmobId": 5795496,
+  "match": "Aston Villa – Fulham",
+  "kickoff": "2026-10-31T20:00:00Z",
+  "pick": "Aston Villa câștigă",
+  "code": "1",
+  "probability": 0.55,
+  "score": "1-1",
+  "correct": false
+ },
+ {
+  "fotmobId": 5881207,
+  "match": "Bayer Leverkusen – VfB Stuttgart",
+  "kickoff": "2026-10-31T14:30:00Z",
+  "pick": "Peste 2.5 goluri",
+  "code": "O2.5",
+  "probability": 0.62,
+  "score": "2-4",
+  "correct": true
+ },
+ {
+  "fotmobId": 5795498,
+  "match": "Chelsea – Manchester United",
+  "kickoff": "2026-10-31T12:30:00Z",
+  "pick": "Chelsea câștigă",
+  "code": "1",
+  "probability": 0.5,
+  "score": "2-0",
+  "correct": true
+ },
+ {
+  "fotmobId": 5881208,
+  "match": "Bayern München – Borussia Dortmund",
+  "kickoff": "2026-10-31T17:30:00Z",
+  "pick": "GG",
+  "code": "GG",
+  "probability": 0.68,
+  "score": "2-2",
+  "correct": true
+ },
+ {
+  "fotmobId": 5749730,
+  "match": "Milan – Inter",
+  "kickoff": "2026-10-31T19:45:00Z",
+  "pick": "Sub 3.5 goluri",
+  "code": "U3.5",
+  "probability": 0.7,
+  "score": "3-1",
+  "correct": false
+ },
+ {
+  "fotmobId": 5795502,
+  "match": "Manchester City – Brighton & Hove Albion",
+  "kickoff": "2026-10-31T15:00:00Z",
+  "pick": "Peste 2.5 goluri",
+  "code": "O2.5",
+  "probability": 0.62,
+  "score": "0-1",
+  "correct": false
+ },
+ {
+  "fotmobId": 5868115,
+  "match": "Barcelona – Deportivo Alavés",
+  "kickoff": "2026-10-31T20:00:00Z",
+  "pick": "Peste 2.5 goluri",
+  "code": "O2.5",
+  "probability": 0.68,
+  "score": "6-1",
+  "correct": true
+ },
+ {
+  "fotmobId": 5795504,
+  "match": "Tottenham Hotspur – Crystal Palace",
+  "kickoff": "2026-10-31T17:30:00Z",
+  "pick": "Sub 3.5 goluri",
+  "code": "U3.5",
+  "probability": 0.7,
+  "score": "2-0",
+  "correct": true
  }
 ]
