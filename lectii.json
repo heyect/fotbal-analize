@@ -1339,5 +1339,149 @@
   "correct": null,
   "lesson": "West Ham, retrogradată recent, a pierdut acasă 1-3 cu WBA în Championship: numele mare nu garantează; semnal: West Brom mai bună în deplasare și mai organizată.",
   "createdAt": 1793523817959
+ },
+ {
+  "fotmobId": 5795501,
+  "match": "Liverpool – Arsenal",
+  "score": "0-1",
+  "pick": "Sub 3.5 goluri",
+  "correct": true,
+  "lesson": "Sub 3.5 a ieșit ușor într-un derby cu doar un gol: meciurile mari de PL cu absențe de ambele părți se închid, iar cota U3.5 rămâne utilă.",
+  "createdAt": 1793610358193
+ },
+ {
+  "fotmobId": 5749735,
+  "match": "Juventus – Napoli",
+  "score": "2-0",
+  "pick": "Ambele marchează",
+  "correct": false,
+  "lesson": "GG a eșuat: Juventus a controlat și Napoli n-a marcat; formele deschise ale unei echipe (4-3, 3-3) nu garantează gol când adversarul acasă are absențe puține în apărare. Nu baza GG doar pe meciurile anterioare ale unei singure echipe.",
+  "createdAt": 1793610358193
+ },
+ {
+  "fotmobId": 5868118,
+  "match": "Racing Santander – Real Madrid",
+  "score": "0-3",
+  "pick": "Peste 2.5 goluri",
+  "correct": true,
+  "lesson": "Real a câștigat 3-0 la Racing și O2.5 a ieșit la limită: cu un favorit clar în deplasare, golurile vin din atacul lui; ponturile pe goluri au fost mai bune decât victoria cu cotă mică.",
+  "createdAt": 1793610358193
+ },
+ {
+  "fotmobId": 5853537,
+  "match": "Dinamo București – UTA Arad",
+  "score": "2-0",
+  "pick": "Sub 3.5 goluri",
+  "correct": true,
+  "lesson": "Sub 3.5 a ieșit simplu în SuperLiga: Dinamo a învins 2-0 și UTA marchează rar în deplasare; liniile de goluri joase sunt de încredere în meciurile echipelor cu apărare organizată.",
+  "createdAt": 1793610358193
+ },
+ {
+  "fotmobId": 5868111,
+  "match": "Athletic Club – Real Sociedad",
+  "score": "2-1",
+  "pick": "Sub 3.5 goluri",
+  "correct": true,
+  "lesson": "U3.5 a ieșit la limită (2-1) într-un derby cu miză: un singur gol decisiv de ambele părți n-a depășit pragul, dar riscul de 4 goluri e real în LaLiga cu atacanți în formă.",
+  "createdAt": 1793610358193
+ },
+ {
+  "fotmobId": 5802977,
+  "match": "Marseille – Toulouse",
+  "score": "2-0",
+  "pick": "Ambele marchează",
+  "correct": false,
+  "lesson": "GG a eșuat: Marseille a câștigat 2-0 acasă; ambele-marchează supraestimat când gazdele sunt clar superioare și oaspeții au atac mediu. Reduce GG pentru Toulouse-tip oaspeți la Marseille.",
+  "createdAt": 1793610358193
+ },
+ {
+  "fotmobId": 5881210,
+  "match": "Eintracht Frankfurt – Hamburger SV",
+  "score": "3-1",
+  "pick": "Frankfurt nu pierde",
+  "correct": true,
+  "lesson": "1X pentru Frankfurt a ieșit (3-1): avantajul terenului plus absențe grele la HSV în apărare au contat; pariurile pe gazde cu adversar decimat funcționează.",
+  "createdAt": 1793610358193
+ },
+ {
+  "fotmobId": 5943285,
+  "match": "Panathinaikos – AEK Atena",
+  "score": "2-0",
+  "pick": "Peste 2.5 goluri",
+  "correct": false,
+  "lesson": "O2.5 a eșuat (2-0): derby-ul grecesc a fost închis și o echipă a controlat scorul; nu proiecta goluri multe din meciuri vechi 5-1/1-5 într-un derby cu miză mare, unde prudența crește.",
+  "createdAt": 1793610358193
+ },
+ {
+  "fotmobId": 5881213,
+  "match": "Union Berlin – 1. FC Köln",
+  "score": "1-1",
+  "pick": null,
+  "correct": null,
+  "lesson": "Egalul a venit din golurile târzii; gazdele rămân vulnerabile în meciuri echilibrate, cota de 1X era mai sigură decât 1.",
+  "createdAt": 1793610358193
+ },
+ {
+  "fotmobId": 5781794,
+  "match": "Excelsior – FC Twente",
+  "score": "0-9",
+  "pick": null,
+  "correct": null,
+  "lesson": "Scor extrem în Eredivisie: Twente a dominat un adversar din zona retrogradării; la diferențe mari de valoare, liniile de goluri O3.5 sunt subestimate.",
+  "createdAt": 1793610358193
+ },
+ {
+  "fotmobId": 5811794,
+  "match": "Sporting Charleroi – RAAL La Louvière",
+  "score": "5-2",
+  "pick": null,
+  "correct": null,
+  "lesson": "7 goluri în Belgia: apărările din subsolul clasamentului cedează multe; semnal: ambele echipe cu peste 1.5 goluri primite pe meci.",
+  "createdAt": 1793610358193
+ },
+ {
+  "fotmobId": 5804291,
+  "match": "Young Boys – FC Zürich",
+  "score": "3-5",
+  "pick": null,
+  "correct": null,
+  "lesson": "8 goluri în Elveția: ambele apărări slabe, meci deschis; Super League Elveția are medie mare, O2.5 trebuie favorizat.",
+  "createdAt": 1793610358193
+ },
+ {
+  "fotmobId": 5804287,
+  "match": "Lausanne – Thun",
+  "score": "4-5",
+  "pick": null,
+  "correct": null,
+  "lesson": "9 goluri în Elveția: a doua mare surpriză de goluri în aceeași zi, tendința ligii este clar de peste 3 goluri.",
+  "createdAt": 1793610358193
+ },
+ {
+  "fotmobId": 5904787,
+  "match": "Başakşehir – Samsunspor",
+  "score": "5-2",
+  "pick": null,
+  "correct": null,
+  "lesson": "7 goluri în Süper Lig: echipele de mijloc primesc mult, GG și O2.5 stau bine în liga turcă.",
+  "createdAt": 1793610358193
+ },
+ {
+  "fotmobId": 5802980,
+  "match": "Strasbourg – Auxerre",
+  "score": "5-1",
+  "pick": null,
+  "correct": null,
+  "lesson": "Strasbourg a câștigat 5-1 acasă: gazdele cu formă bună împotriva echipelor din subsol pot depăși cu mult liniile obișnuite de 2-3 goluri.",
+  "createdAt": 1793610358193
+ },
+ {
+  "fotmobId": 5831210,
+  "match": "Baník Ostrava – Viktoria Plzeň",
+  "score": "0-4",
+  "pick": null,
+  "correct": null,
+  "lesson": "Plzeň a câștigat clar în deplasare: favoritul din Liga Cehă cu formă bună merită ținut chiar și la deplasare.",
+  "createdAt": 1793610358193
  }
 ]
