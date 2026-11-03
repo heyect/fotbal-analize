@@ -1008,5 +1008,45 @@
   "probability": 0.6,
   "score": "2-0",
   "correct": false
+ },
+ {
+  "fotmobId": 5795503,
+  "match": "Newcastle United – Everton",
+  "kickoff": "2026-11-02T20:00:00Z",
+  "pick": "Sub 3.5 goluri",
+  "code": "U3.5",
+  "probability": 0.68,
+  "score": "0-1",
+  "correct": true
+ },
+ {
+  "fotmobId": 5853542,
+  "match": "Universitatea Cluj – FCSB",
+  "kickoff": "2026-11-02T18:30:00Z",
+  "pick": "Cluj nu pierde",
+  "code": "1X",
+  "probability": 0.62,
+  "score": "1-0",
+  "correct": true
+ },
+ {
+  "fotmobId": 5749731,
+  "match": "Atalanta – Parma",
+  "kickoff": "2026-11-02T19:45:00Z",
+  "pick": "Peste 2.5 goluri",
+  "code": "O2.5",
+  "probability": 0.6,
+  "score": "0-3",
+  "correct": true
+ },
+ {
+  "fotmobId": 5749738,
+  "match": "Sassuolo – Fiorentina",
+  "kickoff": "2026-11-02T17:30:00Z",
+  "pick": "Ambele marchează",
+  "code": "GG",
+  "probability": 0.6,
+  "score": "2-4",
+  "correct": true
  }
 ]

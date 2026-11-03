@@ -1483,5 +1483,86 @@
   "correct": null,
   "lesson": "Plzeň a câștigat clar în deplasare: favoritul din Liga Cehă cu formă bună merită ținut chiar și la deplasare.",
   "createdAt": 1793610358193
+ },
+ {
+  "fotmobId": 5795503,
+  "match": "Newcastle United – Everton",
+  "score": "0-1",
+  "pick": "Sub 3.5 goluri",
+  "correct": true,
+  "lesson": "U3.5 a ieșit (0-1), dar Newcastle a jucat în 10 și Everton a dominat xG (2.34 vs 1.29): un roșu timpuriu reduce golurile echipei lui, deci liniile sub se întăresc după cartonaș roșu.",
+  "createdAt": 1793696688356
+ },
+ {
+  "fotmobId": 5853542,
+  "match": "Universitatea Cluj – FCSB",
+  "score": "1-0",
+  "pick": "Cluj nu pierde",
+  "correct": true,
+  "lesson": "1X a ieșit (1-0), deși FCSB a avut 9 cornere la 1 și 15 șuturi la 10: Universitatea Cluj a fost eficientă, iar dublele șanse pe gazde cu formă bună rămân sigure în derby-urile din SuperLiga.",
+  "createdAt": 1793696688356
+ },
+ {
+  "fotmobId": 5749731,
+  "match": "Atalanta – Parma",
+  "score": "0-3",
+  "pick": "Peste 2.5 goluri",
+  "correct": true,
+  "lesson": "O2.5 a ieșit, dar nu cum am prevăzut: Parma a câștigat 3-0 la Bergamo deși Atalanta a avut xG 2.94 vs 0.46; golurile au venit din contraatac și ineficiența gazdelor, deci xG-ul uriaș al favoritei nu garantează gol pentru ea.",
+  "createdAt": 1793696688356
+ },
+ {
+  "fotmobId": 5749738,
+  "match": "Sassuolo – Fiorentina",
+  "score": "2-4",
+  "pick": "Ambele marchează",
+  "correct": true,
+  "lesson": "GG a ieșit în Sassuolo 2-4 Fiorentina (xG 0.98-2.39): Sassuolo cedează mult acasă, iar la Fiorentina în deplasare ambele marchează și peste 2.5 ies des împotriva echipelor din jumătatea de jos.",
+  "createdAt": 1793696688356
+ },
+ {
+  "fotmobId": 5904789,
+  "match": "Gençlerbirliği – Alanyaspor",
+  "score": "5-0",
+  "pick": null,
+  "correct": null,
+  "lesson": "Gençlerbirliği a câștigat 5-0 acasă: în Süper Lig echipele din jumătatea de jos acasă pot lovi puternic un adversar de mijloc; GG și U2.5 sunt riscante, iar victoria gazdei la cote mari merită luată în calcul.",
+  "createdAt": 1793696688356
+ },
+ {
+  "fotmobId": 5868113,
+  "match": "Deportivo A Coruña – Osasuna",
+  "score": "2-1",
+  "pick": null,
+  "correct": null,
+  "lesson": "Deportivo a învins 2-1 acasă: promovata a confirmat avantajul terenului în LaLiga, semnal: acasă, promovatele cu public bun nu trebuie subestimate în fața echipelor din mijlocul tabelei.",
+  "createdAt": 1793696688356
+ },
+ {
+  "fotmobId": 5868524,
+  "match": "Real Valladolid – Leganés",
+  "score": "4-3",
+  "pick": null,
+  "correct": null,
+  "lesson": "7 goluri în LaLiga2: apărările slabe din liga secundă spaniolă fac ca GG și O2.5 să fie mai probabile decât sugerează media ligii.",
+  "createdAt": 1793696688356
+ },
+ {
+  "fotmobId": 5804027,
+  "match": "Raków Częstochowa – Pogoń Szczecin",
+  "score": "3-1",
+  "pick": null,
+  "correct": null,
+  "lesson": "Raków a câștigat clar acasă 3-1: în Ekstraklasa gazdele din top domină echipele din deplasare și marchează 3+ des.",
+  "createdAt": 1793696688356
+ },
+ {
+  "fotmobId": 5802975,
+  "match": "Lorient – Brest",
+  "score": "0-2",
+  "pick": null,
+  "correct": null,
+  "lesson": "Brest a câștigat 0-2 la Lorient: oaspetele mai bine clasat a controlat meciul; în Ligue 1 echipele cu apărare solidă în deplasare merită încredere contra gazdelor fără goluri.",
+  "createdAt": 1793696688356
  }
 ]
