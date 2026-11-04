@@ -1564,5 +1564,50 @@
   "correct": null,
   "lesson": "Brest a câștigat 0-2 la Lorient: oaspetele mai bine clasat a controlat meciul; în Ligue 1 echipele cu apărare solidă în deplasare merită încredere contra gazdelor fără goluri.",
   "createdAt": 1793696688356
+ },
+ {
+  "fotmobId": 6106266,
+  "match": "Atlético Madrid – Bayern München",
+  "score": "0-2",
+  "pick": "Ambele marchează",
+  "correct": false,
+  "lesson": "GG a eșuat: Bayern a câștigat 0-2 la Atlético fără să primească gol; în Liga Campionilor, când un favorit clar deplasat are atac superior, Atlético acasă nu garantează gol – reduce GG când gazda marchează puțin împotriva top-echipelor.",
+  "createdAt": 1793783057995
+ },
+ {
+  "fotmobId": 6106341,
+  "match": "Galatasaray – VfB Stuttgart",
+  "score": "2-0",
+  "pick": "Ambele marchează",
+  "correct": false,
+  "lesson": "GG a eșuat: Galatasaray a câștigat 2-0 acasă cu Stuttgart; echipele turce acasă în Europa sunt subestimate, iar oaspeții germani cu formă slabă în deplasare nu marchează sigur – nu supraestima GG pentru oaspeți care ratează în deplasare.",
+  "createdAt": 1793783057995
+ },
+ {
+  "fotmobId": 5836912,
+  "match": "Derby County – Norwich City",
+  "score": "0-4",
+  "pick": null,
+  "correct": null,
+  "lesson": "Norwich a câștigat clar 0-4 în deplasare: în Championship echipele din parte de sus a clasamentului pot câștiga la mare diferență chiar în deplasare; nu subestima victoriile 2 cu handicap.",
+  "createdAt": 1793783057995
+ },
+ {
+  "fotmobId": 6106316,
+  "match": "Bodø/Glimt – Lille",
+  "score": "0-0",
+  "pick": null,
+  "correct": null,
+  "lesson": "0-0 într-un meci de LC: meci fără goluri la gazdă cu atac de obicei prolific; nu baza Peste 2.5 pe media golurilor din campionat a gazdei, ci pe calitatea adversarului și pe ritmul din meciurile europene.",
+  "createdAt": 1793783057995
+ },
+ {
+  "fotmobId": 6106335,
+  "match": "Shakhtar Donetsk – Sporting CP",
+  "score": "0-1",
+  "pick": null,
+  "correct": null,
+  "lesson": "Meci închis cu un singur gol: în LC meciurile echilibrate dintre echipe de nivel mediu pot rămâne la un singur gol; GG și Peste 2.5 nu sunt automate când nu există un favorit clar.",
+  "createdAt": 1793783057995
  }
 ]

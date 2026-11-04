@@ -370,19 +370,22 @@
  },
  "Championship": {
   "meciuri": 60,
-  "goluriMedii": 2.97,
-  "procentGG": 51.6,
-  "procentPeste25": 58.4,
-  "victoriiGazde": 45.0,
+  "goluriMedii": 2.94,
+  "procentGG": 52.2,
+  "procentPeste25": 58.0,
+  "victoriiGazde": 43.2,
   "note": [
    "Wolves 1-1 Portsmouth (20.10): victorii ale gazdelor doar ~36%, X/2 subestimate.",
    "23.10: Bolton 1-5 Middlesbrough (xG 0.91-4.17, 31 șuturi) – echipele din play-off-uri în deplasare la ultimele clasate pot copleși; victorii gazdă doar ~36%.",
    "24.10: QPR 5-0 Swansea, Norwich 3-1 la Charlton; victorii gazde doar ~40%.",
    "30.10: Sheffield United 1-0 Wrexham – victorii la limită frecvente în Championship.",
-   "31.10 (11 meciuri): 1-3, 3-2, 2-0, 2-3, 0-0, 3-0, 4-1, 4-1, 4-0, 1-3, 3-0; gol medii 3.6."
+   "31.10 (11 meciuri): 1-3, 3-2, 2-0, 2-3, 0-0, 3-0, 4-1, 4-1, 4-0, 1-3, 3-0; gol medii 3.6.",
+   "03.11 (9 meciuri): 1-2, 0-4, 3-1, 2-3, 1-1, 1-0, 0-1, 3-0, 1-1; 5 din 9 cu GG, gol medii 2.0 sub media recentă."
   ],
   "echipe": {
-   "Middlesbrough": "5-1 în deplasare la Bolton (23.10), xG 4.17"
+   "Middlesbrough": "5-1 în deplasare la Bolton (23.10), xG 4.17",
+   "Norwich City": "0-4 în deplasare la Derby, formă bună",
+   "Birmingham City": "3-0 cu Millwall acasă"
   }
  },
  "Europa League": {
@@ -417,28 +420,30 @@
   }
  },
  "Liga Campionilor": {
-  "meciuri": 36,
-  "goluriMedii": 4.06,
-  "procentGG": 63.9,
-  "procentPeste25": 75.0,
-  "victoriiGazde": 58.3,
+  "meciuri": 45,
+  "goluriMedii": 3.83,
+  "procentGG": 53.3,
+  "procentPeste25": 71.1,
+  "victoriiGazde": 55.5,
   "note": [
    "Eșantion 36 meciuri (10-21.10), ~4 goluri/meci.",
    "20.10: 9 meciuri, 33 goluri, 7 din 9 GG; 21.10: 9 meciuri, 35 goluri, dar 3 meciuri 1-0/1-0/3-0 fără GG.",
-   "Gazdele din top câștigă mult (Real 4-1, Villa 3-1, Como 4-1, Brugge 3-0), dar Galatasaray (4-2 la Lille) și LASK (3-2 la Sporting) au câștigat în deplasare."
+   "Gazdele din top câștigă mult (Real 4-1, Villa 3-1, Como 4-1, Brugge 3-0), dar Galatasaray (4-2 la Lille) și LASK (3-2 la Sporting) au câștigat în deplasare.",
+   "03.11 (9 meciuri): 2-0, 0-1, 0-2, 3-0, 0-0, 0-3, 4-0, 3-2, 0-6; doar 1 din 9 GG, 5 din 9 peste 2.5, 4 victorii gazdă; scoruri 'tăiate' (victorii fără gol primit) foarte frecvente – GG supraestimat."
   ],
   "echipe": {
    "PSV": "1-0 la Porto în LC; formă bună",
    "Liverpool": "4-3 cu Villarreal, apărare vulnerabilă",
    "Napoli": "4-3 cu Bodø/Glimt, primește goluri",
    "Manchester City": "5-1 cu AEK",
-   "PSG": "4-2 cu Barcelona",
-   "Galatasaray": "4-2 în deplasare la Lille în LC",
+   "PSG": "6-0 la Villarreal, atac devastator",
+   "Galatasaray": "2-0 cu Stuttgart acasă",
    "Como": "4-1 cu Manchester United",
    "Manchester United": "4-1 la Como, apărare vulnerabilă în deplasare",
    "Real Madrid": "4-1 cu Leipzig",
-   "Bayern München": "2-2 cu Arsenal",
-   "Arsenal": "2-2 la Bayern"
+   "Bayern München": "2-0 la Atlético, control total",
+   "Arsenal": "2-2 la Bayern",
+   "Inter": "3-0 în deplasare la Feyenoord, formă excelentă"
   }
  },
  "Primeira Liga": {
