@@ -1609,5 +1609,95 @@
   "correct": null,
   "lesson": "Meci închis cu un singur gol: în LC meciurile echilibrate dintre echipe de nivel mediu pot rămâne la un singur gol; GG și Peste 2.5 nu sunt automate când nu există un favorit clar.",
   "createdAt": 1793783057995
+ },
+ {
+  "fotmobId": 6106322,
+  "match": "RB Leipzig – Manchester City",
+  "score": "2-3",
+  "pick": "Peste 2.5 goluri",
+  "correct": true,
+  "lesson": "Leipzig–City 2-3: Peste 2.5 ieșit; în LC 2026/27 mediile de goluri sunt foarte mari (~3.8), iar un favorit în deplasare cu apărare fragilă a gazdelor aduce goluri de ambele părți.",
+  "createdAt": 1793869450931
+ },
+ {
+  "fotmobId": 6106389,
+  "match": "Slavia Prague – Arsenal",
+  "score": "1-2",
+  "pick": "Sub 3.5 goluri",
+  "correct": true,
+  "lesson": "Slavia–Arsenal 1-2: Sub 3.5 ieșit; un favorit mare în deplasare câștigă des la limită, fără scor-fluviu, când gazda marchează totuși un gol.",
+  "createdAt": 1793869450931
+ },
+ {
+  "fotmobId": 6106330,
+  "match": "Fenerbahçe – Liverpool",
+  "score": "3-2",
+  "pick": "Peste 2.5 goluri",
+  "correct": true,
+  "lesson": "Fenerbahçe–Liverpool 3-2: Peste 2.5 ieșit; gazdele turce în Europa marchează acasă chiar cu adversar superior, deci Peste 2.5 rămâne piața sigură cu cote bune.",
+  "createdAt": 1793869450931
+ },
+ {
+  "fotmobId": 6106271,
+  "match": "Borussia Dortmund – Real Betis",
+  "score": "2-1",
+  "pick": "Peste 2.5 goluri",
+  "correct": true,
+  "lesson": "Dortmund–Betis 2-1: Peste 2.5 ieșit la limită; meciuri echilibrate cu două echipe ofensive trec de 2.5 aproape automat în LC.",
+  "createdAt": 1793869450931
+ },
+ {
+  "fotmobId": 6106401,
+  "match": "AEK Athens – Real Madrid",
+  "score": "2-3",
+  "pick": "Peste 2.5 goluri",
+  "correct": true,
+  "lesson": "AEK–Real Madrid 2-3: Peste 2.5 ieșit; Real primește goluri chiar și la outsideri, iar un roșu la gazde (AEK) a deschis meciul — ritmul crește după cartonașe roșii.",
+  "createdAt": 1793869450931
+ },
+ {
+  "fotmobId": 6106288,
+  "match": "FC Porto – Napoli",
+  "score": "4-1",
+  "pick": "Porto nu pierde",
+  "correct": true,
+  "lesson": "Porto–Napoli 4-1: 1X ieșit cu mult peste cota; Porto acasă în Europa e subestimat de modelele bazate pe numele adversarului — contează forma din deplasare a echipelor italiene.",
+  "createdAt": 1793869450931
+ },
+ {
+  "fotmobId": 6106416,
+  "match": "Lens – Como",
+  "score": "1-9",
+  "pick": null,
+  "correct": null,
+  "lesson": "Como a câștigat 9-1 în deplasare: scor extrem într-un meci de LC; echipa în formă ofensivă maximă poate depăși orice cotă când gazda se dezorganizează după un gol sau un roșu — Peste 3.5 trebuia luat în calcul, nu doar victoria favoritei.",
+  "createdAt": 1793869450931
+ },
+ {
+  "fotmobId": 5836919,
+  "match": "Cardiff City – West Ham United",
+  "score": "3-3",
+  "pick": null,
+  "correct": null,
+  "lesson": "3-3 în Championship: West Ham retrogradată are apărare vulnerabilă în deplasare, iar GG + Peste 2.5 erau subevaluate în meciurile cu echipe venite din PL.",
+  "createdAt": 1793869450931
+ },
+ {
+  "fotmobId": 6106303,
+  "match": "PSV Eindhoven – Club Brugge",
+  "score": "1-2",
+  "pick": null,
+  "correct": null,
+  "lesson": "Brugge a câștigat în deplasare la PSV: echipele belgiene bine organizate sunt subestimate când gazda e favorită clară; 1X pe gazde a fost prea încrezător.",
+  "createdAt": 1793869450931
+ },
+ {
+  "fotmobId": 6112306,
+  "match": "Rennes – Olympiacos",
+  "score": "0-0",
+  "pick": null,
+  "correct": null,
+  "lesson": "0-0 în Europa League: meci tactic între echipe de nivel apropiat, fără favorit; evită Peste 2.5 când ambele echipe au absenți ofensivi și miză mică de risc.",
+  "createdAt": 1793869450931
  }
 ]

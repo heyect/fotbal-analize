@@ -129,15 +129,16 @@
  },
  "Liga Cehă": {
   "meciuri": 60,
-  "goluriMedii": 2.7,
-  "procentGG": 52.0,
-  "procentPeste25": 50.0,
-  "victoriiGazde": 45.0,
+  "goluriMedii": 2.71,
+  "procentGG": 52.8,
+  "procentPeste25": 50.8,
+  "victoriiGazde": 44.2,
   "note": [
    "Eșantion mic (15 meciuri, 10-18.10); procentele se stabilizează în zilele următoare.",
    "Media cea mai mică dintre ligile urmărite: ~2.1 goluri, doar 27% GG; Baník–Sparta 0-0.",
    "31.10 (5 meciuri): 2-2, 0-5, 1-2, 1-3, 3-0; gol medii 3.8.",
-   "01.11: Plzeň 4-0 la Ostrava, Mladá Boleslav 3-1 Hradec, Bohemians 0-0 Sparta."
+   "01.11: Plzeň 4-0 la Ostrava, Mladá Boleslav 3-1 Hradec, Bohemians 0-0 Sparta.",
+   "04.11: Artis Brno 1-2 Bohemians 1905 – deplasare câștigătoare, ritm moderat."
   ],
   "echipe": {}
  },
@@ -370,17 +371,18 @@
  },
  "Championship": {
   "meciuri": 60,
-  "goluriMedii": 2.94,
-  "procentGG": 52.2,
-  "procentPeste25": 58.0,
-  "victoriiGazde": 43.2,
+  "goluriMedii": 2.98,
+  "procentGG": 52.9,
+  "procentPeste25": 58.4,
+  "victoriiGazde": 42.7,
   "note": [
    "Wolves 1-1 Portsmouth (20.10): victorii ale gazdelor doar ~36%, X/2 subestimate.",
    "23.10: Bolton 1-5 Middlesbrough (xG 0.91-4.17, 31 șuturi) – echipele din play-off-uri în deplasare la ultimele clasate pot copleși; victorii gazdă doar ~36%.",
    "24.10: QPR 5-0 Swansea, Norwich 3-1 la Charlton; victorii gazde doar ~40%.",
    "30.10: Sheffield United 1-0 Wrexham – victorii la limită frecvente în Championship.",
    "31.10 (11 meciuri): 1-3, 3-2, 2-0, 2-3, 0-0, 3-0, 4-1, 4-1, 4-0, 1-3, 3-0; gol medii 3.6.",
-   "03.11 (9 meciuri): 1-2, 0-4, 3-1, 2-3, 1-1, 1-0, 0-1, 3-0, 1-1; 5 din 9 cu GG, gol medii 2.0 sub media recentă."
+   "03.11 (9 meciuri): 1-2, 0-4, 3-1, 2-3, 1-1, 1-0, 0-1, 3-0, 1-1; 5 din 9 cu GG, gol medii 2.0 sub media recentă.",
+   "04.11: Cardiff 3-3 West Ham, Wrexham 2-0 Boro, Bristol City 1-2 Wolves; 2 din 3 cu GG, echipele retrogradate din PL sunt vulnerabile în deplasare."
   ],
   "echipe": {
    "Middlesbrough": "5-1 în deplasare la Bolton (23.10), xG 4.17",
@@ -389,14 +391,15 @@
   }
  },
  "Europa League": {
-  "meciuri": 36,
-  "goluriMedii": 3.3,
-  "procentGG": 58.4,
-  "procentPeste25": 75.0,
-  "victoriiGazde": 38.8,
+  "meciuri": 37,
+  "goluriMedii": 3.21,
+  "procentGG": 56.8,
+  "procentPeste25": 73.0,
+  "victoriiGazde": 37.8,
   "note": [
    "22.10: 3.5 goluri/meci, 78% peste 2.5 dar doar 50% GG – scoruri la zero frecvente (Hoffenheim 3-0 Lyon, Sturm 1-0 Marseille, Bournemouth 3-0 Milan cu roșu); echipele franceze în deplasare marchează rar.",
-   "Gazdele au câștigat doar 33% ieri (6/18): deplasările au 4 victorii (Real Sociedad 6-0, Benfica, Anderlecht, Levski)."
+   "Gazdele au câștigat doar 33% ieri (6/18): deplasările au 4 victorii (Real Sociedad 6-0, Benfica, Anderlecht, Levski).",
+   "04.11: Rennes 0-0 Olympiacos – meci închis între echipe apropiate."
   ],
   "echipe": {
    "Bournemouth": "3-0 cu Milan (22.10), Milan cu 10 oameni din min. 28",
@@ -420,16 +423,17 @@
   }
  },
  "Liga Campionilor": {
-  "meciuri": 45,
-  "goluriMedii": 3.83,
-  "procentGG": 53.3,
-  "procentPeste25": 71.1,
-  "victoriiGazde": 55.5,
+  "meciuri": 54,
+  "goluriMedii": 4.01,
+  "procentGG": 61.1,
+  "procentPeste25": 75.9,
+  "victoriiGazde": 53.7,
   "note": [
    "Eșantion 36 meciuri (10-21.10), ~4 goluri/meci.",
    "20.10: 9 meciuri, 33 goluri, 7 din 9 GG; 21.10: 9 meciuri, 35 goluri, dar 3 meciuri 1-0/1-0/3-0 fără GG.",
    "Gazdele din top câștigă mult (Real 4-1, Villa 3-1, Como 4-1, Brugge 3-0), dar Galatasaray (4-2 la Lille) și LASK (3-2 la Sporting) au câștigat în deplasare.",
-   "03.11 (9 meciuri): 2-0, 0-1, 0-2, 3-0, 0-0, 0-3, 4-0, 3-2, 0-6; doar 1 din 9 GG, 5 din 9 peste 2.5, 4 victorii gazdă; scoruri 'tăiate' (victorii fără gol primit) foarte frecvente – GG supraestimat."
+   "03.11 (9 meciuri): 2-0, 0-1, 0-2, 3-0, 0-0, 0-3, 4-0, 3-2, 0-6; doar 1 din 9 GG, 5 din 9 peste 2.5, 4 victorii gazdă; scoruri 'tăiate' (victorii fără gol primit) foarte frecvente – GG supraestimat.",
+   "04.11: 9 meciuri, 36 goluri (medie 4.0), toate cu GG; Lens 1-9 Como, Porto 4-1 Napoli, AEK 2-3 Real, Leipzig 2-3 City; GG și Peste 2.5 foarte sigure în LC acum."
   ],
   "echipe": {
    "PSV": "1-0 la Porto în LC; formă bună",
@@ -469,16 +473,17 @@
  },
  "Pro League Belgia": {
   "meciuri": 60,
-  "goluriMedii": 3.0,
-  "procentGG": 57.0,
-  "procentPeste25": 60.0,
-  "victoriiGazde": 47.0,
+  "goluriMedii": 3.02,
+  "procentGG": 57.7,
+  "procentPeste25": 60.7,
+  "victoriiGazde": 46.2,
   "note": [
    "Eșantion mic (8 meciuri, 10-18.10); procentele se stabilizează în zilele următoare.",
    "24.10: Westerlo 4-4 Beveren, Antwerp 3-0, La Louvière 3-0; media crește la 3.9 goluri.",
    "30.10: Zulte Waregem 2-4 Club Brugge – Brugge marchează 4 în deplasare, GG ieșit.",
    "31.10 (4 meciuri): 1-0, 1-1, 4-1, 1-2; gol medii 2.8.",
-   "01.11: Charleroi 5-2 Louvière, Cercle 2-1 Antwerp, Lommel 2-0 Gent, Truiden 1-2 Leuven."
+   "01.11: Charleroi 5-2 Louvière, Cercle 2-1 Antwerp, Lommel 2-0 Gent, Truiden 1-2 Leuven.",
+   "04.11: Kortrijk 1-3 Mechelen – deplasarea a câștigat din nou."
   ],
   "echipe": {}
  },
