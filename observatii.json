@@ -233,16 +233,17 @@
  },
  "Liga 2 România": {
   "meciuri": 60,
-  "goluriMedii": 2.5,
-  "procentGG": 45.0,
-  "procentPeste25": 42.0,
-  "victoriiGazde": 45.0,
+  "goluriMedii": 2.54,
+  "procentGG": 45.9,
+  "procentPeste25": 43.0,
+  "victoriiGazde": 45.9,
   "note": [
    "ASA Târgu Mureș 2-4 Chindia (20.10): Chindia a câștigat în deplasare cu 4 goluri.",
    "26.10: Metaloglobus 2-0 Râmnicu Vâlcea.",
    "30.10: Steaua 0-0 Dinamo – derbiul ieșit la egalitate, fără goluri.",
    "31.10 (8 meciuri): 0-1, 2-2, 2-2, 0-3, 2-0, 2-1, 3-2, 1-4; gol medii 3.4.",
-   "01.11: Reșița 1-0 Gloria Bistrița, Chiajna 2-1 la Slatina."
+   "01.11: Reșița 1-0 Gloria Bistrița, Chiajna 2-1 la Slatina.",
+   "05.11: Chindia 4-1 Popești Leordeni – gazdele din prima parte a clasamentului câștigă clar cu echipele de jos."
   ],
   "echipe": {}
  },
@@ -391,35 +392,43 @@
   }
  },
  "Europa League": {
-  "meciuri": 37,
-  "goluriMedii": 3.21,
-  "procentGG": 56.8,
-  "procentPeste25": 73.0,
-  "victoriiGazde": 37.8,
+  "meciuri": 54,
+  "goluriMedii": 3.09,
+  "procentGG": 57.4,
+  "procentPeste25": 64.8,
+  "victoriiGazde": 37.0,
   "note": [
    "22.10: 3.5 goluri/meci, 78% peste 2.5 dar doar 50% GG – scoruri la zero frecvente (Hoffenheim 3-0 Lyon, Sturm 1-0 Marseille, Bournemouth 3-0 Milan cu roșu); echipele franceze în deplasare marchează rar.",
    "Gazdele au câștigat doar 33% ieri (6/18): deplasările au 4 victorii (Real Sociedad 6-0, Benfica, Anderlecht, Levski).",
-   "04.11: Rennes 0-0 Olympiacos – meci închis între echipe apropiate."
+   "04.11: Rennes 0-0 Olympiacos – meci închis între echipe apropiate.",
+   "05.11 (17 meciuri): 2.9 goluri/meci, 47% peste 2.5 și 6 din 17 gazde câștigătoare; Milan 0-2 Ferencváros, Leverkusen 0-1 Marseille, Sunderland 0-2 Dinamo Zagreb – gazdele mari au pierdut fără să marcheze."
   ],
   "echipe": {
    "Bournemouth": "3-0 cu Milan (22.10), Milan cu 10 oameni din min. 28",
    "Hoffenheim": "3-0 cu Lyon, xG 2.09",
-   "Sturm Graz": "1-0 cu Marseille"
+   "Sturm Graz": "1-0 cu Marseille",
+   "Ferencváros": "2-0 la Milan (05.11), 6 puncte în ultimele meciuri",
+   "Dinamo Zagreb": "2-0 la Sunderland (05.11)",
+   "Marseille": "1-0 la Leverkusen (05.11)",
+   "Union SG": "2-1 la Celta Vigo (05.11)"
   }
  },
  "Conference League": {
-  "meciuri": 36,
-  "goluriMedii": 2.97,
-  "procentGG": 61.2,
-  "procentPeste25": 50.0,
-  "victoriiGazde": 47.3,
+  "meciuri": 54,
+  "goluriMedii": 2.76,
+  "procentGG": 57.5,
+  "procentPeste25": 46.3,
+  "victoriiGazde": 50.0,
   "note": [
    "22.10: doar 28% victorii gazde, 5 egaluri din 18; Getafe 2-5 Lugano și Dinamo Zagreb 2-4 NEC (EL) arată apărări fragile ale gazdelor mediocre.",
-   "Echipele britanice/franceze (Brighton 0-0, Monaco 3-0) au profitat în Conference de echipe mai slabe."
+   "Echipele britanice/franceze (Brighton 0-0, Monaco 3-0) au profitat în Conference de echipe mai slabe.",
+   "05.11 (18 meciuri): 4 din 18 egaluri 0-0/1-1 în primul val, dar Midtjylland 1-6 Ajax; Brighton, Freiburg, Monaco câștigă în deplasare/acasă fără probleme – echipele din ligile mari domină."
   ],
   "echipe": {
-   "Ajax": "2-0 cu Atalanta (22.10), ambele goluri după min. 85",
-   "Trabzonspor": "2-0 cu Hearts (22.10)"
+   "Ajax": "6-1 la Midtjylland (05.11)",
+   "Trabzonspor": "2-0 cu Hearts (22.10)",
+   "Freiburg": "1-0 la Trabzonspor (05.11)",
+   "Brighton": "1-0 la Getafe (05.11)"
   }
  },
  "Liga Campionilor": {

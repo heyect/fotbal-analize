@@ -1,24 +1,6 @@
 [
  {
   "fotmobId": 0,
-  "match": "ADO Den Haag – PSV",
-  "score": "2-1",
-  "pick": null,
-  "correct": null,
-  "lesson": "Favorit clar învins cu 3 zile înainte de Liga Campionilor (PSV–Porto, 20.10): rotațiile dinaintea unui meci european scad șansele favoritului în campionat.",
-  "createdAt": 1792333427670
- },
- {
-  "fotmobId": 0,
-  "match": "Venezia – Napoli",
-  "score": "1-0",
-  "pick": null,
-  "correct": null,
-  "lesson": "Napoli joacă marți în LC cu Bodø/Glimt; după 1-0 la Venezia, de luat în calcul oboseala și rotația înainte de LC la pariurile pe favoriți.",
-  "createdAt": 1792333427670
- },
- {
-  "fotmobId": 0,
   "match": "Union Berlin – Dortmund",
   "score": "0-0",
   "pick": null,
@@ -1699,5 +1681,122 @@
   "correct": null,
   "lesson": "0-0 în Europa League: meci tactic între echipe de nivel apropiat, fără favorit; evită Peste 2.5 când ambele echipe au absenți ofensivi și miză mică de risc.",
   "createdAt": 1793869450931
+ },
+ {
+  "fotmobId": 6112255,
+  "match": "Milan – Ferencváros",
+  "score": "0-2",
+  "pick": "Peste 2.5 goluri",
+  "correct": false,
+  "lesson": "Peste 2.5 a picat: Milan a dominat dar a fost învins 0-2; la un favorit fără goluri de ritm european, nu pune Peste 2.5 doar pe baza calității ofensive a gazdelor – xG mare nu garantează goluri.",
+  "createdAt": 1793955870831
+ },
+ {
+  "fotmobId": 6112242,
+  "match": "Bayer Leverkusen – Marseille",
+  "score": "0-1",
+  "pick": "Ambele marchează",
+  "correct": false,
+  "lesson": "GG a picat: Leverkusen nu a marcat acasă; echipele franceze în deplasare în Europa închid meciul și GG rămâne supraestimat când gazda are formă ofensivă fluctuantă.",
+  "createdAt": 1793955870831
+ },
+ {
+  "fotmobId": 6112262,
+  "match": "AZ Alkmaar – Juventus",
+  "score": "1-2",
+  "pick": "Sub 3.5 goluri",
+  "correct": true,
+  "lesson": "Sub 3.5 a ieșit: 3 goluri într-un meci echilibrat; piețele de goluri joase (U3.5) cu probabilitate ~0.68 funcționează bine în meciuri între echipe apropiate.",
+  "createdAt": 1793955870831
+ },
+ {
+  "fotmobId": 6112506,
+  "match": "Universitatea Craiova – Egnatia",
+  "score": "2-0",
+  "pick": "Craiova câștigă",
+  "correct": true,
+  "lesson": "Craiova a câștigat 2-0 cum arătau cotele: gazdele românești cu diferență de clasă în Conference sunt un pont sigur.",
+  "createdAt": 1793955870831
+ },
+ {
+  "fotmobId": 6112325,
+  "match": "Crystal Palace – Hoffenheim",
+  "score": "1-1",
+  "pick": "Ambele marchează",
+  "correct": true,
+  "lesson": "GG a ieșit la 1-1: Palace și Hoffenheim au marcat amândouă, dar formele ofensive bune ale ambelor echipe au contat mai mult decât absențele.",
+  "createdAt": 1793955870831
+ },
+ {
+  "fotmobId": 6112270,
+  "match": "Real Sociedad – Lyon",
+  "score": "1-1",
+  "pick": "Sub 3.5 goluri",
+  "correct": true,
+  "lesson": "Sub 3.5 a ieșit: Lyon în deplasare marchează puțin; Sub 3.5 la 70% a fost corect în meci echilibrat.",
+  "createdAt": 1793955870831
+ },
+ {
+  "fotmobId": 6112304,
+  "match": "Sparta Prague – AFC Bournemouth",
+  "score": "1-3",
+  "pick": "Bournemouth nu pierde",
+  "correct": true,
+  "lesson": "X2 a ieșit: Bournemouth a câștigat 3-1 în deplasare; formă excelentă și xG mare au fost semnale corecte.",
+  "createdAt": 1793955870831
+ },
+ {
+  "fotmobId": 6112248,
+  "match": "Benfica – Lech Poznań",
+  "score": "3-1",
+  "pick": "Peste 2.5 goluri",
+  "correct": true,
+  "lesson": "Peste 2.5 a ieșit: Benfica a marcat 3; gazdele puternice cu apărare permisivă adversară oferă goluri.",
+  "createdAt": 1793955870831
+ },
+ {
+  "fotmobId": 6112405,
+  "match": "FC Midtjylland – Ajax",
+  "score": "1-6",
+  "pick": null,
+  "correct": null,
+  "lesson": "Ajax a câștigat 6-1 în deplasare: gazdele daneze subestimate defensiv în Conference; semnal: Ajax avea formă ofensivă și Midtjylland cedase multe goluri recent.",
+  "createdAt": 1793955870831
+ },
+ {
+  "fotmobId": 6112331,
+  "match": "Sunderland – Dinamo Zagreb",
+  "score": "0-2",
+  "pick": null,
+  "correct": null,
+  "lesson": "Sunderland (promovată) a pierdut 0-2 acasă; echipele din ligile mari cu lot subțire nu sunt favorite sigure în Europa League contra campionilor croați cu experiență europeană.",
+  "createdAt": 1793955870831
+ },
+ {
+  "fotmobId": 6112347,
+  "match": "Celta Vigo – Union Saint-Gilloise",
+  "score": "1-2",
+  "pick": null,
+  "correct": null,
+  "lesson": "Union SG a câștigat în deplasare în Spania; organizarea belgiană și contraatacul au surprins o gazdă favorită – cote prea mici pe gazde în faza ligii.",
+  "createdAt": 1793955870831
+ },
+ {
+  "fotmobId": 6112316,
+  "match": "Sturm Graz – NK Celje",
+  "score": "2-3",
+  "pick": null,
+  "correct": null,
+  "lesson": "Celje a câștigat 3-2 la Graz; meci cu goluri multe între echipe cu apărări șubrede – Peste 2.5 era de văzut din formele ambelor.",
+  "createdAt": 1793955870831
+ },
+ {
+  "fotmobId": 6112501,
+  "match": "Trabzonspor – Freiburg",
+  "score": "0-1",
+  "pick": null,
+  "correct": null,
+  "lesson": "Trabzonspor a pierdut acasă 0-1 cu Freiburg; echipele germane disciplinate tactic câștigă în deplasare în Conference când gazda are formă slabă recentă.",
+  "createdAt": 1793955870831
  }
 ]
