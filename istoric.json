@@ -1248,5 +1248,35 @@
   "probability": 0.62,
   "score": "3-1",
   "correct": true
+ },
+ {
+  "fotmobId": 5795508,
+  "match": "Everton – Coventry City",
+  "kickoff": "2026-11-06T20:00:00Z",
+  "pick": "Sub 3.5 goluri",
+  "code": "U3.5",
+  "probability": 0.7,
+  "score": "3-1",
+  "correct": false
+ },
+ {
+  "fotmobId": 5881218,
+  "match": "Hamburger SV – Borussia Mönchengladbach",
+  "kickoff": "2026-11-06T19:30:00Z",
+  "pick": "Ambele marchează",
+  "code": "GG",
+  "probability": 0.6,
+  "score": "3-1",
+  "correct": true
+ },
+ {
+  "fotmobId": 5853547,
+  "match": "FC Argeș Pitești – Dinamo București",
+  "kickoff": "2026-11-06T18:30:00Z",
+  "pick": "Dinamo nu pierde",
+  "code": "X2",
+  "probability": 0.68,
+  "score": "2-1",
+  "correct": false
  }
 ]
