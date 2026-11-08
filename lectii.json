@@ -1,131 +1,5 @@
 [
  {
-  "fotmobId": 5853526,
-  "match": "Universitatea Craiova – FCV Farul Constanța",
-  "score": "2-0",
-  "pick": "Echipa gazdă nu primește gol",
-  "correct": true,
-  "lesson": "Craiova a câștigat 2-0 cu Farul; NG a ieșit pe fondul unei medii mici de goluri în SuperLiga (~2.25) – în această ligă, NG/sub 2.5 merită luate în calcul mai des.",
-  "createdAt": 1792397170818
- },
- {
-  "fotmobId": 5881190,
-  "match": "Borussia Mönchengladbach – Hoffenheim",
-  "score": "1-2",
-  "pick": "Peste 2.5 goluri",
-  "correct": true,
-  "lesson": "Gladbach–Hoffenheim 1-2: peste 2.5 a ieșit prin ambele echipe cu apărări șubrede; pe seria de rezultate proaste și goluri primite multe, peste 2.5 este o piață fiabilă.",
-  "createdAt": 1792397170818
- },
- {
-  "fotmobId": 5802959,
-  "match": "Lorient – Monaco",
-  "score": "1-0",
-  "pick": null,
-  "correct": null,
-  "lesson": "Monaco a pierdut 0-1 la Lorient; nu supraestima 1X2 pentru favoriții din deplasare în Ligue 1, unde ritmul de goluri e mare și rezultatele sunt volatile.",
-  "createdAt": 1792397170818
- },
- {
-  "fotmobId": 5802961,
-  "match": "Paris FC – Rennes",
-  "score": "4-3",
-  "pick": null,
-  "correct": null,
-  "lesson": "7 goluri; Ligue 1 are o medie de ~3.6 goluri/meci și 70% GG în ultimele zile – peste 2.5 și GG merită prioritate față de 1X2 în această ligă.",
-  "createdAt": 1792397170818
- },
- {
-  "fotmobId": 5749703,
-  "match": "Fiorentina – Como",
-  "score": "1-3",
-  "pick": null,
-  "correct": null,
-  "lesson": "Como a câștigat clar în deplasare; echipele în formă bună cu atac productiv bat adesea gazdele din mijlocul clasamentului – nu da avantaj automat gazdelor în Serie A.",
-  "createdAt": 1792397170818
- },
- {
-  "fotmobId": 5831193,
-  "match": "Baník Ostrava – Sparta Praga",
-  "score": "0-0",
-  "pick": null,
-  "correct": null,
-  "lesson": "Liga Cehă are doar ~2.1 goluri/meci și 27% GG: sub 2.5 și NG sunt piețe subestimate la meciurile cu o echipă de top în deplasare.",
-  "createdAt": 1792397170818
- },
- {
-  "fotmobId": 5865478,
-  "match": "Kisvárda – Ferencváros",
-  "score": "1-1",
-  "pick": null,
-  "correct": null,
-  "lesson": "Ferencváros a remizat în deplasare cu o echipă mică; în NB I (medie ~2.25 goluri) favoritele din deplasare sunt mai sigure pe 1X decât pe 1.",
-  "createdAt": 1792397170818
- },
- {
-  "fotmobId": 5781773,
-  "match": "FC Twente – FC Utrecht",
-  "score": "1-2",
-  "pick": null,
-  "correct": null,
-  "lesson": "Gazda favorită a pierdut acasă în Eredivisie, unde media este ~4 goluri/meci și gazdele câștigă doar 35%: evită 1 simplu, preferă GG/peste 2.5 sau 1X.",
-  "createdAt": 1792397170818
- },
- {
-  "fotmobId": 5904767,
-  "match": "Trabzonspor – Beşiktaş",
-  "score": "2-0",
-  "pick": "Peste 2.5 goluri",
-  "correct": false,
-  "lesson": "Trabzonspor a câștigat 2-0 fără al treilea gol; în Süper Lig 69% peste 2.5 e în eșantion, dar un derby cu miză produce meciuri tactice – 2.5 la derby cere un favorit ofensiv clar, nu doar medie de ligă.",
-  "createdAt": 1792484189953
- },
- {
-  "fotmobId": 5853522,
-  "match": "FC Voluntari – FCSB",
-  "score": "1-2",
-  "pick": "FCSB câștigă",
-  "correct": true,
-  "lesson": "FCSB a câștigat în deplasare la Voluntari (1-2) deși a fost surprinsă; echipa de top din SuperLiga rămâne favorită chiar la cote mari, dar marja e mică – nu supraestima 2 în deplasare.",
-  "createdAt": 1792484189953
- },
- {
-  "fotmobId": 5795484,
-  "match": "Tottenham Hotspur – Coventry City",
-  "score": "3-1",
-  "pick": "Ambele echipe marchează",
-  "correct": true,
-  "lesson": "Tottenham 3-1 Coventry: ambele au marcat, dar gazdele au dominat; GG a ieșit prin golul de onoare al unei echipe mai slabe – în PL GG la ~58% e corect, dar 1X ar fi fost mai sigur.",
-  "createdAt": 1792484189953
- },
- {
-  "fotmobId": 5887594,
-  "match": "Braga – Gil Vicente",
-  "score": "1-2",
-  "pick": null,
-  "correct": null,
-  "lesson": "Gil Vicente a câștigat la Braga: favoritul acasă cu 3 goluri în Liga Portugal nu e sigur; semnalul era forma slabă acasă a gazdelor – nu da 1 simplu fără formă acasă verificată.",
-  "createdAt": 1792484189953
- },
- {
-  "fotmobId": 5739528,
-  "match": "Viborg – Midtjylland",
-  "score": "1-2",
-  "pick": null,
-  "correct": null,
-  "lesson": "Midtjylland a câștigat în deplasare: în Danemarca echipa mare câștigă des în deplasare, 12 sau X2 merită luat în calcul față de 1 al gazdei.",
-  "createdAt": 1792484189953
- },
- {
-  "fotmobId": 5749707,
-  "match": "Parma – Torino",
-  "score": "0-3",
-  "pick": null,
-  "correct": null,
-  "lesson": "Torino 3-0 în deplasare: gazda nou-promovată/de jos de tabel a fost învinsă clar; în Serie A gazdele din subsolul clasamentului nu sunt favorite automat.",
-  "createdAt": 1792484189953
- },
- {
   "fotmobId": 5749706,
   "match": "Monza – Cagliari",
   "score": "4-0",
@@ -1798,5 +1672,131 @@
   "correct": null,
   "lesson": "Standard a câștigat clar 3-0 acasă; gazdele cu formă bună în Pro League acoperă ușor 1X și handicapul.",
   "createdAt": 1794042250590
+ },
+ {
+  "fotmobId": 5795511,
+  "match": "Leeds United – Tottenham Hotspur",
+  "score": "1-0",
+  "pick": "Sub 2.5 goluri",
+  "correct": true,
+  "lesson": "U2.5 a ieșit: două atacuri sub nivel și xG mic; în PL, fără dominare clară, meciurile se închid sub 3 goluri.",
+  "createdAt": 1794128641808
+ },
+ {
+  "fotmobId": 5853549,
+  "match": "FCSB – Corvinul Hunedoara",
+  "score": "0-1",
+  "pick": "FCSB câștigă",
+  "correct": false,
+  "lesson": "FCSB (favorită 66%) a pierdut acasă 0-1 cu un nou-promovat; pe '1' sec. am lăsat zero marjă pentru surpriză – în SuperLiga e mai sigur 1X sau sub 3.5.",
+  "createdAt": 1794128641808
+ },
+ {
+  "fotmobId": 5795505,
+  "match": "Arsenal – Hull City",
+  "score": "1-0",
+  "pick": "Sub 3.5 goluri",
+  "correct": true,
+  "lesson": "U3.5 a ieșit ușor (1-0); favoritele mari în PL câștigă des la limită, nu la scor.",
+  "createdAt": 1794128641808
+ },
+ {
+  "fotmobId": 5795513,
+  "match": "Nottingham Forest – Manchester City",
+  "score": "3-1",
+  "pick": "Peste 2.5 goluri",
+  "correct": true,
+  "lesson": "O2.5 a ieșit (3-1 Forest–City): City cu apărare ciuntită primește goluri chiar și în deplasare; absențele din linia defensivă a favoritei cântăresc mai mult decât numele.",
+  "createdAt": 1794128641808
+ },
+ {
+  "fotmobId": 5881220,
+  "match": "Mainz 05 – Bayern München",
+  "score": "1-2",
+  "pick": "Peste 3.5 goluri",
+  "correct": false,
+  "lesson": "Bayern a câștigat doar 2-1: O3.5 la 57% a fost prea agresiv; la meciuri cu favorită clară alege O2.5, nu O3.5.",
+  "createdAt": 1794128641808
+ },
+ {
+  "fotmobId": 5868129,
+  "match": "Valencia – Real Madrid",
+  "score": "0-3",
+  "pick": "Peste 2.5 goluri",
+  "correct": true,
+  "lesson": "O2.5 a ieșit prin 0-3: Real a dominat deplasarea; gazde slabe cu apărare în criză pierd și primesc multe.",
+  "createdAt": 1794128641808
+ },
+ {
+  "fotmobId": 5749740,
+  "match": "Roma – Sassuolo",
+  "score": "3-0",
+  "pick": "Ambele echipe marchează",
+  "correct": false,
+  "lesson": "Roma a câștigat 3-0 și GG a picat: la gazde net superioare, oaspetele neînscris e frecvent (NG); nu da GG peste ~55% când diferența de nivel e mare.",
+  "createdAt": 1794128641808
+ },
+ {
+  "fotmobId": 5795513,
+  "match": "Nottingham Forest – Manchester City",
+  "score": "3-1",
+  "pick": null,
+  "correct": null,
+  "lesson": "Nottingham Forest 3-1 Manchester City: favorit clar învins; Forest cu xG ridicat în ultimele partide, iar City cu apărare ciuntită – semnal: formă ofensivă gazde + absențe în defensiva favoritei.",
+  "createdAt": 1794128641808
+ },
+ {
+  "fotmobId": 5836924,
+  "match": "Bristol City – Norwich City",
+  "score": "0-5",
+  "pick": null,
+  "correct": null,
+  "lesson": "Bristol City 0-5 Norwich: gazde fără formă încasează multe în Championship; înfrângerile mari acasă vin după serii de rezultate slabe – semnal: Bristol fără victorie recentă.",
+  "createdAt": 1794128641808
+ },
+ {
+  "fotmobId": 5811808,
+  "match": "Westerlo – Sporting Charleroi",
+  "score": "1-5",
+  "pick": null,
+  "correct": null,
+  "lesson": "Westerlo 1-5 Charleroi: gazdă cu apărare fragilă în Pro League; scoruri-fluviu apar când echipa slabă primește gol devreme – semnal: peste 3.5 era o cotă bună.",
+  "createdAt": 1794128641808
+ },
+ {
+  "fotmobId": 5836925,
+  "match": "Cardiff City – Burnley",
+  "score": "5-4",
+  "pick": null,
+  "correct": null,
+  "lesson": "Cardiff 5-4 Burnley: 9 goluri în Championship; ligă cu apărări slabe, GG/O2.5 sunt mereu pe masă când ambele echipe au portari nesiguri.",
+  "createdAt": 1794128641808
+ },
+ {
+  "fotmobId": 5793970,
+  "match": "Aberdeen – Hibernian",
+  "score": "0-4",
+  "pick": null,
+  "correct": null,
+  "lesson": "Aberdeen 0-4 Hibernian: gazdă învinsă la zero; în Scoția diferențele de formă se transformă în scoruri mari, nu în 1-0.",
+  "createdAt": 1794128641808
+ },
+ {
+  "fotmobId": 5831214,
+  "match": "Hradec Králové – Sigma Olomouc",
+  "score": "5-0",
+  "pick": null,
+  "correct": null,
+  "lesson": "Hradec Králové 5-0 Sigma Olomouc: gazdele în formă maximă au distrus un adversar demoralizat; cota 1 sec. era subevaluată.",
+  "createdAt": 1794128641808
+ },
+ {
+  "fotmobId": 5904800,
+  "match": "Galatasaray – Amed Sportif",
+  "score": "4-3",
+  "pick": null,
+  "correct": null,
+  "lesson": "Galatasaray 4-3 Amed: favorita a primit 3 goluri acasă cu o echipă mică; în Süper Lig, GG și peste 3.5 sunt subestimate la meciurile favoritelor.",
+  "createdAt": 1794128641808
  }
 ]

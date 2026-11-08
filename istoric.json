@@ -1278,5 +1278,75 @@
   "probability": 0.68,
   "score": "2-1",
   "correct": false
+ },
+ {
+  "fotmobId": 5795511,
+  "match": "Leeds United – Tottenham Hotspur",
+  "kickoff": "2026-11-07T12:30:00Z",
+  "pick": "Sub 2.5 goluri",
+  "code": "U2.5",
+  "probability": 0.58,
+  "score": "1-0",
+  "correct": true
+ },
+ {
+  "fotmobId": 5853549,
+  "match": "FCSB – Corvinul Hunedoara",
+  "kickoff": "2026-11-07T18:30:00Z",
+  "pick": "FCSB câștigă",
+  "code": "1",
+  "probability": 0.66,
+  "score": "0-1",
+  "correct": false
+ },
+ {
+  "fotmobId": 5795505,
+  "match": "Arsenal – Hull City",
+  "kickoff": "2026-11-07T15:00:00Z",
+  "pick": "Sub 3.5 goluri",
+  "code": "U3.5",
+  "probability": 0.71,
+  "score": "1-0",
+  "correct": true
+ },
+ {
+  "fotmobId": 5795513,
+  "match": "Nottingham Forest – Manchester City",
+  "kickoff": "2026-11-07T17:30:00Z",
+  "pick": "Peste 2.5 goluri",
+  "code": "O2.5",
+  "probability": 0.64,
+  "score": "3-1",
+  "correct": true
+ },
+ {
+  "fotmobId": 5881220,
+  "match": "Mainz 05 – Bayern München",
+  "kickoff": "2026-11-07T14:30:00Z",
+  "pick": "Peste 3.5 goluri",
+  "code": "O3.5",
+  "probability": 0.57,
+  "score": "1-2",
+  "correct": false
+ },
+ {
+  "fotmobId": 5868129,
+  "match": "Valencia – Real Madrid",
+  "kickoff": "2026-11-07T20:00:00Z",
+  "pick": "Peste 2.5 goluri",
+  "code": "O2.5",
+  "probability": 0.6,
+  "score": "0-3",
+  "correct": true
+ },
+ {
+  "fotmobId": 5749740,
+  "match": "Roma – Sassuolo",
+  "kickoff": "2026-11-07T19:45:00Z",
+  "pick": "Ambele echipe marchează",
+  "code": "GG",
+  "probability": 0.66,
+  "score": "3-0",
+  "correct": false
  }
 ]
