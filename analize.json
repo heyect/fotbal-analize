@@ -1,386 +1,6 @@
 {
- "updatedAt": "2026-11-08T10:15:00+01:00",
+ "updatedAt": "2026-11-09T10:03:48+01:00",
  "analyses": [
-  {
-   "fotmobId": 6112255,
-   "home": "Milan",
-   "away": "Ferencváros",
-   "kickoff": "2026-11-05T17:45:00Z",
-   "createdAt": 1793869496756,
-   "text": "## Pe scurt\nMilan, favorită la ~60%, primește un adversar mai slab, dar lotul e decimat.\n## Ce s-a schimbat (știri și absențe)\nȘapte absenți la Milan, între care Tomori și Loftus-Cheek; Pavlović incert. Ferencváros are doar două absențe.\n## Analiză\nCotele nu au putut fi verificate; pornim de la clasă. Milan domină, dar fără doi titulari din apărare va primi probabil un gol. Europa League a dat în ultimele zile multe goluri.\n## Pontul principal\nPeste 2.5 goluri, probabilitate ~64%.\n## Alte ponturi\nMilan câștigă (60%), GG (55%). Nu promitem câștiguri.",
-   "verdict": {
-    "summary": "Milan e clar favorită acasă, dar cu defensivă și bancă subțiată; Ferencváros poate marca din contraatac.",
-    "home": 0.6,
-    "draw": 0.22,
-    "away": 0.18,
-    "over25": 0.64,
-    "btts": 0.55,
-    "expectedCorners": 9.2,
-    "expectedCards": 4.0,
-    "mostLikelyScore": "2-1",
-    "confidence": "medie",
-    "keyAbsences": [
-     "Tomori (Milan) – accidentare, mijlocul lui noiembrie",
-     "Loftus-Cheek (Milan) – accidentare",
-     "Gabbia, Saelemaekers, Chukwueze (Milan) – accidentări lungi",
-     "Bero și Ötvös (Ferencváros) – accidentări"
-    ],
-    "mainPick": {
-     "market": "Peste 2.5 goluri",
-     "code": "O2.5",
-     "probability": 0.64,
-     "confidence": "medie",
-     "reason": "Europa League are 75% peste 2.5 în ultimele meciuri; Milan fără mai mulți titulari în apărare."
-    },
-    "picks": [
-     {
-      "market": "Milan câștigă",
-      "code": "1",
-      "probability": 0.6,
-      "confidence": "medie",
-      "reason": "Diferență de clasă, avantaj acasă."
-     },
-     {
-      "market": "Ambele marchează",
-      "code": "GG",
-      "probability": 0.55,
-      "confidence": "mică",
-      "reason": "Ferencváros marchează des în deplasare, dar nu și împotriva lui Milan."
-     }
-    ]
-   }
-  },
-  {
-   "fotmobId": 6112242,
-   "home": "Bayer Leverkusen",
-   "away": "Marseille",
-   "kickoff": "2026-11-05T20:00:00Z",
-   "createdAt": 1793869496756,
-   "text": "## Pe scurt\nMeci echilibrat, cu goluri de ambele părți.\n## Ce s-a schimbat (știri și absențe)\nLeverkusen are 7 absenți, mai ales în atac (Diaby, Terrier, Ben Seghir, Doué, Tella); Marseille are doar Emerson incert.\n## Analiză\nLeverkusen încă are calitate pe mijloc, dar atacul e redus. Marseille joacă ofensiv. Șansele sunt aproape egale; cota corectă pentru 1X2 nu a putut fi verificată, deci evităm 1X2.\n## Pontul principal\nAmbele marchează, ~62%.\n## Alte ponturi\nPeste 2.5 (62%), X2 (58%).",
-   "verdict": {
-    "summary": "Meci deschis între două echipe ofensive; Leverkusen e decimată în atac.",
-    "home": 0.42,
-    "draw": 0.26,
-    "away": 0.32,
-    "over25": 0.62,
-    "btts": 0.62,
-    "expectedCorners": 9.6,
-    "expectedCards": 3.8,
-    "mostLikelyScore": "2-1",
-    "confidence": "medie",
-    "keyAbsences": [
-     "Diaby, Terrier, Ben Seghir, Doué, Tella (Leverkusen) – accidentări",
-     "Kofane (Leverkusen) – incert",
-     "Emerson (Marseille) – incert",
-     "Cornelius (Marseille) – accidentare lungă"
-    ],
-    "mainPick": {
-     "market": "Ambele marchează",
-     "code": "GG",
-     "probability": 0.62,
-     "confidence": "medie",
-     "reason": "Ambele au atac bun și apărări care primesc goluri; Leverkusen fără doi-trei atacanți."
-    },
-    "picks": [
-     {
-      "market": "Peste 2.5 goluri",
-      "code": "O2.5",
-      "probability": 0.62,
-      "confidence": "medie",
-      "reason": "Ritm mare, medii mari în EL."
-     },
-     {
-      "market": "Marseille nu pierde",
-      "code": "X2",
-      "probability": 0.58,
-      "confidence": "mică",
-      "reason": "Leverkusen slăbită în ofensivă."
-     }
-    ]
-   }
-  },
-  {
-   "fotmobId": 6112262,
-   "home": "AZ Alkmaar",
-   "away": "Juventus",
-   "kickoff": "2026-11-05T20:00:00Z",
-   "createdAt": 1793869496756,
-   "text": "## Pe scurt\nMeci cu mize mici ofensive, Juventus decimată.\n## Ce s-a schimbat (știri și absențe)\nJuventus: Yıldız, Conceição, González, Locatelli, Çelik, McKennie lipsesc; Grabara out pentru sezon. AZ cu două incertitudini.\n## Analiză\nJuventus joacă 4-4-2 fără jucători de creație. AZ e organizată acasă. Un meci mai închis decât mediile EL, dar nu 0-0.\n## Pontul principal\nSub 3.5 goluri, ~68%.\n## Alte ponturi\n1X (68%).",
-   "verdict": {
-    "summary": "Juventus vine cu opt absenți, inclusiv tot atacul creativ; AZ acasă e favorită la cote egale.",
-    "home": 0.4,
-    "draw": 0.28,
-    "away": 0.32,
-    "over25": 0.5,
-    "btts": 0.52,
-    "expectedCorners": 9.4,
-    "expectedCards": 4.2,
-    "mostLikelyScore": "1-1",
-    "confidence": "mică",
-    "keyAbsences": [
-     "Yıldız, Conceição, N. González, Locatelli, Çelik, McKennie (Juventus) – accidentări",
-     "Grabara (Juventus) – out pentru sezon",
-     "Smit, Hornkamp (AZ) – day to day"
-    ],
-    "mainPick": {
-     "market": "Sub 3.5 goluri",
-     "code": "U3.5",
-     "probability": 0.68,
-     "confidence": "medie",
-     "reason": "Juventus fără atac creativ, mizează pe control; AZ joacă pragmatic acasă."
-    },
-    "picks": [
-     {
-      "market": "AZ nu pierde",
-      "code": "1X",
-      "probability": 0.68,
-      "confidence": "medie",
-      "reason": "Gazde acasă contra unei Juventus cu opt absenți."
-     },
-     {
-      "market": "Sub 2.5 goluri",
-      "code": "U2.5",
-      "probability": 0.5,
-      "confidence": "mică",
-      "reason": "Probabil meci controlat."
-     }
-    ]
-   }
-  },
-  {
-   "fotmobId": 6112506,
-   "home": "Universitatea Craiova",
-   "away": "Egnatia",
-   "kickoff": "2026-11-05T20:00:00Z",
-   "createdAt": 1793869496756,
-   "text": "## Pe scurt\nCraiova, favorită la ~62%.\n## Ce s-a schimbat (știri și absențe)\nDoar Isenko absent la Craiova; Egnatia fără absenți raportați.\n## Analiză\nNu am putut verifica cotele; pornim de la formă (Craiova a câștigat ultimul meci din campionat) și clasă.\n## Pontul principal\nCraiova câștigă (1), ~62%, ținând cont că cota corectă e ~1.60.\n## Alte ponturi\nSub 3.5 (74%).",
-   "verdict": {
-    "summary": "Craiova e clar superioară valoric față de Egnatia (Albania), cu un singur absent.",
-    "home": 0.62,
-    "draw": 0.23,
-    "away": 0.15,
-    "over25": 0.55,
-    "btts": 0.5,
-    "expectedCorners": 9.0,
-    "expectedCards": 4.0,
-    "mostLikelyScore": "2-0",
-    "confidence": "medie",
-    "keyAbsences": [
-     "Isenko (Craiova) – accidentare"
-    ],
-    "mainPick": {
-     "market": "Craiova câștigă",
-     "code": "1",
-     "probability": 0.62,
-     "confidence": "medie",
-     "reason": "Superioritate clară acasă; cota corectă ~1.60."
-    },
-    "picks": [
-     {
-      "market": "Craiova nu pierde",
-      "code": "1X",
-      "probability": 0.82,
-      "confidence": "medie",
-      "reason": "Cotă probabil sub 1.40, informativ."
-     },
-     {
-      "market": "Sub 3.5 goluri",
-      "code": "U3.5",
-      "probability": 0.74,
-      "confidence": "medie",
-      "reason": "Meci controlat de gazde."
-     }
-    ]
-   }
-  },
-  {
-   "fotmobId": 6112325,
-   "home": "Crystal Palace",
-   "away": "Hoffenheim",
-   "kickoff": "2026-11-05T17:45:00Z",
-   "createdAt": 1793869496756,
-   "text": "## Pe scurt\nMeci echilibrat, cu goluri.\n## Ce s-a schimbat (știri și absențe)\nHoffenheim lipsește de 8 jucători; Palace fără Sarr și Tomiyasu.\n## Analiză\nPalace e în formă mediocră (pierdere cu Brighton), dar tot are avantaj. Fără cote verificate, rămânem prudenți.\n## Pontul principal\nGG, ~58%.\n## Alte ponturi\n1X (73%), Peste 2.5 (58%).",
-   "verdict": {
-    "summary": "Hoffenheim vine cu 8 absenți; Palace e ușor favorită acasă, dar a pierdut ultimul meci cu Brighton.",
-    "home": 0.46,
-    "draw": 0.27,
-    "away": 0.27,
-    "over25": 0.58,
-    "btts": 0.58,
-    "expectedCorners": 9.6,
-    "expectedCards": 3.8,
-    "mostLikelyScore": "2-1",
-    "confidence": "mică",
-    "keyAbsences": [
-     "Sarr, Tomiyasu, Riad (Palace) – accidentări",
-     "Hložek, Coufal, Wimmer, Conté, De Cat, Hranác (Hoffenheim) – accidentări"
-    ],
-    "mainPick": {
-     "market": "Ambele marchează",
-     "code": "GG",
-     "probability": 0.58,
-     "confidence": "mică",
-     "reason": "Hoffenheim marchează constant; ambele apărări sunt slabite."
-    },
-    "picks": [
-     {
-      "market": "Peste 2.5 goluri",
-      "code": "O2.5",
-      "probability": 0.58,
-      "confidence": "mică",
-      "reason": "EL generos în goluri."
-     },
-     {
-      "market": "Palace nu pierde",
-      "code": "1X",
-      "probability": 0.73,
-      "confidence": "mică",
-      "reason": "Avantaj acasă și Hoffenheim cu opt absenți."
-     }
-    ]
-   }
-  },
-  {
-   "fotmobId": 6112270,
-   "home": "Real Sociedad",
-   "away": "Lyon",
-   "kickoff": "2026-11-05T17:45:00Z",
-   "createdAt": 1793869496756,
-   "text": "## Pe scurt\nMeci tactic, la limită.\n## Ce s-a schimbat (știri și absențe)\nLyon: șapte absenți, între care Openda și Šulc; Sociedad aproape completă.\n## Analiză\nLyon e slăbit în atac. Sociedad joacă bine acasă, dar fără cote verificate evităm 1X2.\n## Pontul principal\nSub 3.5 goluri, ~70%.\n## Alte ponturi\n1X (72%).",
-   "verdict": {
-    "summary": "Lyon fără Openda și Šulc; Sociedad acasă e ușor favorită.",
-    "home": 0.44,
-    "draw": 0.28,
-    "away": 0.28,
-    "over25": 0.5,
-    "btts": 0.52,
-    "expectedCorners": 9.2,
-    "expectedCards": 4.2,
-    "mostLikelyScore": "1-1",
-    "confidence": "mică",
-    "keyAbsences": [
-     "Odriozola (Sociedad) – accidentare",
-     "Openda, Šulc, Morton, Nuamah, Niakhaté, Kango (Lyon) – accidentări"
-    ],
-    "mainPick": {
-     "market": "Sub 3.5 goluri",
-     "code": "U3.5",
-     "probability": 0.7,
-     "confidence": "medie",
-     "reason": "Ambele echipe cu probleme ofensive; meci probabil tactic."
-    },
-    "picks": [
-     {
-      "market": "Sociedad nu pierde",
-      "code": "1X",
-      "probability": 0.72,
-      "confidence": "mică",
-      "reason": "Acasă contra unui Lyon decimat."
-     },
-     {
-      "market": "Sub 2.5 goluri",
-      "code": "U2.5",
-      "probability": 0.5,
-      "confidence": "mică",
-      "reason": "Potențial meci închis."
-     }
-    ]
-   }
-  },
-  {
-   "fotmobId": 6112304,
-   "home": "Sparta Prague",
-   "away": "AFC Bournemouth",
-   "kickoff": "2026-11-05T17:45:00Z",
-   "createdAt": 1793869496756,
-   "text": "## Pe scurt\nBournemouth, ușor favorită.\n## Ce s-a schimbat (știri și absențe)\nSparta cu șapte absenți; Bournemouth cu patru.\n## Analiză\nCalitatea PL face diferența, dar Sparta e redutabilă acasă.\n## Pontul principal\nX2, ~70%.\n## Alte ponturi\nPeste 2.5 (56%).",
-   "verdict": {
-    "summary": "Bournemouth e favorită valoric, dar jocul în deplasare în Praga e dificil.",
-    "home": 0.3,
-    "draw": 0.26,
-    "away": 0.44,
-    "over25": 0.56,
-    "btts": 0.55,
-    "expectedCorners": 9.4,
-    "expectedCards": 4.2,
-    "mostLikelyScore": "1-2",
-    "confidence": "mică",
-    "keyAbsences": [
-     "Karabec, Ryneš, Sevínský, Mercado (Sparta) – accidentări",
-     "Araujo, Scott, Tóth, Milosavljević (Bournemouth) – accidentări"
-    ],
-    "mainPick": {
-     "market": "Bournemouth nu pierde",
-     "code": "X2",
-     "probability": 0.7,
-     "confidence": "medie",
-     "reason": "Calitate superioară în Premier League, Sparta fără mai mulți titulari."
-    },
-    "picks": [
-     {
-      "market": "Peste 2.5 goluri",
-      "code": "O2.5",
-      "probability": 0.56,
-      "confidence": "mică",
-      "reason": "EL cu goluri multe."
-     },
-     {
-      "market": "Ambele marchează",
-      "code": "GG",
-      "probability": 0.55,
-      "confidence": "mică",
-      "reason": "Sparta marchează acasă."
-     }
-    ]
-   }
-  },
-  {
-   "fotmobId": 6112248,
-   "home": "Benfica",
-   "away": "Lech Poznań",
-   "kickoff": "2026-11-05T20:00:00Z",
-   "createdAt": 1793869496756,
-   "text": "## Pe scurt\nBenfica, mare favorită.\n## Ce s-a schimbat (știri și absențe)\nLech fără Ishak, Sayyadmanesh și alți ofensivi.\n## Analiză\nBenfica e în formă bună acasă. Cota pentru 1 e probabil sub 1.40, deci mergem pe goluri.\n## Pontul principal\nPeste 2.5 goluri, ~62%.\n## Alte ponturi\nBenfica câștigă (68%).",
-   "verdict": {
-    "summary": "Benfica acasă contra unui Lech decimat în atac (fără Ishak).",
-    "home": 0.68,
-    "draw": 0.18,
-    "away": 0.14,
-    "over25": 0.62,
-    "btts": 0.45,
-    "expectedCorners": 9.6,
-    "expectedCards": 3.8,
-    "mostLikelyScore": "3-1",
-    "confidence": "medie",
-    "keyAbsences": [
-     "Lenglet, Barrenechea (Benfica) – accidentări",
-     "Ishak, Sayyadmanesh, Moutinho, Gholizadeh (Lech) – accidentări"
-    ],
-    "mainPick": {
-     "market": "Peste 2.5 goluri",
-     "code": "O2.5",
-     "probability": 0.62,
-     "confidence": "medie",
-     "reason": "Benfica marchează mult acasă; Lech primește goluri fără apărători."
-    },
-    "picks": [
-     {
-      "market": "Benfica câștigă",
-      "code": "1",
-      "probability": 0.68,
-      "confidence": "medie",
-      "reason": "Superioritate evidentă."
-     },
-     {
-      "market": "Sub 3.5 goluri",
-      "code": "U3.5",
-      "probability": 0.7,
-      "confidence": "mică",
-      "reason": "Fără risc de scor-fluviu."
-     }
-    ]
-   }
-  },
   {
    "fotmobId": 5795508,
    "home": "Everton",
@@ -1356,6 +976,244 @@
       "probability": 0.52,
       "confidence": "mică",
       "reason": "Atacuri modeste recent."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 5976957,
+   "home": "ASU Politehnica Timișoara",
+   "away": "CSM Reșița",
+   "kickoff": "2026-11-09T12:30:00Z",
+   "createdAt": 1794215028588,
+   "text": "## Pe scurt\nMeci echilibrat în Liga 2, cu gazdele ușor favorite și multe remize în forma recentă.\n## Ce s-a schimbat (știri și absențe)\nFără absenți raportați în FotMob; echipe probabile neconfirmate. Cotele nu au putut fi verificate.\n## Analiză\nTimișoara are 3 remize în ultimele 5 meciuri, cu scoruri mici (1-1, 1-0, 0-1). Reșița alternează rezultatele, dar cu goluri puține. Observațiile noastre arată că în Liga 2 meciurile se termină des cu 1-2 goluri; remiza sau sub 2.5 sunt scenarii frecvente.\n## Pontul principal\nSub 2.5 goluri, probabilitate ~60%.\n## Alte ponturi\nDublă șansă 1X (~68%), GG (~42%). Nu promitem câștiguri.",
+   "verdict": {
+    "summary": "Timișoara ușor favorită, dar ambele echipe joacă prudent și cu puține goluri.",
+    "home": 0.45,
+    "draw": 0.29,
+    "away": 0.26,
+    "over25": 0.4,
+    "btts": 0.42,
+    "expectedCorners": 8.5,
+    "expectedCards": 4.5,
+    "mostLikelyScore": "1-0",
+    "confidence": "mică",
+    "keyAbsences": [],
+    "mainPick": {
+     "market": "Sub 2.5 goluri",
+     "code": "U2.5",
+     "probability": 0.6,
+     "confidence": "mică",
+     "reason": "Forma ambelor echipe: scoruri mici, multe remize."
+    },
+    "picks": [
+     {
+      "market": "Dublă șansă 1X",
+      "code": "1X",
+      "probability": 0.68,
+      "confidence": "mică",
+      "reason": "Avantaj de teren, adversar în formă mixtă."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 5976952,
+   "home": "CS Dinamo București",
+   "away": "Râmnicu Vâlcea",
+   "kickoff": "2026-11-09T15:00:00Z",
+   "createdAt": 1794215028588,
+   "text": "## Pe scurt\nDinamo CS în formă neregulată; Râmnicu Vâlcea a câștigat 2 din ultimele 5, dar cu scoruri mari în ambele sensuri.\n## Ce s-a schimbat (știri și absențe)\nFără informații despre absenți; cotele nu au putut fi verificate.\n## Analiză\nAmbele echipe joacă meciuri deschise: Dinamo CS 4-3 (înfrângere), 1-4 (victorie), 2-2; Râmnicu Vâlcea 3-2 de două ori. Media golurilor recentă e peste 3, deci peste 2.5 e un pont rezonabil, fără cotă verificată.\n## Pontul principal\nPeste 2.5 goluri, probabilitate ~63%.\n## Alte ponturi\nGG (~60%), X2 nu are valoare clară. Nu promitem câștiguri.",
+   "verdict": {
+    "summary": "Meciuri deschise în ultimele 5 ale ambelor echipe sugerează goluri de ambele părți.",
+    "home": 0.42,
+    "draw": 0.26,
+    "away": 0.32,
+    "over25": 0.63,
+    "btts": 0.6,
+    "expectedCorners": 9,
+    "expectedCards": 4.5,
+    "mostLikelyScore": "2-1",
+    "confidence": "mică",
+    "keyAbsences": [],
+    "mainPick": {
+     "market": "Peste 2.5 goluri",
+     "code": "O2.5",
+     "probability": 0.63,
+     "confidence": "mică",
+     "reason": "Ultimele meciuri ale ambelor echipe au avut 4-5 goluri."
+    },
+    "picks": [
+     {
+      "market": "Ambele echipe marchează",
+      "code": "GG",
+      "probability": 0.6,
+      "confidence": "mică",
+      "reason": "Ambele echipe au primit goluri în majoritatea ultimelor meciuri."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 5976956,
+   "home": "Metalul Buzău",
+   "away": "Steaua București",
+   "kickoff": "2026-11-10T17:30:00Z",
+   "createdAt": 1794215028588,
+   "text": "## Pe scurt\nMetalul Buzău e în formă bună (3 victorii în ultimele 5); Steaua are 3 remize în ultimele 5.\n## Ce s-a schimbat (știri și absențe)\nFără absenți raportați; cotele nu au putut fi verificate.\n## Analiză\nMetalul are 3 victorii în 5 meciuri, dar cu scoruri mici (1-0, 0-1, 3-0). Steaua, remizând des (1-1, 0-0, 0-0), nu e dominantă. Meciuri cu goluri puține, deci sub 2.5 e favorit.\n## Pontul principal\nSub 2.5 goluri, probabilitate ~62%.\n## Alte ponturi\nDublă șansă 1X (~60%). Nu promitem câștiguri.",
+   "verdict": {
+    "summary": "Meci strâns, probabil cu puține goluri.",
+    "home": 0.38,
+    "draw": 0.32,
+    "away": 0.3,
+    "over25": 0.37,
+    "btts": 0.4,
+    "expectedCorners": 8.8,
+    "expectedCards": 4.7,
+    "mostLikelyScore": "1-0",
+    "confidence": "mică",
+    "keyAbsences": [],
+    "mainPick": {
+     "market": "Sub 2.5 goluri",
+     "code": "U2.5",
+     "probability": 0.62,
+     "confidence": "mică",
+     "reason": "Ambele echipe joacă meciuri cu 0-2 goluri."
+    },
+    "picks": [
+     {
+      "market": "Dublă șansă 1X",
+      "code": "1X",
+      "probability": 0.6,
+      "confidence": "mică",
+      "reason": "Metalul în formă acasă."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 5853548,
+   "home": "Botoșani",
+   "away": "Oțelul Galați",
+   "kickoff": "2026-11-09T18:00:00Z",
+   "createdAt": 1794215028588,
+   "text": "## Pe scurt\nBotoșani și Oțelul sunt ambele în formă slabă; meci echilibrat în SuperLiga.\n## Ce s-a schimbat (știri și absențe)\nFără absenți raportați în FotMob; echipe probabile (4-3-3 ambele) neconfirmate.\n## Analiză\nBotoșani are 1 victorie în 5, Oțelul doar 1 în 5, cu 3 înfrângeri. Direct: 4 victorii Botoșani, 5 remize, 4 victorii Oțelul în ultimele întâlniri – foarte echilibrat. Cu forme slabe, remiza și sub 3.5 sunt probabile.\n## Pontul principal\nSub 3.5 goluri, probabilitate ~70%.\n## Alte ponturi\nX2 (~58%), sub 2.5 (~55%). Nu promitem câștiguri.",
+   "verdict": {
+    "summary": "Două echipe în formă slabă; direct echilibrat, meci probabil strâns.",
+    "home": 0.38,
+    "draw": 0.3,
+    "away": 0.32,
+    "over25": 0.45,
+    "btts": 0.48,
+    "expectedCorners": 9.5,
+    "expectedCards": 5.0,
+    "mostLikelyScore": "1-1",
+    "confidence": "mică",
+    "keyAbsences": [],
+    "mainPick": {
+     "market": "Sub 3.5 goluri",
+     "code": "U3.5",
+     "probability": 0.7,
+     "confidence": "mică",
+     "reason": "Meci echilibrat între echipe în formă slabă."
+    },
+    "picks": [
+     {
+      "market": "Dublă șansă X2",
+      "code": "X2",
+      "probability": 0.58,
+      "confidence": "mică",
+      "reason": "Oțelul nu pierde ușor în deplasare în direct."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 5868533,
+   "home": "Las Palmas",
+   "away": "Eldense",
+   "kickoff": "2026-11-09T19:30:00Z",
+   "createdAt": 1794215028588,
+   "text": "## Pe scurt\nLas Palmas, favorită acasă, dar cu 5 absenți; Eldense în formă bună.\n## Ce s-a schimbat (știri și absențe)\nLas Palmas: Sandro Ramírez (mijlocul lui noiembrie), Sergio Ruiz (sf. decembrie), Clemente (sf. noiembrie), Viti (început decembrie), Iñaki González incert. Eldense: David Ruiz incert.\n## Analiză\nLas Palmas are 3 victorii din 5, dar cu absenți ofensivi și apărarea a primit 3+ goluri în unele meciuri. Eldense a câștigat 3 din 5, inclusiv 2-3 și 0-1 în deplasare. Meciurile lor au adesea 3+ goluri.\n## Pontul principal\nAmbele echipe marchează, probabilitate ~60%.\n## Alte ponturi\nPeste 2.5 (~58%), 1X (~68%). Nu promitem câștiguri.",
+   "verdict": {
+    "summary": "Las Palmas ușor favorită, dar absențele și atacul lui Eldense țin meciul deschis.",
+    "home": 0.45,
+    "draw": 0.27,
+    "away": 0.28,
+    "over25": 0.58,
+    "btts": 0.6,
+    "expectedCorners": 9.2,
+    "expectedCards": 5.5,
+    "mostLikelyScore": "2-1",
+    "confidence": "mică",
+    "keyAbsences": [
+     "Sandro Ramírez (Las Palmas) – accidentare",
+     "Sergio Ruiz (Las Palmas) – accidentare lungă",
+     "Enrique Clemente (Las Palmas) – accidentare",
+     "Viti (Las Palmas) – accidentare"
+    ],
+    "mainPick": {
+     "market": "Ambele echipe marchează",
+     "code": "GG",
+     "probability": 0.6,
+     "confidence": "mică",
+     "reason": "Ambele echipe au marcat în majoritatea meciurilor recente."
+    },
+    "picks": [
+     {
+      "market": "Peste 2.5 goluri",
+      "code": "O2.5",
+      "probability": 0.58,
+      "confidence": "mică",
+      "reason": "Media recentă a meciurilor lor depășește 3 goluri."
+     },
+     {
+      "market": "Dublă șansă 1X",
+      "code": "1X",
+      "probability": 0.68,
+      "confidence": "mică",
+      "reason": "Avantaj de teren."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 5868534,
+   "home": "Sabadell",
+   "away": "Real Sociedad B",
+   "kickoff": "2026-11-09T19:30:00Z",
+   "createdAt": 1794215028588,
+   "text": "## Pe scurt\nSabadell mai stabilă (neînvinsă în 3 din 5), Real Sociedad B în formă proastă (4 înfrângeri în 5).\n## Ce s-a schimbat (știri și absențe)\nSabadell: Óscar Sanz, Peque (accidentări), Gioacchini (sezon încheiat). Real Sociedad B: fără absenți raportați.\n## Analiză\nReal Sociedad B a primit 4 goluri în 2 din ultimele meciuri și a pierdut 4 din 5; Sabadell are mai multe remize și goluri puține. Gazdele sunt favorite, dar jocul lor e prudent.\n## Pontul principal\nDublă șansă 1X, probabilitate ~70%.\n## Alte ponturi\nSub 3.5 (~65%). Nu promitem câștiguri.",
+   "verdict": {
+    "summary": "Sabadell favorită, dar cu atac limitat; formă proastă la Real Sociedad B.",
+    "home": 0.46,
+    "draw": 0.28,
+    "away": 0.26,
+    "over25": 0.5,
+    "btts": 0.5,
+    "expectedCorners": 9.0,
+    "expectedCards": 5.0,
+    "mostLikelyScore": "1-0",
+    "confidence": "mică",
+    "keyAbsences": [
+     "Óscar Sanz (Sabadell) – accidentare",
+     "Peque (Sabadell) – accidentare",
+     "Nicholas Gioacchini (Sabadell) – accidentare lungă"
+    ],
+    "mainPick": {
+     "market": "Dublă șansă 1X",
+     "code": "1X",
+     "probability": 0.7,
+     "confidence": "mică",
+     "reason": "Gazdele mai stabile, adversar cu 4 înfrângeri în 5."
+    },
+    "picks": [
+     {
+      "market": "Sub 3.5 goluri",
+      "code": "U3.5",
+      "probability": 0.65,
+      "confidence": "mică",
+      "reason": "Sabadell joacă meciuri cu puține goluri."
      }
     ]
    }

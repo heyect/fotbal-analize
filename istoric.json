@@ -1348,5 +1348,105 @@
   "probability": 0.66,
   "score": "3-0",
   "correct": false
+ },
+ {
+  "fotmobId": 5749746,
+  "match": "Napoli – Lazio",
+  "kickoff": "2026-11-08T11:30:00Z",
+  "pick": "Ambele marchează",
+  "code": "GG",
+  "probability": 0.6,
+  "score": "1-1",
+  "correct": true
+ },
+ {
+  "fotmobId": 5795507,
+  "match": "Crystal Palace – Liverpool",
+  "kickoff": "2026-11-08T14:00:00Z",
+  "pick": "Dublă șansă X2",
+  "code": "X2",
+  "probability": 0.7,
+  "score": "1-3",
+  "correct": true
+ },
+ {
+  "fotmobId": 5795512,
+  "match": "Manchester United – Aston Villa",
+  "kickoff": "2026-11-08T16:30:00Z",
+  "pick": "Sub 2.5 goluri",
+  "code": "U2.5",
+  "probability": 0.57,
+  "score": "4-4",
+  "correct": false
+ },
+ {
+  "fotmobId": 5868121,
+  "match": "Atlético Madrid – Barcelona",
+  "kickoff": "2026-11-08T20:00:00Z",
+  "pick": "Ambele marchează",
+  "code": "GG",
+  "probability": 0.64,
+  "score": "1-2",
+  "correct": true
+ },
+ {
+  "fotmobId": 5749742,
+  "match": "Fiorentina – Juventus",
+  "kickoff": "2026-11-08T19:45:00Z",
+  "pick": "Dublă șansă 1X",
+  "code": "1X",
+  "probability": 0.67,
+  "score": "2-2",
+  "correct": true
+ },
+ {
+  "fotmobId": 5853544,
+  "match": "CFR Cluj – Universitatea Craiova",
+  "kickoff": "2026-11-08T17:00:00Z",
+  "pick": "Dublă șansă X2",
+  "code": "X2",
+  "probability": 0.7,
+  "score": "0-0",
+  "correct": true
+ },
+ {
+  "fotmobId": 5881216,
+  "match": "1. FC Köln – Bayer Leverkusen",
+  "kickoff": "2026-11-08T14:30:00Z",
+  "pick": "Peste 2.5 goluri",
+  "code": "O2.5",
+  "probability": 0.66,
+  "score": "1-2",
+  "correct": true
+ },
+ {
+  "fotmobId": 5749744,
+  "match": "Inter – Como",
+  "kickoff": "2026-11-08T17:00:00Z",
+  "pick": "Peste 2.5 goluri",
+  "code": "O2.5",
+  "probability": 0.62,
+  "score": "2-0",
+  "correct": false
+ },
+ {
+  "fotmobId": 5802990,
+  "match": "Lens – Marseille",
+  "kickoff": "2026-11-08T19:45:00Z",
+  "pick": "Dublă șansă X2",
+  "code": "X2",
+  "probability": 0.68,
+  "score": "1-2",
+  "correct": true
+ },
+ {
+  "fotmobId": 5795514,
+  "match": "Sunderland – Chelsea",
+  "kickoff": "2026-11-08T14:00:00Z",
+  "pick": "Sub 3.5 goluri",
+  "code": "U3.5",
+  "probability": 0.7,
+  "score": "1-0",
+  "correct": true
  }
 ]
