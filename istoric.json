@@ -1448,5 +1448,55 @@
   "probability": 0.7,
   "score": "1-0",
   "correct": true
+ },
+ {
+  "fotmobId": 5868533,
+  "match": "Las Palmas – Eldense",
+  "kickoff": "2026-11-09T19:30:00Z",
+  "pick": "Ambele echipe marchează",
+  "code": "GG",
+  "probability": 0.6,
+  "score": "2-0",
+  "correct": false
+ },
+ {
+  "fotmobId": 5868534,
+  "match": "Sabadell – Real Sociedad B",
+  "kickoff": "2026-11-09T19:30:00Z",
+  "pick": "Dublă șansă 1X",
+  "code": "1X",
+  "probability": 0.7,
+  "score": "0-0",
+  "correct": true
+ },
+ {
+  "fotmobId": 5976957,
+  "match": "ASU Politehnica Timișoara – CSM Reșița",
+  "kickoff": "2026-11-09T12:30:00Z",
+  "pick": "Sub 2.5 goluri",
+  "code": "U2.5",
+  "probability": 0.6,
+  "score": "0-0",
+  "correct": true
+ },
+ {
+  "fotmobId": 5976952,
+  "match": "CS Dinamo București – Râmnicu Vâlcea",
+  "kickoff": "2026-11-09T15:00:00Z",
+  "pick": "Peste 2.5 goluri",
+  "code": "O2.5",
+  "probability": 0.63,
+  "score": "2-3",
+  "correct": true
+ },
+ {
+  "fotmobId": 5853548,
+  "match": "Botoșani – Oțelul Galați",
+  "kickoff": "2026-11-09T18:00:00Z",
+  "pick": "Sub 3.5 goluri",
+  "code": "U3.5",
+  "probability": 0.7,
+  "score": "1-1",
+  "correct": true
  }
 ]
