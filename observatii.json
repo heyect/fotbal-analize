@@ -263,17 +263,19 @@
   "procentPeste25": 41.8,
   "victoriiGazde": 45.5,
   "note": [
-   "ASA Târgu Mureș 2-4 Chindia (20.10): Chindia a câștigat în deplasare cu 4 goluri.",
    "26.10: Metaloglobus 2-0 Râmnicu Vâlcea.",
    "30.10: Steaua 0-0 Dinamo – derbiul ieșit la egalitate, fără goluri.",
    "31.10 (8 meciuri): 0-1, 2-2, 2-2, 0-3, 2-0, 2-1, 3-2, 1-4; gol medii 3.4.",
    "01.11: Reșița 1-0 Gloria Bistrița, Chiajna 2-1 la Slatina.",
    "05.11: Chindia 4-1 Popești Leordeni – gazdele din prima parte a clasamentului câștigă clar cu echipele de jos.",
    "07.11 (7 meciuri, 2.4 goluri/meci): Comunal 0-2 Ștefănești, Concordia 5-0 Mureș, CS 1-1 Bacău, FC 1-0 Dumbrăvița, FC 2-0 Mare, Gloria 3-1 Suceava, FC 0-1 Slatina",
-   "09.11: Poli Timișoara 0-0 Reșița, Dinamo 2-3 Râmnicu Vâlcea – Dinamo (favorită) a pierdut acasă; Timișoara fără goluri."
+   "09.11: Poli Timișoara 0-0 Reșița, Dinamo 2-3 Râmnicu Vâlcea – Dinamo (favorită) a pierdut acasă; Timișoara fără goluri.",
+   "10.11: Metalul Buzău 2-1 Steaua București – a doua zi la rând în care o echipă favorită pierde (după Dinamo 2-3 cu Râmnicu Vâlcea)."
   ],
   "echipe": {
-   "Dinamo București": "a pierdut acasă 2-3 cu Râmnicu Vâlcea (09.11), apărare fragilă"
+   "Dinamo București": "a pierdut acasă 2-3 cu Râmnicu Vâlcea (09.11), apărare fragilă",
+   "Steaua București": "a pierdut 1-2 la Metalul Buzău (10.11), după 0-0 în derby cu Dinamo",
+   "Metalul Buzău": "a învins Steaua 2-1 acasă (10.11), în formă bună pe teren propriu"
   }
  },
  "NB I Ungaria": {

@@ -1,23 +1,5 @@
 [
  {
-  "fotmobId": 6112326,
-  "match": "AFC Bournemouth – Milan",
-  "score": "3-0",
-  "pick": "Ambele echipe marchează",
-  "correct": false,
-  "lesson": "Bournemouth 3-0 Milan: GG picat – Maignan eliminat în min. 28 (la 1-0) și xG 3.14-0.11; un cartonaș roșu timpuriu strică orice pont GG/peste, iar Milan în deplasare în Europa a produs aproape zero; scad GG când deplasarea are risc mare de dezechilibru.",
-  "createdAt": 1792743367461
- },
- {
-  "fotmobId": 6112251,
-  "match": "Juventus – Rennes",
-  "score": "2-2",
-  "pick": "Dublă șansă 1X",
-  "correct": true,
-  "lesson": "Juventus 2-2 Rennes: 1X corect – dar la 1-2 la pauză; gazdele mari în Europa League nu închid meciul, 1X rămâne mai sigur decât 1 pur.",
-  "createdAt": 1792743367461
- },
- {
   "fotmobId": 6112350,
   "match": "Hoffenheim – Lyon",
   "score": "3-0",
@@ -1798,5 +1780,23 @@
   "correct": null,
   "lesson": "Dinamo (favorită clară în Liga 2) a pierdut acasă 2-3: apărarea a primit 3 goluri; semnal: echipe mari din liga secundă cu goluri primite regulat nu merită cotă mică la 1.",
   "createdAt": 1794301417451
+ },
+ {
+  "fotmobId": 5976956,
+  "match": "Metalul Buzău – Steaua București",
+  "score": "2-1",
+  "pick": "Sub 2.5 goluri",
+  "correct": false,
+  "lesson": "Metalul 2-1 Steaua: sub 2.5 a picat, două goluri în prima repriză (min. 4 și 45). În Liga 2, la 62% pentru sub 2.5 nu ajunge forma 'cu puține goluri'; media ligii e ~2.5 goluri și multe meciuri au peste 40% șanse de 3+ goluri.",
+  "createdAt": 1794387780187
+ },
+ {
+  "fotmobId": 5976956,
+  "match": "Metalul Buzău – Steaua București",
+  "score": "2-1",
+  "pick": null,
+  "correct": null,
+  "lesson": "Steaua (mai bine clasată) a pierdut în deplasare cu Metalul; după două meciuri consecutive de Liga 2 cu favorita învinsă (Dinamo 2-3, Steaua 1-2), echipele mari din liga secundă nu merită tratate ca sigure în deplasare.",
+  "createdAt": 1794387780188
  }
 ]
