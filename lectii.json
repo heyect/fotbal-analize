@@ -1,14 +1,5 @@
 [
  {
-  "fotmobId": 6112350,
-  "match": "Hoffenheim – Lyon",
-  "score": "3-0",
-  "pick": "Ambele echipe marchează",
-  "correct": false,
-  "lesson": "Hoffenheim 3-0 Lyon: GG picat – xG 2.09-0.87 pentru gazde, Lyon a marcat zero în ciuda a 8 șuturi; în ultimele 2 meciuri echipele franceze în deplasare nu au marcat în 3 din 4 – nu mai pun GG la 64% pe deplasări franceze în EL.",
-  "createdAt": 1792743367461
- },
- {
   "fotmobId": 6112356,
   "match": "Beşiktaş – Crystal Palace",
   "score": "2-2",
@@ -1798,5 +1789,14 @@
   "correct": null,
   "lesson": "Steaua (mai bine clasată) a pierdut în deplasare cu Metalul; după două meciuri consecutive de Liga 2 cu favorita învinsă (Dinamo 2-3, Steaua 1-2), echipele mari din liga secundă nu merită tratate ca sigure în deplasare.",
   "createdAt": 1794387780188
+ },
+ {
+  "fotmobId": 5868541,
+  "match": "Leganés – Burgos CF",
+  "score": "3-1",
+  "pick": "Ambele echipe marchează",
+  "correct": true,
+  "lesson": "GG a ieșit (3-1): în LaLiga2 la ~55% GG e o piață corectă când ambele echipe marchează constant; gazdele cu 3 goluri după 1-3 cu Albacete arată că seria proastă nu a redus atacul.",
+  "createdAt": 1794646988642
  }
 ]

@@ -1508,5 +1508,15 @@
   "probability": 0.62,
   "score": "2-1",
   "correct": false
+ },
+ {
+  "fotmobId": 5868541,
+  "match": "Leganés – Burgos CF",
+  "kickoff": "2026-11-13T19:30:00Z",
+  "pick": "Ambele echipe marchează",
+  "code": "GG",
+  "probability": 0.55,
+  "score": "3-1",
+  "correct": true
  }
 ]
