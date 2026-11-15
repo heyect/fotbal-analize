@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14T10:15:00+01:00",
+ "updatedAt": "2026-11-15T10:15:00+01:00",
  "analyses": [
   {
    "fotmobId": 5868541,
@@ -211,30 +211,40 @@
    "home": "Tenerife",
    "away": "AD Ceuta",
    "kickoff": "2026-11-15T13:00:00Z",
-   "createdAt": 1794646988642,
-   "text": "## Pe scurt\nTenerife are 4 remize în ultimele 5, Ceuta pierde des în deplasare.\n## Ce s-a schimbat (știri și absențe)\nDani Fernández, Ranos (Tenerife) – accidentați\n## Analiză\nTenerife: L D D D D; Ceuta: L L W L L. Cotele casei nu au putut fi verificate (sursă indisponibilă în această rulare), deci estimarea pornește de la media LaLiga2 (~2.5 goluri/meci, GG ~48%, peste 2.5 ~45%, victorii gazde ~43%) și de la formă. Ambele joacă prudent în ultimele meciuri; sub 2.5 ușor peste media ligii.\n## Pontul principal\nSub 2.5 goluri – probabilitate 62%. Tenerife D-uri, Ceuta cu L L W L L.\n## Alte ponturi\nPiețele de goluri rămân apropiate de media ligii; fără cote verificate nu recomand ponturi suplimentare cu valoare clară.",
+   "createdAt": 1794733431485,
+   "text": "## Pe scurt\nTenerife (4 remize în ultimele 5) joacă acasă cu Ceuta, care a pierdut 4 din ultimele 5.\n## Ce s-a schimbat (știri și absențe)\nFotMob: Dani Fernández și Ranos (Tenerife) și Sevikyan (Ceuta) sunt la națională; Mamah (Ceuta) accidentat, aproape de revenire. Absențe cu impact moderat.\n## Analiză\nTenerife: L D D D D, Ceuta: L L W L L. Cotele nu au putut fi verificate azi (fără acces la case de pariuri), așa că pornesc de la media LaLiga2 (~2.6 goluri/meci, GG ~51%, peste 2.5 ~48%, gazde ~42%) și de la formă. Tenerife remizează mult, Ceuta e în deplasare slabă; 1X e piața cea mai solidă dar nu evidentă.\n## Pontul principal\nDubla șansă 1X – probabilitate 68% (cotă corectă ~1.47).\n## Alte ponturi\nSub 3.5 goluri ~72% (cotă mică, prea evident).",
    "verdict": {
-    "summary": "Tenerife are 4 remize în ultimele 5, Ceuta pierde des în deplasare.",
-    "home": 0.45,
-    "draw": 0.3,
-    "away": 0.25,
-    "over25": 0.38,
-    "btts": 0.42,
-    "expectedCorners": 9.0,
+    "summary": "Tenerife favorită ușoară acasă; Ceuta în formă slabă.",
+    "home": 0.43,
+    "draw": 0.28,
+    "away": 0.29,
+    "over25": 0.42,
+    "btts": 0.46,
+    "expectedCorners": 9.5,
     "expectedCards": 5.5,
-    "mostLikelyScore": "1-0",
+    "mostLikelyScore": "1-1",
     "confidence": "mică",
     "keyAbsences": [
-     "Dani Fernández, Ranos (Tenerife) – accidentați"
+     "Dani Fernández, Ranos (Tenerife) – națională",
+     "Sevikyan (Ceuta) – națională",
+     "Mamah (Ceuta) – accidentare"
     ],
     "mainPick": {
-     "market": "Sub 2.5 goluri",
-     "code": "U2.5",
-     "probability": 0.62,
+     "market": "Dubla șansă 1X",
+     "code": "1X",
+     "probability": 0.68,
      "confidence": "medie",
-     "reason": "Tenerife D-uri, Ceuta cu L L W L L."
+     "reason": "Tenerife neînvinsă în 4 din ultimele 5, Ceuta formă slabă în deplasare."
     },
-    "picks": []
+    "picks": [
+     {
+      "market": "Sub 3.5 goluri",
+      "code": "U3.5",
+      "probability": 0.72,
+      "confidence": "medie",
+      "reason": "Ambele joacă prudent, medie sub 2.6 goluri."
+     }
+    ]
    }
   },
   {
@@ -242,30 +252,41 @@
    "home": "Granada",
    "away": "Las Palmas",
    "kickoff": "2026-11-15T15:15:00Z",
-   "createdAt": 1794646988642,
-   "text": "## Pe scurt\nGranada are 5 victorii la rând, Las Palmas 4 din 5; Las Palmas fără 5 jucători.\n## Ce s-a schimbat (știri și absențe)\nHerzog, Pezzolesi, Rafa Cruz, Sergio Ruiz, Viti (Las Palmas) – accidentați\n## Analiză\nGranada: W W W W W; Las Palmas: L W W W W. Cotele casei nu au putut fi verificate (sursă indisponibilă în această rulare), deci estimarea pornește de la media LaLiga2 (~2.5 goluri/meci, GG ~48%, peste 2.5 ~45%, victorii gazde ~43%) și de la formă. Forma ofensivă ridică peste media ligii.\n## Pontul principal\nPeste 2.5 goluri – probabilitate 52%. Două echipe în formă maximă; ultimele dueluri cu multe goluri.\n## Alte ponturi\nPiețele de goluri rămân apropiate de media ligii; fără cote verificate nu recomand ponturi suplimentare cu valoare clară.",
+   "createdAt": 1794733431485,
+   "text": "## Pe scurt\nGranada vine cu serie de victorii, Las Palmas e decimată de absențe.\n## Ce s-a schimbat (știri și absențe)\nLas Palmas: Herzog, Pezzolesi, Rafa Cruz (națională), Sergio Ruiz, Clemente și Viti (accidentați). Granada: Emeka (națională), Arnáiz (îndoielnic).\n## Analiză\nGranada are 5 victorii consecutive; Las Palmas are formă bună dar lot subțiat de 6 absențe. Istoric direct 5-6-5. Fără cote verificate, estimez victorie gazdă ~45%. Meciul poate fi deschis (ambele cu atac bun), dar piața de goluri e apropiată de media ligii.\n## Pontul principal\nDubla șansă 1X – probabilitate 70% (cotă corectă ~1.43).\n## Alte ponturi\nPeste 2.5 goluri ~50%, fără valoare clară.",
    "verdict": {
-    "summary": "Granada are 5 victorii la rând, Las Palmas 4 din 5; Las Palmas fără 5 jucători.",
-    "home": 0.42,
+    "summary": "Granada în formă mare acasă, Las Palmas cu 6 absenți.",
+    "home": 0.46,
     "draw": 0.26,
-    "away": 0.32,
-    "over25": 0.52,
-    "btts": 0.55,
+    "away": 0.28,
+    "over25": 0.5,
+    "btts": 0.54,
     "expectedCorners": 9.5,
     "expectedCards": 5.0,
     "mostLikelyScore": "2-1",
-    "confidence": "mică",
+    "confidence": "medie",
     "keyAbsences": [
-     "Herzog, Pezzolesi, Rafa Cruz, Sergio Ruiz, Viti (Las Palmas) – accidentați"
+     "Emeka (Granada) – națională",
+     "Arnáiz (Granada) – îndoielnic",
+     "Herzog, Pezzolesi, Rafa Cruz (Las Palmas) – națională",
+     "Sergio Ruiz, Clemente, Viti (Las Palmas) – accidentări"
     ],
     "mainPick": {
-     "market": "Peste 2.5 goluri",
-     "code": "O2.5",
-     "probability": 0.52,
-     "confidence": "mică",
-     "reason": "Două echipe în formă maximă; ultimele dueluri cu multe goluri."
+     "market": "Dubla șansă 1X",
+     "code": "1X",
+     "probability": 0.7,
+     "confidence": "medie",
+     "reason": "Granada 5 victorii la rând; Las Palmas fără 6 jucători."
     },
-    "picks": []
+    "picks": [
+     {
+      "market": "Peste 2.5 goluri",
+      "code": "O2.5",
+      "probability": 0.5,
+      "confidence": "mică",
+      "reason": "Ambele marchează des, dar fără cote nu e valoare clară."
+     }
+    ]
    }
   },
   {
@@ -273,13 +294,13 @@
    "home": "Eibar",
    "away": "Cádiz",
    "kickoff": "2026-11-15T17:30:00Z",
-   "createdAt": 1794646988642,
-   "text": "## Pe scurt\nCádiz are mulți absenți (8), Eibar are 3 incerți.\n## Ce s-a schimbat (știri și absențe)\nKovačević, Toibibou, Orellana, Kopotun, Petit (Cádiz) – accidentați; Sergio Álvarez, Elgezabal (Eibar) – accidentați\n## Analiză\nEibar: L D L D W; Cádiz: L W W L L. Cotele casei nu au putut fi verificate (sursă indisponibilă în această rulare), deci estimarea pornește de la media LaLiga2 (~2.5 goluri/meci, GG ~48%, peste 2.5 ~45%, victorii gazde ~43%) și de la formă. Cádiz cu cei mai mulți absenți din etapă.\n## Pontul principal\nDubla șansă 1X – probabilitate 68%. Cádiz decimată, Eibar acasă.\n## Alte ponturi\nPiețele de goluri rămân apropiate de media ligii; fără cote verificate nu recomand ponturi suplimentare cu valoare clară.",
+   "createdAt": 1794733431485,
+   "text": "## Pe scurt\nEibar primește un Cádiz cu 8 absenți, dar ambele au formă slabă.\n## Ce s-a schimbat (știri și absențe)\nCádiz: Kovačević, Toibibou (națională), Orellana, Kopotun, Petit (accidentați), Castro, Rivera (îndoielnici), Tabatadze (accidentat). Eibar: Bernat și Gift îndoielnici.\n## Analiză\nEibar L D L D W, Cádiz L W W L L. H2H 2-1-3. Cádiz foarte subțiat în apărare/mijloc; Eibar nu câștigă des acasă. Fără cote verificate.\n## Pontul principal\nDubla șansă 1X – probabilitate 67% (cotă ~1.49).\n## Alte ponturi\nSub 3.5 goluri ~73% (prea evident).",
    "verdict": {
-    "summary": "Cádiz are mulți absenți (8), Eibar are 3 incerți.",
-    "home": 0.45,
+    "summary": "Eibar ușor favorită, dar fără convingere.",
+    "home": 0.44,
     "draw": 0.28,
-    "away": 0.27,
+    "away": 0.28,
     "over25": 0.42,
     "btts": 0.47,
     "expectedCorners": 9.5,
@@ -287,17 +308,25 @@
     "mostLikelyScore": "1-1",
     "confidence": "mică",
     "keyAbsences": [
-     "Kovačević, Toibibou, Orellana, Kopotun, Petit (Cádiz) – accidentați",
-     "Sergio Álvarez, Elgezabal (Eibar) – accidentați"
+     "Bernat, Gift (Eibar) – îndoielnici",
+     "Cádiz – 8 absenți (Kovačević, Toibibou, Orellana, Kopotun, Petit, Castro, Rivera, Tabatadze)"
     ],
     "mainPick": {
      "market": "Dubla șansă 1X",
      "code": "1X",
-     "probability": 0.68,
+     "probability": 0.67,
      "confidence": "medie",
-     "reason": "Cádiz decimată, Eibar acasă."
+     "reason": "Cádiz cu 8 absenți, Eibar acasă."
     },
-    "picks": []
+    "picks": [
+     {
+      "market": "Sub 3.5 goluri",
+      "code": "U3.5",
+      "probability": 0.73,
+      "confidence": "medie",
+      "reason": "Ambele marchează puțin în medie."
+     }
+    ]
    }
   },
   {
@@ -305,31 +334,81 @@
    "home": "Eldense",
    "away": "Sabadell",
    "kickoff": "2026-11-15T17:30:00Z",
-   "createdAt": 1794646988642,
-   "text": "## Pe scurt\nDuel între echipe de la coada clasamentului, cu forme slabe.\n## Ce s-a schimbat (știri și absențe)\nGioacchini (Sabadell) – out pentru sezon; Urri (Sabadell), Juan Larios (Eldense) – accidentați\n## Analiză\nEldense: W L W L L; Sabadell: W L D L D. Cotele casei nu au putut fi verificate (sursă indisponibilă în această rulare), deci estimarea pornește de la media LaLiga2 (~2.5 goluri/meci, GG ~48%, peste 2.5 ~45%, victorii gazde ~43%) și de la formă. Fără cote, estimare apropiată de media ligii.\n## Pontul principal\nAmbele marchează – probabilitate 52%. Apărări slabe, h2h cu multe goluri.\n## Alte ponturi\nPiețele de goluri rămân apropiate de media ligii; fără cote verificate nu recomand ponturi suplimentare cu valoare clară.",
+   "createdAt": 1794733431485,
+   "text": "## Pe scurt\nEldense – Sabadell, două echipe de formă modestă, cu suspendați de ambele părți.\n## Ce s-a schimbat (știri și absențe)\nEldense: Larios (suspendat). Sabadell: Urri (suspendat), Peque (aproape de revenire), Gioacchini (out sezon).\n## Analiză\nEldense W L W L L, Sabadell W L D L D. H2H 3-3-2. Echilibru, fără dezechilibru la cote estimate; media GG a ligii ~51%.\n## Pontul principal\nAmbele echipe marchează – probabilitate 52% (cotă corectă ~1.92).\n## Alte ponturi\nPeste 2.5 goluri ~46%, aproape de medie.",
    "verdict": {
-    "summary": "Duel între echipe de la coada clasamentului, cu forme slabe.",
+    "summary": "Meci echilibrat, cu GG puțin peste medie.",
     "home": 0.4,
     "draw": 0.3,
     "away": 0.3,
-    "over25": 0.45,
-    "btts": 0.5,
-    "expectedCorners": 9.5,
+    "over25": 0.46,
+    "btts": 0.52,
+    "expectedCorners": 9.0,
     "expectedCards": 5.5,
     "mostLikelyScore": "1-1",
     "confidence": "mică",
     "keyAbsences": [
-     "Gioacchini (Sabadell) – out pentru sezon",
-     "Urri (Sabadell), Juan Larios (Eldense) – accidentați"
+     "Larios (Eldense) – suspendat",
+     "Urri (Sabadell) – suspendat",
+     "Gioacchini (Sabadell) – out sezon"
     ],
     "mainPick": {
-     "market": "Ambele marchează",
+     "market": "Ambele echipe marchează",
      "code": "GG",
      "probability": 0.52,
      "confidence": "mică",
-     "reason": "Apărări slabe, h2h cu multe goluri."
+     "reason": "Ambele marchează constant, media ligii 51% GG."
     },
-    "picks": []
+    "picks": [
+     {
+      "market": "Peste 2.5 goluri",
+      "code": "O2.5",
+      "probability": 0.46,
+      "confidence": "mică",
+      "reason": "Aproape de medie."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 5868536,
+   "home": "Albacete",
+   "away": "Celta Fortuna",
+   "kickoff": "2026-11-16T19:30:00Z",
+   "createdAt": 1794733431485,
+   "text": "## Pe scurt\nAlbacete cu 7 absenți primește Celta Fortuna fără 3 suspendați și 4 internaționali.\n## Ce s-a schimbat (știri și absențe)\nAlbacete: Corpas (suspendat), Marín, Gámez, Moreno, Puertas, Capi, Obeng (accidentați). Celta Fortuna: Capdevila, Ribes, J. López (suspendați), Sobral, Cuenca, Kibet, Silva (națională), Gavian, Khayat, Rodríguez, Somuah.\n## Analiză\nAlbacete W W W (ultima L 2-1 Gijón), Celta Fortuna L D L D L. Ambele lipsite de jucători; Celta Fortuna e echipă a doua, cu apărare fragilă (5-1 cu Girona). Fără cote verificate.\n## Pontul principal\nDubla șansă 1X – probabilitate 70% (cotă ~1.43).\n## Alte ponturi\nPeste 2.5 goluri ~52% (apărări afectate de absențe).",
+   "verdict": {
+    "summary": "Albacete favorită clară în fața unui Celta Fortuna decimat.",
+    "home": 0.52,
+    "draw": 0.26,
+    "away": 0.22,
+    "over25": 0.52,
+    "btts": 0.5,
+    "expectedCorners": 9.0,
+    "expectedCards": 5.5,
+    "mostLikelyScore": "2-1",
+    "confidence": "medie",
+    "keyAbsences": [
+     "Corpas (Albacete) – suspendat",
+     "Puertas, Gámez, Moreno (Albacete) – accidentări",
+     "Celta Fortuna – 3 suspendați, 4 internaționali"
+    ],
+    "mainPick": {
+     "market": "Dubla șansă 1X",
+     "code": "1X",
+     "probability": 0.7,
+     "confidence": "medie",
+     "reason": "Albacete acasă, Celta Fortuna cu 11 absenți."
+    },
+    "picks": [
+     {
+      "market": "Peste 2.5 goluri",
+      "code": "O2.5",
+      "probability": 0.52,
+      "confidence": "mică",
+      "reason": "Apărări subțiate."
+     }
+    ]
    }
   }
  ]

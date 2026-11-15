@@ -1518,5 +1518,55 @@
   "probability": 0.55,
   "score": "3-1",
   "correct": true
+ },
+ {
+  "fotmobId": 5868546,
+  "match": "Real Valladolid – Castellón",
+  "kickoff": "2026-11-14T13:00:00Z",
+  "pick": "Dubla șansă 1X",
+  "code": "1X",
+  "probability": 0.7,
+  "score": "0-1",
+  "correct": false
+ },
+ {
+  "fotmobId": 5868544,
+  "match": "Real Sociedad B – Sporting Gijón",
+  "kickoff": "2026-11-14T15:15:00Z",
+  "pick": "Dubla șansă X2",
+  "code": "X2",
+  "probability": 0.65,
+  "score": "2-2",
+  "correct": true
+ },
+ {
+  "fotmobId": 5868537,
+  "match": "Almería – FC Andorra",
+  "kickoff": "2026-11-14T17:30:00Z",
+  "pick": "Sub 3.5 goluri",
+  "code": "U3.5",
+  "probability": 0.7,
+  "score": "2-1",
+  "correct": true
+ },
+ {
+  "fotmobId": 5868542,
+  "match": "Mallorca – Córdoba",
+  "kickoff": "2026-11-14T17:30:00Z",
+  "pick": "Dubla șansă X2",
+  "code": "X2",
+  "probability": 0.57,
+  "score": "3-3",
+  "correct": true
+ },
+ {
+  "fotmobId": 5868543,
+  "match": "Real Oviedo – Girona",
+  "kickoff": "2026-11-14T20:00:00Z",
+  "pick": "Ambele marchează",
+  "code": "GG",
+  "probability": 0.5,
+  "score": "1-2",
+  "correct": true
  }
 ]
