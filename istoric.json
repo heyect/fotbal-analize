@@ -1568,5 +1568,45 @@
   "probability": 0.5,
   "score": "1-2",
   "correct": true
+ },
+ {
+  "fotmobId": 5868545,
+  "match": "Tenerife – AD Ceuta",
+  "kickoff": "2026-11-15T13:00:00Z",
+  "pick": "Dubla șansă 1X",
+  "code": "1X",
+  "probability": 0.68,
+  "score": "2-0",
+  "correct": true
+ },
+ {
+  "fotmobId": 5868540,
+  "match": "Granada – Las Palmas",
+  "kickoff": "2026-11-15T15:15:00Z",
+  "pick": "Dubla șansă 1X",
+  "code": "1X",
+  "probability": 0.7,
+  "score": "1-0",
+  "correct": true
+ },
+ {
+  "fotmobId": 5868538,
+  "match": "Eibar – Cádiz",
+  "kickoff": "2026-11-15T17:30:00Z",
+  "pick": "Dubla șansă 1X",
+  "code": "1X",
+  "probability": 0.67,
+  "score": "1-1",
+  "correct": true
+ },
+ {
+  "fotmobId": 5868539,
+  "match": "Eldense – Sabadell",
+  "kickoff": "2026-11-15T17:30:00Z",
+  "pick": "Ambele echipe marchează",
+  "code": "GG",
+  "probability": 0.52,
+  "score": "2-0",
+  "correct": false
  }
 ]

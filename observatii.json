@@ -240,20 +240,20 @@
   "echipe": {}
  },
  "LaLiga2": {
-  "meciuri": 65,
-  "goluriMedii": 2.6,
-  "procentGG": 50.8,
-  "procentPeste25": 47.7,
-  "victoriiGazde": 41.5,
+  "meciuri": 69,
+  "goluriMedii": 2.55,
+  "procentGG": 49.3,
+  "procentPeste25": 44.9,
+  "victoriiGazde": 43.5,
   "note": [
-   "31.10 (4 meciuri): 1-0, 1-1, 2-2, 2-1; gol medii 2.5.",
    "01.11: Granada 2-0 la Eldense, Sporting 2-0 la Ceuta, Burgos 1-1 Castellón.",
    "02.11 (4 meciuri, 4.8 goluri/meci): Tenerife 2-2 FC Andorra, Real Oviedo 2-3 Las Palmas, Real Valladolid 4-3 Leganés, Mallorca 2-1 Cádiz",
    "07.11 (4 meciuri, 3.2 goluri/meci): Burgos 2-1 Fortuna, Cádiz 1-2 Oviedo, Córdoba 3-0 FC, Leganés 1-3 Albacete",
    "08.11 (2 meciuri, 2.0 goluri/meci): Girona 0-1 Almería, Sporting Gijón 1-2 Real Valladolid",
    "09.11: Las Palmas 2-0 Eldense, Sabadell 0-0 Real Sociedad B – 2 meciuri cu 1.0 goluri/meci, fără GG.",
    "13.11: Leganés 3-1 Burgos (4 goluri, GG). 14-15.11: 9 meciuri LaLiga2, singurele din ligile urmărite (pauză internațională).",
-   "14.11 (5 meciuri, 3.4 goluri/meci, 4 GG): Valladolid 0-1 Castellón, RSoc B 2-2 Sporting, Almería 2-1 Andorra, Mallorca 3-3 Córdoba, Oviedo 1-2 Girona; doar o victorie a gazdelor din 5, deplasările sunt subestimate."
+   "14.11 (5 meciuri, 3.4 goluri/meci, 4 GG): Valladolid 0-1 Castellón, RSoc B 2-2 Sporting, Almería 2-1 Andorra, Mallorca 3-3 Córdoba, Oviedo 1-2 Girona; doar o victorie a gazdelor din 5, deplasările sunt subestimate.",
+   "15.11 (4 meciuri, 1.5 goluri/meci): Tenerife 2-0 Ceuta, Granada 1-0 Las Palmas, Eibar 1-1 Cádiz, Eldense 2-0 Sabadell; doar 1 GG din 4, gazdele 3 victorii – weekendul a fost de goluri puține după etapa de 3.4 din 14.11."
   ],
   "echipe": {
    "Castellón": "Victorie la Valladolid (0-1), formă bună în deplasare",
@@ -262,7 +262,11 @@
    "Granada": "5 victorii consecutive, în formă",
    "Las Palmas": "Lipsesc 3 internaționali + Sergio Ruiz, Clemente, Viti (accidentați)",
    "Celta Fortuna": "Fără 3 suspendați și 4 internaționali la Albacete",
-   "Albacete": "7 absenți (Puertas, Corpas suspendat etc.)"
+   "Albacete": "7 absenți (Puertas, Corpas suspendat etc.)",
+   "Eldense": "2-0 cu Sabadell, atac eficient acasă (xG 1.40)",
+   "Sabadell": "Slab ofensiv în deplasare (5 șuturi, 1 roșu la Eldense)",
+   "Eibar": "1-1 cu Cádiz, domină dar nu finalizează",
+   "Tenerife": "2-0 cu Ceuta, formă bună acasă"
   }
  },
  "Liga 2 România": {

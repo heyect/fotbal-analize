@@ -1,32 +1,5 @@
 [
  {
-  "fotmobId": 6112406,
-  "match": "FC Midtjylland – St.Truiden",
-  "score": "0-1",
-  "pick": null,
-  "correct": null,
-  "lesson": "Midtjylland xG 2.90 vs 1.98, dar a pierdut 0-1 cu un singur gol – meci cu multe ocazii pierdute, nu merită să schimb pontul pe baza unui singur scor; semnal: eficiență slabă la finalizare, peste 2.5 a fost sub așteptări.",
-  "createdAt": 1792743367461
- },
- {
-  "fotmobId": 6112285,
-  "match": "Viktoria Plzeň – Levski Sofia",
-  "score": "1-2",
-  "pick": null,
-  "correct": null,
-  "lesson": "Levski a câștigat în deplasare la Plzeň (xG 1.04 vs 1.05, ambele echipe egale statistic) – gazdele cehe nu sunt favorite clare în EL, diferența de nivel e mai mică decât indică cotele de campionat.",
-  "createdAt": 1792743367461
- },
- {
-  "fotmobId": 5795491,
-  "match": "Ipswich Town – Nottingham Forest",
-  "score": "1-1",
-  "pick": "Ambele echipe marchează",
-  "correct": true,
-  "lesson": "GG a ieșit, dar Forest a dominat (xG 2.29 vs 0.46, 17-7 la șuturi) – la o gazdă promovată, GG se păstrează și când oaspetele e clar superior, fiindcă gazda marchează din puținele ocazii.",
-  "createdAt": 1792829700000
- },
- {
   "fotmobId": 5881205,
   "match": "VfB Stuttgart – Borussia Mönchengladbach",
   "score": "2-3",
@@ -1798,5 +1771,32 @@
   "correct": null,
   "lesson": "Mallorca 3-3 Córdoba: 6 goluri deși ambele echipe au stat sub media ligii la goluri în meciurile anterioare; formația de deplasare cu atac solid poate genera meciuri deschise – nu trebuia ignorată rata de goluri a lui Córdoba (3-0, 3-2 în ultimele ieșiri).",
   "createdAt": 1794733431486
+ },
+ {
+  "fotmobId": 5868539,
+  "match": "Eldense – Sabadell",
+  "score": "2-0",
+  "pick": "Ambele echipe marchează",
+  "correct": false,
+  "lesson": "Sabadell a avut doar 5 șuturi și xG 0.42, apoi a rămas în 10 oameni: GG la ~52% nu are valoare când deplasarea e vizibil mai slabă ofensiv; cere formă ofensivă concretă a ambelor echipe, nu media ligii.",
+  "createdAt": 1794819789627
+ },
+ {
+  "fotmobId": 5868540,
+  "match": "Granada – Las Palmas",
+  "score": "1-0",
+  "pick": "Dubla șansă 1X",
+  "correct": true,
+  "lesson": "Granada (5 victorii) a câștigat la limită contra unui Las Palmas decimat; 1X pe gazde în formă cu adversar cu 6 absenți a funcționat, dar scorul mic arată că 'Peste' nu era de pariat.",
+  "createdAt": 1794819789627
+ },
+ {
+  "fotmobId": 5868538,
+  "match": "Eibar – Cádiz",
+  "score": "1-1",
+  "pick": "Dubla șansă 1X",
+  "correct": true,
+  "lesson": "Eibar a dominat (18 șuturi vs 8) dar a scăput victoria; dubla șansă pe gazde cu adversar cu 8 absenți rămâne mai sigură decât 1 simplu.",
+  "createdAt": 1794819789627
  }
 ]
