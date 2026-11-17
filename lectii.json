@@ -1,14 +1,5 @@
 [
  {
-  "fotmobId": 5881205,
-  "match": "VfB Stuttgart – Borussia Mönchengladbach",
-  "score": "2-3",
-  "pick": "Peste 2.5 goluri",
-  "correct": true,
-  "lesson": "Peste 2.5 a ieșit ușor (5 goluri, xG 1.53-2.60); Stuttgart cu 5 absenți și 70% posesie a primit 3 goluri – gazdele cu absenți în apărare sunt vulnerabile.",
-  "createdAt": 1792829700000
- },
- {
   "fotmobId": 5836887,
   "match": "Bolton Wanderers – Middlesbrough",
   "score": "1-5",
@@ -1798,5 +1789,14 @@
   "correct": true,
   "lesson": "Eibar a dominat (18 șuturi vs 8) dar a scăput victoria; dubla șansă pe gazde cu adversar cu 8 absenți rămâne mai sigură decât 1 simplu.",
   "createdAt": 1794819789627
+ },
+ {
+  "fotmobId": 5868536,
+  "match": "Albacete – Celta Fortuna",
+  "score": "1-0",
+  "pick": "Dubla șansă 1X",
+  "correct": true,
+  "lesson": "Albacete a câștigat la limită (xG 2.04-1.33, 9-5 cornere) contra unei echipe B decimate; 1X pe gazde a fost alegerea sigură, iar 'Peste 2.5' nu a ieșit – echipele B cu absenți nu garantează goluri.",
+  "createdAt": 1794906146888
  }
 ]

@@ -1,50 +1,6 @@
 {
- "updatedAt": "2026-11-16T10:00:00+01:00",
+ "updatedAt": "2026-11-17T12:05:00+03:00",
  "analyses": [
-  {
-   "fotmobId": 5868541,
-   "home": "Leganés",
-   "away": "Burgos CF",
-   "kickoff": "2026-11-13T19:30:00Z",
-   "createdAt": 1794474175354,
-   "text": "## Pe scurt\nPrima analiză după pauza internațională: Leganés (gazde, formă proastă) – Burgos (formă bună) în LaLiga2, vineri seara. În următoarele 36 de ore este singurul meci din ligile urmărite. Nu am găsit cote actuale, deci estimările pornesc din formă și media ligii.\n## Ce s-a schimbat (știri și absențe)\nFotMob nu listează absenți confirmați; nu am găsit un parte de accidentări/suspendări pentru etapa 14. Echipele probabile se vor clarifica abia în ziua meciului. Atenție: unele site-uri dau meciul duminică, FotMob îl dă vineri 13.11, 19:30 UTC.\n## Analiză\nLeganés vine cu 1 victorie în ultimele 5 (0-1 cu Córdoba, 1-1 cu Mallorca, 3-4 la Valladolid, 1-3 cu Albacete) și a primit 8 goluri în ultimele 4 meciuri de campionat. Burgos are 4 victorii în ultimele 5 (inclusiv 3-2 la Andorra, 1-0 cu Sabadell, 1-1 cu Castellón) și a marcat constant în deplasare. Ambele echipe primesc și dau goluri, deci GG e mai sigur decât victoria oricărei părți. Media LaLiga2 e ~2.5 goluri și ~48% GG; formele recente împing ușor peste. Rezultatul 1X2 rămâne foarte echilibrat (gazdele au teren propriu, oaspeții forma).\n## Pontul principal\nAmbele marcă (GG), probabilitate ~55%, cotă corectă ~1.80.\n## Alte ponturi\nPeste 2.5 goluri (~48%); dublă șansă X2 (~62%) are valoare doar la cotă peste 1.60. Fără pont pe 1X2.",
-   "verdict": {
-    "summary": "Meci echilibrat între o gazdă în criză de apărare și un oaspete în formă bună; GG e cel mai solid pont.",
-    "home": 0.36,
-    "draw": 0.28,
-    "away": 0.36,
-    "over25": 0.48,
-    "btts": 0.55,
-    "expectedCorners": 9.6,
-    "expectedCards": 5.0,
-    "mostLikelyScore": "1-1",
-    "confidence": "mică",
-    "keyAbsences": [],
-    "mainPick": {
-     "market": "Ambele echipe marchează",
-     "code": "GG",
-     "probability": 0.55,
-     "confidence": "mică",
-     "reason": "Leganés a primit 8 goluri în ultimele 4 meciuri de campionat, Burgos a marcat în fiecare deplasare recentă."
-    },
-    "picks": [
-     {
-      "market": "Peste 2.5 goluri",
-      "code": "O2.5",
-      "probability": 0.48,
-      "confidence": "mică",
-      "reason": "Media ligii ~2.5, formă ofensivă și defensivă slabă la ambele."
-     },
-     {
-      "market": "Dublă șansă X2",
-      "code": "X2",
-      "probability": 0.64,
-      "confidence": "mică",
-      "reason": "Burgos în formă, Leganés doar 1 victorie în 5."
-     }
-    ]
-   }
-  },
   {
    "fotmobId": 5868546,
    "home": "Real Valladolid",

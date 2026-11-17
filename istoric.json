@@ -1608,5 +1608,15 @@
   "probability": 0.52,
   "score": "2-0",
   "correct": false
+ },
+ {
+  "fotmobId": 5868536,
+  "match": "Albacete – Celta Fortuna",
+  "kickoff": "2026-11-16T19:30:00Z",
+  "pick": "Dubla șansă 1X",
+  "code": "1X",
+  "probability": 0.7,
+  "score": "1-0",
+  "correct": true
  }
 ]
