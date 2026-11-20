@@ -1,197 +1,6 @@
 {
- "updatedAt": "2026-11-19T12:05:00+03:00",
+ "updatedAt": "2026-11-20T11:05:00+02:00",
  "analyses": [
-  {
-   "fotmobId": 5868536,
-   "home": "Albacete",
-   "away": "Celta Fortuna",
-   "kickoff": "2026-11-16T19:30:00Z",
-   "createdAt": 1794819789627,
-   "text": "## Pe scurt\nAlbacete cu 7 absenți primește Celta Fortuna fără 3 suspendați și 4 internaționali.\n## Ce s-a schimbat (știri și absențe)\nAlbacete: Corpas (suspendat), Marín, Gámez, Moreno, Puertas, Capi, Obeng (accidentați). Celta Fortuna: Capdevila, Ribes, J. López (suspendați), Sobral, Cuenca, Kibet, Silva (națională), Gavian, Khayat, Rodríguez, Somuah.\n## Analiză\nAlbacete W W W (ultima L 2-1 Gijón), Celta Fortuna L D L D L. Ambele lipsite de jucători; Celta Fortuna e echipă a doua, cu apărare fragilă (5-1 cu Girona). Fără cote verificate; nicio știre nouă față de ieri. Etapa de weekend în LaLiga2: doar 1 GG din ultimele 4 meciuri și 3 victorii ale gazdelor, ceea ce susține 1X.\n## Pontul principal\nDubla șansă 1X – probabilitate 70% (cotă ~1.43).\n## Alte ponturi\nPeste 2.5 goluri ~52% (apărări afectate de absențe).",
-   "verdict": {
-    "summary": "Albacete favorită clară în fața unui Celta Fortuna decimat.",
-    "home": 0.52,
-    "draw": 0.26,
-    "away": 0.22,
-    "over25": 0.52,
-    "btts": 0.5,
-    "expectedCorners": 9.0,
-    "expectedCards": 5.5,
-    "mostLikelyScore": "2-1",
-    "confidence": "medie",
-    "keyAbsences": [
-     "Corpas (Albacete) – suspendat",
-     "Puertas, Gámez, Moreno (Albacete) – accidentări",
-     "Celta Fortuna – 3 suspendați, 4 internaționali"
-    ],
-    "mainPick": {
-     "market": "Dubla șansă 1X",
-     "code": "1X",
-     "probability": 0.7,
-     "confidence": "medie",
-     "reason": "Albacete acasă, Celta Fortuna cu 11 absenți."
-    },
-    "picks": [
-     {
-      "market": "Peste 2.5 goluri",
-      "code": "O2.5",
-      "probability": 0.52,
-      "confidence": "mică",
-      "reason": "Apărări subțiate."
-     }
-    ]
-   }
-  },
-  {
-   "fotmobId": 5881226,
-   "home": "Bayern München",
-   "away": "1. FC Köln",
-   "kickoff": "2026-11-20T19:30:00Z",
-   "createdAt": 1795079040184,
-   "text": "## Pe scurt\nBayern e mare favorită acasă, dar cu lot decimat; Köln e și mai slabă în atac, așa că goluri multe sunt scenariul de bază.\n## Ce s-a schimbat (știri și absențe)\nJamal Musiala (Bayern) – accidentare; Manuel Neuer (Bayern) – accidentare; Luis Díaz (Bayern) – accidentare; Serge Gnabry (Bayern) – accidentare; Alphonso Davies (Bayern) – accidentare; Ragnar Ache (Köln) – accidentare; Ellyes Skhiri (Köln) – accidentare; Imad Rondić, Thijs Dallinga (Köln) – accidentare\n## Analiză\nBayern câștigă 4 din 5 și joacă acasă; absențele (Musiala, Neuer, Díaz, Gnabry, Davies) o costă mai ales în ritm, nu în calitate. Köln (L D W D L) are 7 absenți, dintre care atacanții Ache, Dallinga, Rondić și mijlocașul Skhiri. Cotele nu au putut fi verificate; pornesc de la probabilitățile pieței pentru Bayern ca favorită clară.\n## Pontul principal\n**Peste 2.5 goluri** – probabilitate 71%. Bayern a câștigat 4 din ultimele 5, Köln apără cu 6 absenți și a pierdut 2 din 5; cota pentru victoria Bayern e prea mică.\n## Alte ponturi\n- Bayern câștigă (80%) – Cotă probabil sub 1.30, fără valoare.\n- Ambele marchează (52%) – Köln marchează rar în deplasare.",
-   "verdict": {
-    "summary": "Bayern e mare favorită acasă, dar cu lot decimat; Köln e și mai slabă în atac, așa că goluri multe sunt scenariul de bază.",
-    "home": 0.8,
-    "draw": 0.11,
-    "away": 0.09,
-    "over25": 0.74,
-    "btts": 0.52,
-    "expectedCorners": 10.0,
-    "expectedCards": 4.0,
-    "mostLikelyScore": "3-1",
-    "confidence": "medie",
-    "keyAbsences": [
-     "Jamal Musiala (Bayern) – accidentare",
-     "Manuel Neuer (Bayern) – accidentare",
-     "Luis Díaz (Bayern) – accidentare",
-     "Serge Gnabry (Bayern) – accidentare",
-     "Alphonso Davies (Bayern) – accidentare",
-     "Ragnar Ache (Köln) – accidentare",
-     "Ellyes Skhiri (Köln) – accidentare",
-     "Imad Rondić, Thijs Dallinga (Köln) – accidentare"
-    ],
-    "mainPick": {
-     "market": "Peste 2.5 goluri",
-     "code": "O2.5",
-     "probability": 0.71,
-     "confidence": "medie",
-     "reason": "Bayern a câștigat 4 din ultimele 5, Köln apără cu 6 absenți și a pierdut 2 din 5; cota pentru victoria Bayern e prea mică."
-    },
-    "picks": [
-     {
-      "market": "Bayern câștigă",
-      "code": "1",
-      "probability": 0.8,
-      "confidence": "mare",
-      "reason": "Cotă probabil sub 1.30, fără valoare."
-     },
-     {
-      "market": "Ambele marchează",
-      "code": "GG",
-      "probability": 0.52,
-      "confidence": "mică",
-      "reason": "Köln marchează rar în deplasare."
-     }
-    ]
-   }
-  },
-  {
-   "fotmobId": 5868132,
-   "home": "Athletic Club",
-   "away": "Espanyol",
-   "kickoff": "2026-11-20T20:00:00Z",
-   "createdAt": 1795079040185,
-   "text": "## Pe scurt\nAthletic favorită acasă, dar cu 6 absenți; meci probabil închis, sub 4 goluri.\n## Ce s-a schimbat (știri și absențe)\nDaniel Vivian (Athletic) – accidentare; Aitor Paredes (Athletic) – accidentare; Unai Eguiluz (Athletic) – accidentare; Gorka Guruzeta (Athletic) – accidentare; Nico Serrano, Maroan Sannadi (Athletic) – accidentare; Kike García (Espanyol) – accidentare\n## Analiză\nPiața dă Athletic ~64%, egal ~21%, Espanyol ~14% (GidStats, fără marjă). Am coborât ușor gazdele pentru că lipsesc Vivian, Paredes, Eguiluz (fundași) și Guruzeta (atacant). Espanyol (L L L W D) are formă proastă în deplasare.\n## Pontul principal\n**Sub 3.5 goluri** – probabilitate 71%. Athletic cu apărarea centrală decimată dar Espanyol nu produce mult în atac; probabilitatea pieței (Athletic ~64%) sugerează control, nu spectacol.\n## Alte ponturi\n- Sub 2.5 goluri (60%) – Pe fond de ritm lent.\n- Athletic nu pierde (81%) – Cotă mică.",
-   "verdict": {
-    "summary": "Athletic favorită acasă, dar cu 6 absenți; meci probabil închis, sub 4 goluri.",
-    "home": 0.56,
-    "draw": 0.25,
-    "away": 0.19,
-    "over25": 0.4,
-    "btts": 0.46,
-    "expectedCorners": 9.5,
-    "expectedCards": 5.2,
-    "mostLikelyScore": "1-0",
-    "confidence": "medie",
-    "keyAbsences": [
-     "Daniel Vivian (Athletic) – accidentare",
-     "Aitor Paredes (Athletic) – accidentare",
-     "Unai Eguiluz (Athletic) – accidentare",
-     "Gorka Guruzeta (Athletic) – accidentare",
-     "Nico Serrano, Maroan Sannadi (Athletic) – accidentare",
-     "Kike García (Espanyol) – accidentare"
-    ],
-    "mainPick": {
-     "market": "Sub 3.5 goluri",
-     "code": "U3.5",
-     "probability": 0.71,
-     "confidence": "medie",
-     "reason": "Athletic cu apărarea centrală decimată dar Espanyol nu produce mult în atac; probabilitatea pieței (Athletic ~64%) sugerează control, nu spectacol."
-    },
-    "picks": [
-     {
-      "market": "Sub 2.5 goluri",
-      "code": "U2.5",
-      "probability": 0.6,
-      "confidence": "mică",
-      "reason": "Pe fond de ritm lent."
-     },
-     {
-      "market": "Athletic nu pierde",
-      "code": "1X",
-      "probability": 0.81,
-      "confidence": "mare",
-      "reason": "Cotă mică."
-     }
-    ]
-   }
-  },
-  {
-   "fotmobId": 5853555,
-   "home": "FCV Farul Constanța",
-   "away": "Universitatea Cluj",
-   "kickoff": "2026-11-20T18:30:00Z",
-   "createdAt": 1795079040186,
-   "text": "## Pe scurt\nMeci echilibrat între două echipe în formă bună; nicio echipă clar superioară.\n## Ce s-a schimbat (știri și absențe)\nFără absenți semnalați\n## Analiză\nForesportia: Farul 35.4%, egal 29.6%, Cluj 35%, încredere scăzută. Farul: W L W W D; Cluj: D W W W D și are un șir de victorii în meciurile directe. Fără cote verificate, rămân prudent.\n## Pontul principal\n**Universitatea Cluj nu pierde** – probabilitate 66%. Modelul dă 35/30/35; Cluj a câștigat ultimele întâlniri directe, iar dubla șansă acoperă remiza.\n## Alte ponturi\n- Sub 3.5 goluri (70%) – SuperLiga are medie sub 3 goluri.\n- Sub 2.5 goluri (56%) – Meci echilibrat.",
-   "verdict": {
-    "summary": "Meci echilibrat între două echipe în formă bună; nicio echipă clar superioară.",
-    "home": 0.35,
-    "draw": 0.3,
-    "away": 0.35,
-    "over25": 0.38,
-    "btts": 0.5,
-    "expectedCorners": 9.5,
-    "expectedCards": 5.0,
-    "mostLikelyScore": "1-1",
-    "confidence": "mică",
-    "keyAbsences": [
-     "Fără absenți semnalați"
-    ],
-    "mainPick": {
-     "market": "Universitatea Cluj nu pierde",
-     "code": "X2",
-     "probability": 0.66,
-     "confidence": "mică",
-     "reason": "Modelul dă 35/30/35; Cluj a câștigat ultimele întâlniri directe, iar dubla șansă acoperă remiza."
-    },
-    "picks": [
-     {
-      "market": "Sub 3.5 goluri",
-      "code": "U3.5",
-      "probability": 0.7,
-      "confidence": "mică",
-      "reason": "SuperLiga are medie sub 3 goluri."
-     },
-     {
-      "market": "Sub 2.5 goluri",
-      "code": "U2.5",
-      "probability": 0.56,
-      "confidence": "mică",
-      "reason": "Meci echilibrat."
-     }
-    ]
-   }
-  },
   {
    "fotmobId": 5853557,
    "home": "Botoșani",
@@ -531,6 +340,478 @@
       "probability": 0.56,
       "confidence": "mică",
       "reason": ""
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 5881226,
+   "home": "Bayern München",
+   "away": "1. FC Köln",
+   "kickoff": "2026-11-20T19:30:00Z",
+   "createdAt": 1795165402983,
+   "text": "## Pe scurt\nBayern e mare favorită, dar cu lot decimat; Köln are 6 absenți și apără slab, deci goluri multe.\n\n## Ce s-a schimbat (știri și absențe)\nMusiala, Neuer, Díaz, Gnabry, Davies (Bayern) – accidentări; Ache, Skhiri, Rondić, Dallinga, van den Berg, Hübers (Köln) – accidentări.\n\n## Analiză\nBayern (4 victorii din ultimele 5, 21 victorii în 26 de dueluri directe) joacă acasă contra unei Köln fără cei mai buni atacanți și cu 6 absenți. Bayern are și ea absențe grele (Musiala, Neuer, Díaz), dar profunzimea rămâne mare. Cota la victorie e mică, așa că valoarea e în totalul de goluri. Notă: cotele casei nu au fost verificate direct în această rulare; probabilitățile pornesc din formă, absențe și tendințele ligii.\n\n## Pontul principal\nPeste 2.5 goluri (70%) – Bundesliga are 65% peste 2.5 în ultimele 60 de meciuri; Bayern 4V în ultimele 5, Köln fără atacanți.\n\n## Alte ponturi\n- Bayern câștigă (80%) – Cotă probabil sub 1.30, fără valoare.\n- Ambele marchează (52%) – Köln marchează rar în deplasare.",
+   "verdict": {
+    "summary": "Bayern e mare favorită, dar cu lot decimat; Köln are 6 absenți și apără slab, deci goluri multe.",
+    "home": 0.8,
+    "draw": 0.11,
+    "away": 0.09,
+    "over25": 0.74,
+    "btts": 0.52,
+    "expectedCorners": 10.0,
+    "expectedCards": 4.0,
+    "mostLikelyScore": "3-1",
+    "confidence": "medie",
+    "keyAbsences": [
+     "Musiala, Neuer, Díaz, Gnabry, Davies (Bayern) – accidentări",
+     "Ache, Skhiri, Rondić, Dallinga, van den Berg, Hübers (Köln) – accidentări"
+    ],
+    "mainPick": {
+     "market": "Peste 2.5 goluri",
+     "code": "O2.5",
+     "probability": 0.7,
+     "confidence": "medie",
+     "reason": "Bundesliga are 65% peste 2.5 în ultimele 60 de meciuri; Bayern 4V în ultimele 5, Köln fără atacanți."
+    },
+    "picks": [
+     {
+      "market": "Bayern câștigă",
+      "code": "1",
+      "probability": 0.8,
+      "confidence": "mare",
+      "reason": "Cotă probabil sub 1.30, fără valoare."
+     },
+     {
+      "market": "Ambele marchează",
+      "code": "GG",
+      "probability": 0.52,
+      "confidence": "mică",
+      "reason": "Köln marchează rar în deplasare."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 5868132,
+   "home": "Athletic Club",
+   "away": "Espanyol",
+   "kickoff": "2026-11-20T20:00:00Z",
+   "createdAt": 1795165402983,
+   "text": "## Pe scurt\nAthletic favorită acasă, dar cu 6 absenți; meci probabil închis, sub 4 goluri.\n\n## Ce s-a schimbat (știri și absențe)\nVivian, Paredes, Eguiluz (Athletic) – apărare centrală decimată; Guruzeta, Sannadi, Serrano (Athletic) – accidentări; Kike García (Espanyol) – accidentare.\n\n## Analiză\nAthletic are apărarea centrală cu trei absenți și fără Guruzeta în față, dar Espanyol are formă slabă în deplasare. LaLiga are în medie 2.36 goluri/meci, iar scenariul de bază e un 1-0 sau 1-1. Notă: cotele casei nu au fost verificate direct în această rulare; probabilitățile pornesc din formă, absențe și tendințele ligii.\n\n## Pontul principal\nSub 3.5 goluri (71%) – LaLiga are doar 2.36 goluri/meci și 46% peste 2.5; Espanyol (L L L W D) produce puțin.\n\n## Alte ponturi\n- Sub 2.5 goluri (60%) – Ritm lent.\n- Athletic nu pierde (81%) – Cotă mică.",
+   "verdict": {
+    "summary": "Athletic favorită acasă, dar cu 6 absenți; meci probabil închis, sub 4 goluri.",
+    "home": 0.56,
+    "draw": 0.25,
+    "away": 0.19,
+    "over25": 0.4,
+    "btts": 0.46,
+    "expectedCorners": 9.5,
+    "expectedCards": 5.2,
+    "mostLikelyScore": "1-0",
+    "confidence": "medie",
+    "keyAbsences": [
+     "Vivian, Paredes, Eguiluz (Athletic) – apărare centrală decimată",
+     "Guruzeta, Sannadi, Serrano (Athletic) – accidentări",
+     "Kike García (Espanyol) – accidentare"
+    ],
+    "mainPick": {
+     "market": "Sub 3.5 goluri",
+     "code": "U3.5",
+     "probability": 0.71,
+     "confidence": "medie",
+     "reason": "LaLiga are doar 2.36 goluri/meci și 46% peste 2.5; Espanyol (L L L W D) produce puțin."
+    },
+    "picks": [
+     {
+      "market": "Sub 2.5 goluri",
+      "code": "U2.5",
+      "probability": 0.6,
+      "confidence": "mică",
+      "reason": "Ritm lent."
+     },
+     {
+      "market": "Athletic nu pierde",
+      "code": "1X",
+      "probability": 0.81,
+      "confidence": "mare",
+      "reason": "Cotă mică."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 5853555,
+   "home": "FCV Farul Constanța",
+   "away": "Universitatea Cluj",
+   "kickoff": "2026-11-20T18:30:00Z",
+   "createdAt": 1795165402983,
+   "text": "## Pe scurt\nMeci echilibrat între două echipe în formă bună; Cluj are avantaj în duelurile directe.\n\n## Ce s-a schimbat (știri și absențe)\nFără absenți semnalați.\n\n## Analiză\nFarul (W L W W D) și Cluj (D W W W D) sunt în formă similară. Istoricul direct (2 victorii Farul, 6 remize, 7 Cluj) înclină ușor spre oaspeți, iar dubla șansă acoperă remiza, rezultat frecvent aici. Notă: cotele casei nu au fost verificate direct în această rulare; probabilitățile pornesc din formă, absențe și tendințele ligii.\n\n## Pontul principal\nUniversitatea Cluj nu pierde (66%) – Cluj nu a pierdut în ultimele 5 (D W W W D) și a câștigat 7 din 15 dueluri directe, Farul doar 2.\n\n## Alte ponturi\n- Sub 3.5 goluri (70%) – SuperLiga are 2.44 goluri/meci.\n- Sub 2.5 goluri (56%) – Meci echilibrat, ambele echipe prudente în deplasare/acasă.",
+   "verdict": {
+    "summary": "Meci echilibrat între două echipe în formă bună; Cluj are avantaj în duelurile directe.",
+    "home": 0.35,
+    "draw": 0.3,
+    "away": 0.35,
+    "over25": 0.38,
+    "btts": 0.5,
+    "expectedCorners": 9.5,
+    "expectedCards": 5.0,
+    "mostLikelyScore": "1-1",
+    "confidence": "mică",
+    "keyAbsences": [
+     "Fără absenți semnalați"
+    ],
+    "mainPick": {
+     "market": "Universitatea Cluj nu pierde",
+     "code": "X2",
+     "probability": 0.66,
+     "confidence": "mică",
+     "reason": "Cluj nu a pierdut în ultimele 5 (D W W W D) și a câștigat 7 din 15 dueluri directe, Farul doar 2."
+    },
+    "picks": [
+     {
+      "market": "Sub 3.5 goluri",
+      "code": "U3.5",
+      "probability": 0.7,
+      "confidence": "mică",
+      "reason": "SuperLiga are 2.44 goluri/meci."
+     },
+     {
+      "market": "Sub 2.5 goluri",
+      "code": "U2.5",
+      "probability": 0.57,
+      "confidence": "mică",
+      "reason": "Meci echilibrat, ambele echipe prudente în deplasare/acasă."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 5795522,
+   "home": "Manchester City",
+   "away": "Fulham",
+   "kickoff": "2026-11-21T12:30:00Z",
+   "createdAt": 1795165402983,
+   "text": "## Pe scurt\nCity e favorită acasă, dar e în formă slabă (1V în ultimele 5) și fără Guéhi și Semenyo; Fulham e greu de bătut.\n\n## Ce s-a schimbat (știri și absențe)\nMarc Guéhi (City) – accidentare; Antoine Semenyo (City) – accidentare; Tom Cairney (Fulham) – accidentare.\n\n## Analiză\nCity a câștigat doar o dată în ultimele 5 și lipsesc Guéhi și Semenyo. Fulham (W W L D D) vine echilibrat, dar are 0 victorii în 23 de dueluri directe contra City (2 remize). Rămân favorite, dar cu mai puține goluri decât în sezoanele trecute. Notă: cotele casei nu au fost verificate direct în această rulare; probabilitățile pornesc din formă, absențe și tendințele ligii.\n\n## Pontul principal\nPeste 2.5 goluri (57%) – City a încasat des în ultimele meciuri (L D L W L), iar Fulham a marcat în aproape fiecare meci; PL are însă doar 42% peste 2.5 – probabilitate moderată.\n\n## Alte ponturi\n- Ambele marchează (52%) – Fulham are forță ofensivă; apărarea City fără Guéhi.\n- City nu pierde (80%) – Cotă mică.",
+   "verdict": {
+    "summary": "City e favorită acasă, dar e în formă slabă (1V în ultimele 5) și fără Guéhi și Semenyo; Fulham e greu de bătut.",
+    "home": 0.6,
+    "draw": 0.22,
+    "away": 0.18,
+    "over25": 0.58,
+    "btts": 0.52,
+    "expectedCorners": 10.5,
+    "expectedCards": 3.8,
+    "mostLikelyScore": "2-1",
+    "confidence": "mică",
+    "keyAbsences": [
+     "Marc Guéhi (City) – accidentare",
+     "Antoine Semenyo (City) – accidentare",
+     "Tom Cairney (Fulham) – accidentare"
+    ],
+    "mainPick": {
+     "market": "Peste 2.5 goluri",
+     "code": "O2.5",
+     "probability": 0.58,
+     "confidence": "mică",
+     "reason": "City a încasat des în ultimele meciuri (L D L W L), iar Fulham a marcat în aproape fiecare meci; PL are însă doar 42% peste 2.5 – probabilitate moderată."
+    },
+    "picks": [
+     {
+      "market": "Ambele marchează",
+      "code": "GG",
+      "probability": 0.52,
+      "confidence": "mică",
+      "reason": "Fulham are forță ofensivă; apărarea City fără Guéhi."
+     },
+     {
+      "market": "City nu pierde",
+      "code": "1X",
+      "probability": 0.8,
+      "confidence": "medie",
+      "reason": "Cotă mică."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 5795523,
+   "home": "Newcastle United",
+   "away": "Arsenal",
+   "kickoff": "2026-11-21T17:30:00Z",
+   "createdAt": 1795165402983,
+   "text": "## Pe scurt\nArsenal e în formă (4V în ultimele 5), Newcastle în criză (1V din 5); Saka lipsește la Arsenal.\n\n## Ce s-a schimbat (știri și absențe)\nJoelinton (Newcastle) – accidentare; Bukayo Saka (Arsenal) – accidentare; Max Dowman (Arsenal) – suspendat.\n\n## Analiză\nArsenal vine cu W D W W W și e echipa mai solidă, chiar fără Saka. Newcastle e în formă slabă (L W L L D) și fără Joelinton. Mi se pare totuși un meci strâns pe St James' Park, deci dubla șansă pe oaspeți e mai sigură decât victoria simplă. Notă: cotele casei nu au fost verificate direct în această rulare; probabilitățile pornesc din formă, absențe și tendințele ligii.\n\n## Pontul principal\nArsenal nu pierde (70%) – Arsenal 4V+1R în ultimele 5, Newcastle 1V din 5 și fără Joelinton; Arsenal are 25 de victorii în 35 de dueluri directe.\n\n## Alte ponturi\n- Sub 3.5 goluri (72%) – Arsenal câștigă la limită (mai multe 1-0), PL are 2.67 goluri/meci.\n- Ambele marchează (46%) – Arsenal marchează, Newcastle acasă mai greu.",
+   "verdict": {
+    "summary": "Arsenal e în formă (4V în ultimele 5), Newcastle în criză (1V din 5); Saka lipsește la Arsenal.",
+    "home": 0.25,
+    "draw": 0.27,
+    "away": 0.48,
+    "over25": 0.42,
+    "btts": 0.46,
+    "expectedCorners": 10.0,
+    "expectedCards": 4.5,
+    "mostLikelyScore": "1-1",
+    "confidence": "medie",
+    "keyAbsences": [
+     "Joelinton (Newcastle) – accidentare",
+     "Bukayo Saka (Arsenal) – accidentare",
+     "Max Dowman (Arsenal) – suspendat"
+    ],
+    "mainPick": {
+     "market": "Arsenal nu pierde",
+     "code": "X2",
+     "probability": 0.7,
+     "confidence": "medie",
+     "reason": "Arsenal 4V+1R în ultimele 5, Newcastle 1V din 5 și fără Joelinton; Arsenal are 25 de victorii în 35 de dueluri directe."
+    },
+    "picks": [
+     {
+      "market": "Sub 3.5 goluri",
+      "code": "U3.5",
+      "probability": 0.72,
+      "confidence": "medie",
+      "reason": "Arsenal câștigă la limită (mai multe 1-0), PL are 2.67 goluri/meci."
+     },
+     {
+      "market": "Ambele marchează",
+      "code": "GG",
+      "probability": 0.46,
+      "confidence": "mică",
+      "reason": "Arsenal marchează, Newcastle acasă mai greu."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 5868139,
+   "home": "Real Madrid",
+   "away": "Celta Vigo",
+   "kickoff": "2026-11-21T20:00:00Z",
+   "createdAt": 1795165402983,
+   "text": "## Pe scurt\nReal Madrid vine cu 5 victorii la rând contra unui Celta fără formă; absențe doar în apărare.\n\n## Ce s-a schimbat (știri și absențe)\nMendy, Asencio (Real Madrid) – accidentări; Rodrygo (Real Madrid) – accidentare; Borja Iglesias, Miguel Román (Celta) – accidentări.\n\n## Analiză\nReal Madrid (5 victorii consecutive) joacă acasă contra Celta, care a câștigat o singură dată în ultimele 5. Lipsesc Mendy, Asencio și Rodrygo, dar atacul rămâne puternic. Celta în 3-4-3 riscă, ceea ce favorizează totalul de goluri. Notă: cotele casei nu au fost verificate direct în această rulare; probabilitățile pornesc din formă, absențe și tendințele ligii.\n\n## Pontul principal\nPeste 2.5 goluri (60%) – Real Madrid 5V la rând; Celta (D L L D W) încasează, iar Madrid are 26 victorii în 33 de dueluri.\n\n## Alte ponturi\n- Real Madrid câștigă (78%) – Cotă mică, fără valoare.\n- Ambele marchează (48%) – Celta joacă deschis cu 3-4-3.",
+   "verdict": {
+    "summary": "Real Madrid vine cu 5 victorii la rând contra unui Celta fără formă; absențe doar în apărare.",
+    "home": 0.78,
+    "draw": 0.13,
+    "away": 0.09,
+    "over25": 0.6,
+    "btts": 0.48,
+    "expectedCorners": 9.5,
+    "expectedCards": 4.0,
+    "mostLikelyScore": "3-1",
+    "confidence": "medie",
+    "keyAbsences": [
+     "Mendy, Asencio (Real Madrid) – accidentări",
+     "Rodrygo (Real Madrid) – accidentare",
+     "Borja Iglesias, Miguel Román (Celta) – accidentări"
+    ],
+    "mainPick": {
+     "market": "Peste 2.5 goluri",
+     "code": "O2.5",
+     "probability": 0.6,
+     "confidence": "medie",
+     "reason": "Real Madrid 5V la rând; Celta (D L L D W) încasează, iar Madrid are 26 victorii în 33 de dueluri."
+    },
+    "picks": [
+     {
+      "market": "Real Madrid câștigă",
+      "code": "1",
+      "probability": 0.78,
+      "confidence": "mare",
+      "reason": "Cotă mică, fără valoare."
+     },
+     {
+      "market": "Ambele marchează",
+      "code": "GG",
+      "probability": 0.48,
+      "confidence": "mică",
+      "reason": "Celta joacă deschis cu 3-4-3."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 5749757,
+   "home": "Napoli",
+   "away": "Torino",
+   "kickoff": "2026-11-21T19:45:00Z",
+   "createdAt": 1795165402983,
+   "text": "## Pe scurt\nNapoli e favorită, dar cu 5 absenți (Di Lorenzo, Lobotka, Buongiorno) și formă slabă; meci probabil strâns.\n\n## Ce s-a schimbat (știri și absențe)\nDi Lorenzo, Buongiorno, Lobotka, Badiashile, Alisson Santos (Napoli) – accidentări; Nikola Vlašić (Torino) – accidentare.\n\n## Analiză\nNapoli nu a câștigat în 4 din ultimele 5 și lipsesc Di Lorenzo, Buongiorno, Lobotka. Torino are 2 victorii și 2 înfrângeri recent. Cel mai probabil un meci cu puține ocazii; evit victoria simplă a gazdelor. Notă: cotele casei nu au fost verificate direct în această rulare; probabilitățile pornesc din formă, absențe și tendințele ligii.\n\n## Pontul principal\nSub 3.5 goluri (71%) – Serie A 2.66 goluri/meci; ambele echipe în formă slabă (Napoli D W L L D, Torino W W L L D) și Napoli fără pivotul Lobotka.\n\n## Alte ponturi\n- Napoli nu pierde (79%) – Cotă mică.\n- Sub 2.5 goluri (56%) – Napoli fără trei titulari defensivi/mijloc, dar ritm controlat.",
+   "verdict": {
+    "summary": "Napoli e favorită, dar cu 5 absenți (Di Lorenzo, Lobotka, Buongiorno) și formă slabă; meci probabil strâns.",
+    "home": 0.52,
+    "draw": 0.27,
+    "away": 0.21,
+    "over25": 0.43,
+    "btts": 0.48,
+    "expectedCorners": 9.0,
+    "expectedCards": 4.8,
+    "mostLikelyScore": "1-0",
+    "confidence": "medie",
+    "keyAbsences": [
+     "Di Lorenzo, Buongiorno, Lobotka, Badiashile, Alisson Santos (Napoli) – accidentări",
+     "Nikola Vlašić (Torino) – accidentare"
+    ],
+    "mainPick": {
+     "market": "Sub 3.5 goluri",
+     "code": "U3.5",
+     "probability": 0.71,
+     "confidence": "medie",
+     "reason": "Serie A 2.66 goluri/meci; ambele echipe în formă slabă (Napoli D W L L D, Torino W W L L D) și Napoli fără pivotul Lobotka."
+    },
+    "picks": [
+     {
+      "market": "Napoli nu pierde",
+      "code": "1X",
+      "probability": 0.79,
+      "confidence": "medie",
+      "reason": "Cotă mică."
+     },
+     {
+      "market": "Sub 2.5 goluri",
+      "code": "U2.5",
+      "probability": 0.57,
+      "confidence": "mică",
+      "reason": "Napoli fără trei titulari defensivi/mijloc, dar ritm controlat."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 5881227,
+   "home": "Borussia Mönchengladbach",
+   "away": "Borussia Dortmund",
+   "kickoff": "2026-11-21T14:30:00Z",
+   "createdAt": 1795165402983,
+   "text": "## Pe scurt\nDortmund e în formă (4V în ultimele 5) dar fără Guirassy și Can; Gladbach are 9 absenți.\n\n## Ce s-a schimbat (știri și absențe)\nItakura (suspendat), Ullrich, Hashioka, Kühn, Kleindienst, Leopold (Gladbach) – absenți; Guirassy, Can, Anton, Konstantelias (Dortmund) – accidentări.\n\n## Analiză\nGladbach (W W D L W) are 9 absenți, inclusiv Kleindienst și Kühn; Dortmund (W W D W W) joacă fără Guirassy, Can și Anton. Într-o Bundesliga cu 3.33 goluri/meci și 62% GG, totalul de goluri e alegerea cu valoare. Notă: cotele casei nu au fost verificate direct în această rulare; probabilitățile pornesc din formă, absențe și tendințele ligii.\n\n## Pontul principal\nPeste 2.5 goluri (64%) – Bundesliga: 3.33 goluri/meci și 65% peste 2.5; ambele apărări subțiate.\n\n## Alte ponturi\n- Ambele marchează (62%) – Gladbach marchează acasă, Dortmund fără Anton în apărare.\n- Dortmund nu pierde (74%) – Formă net superioară, dar Guirassy lipsește.",
+   "verdict": {
+    "summary": "Dortmund e în formă (4V în ultimele 5) dar fără Guirassy și Can; Gladbach are 9 absenți.",
+    "home": 0.27,
+    "draw": 0.23,
+    "away": 0.5,
+    "over25": 0.64,
+    "btts": 0.62,
+    "expectedCorners": 10.0,
+    "expectedCards": 4.2,
+    "mostLikelyScore": "1-2",
+    "confidence": "mică",
+    "keyAbsences": [
+     "Itakura (suspendat), Ullrich, Hashioka, Kühn, Kleindienst, Leopold (Gladbach) – absenți",
+     "Guirassy, Can, Anton, Konstantelias (Dortmund) – accidentări"
+    ],
+    "mainPick": {
+     "market": "Peste 2.5 goluri",
+     "code": "O2.5",
+     "probability": 0.64,
+     "confidence": "medie",
+     "reason": "Bundesliga: 3.33 goluri/meci și 65% peste 2.5; ambele apărări subțiate."
+    },
+    "picks": [
+     {
+      "market": "Ambele marchează",
+      "code": "GG",
+      "probability": 0.62,
+      "confidence": "mică",
+      "reason": "Gladbach marchează acasă, Dortmund fără Anton în apărare."
+     },
+     {
+      "market": "Dortmund nu pierde",
+      "code": "X2",
+      "probability": 0.74,
+      "confidence": "medie",
+      "reason": "Formă net superioară, dar Guirassy lipsește."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 5802996,
+   "home": "Nice",
+   "away": "Paris Saint-Germain",
+   "kickoff": "2026-11-21T16:15:00Z",
+   "createdAt": 1795165402983,
+   "text": "## Pe scurt\nPSG e favorită (5V la rând) dar fără Dembélé, Kvaratskhelia, Marquinhos, Nuno Mendes; Nice e în formă bună.\n\n## Ce s-a schimbat (știri și absențe)\nMendy, Abdelmonem, Abdi, Bombito, Abergel (Nice) – accidentări; Dembélé, Kvaratskhelia, Marquinhos, Nuno Mendes, Akliouche (PSG) – accidentări.\n\n## Analiză\nPSG are 5 victorii consecutive, dar fără Dembélé, Kvaratskhelia, Marquinhos și Nuno Mendes. Nice (W L W W W) a câștigat 4 din 5, deși are 5 absenți. Istoricul direct e dominat de PSG (22 de victorii din 34), dar echipa lipsită de titulari poate pierde puncte; mizez pe goluri. Notă: cotele casei nu au fost verificate direct în această rulare; probabilitățile pornesc din formă, absențe și tendințele ligii.\n\n## Pontul principal\nPeste 2.5 goluri (60%) – Ligue 1: 2.89 goluri/meci, 52% peste 2.5; PSG fără apărătorii-cheie, Nice cu 4V în ultimele 5.\n\n## Alte ponturi\n- Ambele marchează (56%) – Nice joacă acasă în 3-4-2-1 ofensiv.\n- PSG nu pierde (78%) – Cotă mică.",
+   "verdict": {
+    "summary": "PSG e favorită (5V la rând) dar fără Dembélé, Kvaratskhelia, Marquinhos, Nuno Mendes; Nice e în formă bună.",
+    "home": 0.22,
+    "draw": 0.22,
+    "away": 0.56,
+    "over25": 0.6,
+    "btts": 0.56,
+    "expectedCorners": 9.5,
+    "expectedCards": 4.5,
+    "mostLikelyScore": "2-2",
+    "confidence": "mică",
+    "keyAbsences": [
+     "Mendy, Abdelmonem, Abdi, Bombito, Abergel (Nice) – accidentări",
+     "Dembélé, Kvaratskhelia, Marquinhos, Nuno Mendes, Akliouche (PSG) – accidentări"
+    ],
+    "mainPick": {
+     "market": "Peste 2.5 goluri",
+     "code": "O2.5",
+     "probability": 0.6,
+     "confidence": "mică",
+     "reason": "Ligue 1: 2.89 goluri/meci, 52% peste 2.5; PSG fără apărătorii-cheie, Nice cu 4V în ultimele 5."
+    },
+    "picks": [
+     {
+      "market": "Ambele marchează",
+      "code": "GG",
+      "probability": 0.56,
+      "confidence": "mică",
+      "reason": "Nice joacă acasă în 3-4-2-1 ofensiv."
+     },
+     {
+      "market": "PSG nu pierde",
+      "code": "X2",
+      "probability": 0.78,
+      "confidence": "medie",
+      "reason": "Cotă mică."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 5853554,
+   "home": "Dinamo București",
+   "away": "Petrolul Ploiești",
+   "kickoff": "2026-11-21T18:30:00Z",
+   "createdAt": 1795165402983,
+   "text": "## Pe scurt\nEchipe în formă bună; meci de SuperLiga în care remiza sau 1-0 sunt rezultate frecvente.\n\n## Ce s-a schimbat (știri și absențe)\nFără absenți semnalați în sursele consultate.\n\n## Analiză\nDinamo (3V în ultimele 5) joacă acasă, Petrolul (3V, 2R) e neînvins recent. Dinamo a câștigat 9 din 20 de dueluri directe. Ritm prudent, meci probabil sub 3 goluri. Notă: cotele casei nu au fost verificate direct în această rulare; probabilitățile pornesc din formă, absențe și tendințele ligii.\n\n## Pontul principal\nSub 2.5 goluri (56%) – SuperLiga: 2.44 goluri/meci și doar 43% peste 2.5; ambele (Dinamo W D W W L, Petrolul D W W D W) joacă pragmatic.\n\n## Alte ponturi\n- Dinamo nu pierde (74%) – Cotă mică.\n- Sub 3.5 goluri (78%) – Cotă prea mică.",
+   "verdict": {
+    "summary": "Echipe în formă bună; meci de SuperLiga în care remiza sau 1-0 sunt rezultate frecvente.",
+    "home": 0.46,
+    "draw": 0.28,
+    "away": 0.26,
+    "over25": 0.4,
+    "btts": 0.48,
+    "expectedCorners": 9.5,
+    "expectedCards": 5.5,
+    "mostLikelyScore": "1-0",
+    "confidence": "mică",
+    "keyAbsences": [
+     "Fără absenți semnalați în sursele consultate"
+    ],
+    "mainPick": {
+     "market": "Sub 2.5 goluri",
+     "code": "U2.5",
+     "probability": 0.57,
+     "confidence": "mică",
+     "reason": "SuperLiga: 2.44 goluri/meci și doar 43% peste 2.5; ambele (Dinamo W D W W L, Petrolul D W W D W) joacă pragmatic."
+    },
+    "picks": [
+     {
+      "market": "Dinamo nu pierde",
+      "code": "1X",
+      "probability": 0.74,
+      "confidence": "medie",
+      "reason": "Cotă mică."
+     },
+     {
+      "market": "Sub 3.5 goluri",
+      "code": "U3.5",
+      "probability": 0.78,
+      "confidence": "medie",
+      "reason": "Cotă prea mică."
      }
     ]
    }
