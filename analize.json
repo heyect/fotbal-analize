@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T11:05:00+02:00",
+ "updatedAt": "2026-11-22T11:10:00+02:00",
  "analyses": [
   {
    "fotmobId": 5853557,
@@ -812,6 +812,489 @@
       "probability": 0.78,
       "confidence": "medie",
       "reason": "Cotă prea mică."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 5795521,
+   "home": "Liverpool",
+   "away": "Manchester United",
+   "kickoff": "2026-11-22T16:30:00Z",
+   "createdAt": 1795338262502,
+   "text": "## Pe scurt\nDerby tradițional, gazdele sunt favorite clare datorită lotului mai întreg.\n## Ce s-a schimbat (știri și absențe)\nLiverpool îi lipsesc Bradley, Leoni și Ekitiké; United are 7 absenți (Šeško, Rashford, Shaw, Ugarte, Baleba, Heaven, Lacey) și vine din serie slabă.\n## Analiză\nLiverpool pierde 3 jucători, dar United pierde 7, inclusiv doi atacanți. Forma echipelor e mixtă. Media ligii (~2.7 goluri) nu susține un Over agresiv.\n## Pontul principal\nLiverpool câștigă (probabilitate 57%) – Cota corectă ~1.70; avantaj dat de absențele mai grele ale oaspeților.\n## Alte ponturi\n- Peste 2.5 goluri (55%)\n- Ambele marchează (52%)\n\nNotă: cotele live nu au putut fi verificate; probabilitățile pornesc din forma recentă, absențe și mediile ligii. Nu garantează câștiguri.",
+   "verdict": {
+    "summary": "Derby tradițional, gazdele sunt favorite clare datorită lotului mai întreg.",
+    "home": 0.58,
+    "draw": 0.22,
+    "away": 0.2,
+    "over25": 0.55,
+    "btts": 0.53,
+    "expectedCorners": 10.2,
+    "expectedCards": 3.6,
+    "mostLikelyScore": "2-1",
+    "confidence": "medie",
+    "keyAbsences": [
+     "Ekitiké (Liverpool) – accidentare",
+     "Bradley (Liverpool) – accidentare",
+     "Šeško (United) – accidentare",
+     "Rashford (United) – accidentare",
+     "Shaw (United) – accidentare"
+    ],
+    "mainPick": {
+     "market": "Liverpool câștigă",
+     "code": "1",
+     "probability": 0.58,
+     "confidence": "medie",
+     "reason": "Gazde mai complete, United fără atacanți titulari."
+    },
+    "picks": [
+     {
+      "market": "Peste 2.5 goluri",
+      "code": "O2.5",
+      "probability": 0.55,
+      "confidence": "mică",
+      "reason": "Premier League are doar ~42% Over, dar atacul lui Liverpool acasă ridică șansele."
+     },
+     {
+      "market": "Ambele marchează",
+      "code": "GG",
+      "probability": 0.52,
+      "confidence": "mică",
+      "reason": "United tot găsește un gol cu piese rămase."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 5868133,
+   "home": "Barcelona",
+   "away": "Villarreal",
+   "kickoff": "2026-11-22T13:00:00Z",
+   "createdAt": 1795338262502,
+   "text": "## Pe scurt\nBarcelona e favorită clară acasă, iar meciul are potențial de goluri.\n## Ce s-a schimbat (știri și absențe)\nBarcelona fără Christensen, Rodri și Bardghji; Villarreal fără Foyth, Diatta și Gerard Moreno.\n## Analiză\nLaLiga are ~46% Over, așa că 62% e deja o abatere pentru atacul Barcelonei. Mijlocul Barcelonei e subțiat.\n## Pontul principal\nPeste 2.5 goluri (probabilitate 62%) – Barcelona produce multe ocazii acasă; Villarreal nu se apără defensiv.\n## Alte ponturi\n- Barcelona câștigă (66%)\n- Ambele marchează (55%)\n\nNotă: cotele live nu au putut fi verificate; probabilitățile pornesc din forma recentă, absențe și mediile ligii. Nu garantează câștiguri.",
+   "verdict": {
+    "summary": "Barcelona e favorită clară acasă, iar meciul are potențial de goluri.",
+    "home": 0.66,
+    "draw": 0.17,
+    "away": 0.17,
+    "over25": 0.62,
+    "btts": 0.55,
+    "expectedCorners": 9.6,
+    "expectedCards": 4.2,
+    "mostLikelyScore": "2-1",
+    "confidence": "medie",
+    "keyAbsences": [
+     "Rodri (Barcelona) – accidentare",
+     "Christensen (Barcelona) – accidentare",
+     "Gerard Moreno (Villarreal) – accidentare",
+     "Foyth (Villarreal) – accidentare"
+    ],
+    "mainPick": {
+     "market": "Peste 2.5 goluri",
+     "code": "O2.5",
+     "probability": 0.62,
+     "confidence": "medie",
+     "reason": "Barcelona atacă mult acasă, Villarreal fără atacantul Moreno dar cu apărare expusă."
+    },
+    "picks": [
+     {
+      "market": "Barcelona câștigă",
+      "code": "1",
+      "probability": 0.66,
+      "confidence": "medie",
+      "reason": "Calitate net superioară acasă."
+     },
+     {
+      "market": "Ambele marchează",
+      "code": "GG",
+      "probability": 0.55,
+      "confidence": "mică",
+      "reason": "Villarreal obișnuit să marcheze."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 5749751,
+   "home": "Atalanta",
+   "away": "Inter",
+   "kickoff": "2026-11-22T19:45:00Z",
+   "createdAt": 1795338262502,
+   "text": "## Pe scurt\nMeci de top la Bergamo, cu Inter ușor favorită și potențial de goluri.\n## Ce s-a schimbat (știri și absențe)\nAtalanta e fără 3 fundași (Hien, Kossounou, Pompei); Inter fără Zieliński și Bonny. Inter vine cu 4 victorii din ultimele 5.\n## Analiză\nSerie A are doar ~47% GG, deci 55% e o abatere mică justificată de absențele apărării gazdelor.\n## Pontul principal\nAmbele echipe marchează (probabilitate 55%) – Apărarea Atalantei fără trei titulari îi favorizează pe oaspeți, dar Atalanta marchează acasă.\n## Alte ponturi\n- Inter nu pierde (70%)\n- Peste 2.5 goluri (55%)\n\nNotă: cotele live nu au putut fi verificate; probabilitățile pornesc din forma recentă, absențe și mediile ligii. Nu garantează câștiguri.",
+   "verdict": {
+    "summary": "Meci de top la Bergamo, cu Inter ușor favorită și potențial de goluri.",
+    "home": 0.28,
+    "draw": 0.27,
+    "away": 0.45,
+    "over25": 0.55,
+    "btts": 0.55,
+    "expectedCorners": 10.0,
+    "expectedCards": 4.4,
+    "mostLikelyScore": "1-2",
+    "confidence": "mică",
+    "keyAbsences": [
+     "Hien (Atalanta) – accidentare",
+     "Kossounou (Atalanta) – accidentare",
+     "Zieliński (Inter) – accidentare"
+    ],
+    "mainPick": {
+     "market": "Ambele echipe marchează",
+     "code": "GG",
+     "probability": 0.55,
+     "confidence": "mică",
+     "reason": "Apărarea Atalantei e decimată, Inter are atac eficient."
+    },
+    "picks": [
+     {
+      "market": "Inter nu pierde",
+      "code": "X2",
+      "probability": 0.7,
+      "confidence": "medie",
+      "reason": "Formă mai bună și apărare mai solidă."
+     },
+     {
+      "market": "Peste 2.5 goluri",
+      "code": "O2.5",
+      "probability": 0.55,
+      "confidence": "mică",
+      "reason": "Absențele din apărarea Atalantei."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 5868134,
+   "home": "Getafe",
+   "away": "Atlético Madrid",
+   "kickoff": "2026-11-22T20:00:00Z",
+   "createdAt": 1795338262502,
+   "text": "## Pe scurt\nGetafe joacă dur acasă, Atlético e ușor favorit, meci probabil cu puține goluri.\n## Ce s-a schimbat (știri și absențe)\nGetafe fără Gudelj (suspendat), Uche și Juanmi; Atlético fără Romero, Lookman și Pubill.\n## Analiză\nGetafe e cunoscută pentru meciuri strânse și dure; ambele echipe au absențe importante.\n## Pontul principal\nSub 2.5 goluri (probabilitate 55%) – Piață Under bazată pe stilul lui Getafe și media mică din LaLiga.\n## Alte ponturi\n- Atlético nu pierde (76%)\n- Peste 4.5 cartonașe (60%)\n\nNotă: cotele live nu au putut fi verificate; probabilitățile pornesc din forma recentă, absențe și mediile ligii. Nu garantează câștiguri.",
+   "verdict": {
+    "summary": "Getafe joacă dur acasă, Atlético e ușor favorit, meci probabil cu puține goluri.",
+    "home": 0.24,
+    "draw": 0.3,
+    "away": 0.46,
+    "over25": 0.45,
+    "btts": 0.46,
+    "expectedCorners": 10.4,
+    "expectedCards": 6.2,
+    "mostLikelyScore": "0-1",
+    "confidence": "mică",
+    "keyAbsences": [
+     "Gudelj (Getafe) – suspendat",
+     "Lookman (Atlético) – accidentare",
+     "Romero (Atlético) – accidentare"
+    ],
+    "mainPick": {
+     "market": "Sub 2.5 goluri",
+     "code": "U2.5",
+     "probability": 0.55,
+     "confidence": "mică",
+     "reason": "Getafe joacă defensiv acasă, iar LaLiga are medie mică de goluri."
+    },
+    "picks": [
+     {
+      "market": "Atlético nu pierde",
+      "code": "X2",
+      "probability": 0.76,
+      "confidence": "medie",
+      "reason": "Echipă mai bună, dar Getafe e dificil de bătut."
+     },
+     {
+      "market": "Peste 4.5 cartonașe",
+      "code": "KO4.5",
+      "probability": 0.6,
+      "confidence": "mică",
+      "reason": "Getafe joacă dur, meciuri cu multe faulturi."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 5749750,
+   "home": "Milan",
+   "away": "Frosinone",
+   "kickoff": "2026-11-22T17:00:00Z",
+   "createdAt": 1795338262502,
+   "text": "## Pe scurt\nMilan, deși cu mulți absenți, rămâne favorit clar acasă împotriva unei nou-promovate.\n## Ce s-a schimbat (știri și absențe)\nMilan are 6 absenți (Tomori, Gabbia, Terracciano, Loftus-Cheek, Saelemaekers, Chukwueze); Frosinone fără Bracaglia (suspendat), Grillitsch și Raimondo.\n## Analiză\nApărarea lui Milan e slăbită, dar Frosinone are puțină calitate ofensivă. Meciul are 47% Over în Serie A.\n## Pontul principal\nMilan câștigă (probabilitate 62%) – Cota corectă ~1.60; Milan are diferență de calitate.\n## Alte ponturi\n- Milan nu pierde (80%)\n- Sub 3.5 goluri (72%)\n\nNotă: cotele live nu au putut fi verificate; probabilitățile pornesc din forma recentă, absențe și mediile ligii. Nu garantează câștiguri.",
+   "verdict": {
+    "summary": "Milan, deși cu mulți absenți, rămâne favorit clar acasă împotriva unei nou-promovate.",
+    "home": 0.62,
+    "draw": 0.23,
+    "away": 0.15,
+    "over25": 0.5,
+    "btts": 0.45,
+    "expectedCorners": 10.8,
+    "expectedCards": 3.8,
+    "mostLikelyScore": "2-0",
+    "confidence": "medie",
+    "keyAbsences": [
+     "Tomori (Milan) – accidentare",
+     "Gabbia (Milan) – accidentare",
+     "Terracciano (Milan) – accidentare",
+     "Grillitsch (Frosinone) – accidentare"
+    ],
+    "mainPick": {
+     "market": "Milan câștigă",
+     "code": "1",
+     "probability": 0.62,
+     "confidence": "medie",
+     "reason": "Diferență de clasă, chiar și cu absenți."
+    },
+    "picks": [
+     {
+      "market": "Milan nu pierde",
+      "code": "1X",
+      "probability": 0.8,
+      "confidence": "mare",
+      "reason": "Prea evident pentru pontul principal."
+     },
+     {
+      "market": "Sub 3.5 goluri",
+      "code": "U3.5",
+      "probability": 0.72,
+      "confidence": "medie",
+      "reason": "Frosinone marchează rar."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 5749754,
+   "home": "Juventus",
+   "away": "Venezia",
+   "kickoff": "2026-11-22T11:30:00Z",
+   "createdAt": 1795338262502,
+   "text": "## Pe scurt\nJuventus e favorită, dar cu un lot subțiat; meci probabil strâns.\n## Ce s-a schimbat (știri și absențe)\nJuventus are 6 absenți (Grabara, Kalulu, Locatelli, Yıldız, González, Thuram-Ulien); Venezia 4 (Correia, Franjić, Šverko, Adorante).\n## Analiză\nFără Yıldız și Locatelli, Juventus pierde creativitate. Venezia din serie slabă în deplasare.\n## Pontul principal\nJuventus câștigă (probabilitate 55%) – Avantaj mic dat de calitatea și terenul Juventusului.\n## Alte ponturi\n- Sub 2.5 goluri (57%)\n- Sub 3.5 goluri (82%)\n\nNotă: cotele live nu au putut fi verificate; probabilitățile pornesc din forma recentă, absențe și mediile ligii. Nu garantează câștiguri.",
+   "verdict": {
+    "summary": "Juventus e favorită, dar cu un lot subțiat; meci probabil strâns.",
+    "home": 0.55,
+    "draw": 0.25,
+    "away": 0.2,
+    "over25": 0.4,
+    "btts": 0.4,
+    "expectedCorners": 10.0,
+    "expectedCards": 4.0,
+    "mostLikelyScore": "1-0",
+    "confidence": "mică",
+    "keyAbsences": [
+     "Yıldız (Juventus) – accidentare",
+     "Locatelli (Juventus) – accidentare",
+     "Grabara (Juventus) – accidentare"
+    ],
+    "mainPick": {
+     "market": "Juventus câștigă",
+     "code": "1",
+     "probability": 0.55,
+     "confidence": "mică",
+     "reason": "Calitate superioară, dar absențe grele la mijloc și în atac."
+    },
+    "picks": [
+     {
+      "market": "Sub 2.5 goluri",
+      "code": "U2.5",
+      "probability": 0.58,
+      "confidence": "mică",
+      "reason": "Lipsa lui Yıldız reduce creativitatea."
+     },
+     {
+      "market": "Sub 3.5 goluri",
+      "code": "U3.5",
+      "probability": 0.82,
+      "confidence": "mare",
+      "reason": "Prea evident."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 5853556,
+   "home": "FC Argeș Pitești",
+   "away": "FCSB",
+   "kickoff": "2026-11-22T18:30:00Z",
+   "createdAt": 1795338262502,
+   "text": "## Pe scurt\nFCSB e favorită datorită calității, dar formă mixtă și un meci în deplasare dificil.\n## Ce s-a schimbat (știri și absențe)\nFără date de lot disponibile pe FotMob; Argeș are formă mixtă, FCSB are 3 înfrângeri în ultimele 5.\n## Analiză\nArgeș acasă e dificil de bătut; FCSB are formă mixtă recent.\n## Pontul principal\nSub 2.5 goluri (probabilitate 55%) – Piață sigură bazată pe media mică de goluri din SuperLiga.\n## Alte ponturi\n- FCSB nu pierde (72%)\n- Ambele marchează (46%)\n\nNotă: cotele live nu au putut fi verificate; probabilitățile pornesc din forma recentă, absențe și mediile ligii. Nu garantează câștiguri.",
+   "verdict": {
+    "summary": "FCSB e favorită datorită calității, dar formă mixtă și un meci în deplasare dificil.",
+    "home": 0.23,
+    "draw": 0.27,
+    "away": 0.5,
+    "over25": 0.43,
+    "btts": 0.46,
+    "expectedCorners": 9.4,
+    "expectedCards": 5.0,
+    "mostLikelyScore": "1-1",
+    "confidence": "mică",
+    "keyAbsences": [
+     "Absențele nu au putut fi confirmate din surse."
+    ],
+    "mainPick": {
+     "market": "Sub 2.5 goluri",
+     "code": "U2.5",
+     "probability": 0.55,
+     "confidence": "mică",
+     "reason": "SuperLiga are ~43% Over; meci cu miză, probabil strâns."
+    },
+    "picks": [
+     {
+      "market": "FCSB nu pierde",
+      "code": "X2",
+      "probability": 0.72,
+      "confidence": "medie",
+      "reason": "Istoric favorabil FCSB (8 victorii în față-în-față)."
+     },
+     {
+      "market": "Ambele marchează",
+      "code": "GG",
+      "probability": 0.46,
+      "confidence": "mică",
+      "reason": "Medie ~49% în ligă."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 5881232,
+   "home": "Werder Bremen",
+   "away": "Hamburger SV",
+   "kickoff": "2026-11-22T16:30:00Z",
+   "createdAt": 1795338262502,
+   "text": "## Pe scurt\nMeci deschis între două echipe cu mulți absenți în defensivă.\n## Ce s-a schimbat (știri și absențe)\nBremen are 7 absenți (Stage, Agu, Weiser, Alvero, Musah, N'Diaye, Topp); HSV are 5 (Torunarigha, Lokonga, Poulsen, Nadir, Remberg).\n## Analiză\nAmbele echipe au probleme de lot; tendința ligii este de goluri multe.\n## Pontul principal\nAmbele echipe marchează (probabilitate 62%) – Media ligii și absențele din apărare susțin GG.\n## Alte ponturi\n- Peste 2.5 goluri (66%)\n- Peste 1.5 goluri (86%)\n\nNotă: cotele live nu au putut fi verificate; probabilitățile pornesc din forma recentă, absențe și mediile ligii. Nu garantează câștiguri.",
+   "verdict": {
+    "summary": "Meci deschis între două echipe cu mulți absenți în defensivă.",
+    "home": 0.4,
+    "draw": 0.26,
+    "away": 0.34,
+    "over25": 0.66,
+    "btts": 0.62,
+    "expectedCorners": 9.8,
+    "expectedCards": 4.0,
+    "mostLikelyScore": "2-2",
+    "confidence": "medie",
+    "keyAbsences": [
+     "Stage (Bremen) – accidentare",
+     "Agu (Bremen) – accidentare",
+     "Torunarigha (HSV) – accidentare",
+     "Lokonga (HSV) – accidentare"
+    ],
+    "mainPick": {
+     "market": "Ambele echipe marchează",
+     "code": "GG",
+     "probability": 0.62,
+     "confidence": "medie",
+     "reason": "Bundesliga are 61.6% GG; ambele echipe cu absențe defensive."
+    },
+    "picks": [
+     {
+      "market": "Peste 2.5 goluri",
+      "code": "O2.5",
+      "probability": 0.66,
+      "confidence": "medie",
+      "reason": "Media Bundesliga e 3.33 goluri/meci."
+     },
+     {
+      "market": "Peste 1.5 goluri",
+      "code": "O1.5",
+      "probability": 0.86,
+      "confidence": "mare",
+      "reason": "Prea evident."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 5795517,
+   "home": "Brentford",
+   "away": "Everton",
+   "kickoff": "2026-11-23T20:00:00Z",
+   "createdAt": 1795338262502,
+   "text": "## Pe scurt\nMeci echilibrat; absențele lui Brentford sunt un avantaj pentru Everton.\n## Ce s-a schimbat (știri și absențe)\nBrentford fără Igor Thiago (suspendat), Collins, Henry, Carvalho, Milambo, Dasilva; Everton fără absențe raportate.\n## Analiză\nBrentford fără Thiago și 5 absenți își pierde forța ofensivă; Everton are lotul complet și formă bună recent.\n## Pontul principal\nEverton nu pierde (probabilitate 60%) – Cota corectă ~1.65; absențe grele la gazde.\n## Alte ponturi\n- Sub 2.5 goluri (55%)\n- Ambele marchează (52%)\n\nNotă: cotele live nu au putut fi verificate; probabilitățile pornesc din forma recentă, absențe și mediile ligii. Nu garantează câștiguri.",
+   "verdict": {
+    "summary": "Meci echilibrat; absențele lui Brentford sunt un avantaj pentru Everton.",
+    "home": 0.4,
+    "draw": 0.28,
+    "away": 0.32,
+    "over25": 0.45,
+    "btts": 0.52,
+    "expectedCorners": 10.4,
+    "expectedCards": 4.2,
+    "mostLikelyScore": "1-1",
+    "confidence": "mică",
+    "keyAbsences": [
+     "Igor Thiago (Brentford) – suspendat",
+     "Collins (Brentford) – accidentare",
+     "Henry (Brentford) – accidentare"
+    ],
+    "mainPick": {
+     "market": "Everton nu pierde",
+     "code": "X2",
+     "probability": 0.6,
+     "confidence": "mică",
+     "reason": "Brentford fără atacantul principal și 6 absenți; Everton în formă."
+    },
+    "picks": [
+     {
+      "market": "Sub 2.5 goluri",
+      "code": "U2.5",
+      "probability": 0.55,
+      "confidence": "mică",
+      "reason": "Premier League are doar ~42% Over."
+     },
+     {
+      "market": "Ambele marchează",
+      "code": "GG",
+      "probability": 0.52,
+      "confidence": "mică",
+      "reason": "Ambele echipe marchează constant."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 5802994,
+   "home": "Marseille",
+   "away": "Le Mans",
+   "kickoff": "2026-11-22T19:45:00Z",
+   "createdAt": 1795338262502,
+   "text": "## Pe scurt\nMarseille e mare favorită; Le Mans are formă proastă și 4 absenți defensivi.\n## Ce s-a schimbat (știri și absențe)\nMarseille fără Emerson și Cornelius; Le Mans fără Sidibé, Eyoum, Bourabaa și Rossignol; Marseille vine cu 4 victorii în ultimele 5.\n## Analiză\nLigue 1 are 52% Over; Marseille poate marca mult acasă contra unei apărări decimate.\n## Pontul principal\nPeste 2.5 goluri (probabilitate 60%) – Marseille în formă bună; apărarea oaspeților e slabă.\n## Alte ponturi\n- Marseille câștigă (74%)\n- Sub 3.5 goluri (70%)\n\nNotă: cotele live nu au putut fi verificate; probabilitățile pornesc din forma recentă, absențe și mediile ligii. Nu garantează câștiguri.",
+   "verdict": {
+    "summary": "Marseille e mare favorită; Le Mans are formă proastă și 4 absenți defensivi.",
+    "home": 0.74,
+    "draw": 0.16,
+    "away": 0.1,
+    "over25": 0.6,
+    "btts": 0.42,
+    "expectedCorners": 10.6,
+    "expectedCards": 3.4,
+    "mostLikelyScore": "3-0",
+    "confidence": "medie",
+    "keyAbsences": [
+     "Sidibé (Le Mans) – accidentare",
+     "Eyoum (Le Mans) – accidentare",
+     "Rossignol (Le Mans) – accidentare"
+    ],
+    "mainPick": {
+     "market": "Peste 2.5 goluri",
+     "code": "O2.5",
+     "probability": 0.6,
+     "confidence": "medie",
+     "reason": "Marseille în formă acasă, Le Mans cu apărare decimată."
+    },
+    "picks": [
+     {
+      "market": "Marseille câștigă",
+      "code": "1",
+      "probability": 0.74,
+      "confidence": "mare",
+      "reason": "Prea evident ca principal."
+     },
+     {
+      "market": "Sub 3.5 goluri",
+      "code": "U3.5",
+      "probability": 0.7,
+      "confidence": "medie",
+      "reason": "Le Mans nu marchează mult."
      }
     ]
    }
