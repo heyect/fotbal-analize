@@ -1618,5 +1618,175 @@
   "probability": 0.7,
   "score": "1-0",
   "correct": true
+ },
+ {
+  "fotmobId": 5853557,
+  "match": "Botoșani – FC Voluntari",
+  "kickoff": "2026-11-20T15:30:00Z",
+  "pick": "Sub 3.5 goluri",
+  "code": "U3.5",
+  "probability": 0.71,
+  "score": "3-3",
+  "correct": false
+ },
+ {
+  "fotmobId": 5802999,
+  "match": "Troyes – Le Havre",
+  "kickoff": "2026-11-20T19:45:00Z",
+  "pick": "Troyes nu pierde",
+  "code": "1X",
+  "probability": 0.71,
+  "score": "3-1",
+  "correct": true
+ },
+ {
+  "fotmobId": 5881728,
+  "match": "Darmstadt – FC Heidenheim",
+  "kickoff": "2026-11-20T17:30:00Z",
+  "pick": "Peste 2.5 goluri",
+  "code": "O2.5",
+  "probability": 0.62,
+  "score": "3-1",
+  "correct": true
+ },
+ {
+  "fotmobId": 5881726,
+  "match": "Arminia Bielefeld – Magdeburg",
+  "kickoff": "2026-11-20T17:30:00Z",
+  "pick": "Bielefeld nu pierde",
+  "code": "1X",
+  "probability": 0.71,
+  "score": "1-2",
+  "correct": false
+ },
+ {
+  "fotmobId": 5811811,
+  "match": "Cercle Brugge – Westerlo",
+  "kickoff": "2026-11-20T19:45:00Z",
+  "pick": "Ambele echipe marchează",
+  "code": "GG",
+  "probability": 0.62,
+  "score": "1-0",
+  "correct": false
+ },
+ {
+  "fotmobId": 5804043,
+  "match": "Pogoń Szczecin – Śląsk Wrocław",
+  "kickoff": "2026-11-20T19:30:00Z",
+  "pick": "Pogoń nu pierde",
+  "code": "1X",
+  "probability": 0.71,
+  "score": "1-2",
+  "correct": false
+ },
+ {
+  "fotmobId": 5739551,
+  "match": "AGF – Lyngby",
+  "kickoff": "2026-11-20T18:00:00Z",
+  "pick": "Peste 2.5 goluri",
+  "code": "O2.5",
+  "probability": 0.66,
+  "score": "2-1",
+  "correct": true
+ },
+ {
+  "fotmobId": 5881226,
+  "match": "Bayern München – 1. FC Köln",
+  "kickoff": "2026-11-20T19:30:00Z",
+  "pick": "Peste 2.5 goluri",
+  "code": "O2.5",
+  "probability": 0.7,
+  "score": "1-1",
+  "correct": false
+ },
+ {
+  "fotmobId": 5868132,
+  "match": "Athletic Club – Espanyol",
+  "kickoff": "2026-11-20T20:00:00Z",
+  "pick": "Sub 3.5 goluri",
+  "code": "U3.5",
+  "probability": 0.71,
+  "score": "0-1",
+  "correct": true
+ },
+ {
+  "fotmobId": 5853555,
+  "match": "FCV Farul Constanța – Universitatea Cluj",
+  "kickoff": "2026-11-20T18:30:00Z",
+  "pick": "Universitatea Cluj nu pierde",
+  "code": "X2",
+  "probability": 0.66,
+  "score": "2-3",
+  "correct": true
+ },
+ {
+  "fotmobId": 5795522,
+  "match": "Manchester City – Fulham",
+  "kickoff": "2026-11-21T12:30:00Z",
+  "pick": "Peste 2.5 goluri",
+  "code": "O2.5",
+  "probability": 0.58,
+  "score": "1-1",
+  "correct": false
+ },
+ {
+  "fotmobId": 5795523,
+  "match": "Newcastle United – Arsenal",
+  "kickoff": "2026-11-21T17:30:00Z",
+  "pick": "Arsenal nu pierde",
+  "code": "X2",
+  "probability": 0.7,
+  "score": "2-2",
+  "correct": true
+ },
+ {
+  "fotmobId": 5868139,
+  "match": "Real Madrid – Celta Vigo",
+  "kickoff": "2026-11-21T20:00:00Z",
+  "pick": "Peste 2.5 goluri",
+  "code": "O2.5",
+  "probability": 0.6,
+  "score": "2-1",
+  "correct": true
+ },
+ {
+  "fotmobId": 5749757,
+  "match": "Napoli – Torino",
+  "kickoff": "2026-11-21T19:45:00Z",
+  "pick": "Sub 3.5 goluri",
+  "code": "U3.5",
+  "probability": 0.71,
+  "score": "1-0",
+  "correct": true
+ },
+ {
+  "fotmobId": 5881227,
+  "match": "Borussia Mönchengladbach – Borussia Dortmund",
+  "kickoff": "2026-11-21T14:30:00Z",
+  "pick": "Peste 2.5 goluri",
+  "code": "O2.5",
+  "probability": 0.64,
+  "score": "0-1",
+  "correct": false
+ },
+ {
+  "fotmobId": 5802996,
+  "match": "Nice – Paris Saint-Germain",
+  "kickoff": "2026-11-21T16:15:00Z",
+  "pick": "Peste 2.5 goluri",
+  "code": "O2.5",
+  "probability": 0.6,
+  "score": "2-3",
+  "correct": true
+ },
+ {
+  "fotmobId": 5853554,
+  "match": "Dinamo București – Petrolul Ploiești",
+  "kickoff": "2026-11-21T18:30:00Z",
+  "pick": "Sub 2.5 goluri",
+  "code": "U2.5",
+  "probability": 0.57,
+  "score": "0-1",
+  "correct": true
  }
 ]
