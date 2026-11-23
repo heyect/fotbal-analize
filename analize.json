@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T11:10:00+02:00",
+ "updatedAt": "2026-11-23T10:00:00+01:00",
  "analyses": [
   {
    "fotmobId": 5853557,
@@ -1204,54 +1204,6 @@
    }
   },
   {
-   "fotmobId": 5795517,
-   "home": "Brentford",
-   "away": "Everton",
-   "kickoff": "2026-11-23T20:00:00Z",
-   "createdAt": 1795338262502,
-   "text": "## Pe scurt\nMeci echilibrat; absențele lui Brentford sunt un avantaj pentru Everton.\n## Ce s-a schimbat (știri și absențe)\nBrentford fără Igor Thiago (suspendat), Collins, Henry, Carvalho, Milambo, Dasilva; Everton fără absențe raportate.\n## Analiză\nBrentford fără Thiago și 5 absenți își pierde forța ofensivă; Everton are lotul complet și formă bună recent.\n## Pontul principal\nEverton nu pierde (probabilitate 60%) – Cota corectă ~1.65; absențe grele la gazde.\n## Alte ponturi\n- Sub 2.5 goluri (55%)\n- Ambele marchează (52%)\n\nNotă: cotele live nu au putut fi verificate; probabilitățile pornesc din forma recentă, absențe și mediile ligii. Nu garantează câștiguri.",
-   "verdict": {
-    "summary": "Meci echilibrat; absențele lui Brentford sunt un avantaj pentru Everton.",
-    "home": 0.4,
-    "draw": 0.28,
-    "away": 0.32,
-    "over25": 0.45,
-    "btts": 0.52,
-    "expectedCorners": 10.4,
-    "expectedCards": 4.2,
-    "mostLikelyScore": "1-1",
-    "confidence": "mică",
-    "keyAbsences": [
-     "Igor Thiago (Brentford) – suspendat",
-     "Collins (Brentford) – accidentare",
-     "Henry (Brentford) – accidentare"
-    ],
-    "mainPick": {
-     "market": "Everton nu pierde",
-     "code": "X2",
-     "probability": 0.6,
-     "confidence": "mică",
-     "reason": "Brentford fără atacantul principal și 6 absenți; Everton în formă."
-    },
-    "picks": [
-     {
-      "market": "Sub 2.5 goluri",
-      "code": "U2.5",
-      "probability": 0.55,
-      "confidence": "mică",
-      "reason": "Premier League are doar ~42% Over."
-     },
-     {
-      "market": "Ambele marchează",
-      "code": "GG",
-      "probability": 0.52,
-      "confidence": "mică",
-      "reason": "Ambele echipe marchează constant."
-     }
-    ]
-   }
-  },
-  {
    "fotmobId": 5802994,
    "home": "Marseille",
    "away": "Le Mans",
@@ -1295,6 +1247,414 @@
       "probability": 0.7,
       "confidence": "medie",
       "reason": "Le Mans nu marchează mult."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 6106259,
+   "home": "Arsenal",
+   "away": "Borussia Dortmund",
+   "kickoff": "2026-11-24T20:00:00Z",
+   "createdAt": 1795424630623,
+   "text": "## Pe scurt\nArsenal e favorită acasă, dar fără Saka și Zubimendi; Dortmund vine în formă (W D W W W).\n## Ce s-a schimbat (știri și absențe)\nArsenal: Saka și Zubimendi accidentați. Dortmund: Can, Chukwuemeka, Konstantelias și alții absenți.\n## Analiză\nGazdele au forma mai bună în campionat și avantaj la duelurile directe; absențele din mijloc reduc însă controlul. Dortmund pe 3-4-2-1 poate prinde contraatacuri.\n## Pontul principal\nArsenal câștigă (57%): Calitate și teren propriu, dar fără Saka și Zubimendi cota nu are valoare mare.\n## Alte ponturi\n- Ambele echipe marchează (52%): Dortmund în formă bună, apărare Arsenal fără mijlocașul de bază.\n\nProbabilitățile sunt estimări, nu garanții; cotele nu au fost verificate pe site-uri de pariuri în această rulare.",
+   "verdict": {
+    "summary": "Arsenal ușor favorită acasă, meci cu 2-3 goluri.",
+    "home": 0.58,
+    "draw": 0.23,
+    "away": 0.19,
+    "over25": 0.55,
+    "btts": 0.52,
+    "expectedCorners": 9.8,
+    "expectedCards": 3.7,
+    "mostLikelyScore": "2-1",
+    "confidence": "medie",
+    "keyAbsences": [
+     "Bukayo Saka (Arsenal) – accidentare",
+     "Martín Zubimendi (Arsenal) – accidentare",
+     "Emre Can (Dortmund) – accidentare"
+    ],
+    "mainPick": {
+     "market": "Arsenal câștigă",
+     "code": "1",
+     "probability": 0.58,
+     "confidence": "mică",
+     "reason": "Calitate și teren propriu, dar fără Saka și Zubimendi cota nu are valoare mare."
+    },
+    "picks": [
+     {
+      "market": "Ambele echipe marchează",
+      "code": "GG",
+      "probability": 0.52,
+      "confidence": "mică",
+      "reason": "Dortmund în formă bună, apărare Arsenal fără mijlocașul de bază."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 6106256,
+   "home": "Manchester City",
+   "away": "Napoli",
+   "kickoff": "2026-11-24T20:00:00Z",
+   "createdAt": 1795424630623,
+   "text": "## Pe scurt\nCity acasă contra unui Napoli cu 6 absenți, între care portarul Meret și Lobotka.\n## Ce s-a schimbat (știri și absențe)\nNapoli: Meret, Di Lorenzo, Lobotka, Buongiorno, Badiashile, Santos. City: doar Semenyo.\n## Analiză\nNapoli arată decimat în defensivă, iar City, deși inegală (D L W L D), rămâne mult peste. Miza ridicată și lotul subțire al oaspeților înclină spre victoria gazdelor.\n## Pontul principal\nManchester City câștigă (68%): Napoli fără portar titular și fundași centrali; City acasă.\n## Alte ponturi\n- Peste 2.5 goluri (62%): Apărarea Napoli subțiată, dar City nu a fost prolifică constant.\n\nProbabilitățile sunt estimări, nu garanții; cotele nu au fost verificate pe site-uri de pariuri în această rulare.",
+   "verdict": {
+    "summary": "City favorită clară contra unui Napoli decimat.",
+    "home": 0.68,
+    "draw": 0.18,
+    "away": 0.14,
+    "over25": 0.64,
+    "btts": 0.48,
+    "expectedCorners": 9.5,
+    "expectedCards": 3.4,
+    "mostLikelyScore": "2-0",
+    "confidence": "medie",
+    "keyAbsences": [
+     "Alex Meret (Napoli) – accidentare",
+     "Stanislav Lobotka (Napoli) – accidentare",
+     "Giovanni Di Lorenzo (Napoli) – accidentare",
+     "Antoine Semenyo (City) – accidentare"
+    ],
+    "mainPick": {
+     "market": "Manchester City câștigă",
+     "code": "1",
+     "probability": 0.68,
+     "confidence": "medie",
+     "reason": "Napoli fără portar titular și fundași centrali; City acasă."
+    },
+    "picks": [
+     {
+      "market": "Peste 2.5 goluri",
+      "code": "O2.5",
+      "probability": 0.62,
+      "confidence": "mică",
+      "reason": "Apărarea Napoli subțiată, dar City nu a fost prolifică constant."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 6106243,
+   "home": "Real Madrid",
+   "away": "PSV Eindhoven",
+   "kickoff": "2026-11-24T20:00:00Z",
+   "createdAt": 1795424630623,
+   "text": "## Pe scurt\nReal Madrid vine cu 5 victorii la rând; PSV are formă mixtă.\n## Ce s-a schimbat (știri și absențe)\nReal: Asencio, Mendy, Rodrygo absenți. PSV: Pléa, Schouten, Ouaissa, Nagalo.\n## Analiză\nMadrid acasă în Liga Campionilor, cu absențe limitate. PSV fără mijlocașul Schouten, deci mai puțin control; meci care se poate deschide.\n## Pontul principal\nPeste 2.5 goluri (66%): Real în formă ofensivă, PSV nu apără bine în deplasare când e presat.\n## Alte ponturi\n- Real Madrid câștigă (70%): Forma 5V și avantajul terenului propriu.\n\nProbabilitățile sunt estimări, nu garanții; cotele nu au fost verificate pe site-uri de pariuri în această rulare.",
+   "verdict": {
+    "summary": "Madrid favorită; probabil 3+ goluri.",
+    "home": 0.7,
+    "draw": 0.17,
+    "away": 0.13,
+    "over25": 0.66,
+    "btts": 0.55,
+    "expectedCorners": 9.2,
+    "expectedCards": 3.2,
+    "mostLikelyScore": "3-1",
+    "confidence": "medie",
+    "keyAbsences": [
+     "Rodrygo (Real) – accidentare",
+     "Ferland Mendy (Real) – accidentare",
+     "Jerdy Schouten (PSV) – accidentare"
+    ],
+    "mainPick": {
+     "market": "Peste 2.5 goluri",
+     "code": "O2.5",
+     "probability": 0.66,
+     "confidence": "medie",
+     "reason": "Real în formă ofensivă, PSV nu apără bine în deplasare când e presat."
+    },
+    "picks": [
+     {
+      "market": "Real Madrid câștigă",
+      "code": "1",
+      "probability": 0.7,
+      "confidence": "medie",
+      "reason": "Forma 5V și avantajul terenului propriu."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 6106339,
+   "home": "Galatasaray",
+   "away": "Aston Villa",
+   "kickoff": "2026-11-24T17:45:00Z",
+   "createdAt": 1795424630623,
+   "text": "## Pe scurt\nGalatasaray vine cu 5 victorii, Villa cu seria L D L D D; meci echilibrat acasă la turci.\n## Ce s-a schimbat (știri și absențe)\nVilla fără Cash, Ruggeri și Onana. Galatasaray fără Leão.\n## Analiză\nAtmosfera din Istanbul și forma bună îi favorizează pe gazde. Villa încasează des și are lot defensiv subțiat; ambele pot marca.\n## Pontul principal\nAmbele echipe marchează (62%): Villa a marcat des în meciurile recente (4-4 cu United), iar Galatasaray în formă ofensivă.\n## Alte ponturi\n- Galatasaray nu pierde (70%): Teren propriu, formă excelentă, dar cota mică.\n\nProbabilitățile sunt estimări, nu garanții; cotele nu au fost verificate pe site-uri de pariuri în această rulare.",
+   "verdict": {
+    "summary": "Meci echilibrat, ușor avantaj Galatasaray, probabil goluri de ambele părți.",
+    "home": 0.45,
+    "draw": 0.26,
+    "away": 0.29,
+    "over25": 0.58,
+    "btts": 0.62,
+    "expectedCorners": 9.6,
+    "expectedCards": 4.1,
+    "mostLikelyScore": "2-1",
+    "confidence": "mică",
+    "keyAbsences": [
+     "Matty Cash (Villa) – accidentare",
+     "Amadou Onana (Villa) – accidentare",
+     "Rafael Leão (Galatasaray) – accidentare"
+    ],
+    "mainPick": {
+     "market": "Ambele echipe marchează",
+     "code": "GG",
+     "probability": 0.62,
+     "confidence": "mică",
+     "reason": "Villa a marcat des în meciurile recente (4-4 cu United), iar Galatasaray în formă ofensivă."
+    },
+    "picks": [
+     {
+      "market": "Galatasaray nu pierde",
+      "code": "1X",
+      "probability": 0.7,
+      "confidence": "mică",
+      "reason": "Teren propriu, formă excelentă, dar cota mică."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 6106325,
+   "home": "RB Leipzig",
+   "away": "Lens",
+   "kickoff": "2026-11-24T20:00:00Z",
+   "createdAt": 1795424630623,
+   "text": "## Pe scurt\nLeipzig acasă, cu 3 absenți la Lens (Édouard, Nawrocki, Bulatović).\n## Ce s-a schimbat (știri și absențe)\nLens fără atacantul Édouard și fundașul Nawrocki. Leipzig: Guiu, Ouédraogo.\n## Analiză\nLens are formă slabă (W L L L D), Leipzig mai constantă acasă. Gazdele ar trebui să controleze, dar Lens e organizată.\n## Pontul principal\nRB Leipzig câștigă (56%): Absențele din atacul și defensiva Lens + teren propriu.\n## Alte ponturi\n- Peste 2.5 goluri (55%): Leipzig marchează acasă, Lens încasează.\n\nProbabilitățile sunt estimări, nu garanții; cotele nu au fost verificate pe site-uri de pariuri în această rulare.",
+   "verdict": {
+    "summary": "Leipzig favorită moderat.",
+    "home": 0.56,
+    "draw": 0.24,
+    "away": 0.2,
+    "over25": 0.55,
+    "btts": 0.54,
+    "expectedCorners": 10.0,
+    "expectedCards": 3.8,
+    "mostLikelyScore": "2-1",
+    "confidence": "mică",
+    "keyAbsences": [
+     "Odsonne Édouard (Lens) – accidentare",
+     "Maik Nawrocki (Lens) – accidentare"
+    ],
+    "mainPick": {
+     "market": "RB Leipzig câștigă",
+     "code": "1",
+     "probability": 0.56,
+     "confidence": "mică",
+     "reason": "Absențele din atacul și defensiva Lens + teren propriu."
+    },
+    "picks": [
+     {
+      "market": "Peste 2.5 goluri",
+      "code": "O2.5",
+      "probability": 0.55,
+      "confidence": "mică",
+      "reason": "Leipzig marchează acasă, Lens încasează."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 6106307,
+   "home": "Feyenoord",
+   "away": "FC Porto",
+   "kickoff": "2026-11-24T20:00:00Z",
+   "createdAt": 1795424630623,
+   "text": "## Pe scurt\nFeyenoord în criză (D D L L L) și cu 6 absenți; Porto în formă (W W W W D).\n## Ce s-a schimbat (știri și absențe)\nFeyenoord: Moder, St. Juste, Smal, Bos, Nieuwkoop, Beelen. Porto: Smalling, W. Gomes, V. Sousa.\n## Analiză\nApărarea olandeză este practic desfigurată (4 fundași absenți). Porto e mai bună în formă, dar în deplasare, iar Feyenoord are tradiție acasă în Europa.\n## Pontul principal\nAmbele echipe marchează (57%): Feyenoord marchează acasă, dar încasează cu apărarea decimată; Porto în formă ofensivă.\n## Alte ponturi\n- Porto nu pierde (68%): Formă mult mai bună, dar cota mică.\n\nProbabilitățile sunt estimări, nu garanții; cotele nu au fost verificate pe site-uri de pariuri în această rulare.",
+   "verdict": {
+    "summary": "Porto ușor favorită, ambele pot marca.",
+    "home": 0.32,
+    "draw": 0.27,
+    "away": 0.41,
+    "over25": 0.56,
+    "btts": 0.58,
+    "expectedCorners": 9.8,
+    "expectedCards": 3.5,
+    "mostLikelyScore": "1-2",
+    "confidence": "mică",
+    "keyAbsences": [
+     "Jeremiah St. Juste (Feyenoord) – accidentare",
+     "Gijs Smal (Feyenoord) – accidentare",
+     "Jordan Bos (Feyenoord) – accidentare",
+     "Chris Smalling (Porto) – accidentare"
+    ],
+    "mainPick": {
+     "market": "Ambele echipe marchează",
+     "code": "GG",
+     "probability": 0.58,
+     "confidence": "mică",
+     "reason": "Feyenoord marchează acasă, dar încasează cu apărarea decimată; Porto în formă ofensivă."
+    },
+    "picks": [
+     {
+      "market": "Porto nu pierde",
+      "code": "X2",
+      "probability": 0.68,
+      "confidence": "mică",
+      "reason": "Formă mult mai bună, dar cota mică."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 5795517,
+   "home": "Brentford",
+   "away": "Everton",
+   "kickoff": "2026-11-23T20:00:00Z",
+   "createdAt": 1795424630623,
+   "text": "## Pe scurt\nBrentford cu 7 absenți, inclusiv atacantul Igor Thiago; Everton în formă (L L W W W).\n## Ce s-a schimbat (știri și absențe)\nBrentford: Igor Thiago, Collins, Henry, Hickey, Milambo, Carvalho, Dasilva. Everton fără absenți raportați.\n## Analiză\nGazdele sunt foarte slăbite pe ambele linii. Everton a luat puncte în meciurile recente și joacă în continuare organizat. Probabil meci cu puține goluri.\n## Pontul principal\nEverton nu pierde (64%): Brentford fără atacantul principal și 2 fundași titulari; Everton în serie bună.\n## Alte ponturi\n- Sub 3.5 goluri (71%): Meci probabil strâns, dar cota mică.\n\nProbabilitățile sunt estimări, nu garanții; cotele nu au fost verificate pe site-uri de pariuri în această rulare.",
+   "verdict": {
+    "summary": "Everton nu pierde e pontul cu cea mai bună valoare.",
+    "home": 0.36,
+    "draw": 0.28,
+    "away": 0.36,
+    "over25": 0.45,
+    "btts": 0.48,
+    "expectedCorners": 9.4,
+    "expectedCards": 3.3,
+    "mostLikelyScore": "1-1",
+    "confidence": "mică",
+    "keyAbsences": [
+     "Igor Thiago (Brentford) – accidentare",
+     "Nathan Collins (Brentford) – accidentare",
+     "Rico Henry (Brentford) – accidentare"
+    ],
+    "mainPick": {
+     "market": "Everton nu pierde",
+     "code": "X2",
+     "probability": 0.64,
+     "confidence": "mică",
+     "reason": "Brentford fără atacantul principal și 2 fundași titulari; Everton în serie bună."
+    },
+    "picks": [
+     {
+      "market": "Sub 3.5 goluri",
+      "code": "U3.5",
+      "probability": 0.71,
+      "confidence": "mică",
+      "reason": "Meci probabil strâns, dar cota mică."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 5853558,
+   "home": "Sepsi OSK",
+   "away": "Rapid București",
+   "kickoff": "2026-11-23T18:00:00Z",
+   "createdAt": 1795424630623,
+   "text": "## Pe scurt\nMeci echilibrat, ambele cu forme mediocre.\n## Ce s-a schimbat (știri și absențe)\nRapid fără Baroan. Sepsi fără absenți raportați.\n## Analiză\nSepsi acasă cu D L D D W, Rapid W L D W D. Liga are doar ~43% Peste 2.5; meciurile directe au fost echilibrate.\n## Pontul principal\nSub 2.5 goluri (57%): SuperLiga produce puține goluri; ambele echipe cu rezultate strânse recente.\n## Alte ponturi\n- Rapid nu pierde (66%): Forma ușor mai bună în deplasare.\n\nProbabilitățile sunt estimări, nu garanții; cotele nu au fost verificate pe site-uri de pariuri în această rulare.",
+   "verdict": {
+    "summary": "Meci strâns, sub 2.5 goluri probabil.",
+    "home": 0.31,
+    "draw": 0.31,
+    "away": 0.38,
+    "over25": 0.4,
+    "btts": 0.45,
+    "expectedCorners": 9.0,
+    "expectedCards": 4.6,
+    "mostLikelyScore": "1-1",
+    "confidence": "mică",
+    "keyAbsences": [
+     "Antoine Baroan (Rapid) – accidentare"
+    ],
+    "mainPick": {
+     "market": "Sub 2.5 goluri",
+     "code": "U2.5",
+     "probability": 0.58,
+     "confidence": "mică",
+     "reason": "SuperLiga produce puține goluri; ambele echipe cu rezultate strânse recente."
+    },
+    "picks": [
+     {
+      "market": "Rapid nu pierde",
+      "code": "X2",
+      "probability": 0.66,
+      "confidence": "mică",
+      "reason": "Forma ușor mai bună în deplasare."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 5749756,
+   "home": "Monza",
+   "away": "Fiorentina",
+   "kickoff": "2026-11-23T19:45:00Z",
+   "createdAt": 1795424630623,
+   "text": "## Pe scurt\nMonza acasă cu lot afectat; Fiorentina cu absențe defensive și formă mediocră.\n## Ce s-a schimbat (știri și absențe)\nMonza: Maye, Folorunsho (și antrenorul Jurić e raportat absent). Fiorentina: Pongračić, Parisi, Croci.\n## Analiză\nAmbele echipe sunt în formă slabă (Monza W L L L L, Fiorentina L L D W D). Fiorentina este totuși superioară ca lot.\n## Pontul principal\nFiorentina nu pierde (62%): Calitatea mai mare a lotului, deși cu absențe defensive.\n## Alte ponturi\n- Ambele echipe marchează (52%): Ambele cu absențe defensive.\n\nProbabilitățile sunt estimări, nu garanții; cotele nu au fost verificate pe site-uri de pariuri în această rulare.",
+   "verdict": {
+    "summary": "Fiorentina nu pierde, dar meci strâns.",
+    "home": 0.36,
+    "draw": 0.3,
+    "away": 0.34,
+    "over25": 0.5,
+    "btts": 0.54,
+    "expectedCorners": 9.6,
+    "expectedCards": 4.2,
+    "mostLikelyScore": "1-1",
+    "confidence": "mică",
+    "keyAbsences": [
+     "Marin Pongračić (Fiorentina) – accidentare",
+     "Michael Folorunsho (Monza) – accidentare"
+    ],
+    "mainPick": {
+     "market": "Fiorentina nu pierde",
+     "code": "X2",
+     "probability": 0.62,
+     "confidence": "mică",
+     "reason": "Calitatea mai mare a lotului, deși cu absențe defensive."
+    },
+    "picks": [
+     {
+      "market": "Ambele echipe marchează",
+      "code": "GG",
+      "probability": 0.52,
+      "confidence": "mică",
+      "reason": "Ambele cu absențe defensive."
+     }
+    ]
+   }
+  },
+  {
+   "fotmobId": 5739549,
+   "home": "Brøndby IF",
+   "away": "FC Midtjylland",
+   "kickoff": "2026-11-23T18:00:00Z",
+   "createdAt": 1795424630623,
+   "text": "## Pe scurt\nDerby danez cu multe goluri așteptate; Midtjylland cu 5 absenți.\n## Ce s-a schimbat (știri și absențe)\nMidtjylland: Bakker, D. Martínez, M. Jensen, Erlić, Gogorza. Brøndby: Binks, Köhlert.\n## Analiză\nSuperliga daneză are media de ~3.5 goluri/meci. Brøndby a avut forma variabilă (L W W W L), Midtjylland W W W L D.\n## Pontul principal\nPeste 2.5 goluri (66%): Liga cu mulți goluri, ambele echipe ofensive și Midtjylland fără 3 fundași.\n## Alte ponturi\n- Ambele echipe marchează (62%): Ambele marchează constant.\n\nProbabilitățile sunt estimări, nu garanții; cotele nu au fost verificate pe site-uri de pariuri în această rulare.",
+   "verdict": {
+    "summary": "Meci deschis cu goluri de ambele părți.",
+    "home": 0.38,
+    "draw": 0.26,
+    "away": 0.36,
+    "over25": 0.65,
+    "btts": 0.62,
+    "expectedCorners": 10.4,
+    "expectedCards": 3.6,
+    "mostLikelyScore": "2-2",
+    "confidence": "medie",
+    "keyAbsences": [
+     "Nordin Bakker (Midtjylland) – accidentare",
+     "Martin Erlić (Midtjylland) – accidentare",
+     "Luis Binks (Brøndby) – accidentare"
+    ],
+    "mainPick": {
+     "market": "Peste 2.5 goluri",
+     "code": "O2.5",
+     "probability": 0.66,
+     "confidence": "medie",
+     "reason": "Liga cu mulți goluri, ambele echipe ofensive și Midtjylland fără 3 fundași."
+    },
+    "picks": [
+     {
+      "market": "Ambele echipe marchează",
+      "code": "GG",
+      "probability": 0.62,
+      "confidence": "medie",
+      "reason": "Ambele marchează constant."
      }
     ]
    }

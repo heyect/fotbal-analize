@@ -1788,5 +1788,95 @@
   "probability": 0.57,
   "score": "0-1",
   "correct": true
+ },
+ {
+  "fotmobId": 5795521,
+  "match": "Liverpool – Manchester United",
+  "kickoff": "2026-11-22T16:30:00Z",
+  "pick": "Liverpool câștigă",
+  "code": "1",
+  "probability": 0.58,
+  "score": "4-0",
+  "correct": true
+ },
+ {
+  "fotmobId": 5868133,
+  "match": "Barcelona – Villarreal",
+  "kickoff": "2026-11-22T13:00:00Z",
+  "pick": "Peste 2.5 goluri",
+  "code": "O2.5",
+  "probability": 0.62,
+  "score": "3-2",
+  "correct": true
+ },
+ {
+  "fotmobId": 5749751,
+  "match": "Atalanta – Inter",
+  "kickoff": "2026-11-22T19:45:00Z",
+  "pick": "Ambele echipe marchează",
+  "code": "GG",
+  "probability": 0.55,
+  "score": "4-4",
+  "correct": true
+ },
+ {
+  "fotmobId": 5868134,
+  "match": "Getafe – Atlético Madrid",
+  "kickoff": "2026-11-22T20:00:00Z",
+  "pick": "Sub 2.5 goluri",
+  "code": "U2.5",
+  "probability": 0.55,
+  "score": "0-3",
+  "correct": false
+ },
+ {
+  "fotmobId": 5749750,
+  "match": "Milan – Frosinone",
+  "kickoff": "2026-11-22T17:00:00Z",
+  "pick": "Milan câștigă",
+  "code": "1",
+  "probability": 0.62,
+  "score": "5-1",
+  "correct": true
+ },
+ {
+  "fotmobId": 5749754,
+  "match": "Juventus – Venezia",
+  "kickoff": "2026-11-22T11:30:00Z",
+  "pick": "Juventus câștigă",
+  "code": "1",
+  "probability": 0.55,
+  "score": "4-0",
+  "correct": true
+ },
+ {
+  "fotmobId": 5853556,
+  "match": "FC Argeș Pitești – FCSB",
+  "kickoff": "2026-11-22T18:30:00Z",
+  "pick": "Sub 2.5 goluri",
+  "code": "U2.5",
+  "probability": 0.55,
+  "score": "0-0",
+  "correct": true
+ },
+ {
+  "fotmobId": 5881232,
+  "match": "Werder Bremen – Hamburger SV",
+  "kickoff": "2026-11-22T16:30:00Z",
+  "pick": "Ambele echipe marchează",
+  "code": "GG",
+  "probability": 0.62,
+  "score": "4-0",
+  "correct": false
+ },
+ {
+  "fotmobId": 5802994,
+  "match": "Marseille – Le Mans",
+  "kickoff": "2026-11-22T19:45:00Z",
+  "pick": "Peste 2.5 goluri",
+  "code": "O2.5",
+  "probability": 0.6,
+  "score": "2-3",
+  "correct": true
  }
 ]
