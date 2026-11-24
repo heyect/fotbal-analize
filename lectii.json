@@ -1,77 +1,5 @@
 [
  {
-  "fotmobId": 5887660,
-  "match": "Santa Clara – Benfica",
-  "score": "1-2",
-  "pick": "Benfica câștigă",
-  "correct": true,
-  "lesson": "Santa Clara 1-2 Benfica: oaspeții au întors scorul de la 1-0 (xG 1.81 vs 1.56). Benfica favorită în deplasare a funcționat, dar xG echilibrat arată că marja e mică.",
-  "createdAt": 1793092726565
- },
- {
-  "fotmobId": 5904783,
-  "match": "Beşiktaş – Başakşehir",
-  "score": "2-0",
-  "pick": "Beşiktaş nu pierde",
-  "correct": true,
-  "lesson": "Beşiktaş 2-0 Başakşehir: xG 1.94-0.43, ambele goluri după min. 75. 1X pe gazde dominante (17 șuturi la 9) e o alegere sigură.",
-  "createdAt": 1793092726565
- },
- {
-  "fotmobId": 5853535,
-  "match": "Sepsi OSK – Universitatea Craiova",
-  "score": "0-5",
-  "pick": "Craiova câștigă",
-  "correct": true,
-  "lesson": "Sepsi 0-5 Craiova: gol în min. 2 împotriva Sepsi, apoi 4 goluri; 25 de șuturi la 0, Sepsi a terminat în 10. Craiova în deplasare contra unei echipe slabe în atac e pont solid.",
-  "createdAt": 1793092726565
- },
- {
-  "fotmobId": 5739530,
-  "match": "FC København – OB",
-  "score": "1-1",
-  "pick": "Peste 2.5 goluri",
-  "correct": false,
-  "lesson": "København 1-1 OB cu xG 2.42-0.45 și 22 de șuturi la 7: peste 2.5 a căzut din lipsă de eficiență; OB a egalat la singura ocazie reală (min. 77). La xG foarte dispersat, victoria gazdelor era mai sigură decât totalul de goluri.",
-  "createdAt": 1793092726565
- },
- {
-  "fotmobId": 5904779,
-  "match": "Rizespor – Trabzonspor",
-  "score": "3-4",
-  "pick": null,
-  "correct": null,
-  "lesson": "7 goluri în Süper Lig: ligile cu apărări slabe produc GG și peste 2.5 mai des decât sugerează media; verifică golurile primite în ultimele 5 meciuri ale ambelor echipe.",
-  "createdAt": 1793092726565
- },
- {
-  "fotmobId": 5749727,
-  "match": "Sassuolo – Lazio",
-  "score": "2-6",
-  "pick": "Lazio nu pierde",
-  "correct": true,
-  "lesson": "Sassuolo a rămas în 10 oameni și a primit 6 goluri (xG 0.76-3.57): Lazio nu pierde a ieșit lejer; un cartonaș roșu devreme schimbă totul, iar echipele de jos cu apărare slabă se prăbușesc la deficit.",
-  "createdAt": 1793178933639
- },
- {
-  "fotmobId": 5749721,
-  "match": "Roma – Cagliari",
-  "score": "4-2",
-  "pick": "Roma câștigă",
-  "correct": true,
-  "lesson": "Roma 4-2 Cagliari cu xG 2.87-2.61: victoria favoritei a ieșit, dar Cagliari a creat la fel de mult; cu absențe în poartă (Svilar), GG/peste 2.5 era piața mai valoroasă decât 1X2 simplu.",
-  "createdAt": 1793178933639
- },
- {
-  "fotmobId": 5749728,
-  "match": "Torino – Como",
-  "score": "1-3",
-  "pick": "Torino nu pierde",
-  "correct": false,
-  "lesson": "Torino 1-3 Como (xG 1.13-2.26, 18 șuturi Como la 11): am dat avantaj gazdelor deși Como domina clar în ocazii; nu supraestima gazda doar pentru terenul propriu când deplasarea are xG mai bun în ultimele meciuri.",
-  "createdAt": 1793178933639
- },
- {
   "fotmobId": 6093740,
   "match": "Progresul Spartac – Petrolul Ploiești",
   "score": "0-6",
@@ -1798,5 +1726,77 @@
   "correct": null,
   "lesson": "favoritul din deplasare a câștigat cu 4 goluri, iar gazdele au marcat; Peste 2.5 și GG erau semnalele corecte în Süper Lig.",
   "createdAt": 1795424595454
+ },
+ {
+  "fotmobId": 5795517,
+  "match": "Brentford – Everton",
+  "score": "4-0",
+  "pick": "Everton nu pierde",
+  "correct": false,
+  "lesson": "Everton nu pierde (X2) a picat: 0-4 cu roșu pentru oaspeți; DC pe underdog deplasat e fragil când gazdele sunt în formă, iar un cartonaș roșu rupe scenariul.",
+  "createdAt": 1795511037779
+ },
+ {
+  "fotmobId": 5853558,
+  "match": "Sepsi OSK – Rapid București",
+  "score": "1-3",
+  "pick": "Sub 2.5 goluri",
+  "correct": false,
+  "lesson": "Sub 2.5 în Sepsi–Rapid a picat (1-3): Rapid a marcat de 3 ori în deplasare; nu mai merg pe 'sub' doar pentru că gazdele joacă închis, dacă oaspeții sunt mai ofensivi.",
+  "createdAt": 1795511037779
+ },
+ {
+  "fotmobId": 5749756,
+  "match": "Monza – Fiorentina",
+  "score": "3-0",
+  "pick": "Fiorentina nu pierde",
+  "correct": false,
+  "lesson": "Fiorentina nu pierde (X2) a picat la 0-3 la Monza; absențele și forma proastă a deplasării contau mai mult decât numele echipei – nu supraestima echipele 'mari' fără formă.",
+  "createdAt": 1795511037779
+ },
+ {
+  "fotmobId": 5739549,
+  "match": "Brøndby IF – FC Midtjylland",
+  "score": "0-2",
+  "pick": "Peste 2.5 goluri",
+  "correct": false,
+  "lesson": "Peste 2.5 în Brøndby–Midtjylland a picat (0-2): după 3 meciuri fără goluri multe ale gazdelor, media ligii (sub 3) trebuia să cântărească mai mult decât reputația ofensivă.",
+  "createdAt": 1795511037779
+ },
+ {
+  "fotmobId": 5976969,
+  "match": "Steaua București – Chindia Târgoviște",
+  "score": "0-3",
+  "pick": null,
+  "correct": null,
+  "lesson": "Favorita Steaua a pierdut 0-3 acasă în Liga 2: în liga secundă formele recente și motivația adversarului bat numele; semnal: Chindia în serie bună în deplasare.",
+  "createdAt": 1795511037779
+ },
+ {
+  "fotmobId": 5795517,
+  "match": "Brentford – Everton",
+  "score": "4-0",
+  "pick": null,
+  "correct": null,
+  "lesson": "Roșul primit de Everton a decis meciul; Brentford acasă are ofensivă peste media ligii – Peste 2.5 și victoria gazdelor erau mai sigure decât dubla șansă pentru oaspeți.",
+  "createdAt": 1795511037779
+ },
+ {
+  "fotmobId": 5749756,
+  "match": "Monza – Fiorentina",
+  "score": "3-0",
+  "pick": null,
+  "correct": null,
+  "lesson": "Monza a ținut ritmul acasă; Fiorentina plătește absențele din defensivă – gazdele bat favoritele nominale când acestea au deplasări slabe.",
+  "createdAt": 1795511037779
+ },
+ {
+  "fotmobId": 5904805,
+  "match": "Başakşehir – Çorum FK",
+  "score": "4-2",
+  "pick": null,
+  "correct": null,
+  "lesson": "Süper Lig: 6 goluri, GG și Peste 2.5 din nou; media ligii pe goluri e peste 3 în ultimele runde.",
+  "createdAt": 1795511037779
  }
 ]
