@@ -1918,5 +1918,75 @@
   "probability": 0.66,
   "score": "0-2",
   "correct": false
+ },
+ {
+  "fotmobId": 6106325,
+  "match": "RB Leipzig – Lens",
+  "kickoff": "2026-11-24T20:00:00Z",
+  "pick": "RB Leipzig câștigă",
+  "code": "1",
+  "probability": 0.56,
+  "score": "3-1",
+  "correct": true
+ },
+ {
+  "fotmobId": 6106307,
+  "match": "Feyenoord – FC Porto",
+  "kickoff": "2026-11-24T20:00:00Z",
+  "pick": "Ambele echipe marchează",
+  "code": "GG",
+  "probability": 0.58,
+  "score": "0-1",
+  "correct": false
+ },
+ {
+  "fotmobId": 6106259,
+  "match": "Arsenal – Borussia Dortmund",
+  "kickoff": "2026-11-24T20:00:00Z",
+  "pick": "Peste 2.5 goluri",
+  "code": "O2.5",
+  "probability": 0.64,
+  "score": "1-1",
+  "correct": false
+ },
+ {
+  "fotmobId": 6106256,
+  "match": "Manchester City – Napoli",
+  "kickoff": "2026-11-24T20:00:00Z",
+  "pick": "Peste 2.5 goluri",
+  "code": "O2.5",
+  "probability": 0.67,
+  "score": "2-2",
+  "correct": true
+ },
+ {
+  "fotmobId": 6106243,
+  "match": "Real Madrid – PSV Eindhoven",
+  "kickoff": "2026-11-24T20:00:00Z",
+  "pick": "Peste 2.5 goluri",
+  "code": "O2.5",
+  "probability": 0.7,
+  "score": "5-1",
+  "correct": true
+ },
+ {
+  "fotmobId": 6106339,
+  "match": "Galatasaray – Aston Villa",
+  "kickoff": "2026-11-24T17:45:00Z",
+  "pick": "Galatasaray nu pierde",
+  "code": "1X",
+  "probability": 0.68,
+  "score": "1-0",
+  "correct": true
+ },
+ {
+  "fotmobId": 5793969,
+  "match": "Rangers – Aberdeen",
+  "kickoff": "2026-11-24T20:00:00Z",
+  "pick": "Rangers câștigă",
+  "code": "1",
+  "probability": 0.66,
+  "score": "3-2",
+  "correct": true
  }
 ]

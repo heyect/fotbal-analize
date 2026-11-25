@@ -320,23 +320,24 @@
  },
  "Premiership Scoția": {
   "meciuri": 60,
-  "goluriMedii": 2.88,
-  "procentGG": 51.7,
-  "procentPeste25": 53.4,
-  "victoriiGazde": 42.9,
+  "goluriMedii": 2.92,
+  "procentGG": 53.3,
+  "procentPeste25": 55.0,
+  "victoriiGazde": 44.8,
   "note": [
-   "Eșantion mic (12 meciuri, 10-18.10); procentele se stabilizează în zilele următoare.",
    "Celtic 7-1 Hearts; Rangers a remizat 2-2 la Dundee (17.10).",
    "28.10: Celtic 2-2 Dundee Utd, Hearts 2-2 Rangers, Dundee 3-1 Kilmarnock, St. Johnstone 2-2 Motherwell – 4 din 6 meciuri cu GG; Aberdeen 0-1 Falkirk.",
    "31.10 (2 meciuri): 2-2, 1-0; gol medii 2.5.",
    "01.11: Falkirk 2-0 Celtic – surpriză, Celtic învins.",
    "07.11 (4 meciuri, 2.8 goluri/meci): Dundee 1-1 Motherwell, St. 2-1 FC, Aberdeen 0-4 Hibernian, St. 0-2 Rangers",
    "08.11 (2 meciuri, 4.0 goluri/meci): Heart of Midlothian 2-5 Falkirk, Celtic 1-0 Kilmarnock",
-   "20-21.11 (6 meciuri, 4.8 goluri/meci): Celtic 4-1 St. Mirren, Falkirk 2-1 St. Johnstone, Hibernian 0-4 Dundee United, Kilmarnock 2-4 Aberdeen, Dundee FC 0-8 Heart of Midlothian, Motherwell 1-2 Rangers"
+   "20-21.11 (6 meciuri, 4.8 goluri/meci): Celtic 4-1 St. Mirren, Falkirk 2-1 St. Johnstone, Hibernian 0-4 Dundee United, Kilmarnock 2-4 Aberdeen, Dundee FC 0-8 Heart of Midlothian, Motherwell 1-2 Rangers",
+   "24.11 (2 meciuri, 4.0 goluri/meci): Hibernian 2-1 Dundee, Rangers 3-2 Aberdeen – ambele cu GG."
   ],
   "echipe": {
    "Heart of Midlothian": "8-0 la Dundee (21.11)",
-   "Dundee United": "4-0 la Hibernian (21.11)"
+   "Dundee United": "4-0 la Hibernian (21.11)",
+   "Rangers": "3-2 cu Aberdeen, 4 victorii recente acasă"
   }
  },
  "Super League Grecia": {
@@ -452,24 +453,27 @@
  },
  "Championship": {
   "meciuri": 60,
-  "goluriMedii": 2.91,
-  "procentGG": 54.2,
-  "procentPeste25": 57.3,
-  "victoriiGazde": 47.4,
+  "goluriMedii": 2.87,
+  "procentGG": 53.6,
+  "procentPeste25": 56.3,
+  "victoriiGazde": 47.8,
   "note": [
-   "30.10: Sheffield United 1-0 Wrexham – victorii la limită frecvente în Championship.",
    "31.10 (11 meciuri): 1-3, 3-2, 2-0, 2-3, 0-0, 3-0, 4-1, 4-1, 4-0, 1-3, 3-0; gol medii 3.6.",
    "03.11 (9 meciuri): 1-2, 0-4, 3-1, 2-3, 1-1, 1-0, 0-1, 3-0, 1-1; 5 din 9 cu GG, gol medii 2.0 sub media recentă.",
    "04.11: Cardiff 3-3 West Ham, Wrexham 2-0 Boro, Bristol City 1-2 Wolves; 2 din 3 cu GG, echipele retrogradate din PL sunt vulnerabile în deplasare.",
    "06.11 (1 meciuri): Derby County 3-1 Bolton Wanderers",
    "07.11 (11 meciuri, 3.2 goluri/meci): Bristol 0-5 City, Portsmouth 1-2 City, Wrexham 1-1 Wanderers, Birmingham 2-1 City, Blackburn 2-1 United, Cardiff 5-4 Burnley, Charlton 2-1 United, Preston 1-0 Southampton, Queens 2-1 City, Watford 0-0 Middlesbrough, West 3-0 Millwall",
    "20-21.11 (11 meciuri, 2.3 goluri/meci): Millwall 0-1 Queens Park Rangers, Norwich City 2-1 Cardiff City, Southampton 2-0 Derby County, Bolton Wanderers 1-1 Portsmouth, Lincoln City 0-1 Wrexham, Middlesbrough 2-0 Bristol City, Sheffield United 4-0 Watford, Stoke City 1-0 Birmingham City",
-   "22.11 (1 meciuri, 4.0 goluri/meci): Burnley 2-2 Blackburn Rovers"
+   "22.11 (1 meciuri, 4.0 goluri/meci): Burnley 2-2 Blackburn Rovers",
+   "24.11 (8 meciuri, 2.4 goluri/meci): Bristol 1-1 Wrexham, Cardiff 0-4 Preston, Charlton 4-0 Lincoln, Boro 2-1 Swansea, Norwich 1-1 QPR, Portsmouth 1-0 West Ham, Sheffield U 1-1 Southampton, Wolves 3-0 Derby; 3 egaluri 1-1, echipe retrogradate din PL cad în deplasare."
   ],
   "echipe": {
    "Middlesbrough": "5-1 în deplasare la Bolton (23.10), xG 4.17",
    "Norwich City": "5-0 la Bristol City (07.11)",
-   "Birmingham City": "3-0 cu Millwall acasă"
+   "Birmingham City": "3-0 cu Millwall acasă",
+   "Preston North End": "4-0 la Cardiff",
+   "Wolverhampton Wanderers": "3-0 cu Derby",
+   "Charlton Athletic": "4-0 cu Lincoln"
   }
  },
  "Europa League": {
@@ -514,30 +518,33 @@
  },
  "Liga Campionilor": {
   "meciuri": 54,
-  "goluriMedii": 4.01,
-  "procentGG": 61.1,
-  "procentPeste25": 75.9,
-  "victoriiGazde": 53.7,
+  "goluriMedii": 3.78,
+  "procentGG": 58.6,
+  "procentPeste25": 69.5,
+  "victoriiGazde": 54.0,
   "note": [
    "Eșantion 36 meciuri (10-21.10), ~4 goluri/meci.",
    "20.10: 9 meciuri, 33 goluri, 7 din 9 GG; 21.10: 9 meciuri, 35 goluri, dar 3 meciuri 1-0/1-0/3-0 fără GG.",
    "Gazdele din top câștigă mult (Real 4-1, Villa 3-1, Como 4-1, Brugge 3-0), dar Galatasaray (4-2 la Lille) și LASK (3-2 la Sporting) au câștigat în deplasare.",
    "03.11 (9 meciuri): 2-0, 0-1, 0-2, 3-0, 0-0, 0-3, 4-0, 3-2, 0-6; doar 1 din 9 GG, 5 din 9 peste 2.5, 4 victorii gazdă; scoruri 'tăiate' (victorii fără gol primit) foarte frecvente – GG supraestimat.",
-   "04.11: 9 meciuri, 36 goluri (medie 4.0), toate cu GG; Lens 1-9 Como, Porto 4-1 Napoli, AEK 2-3 Real, Leipzig 2-3 City; GG și Peste 2.5 foarte sigure în LC acum."
+   "04.11: 9 meciuri, 36 goluri (medie 4.0), toate cu GG; Lens 1-9 Como, Porto 4-1 Napoli, AEK 2-3 Real, Leipzig 2-3 City; GG și Peste 2.5 foarte sigure în LC acum.",
+   "24.11 (9 meciuri, 2.3 goluri/meci): 1-0, 1-0, 1-1, 1-0, 0-1, 2-2, 3-1, 5-1, 0-2; doar 3 din 9 GG – 6 meciuri cu un singur gol sau fără GG; ‘tăiate’ frecvente, Peste 2.5 nu mai e automat."
   ],
   "echipe": {
    "PSV": "1-0 la Porto în LC; formă bună",
    "Liverpool": "4-3 cu Villarreal, apărare vulnerabilă",
    "Napoli": "4-3 cu Bodø/Glimt, primește goluri",
-   "Manchester City": "5-1 cu AEK",
+   "Manchester City": "2-2 cu Napoli",
    "PSG": "6-0 la Villarreal, atac devastator",
-   "Galatasaray": "2-0 cu Stuttgart acasă",
+   "Galatasaray": "1-0 cu Aston Villa",
    "Como": "4-1 cu Manchester United",
    "Manchester United": "4-1 la Como, apărare vulnerabilă în deplasare",
-   "Real Madrid": "4-1 cu Leipzig",
+   "Real Madrid": "5-1 cu PSV",
    "Bayern München": "2-0 la Atlético, control total",
-   "Arsenal": "2-2 la Bayern",
-   "Inter": "3-0 în deplasare la Feyenoord, formă excelentă"
+   "Arsenal": "1-1 cu Dortmund acasă",
+   "Inter": "3-0 în deplasare la Feyenoord, formă excelentă",
+   "Porto": "1-0 la Feyenoord",
+   "Aston Villa": "pierde 0-1 în Turcia"
   }
  },
  "Primeira Liga": {
