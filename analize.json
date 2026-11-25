@@ -1350,14 +1350,14 @@
     },
     "picks": [
      {
-      "market": "Dublă șansă Olympiacos (X2 invers: 1X)",
+      "market": "Olympiacos nu pierde",
       "code": "1X",
       "probability": 0.67,
       "confidence": "mică",
       "reason": "Gazde cu avantajul terenului vs Milan decimat."
      },
      {
-      "market": "Olympiacos nu pierde",
+      "market": "Ambele echipe marchează",
       "code": "GG",
       "probability": 0.5,
       "confidence": "mică",
