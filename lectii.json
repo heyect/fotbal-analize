@@ -1,59 +1,5 @@
 [
  {
-  "fotmobId": 5793958,
-  "match": "Aberdeen – Falkirk",
-  "score": "0-1",
-  "pick": null,
-  "correct": null,
-  "lesson": "Falkirk a câștigat 1-0 la Aberdeen: gazda favorită nu a marcat; semnal: Aberdeen producea puțin în ultimele meciuri, deci evită Aberdeen câștigă/peste 2.5 fără formă ofensivă.",
-  "createdAt": 1793265336346
- },
- {
-  "fotmobId": 5793963,
-  "match": "St. Mirren – Hibernian",
-  "score": "1-1",
-  "pick": null,
-  "correct": null,
-  "lesson": "1-1 între St. Mirren și Hibernian: Hibernian favorită în deplasare nu a câștigat; semnal: în Scoția favoritele din deplasare pierd puncte frecvent.",
-  "createdAt": 1793265336346
- },
- {
-  "fotmobId": 1000015091,
-  "match": "Radnički Niš – Partizan Beograd",
-  "score": "2-3",
-  "pick": null,
-  "correct": null,
-  "lesson": "Partizan a câștigat 3-2 la Niš: 5 goluri într-un meci unde Partizan era favorit; semnal: gazdele din Serbia marchează acasă, deci GG/O2.5 era o variantă mai valoroasă decât victoria simplă.",
-  "createdAt": 1793265336346
- },
- {
-  "fotmobId": 5749722,
-  "match": "Fiorentina – Atalanta",
-  "score": "2-2",
-  "pick": "Ambele marchează",
-  "correct": true,
-  "lesson": "2-2 Fiorentina–Atalanta (xG 1.51-1.01): GG a ieșit, Atalanta marchează în aproape fiecare meci; GG la meciurile ei rămâne o piață solidă.",
-  "createdAt": 1793351691034
- },
- {
-  "fotmobId": 5749723,
-  "match": "Frosinone – Lecce",
-  "score": "5-1",
-  "pick": "Frosinone nu pierde",
-  "correct": true,
-  "lesson": "Frosinone a învins Lecce cu 5-1 (xG 3.36-1.40): 1X a ieșit ușor; gazdele din subsolul Serie A cu atac în formă nu trebuie subestimate și acasă, iar scorurile largi continuă.",
-  "createdAt": 1793351691034
- },
- {
-  "fotmobId": 6093745,
-  "match": "Gloria Bistrița – FCSB",
-  "score": "1-0",
-  "pick": "FCSB câștigă",
-  "correct": false,
-  "lesson": "Gloria Bistrița a învins FCSB cu 1-0 în Cupa României: am supraestimat favorita din deplasare într-o fază de grupe; echipele de top rotesc lotul, deci victoria simplă a favoritei ar trebui plafonată sub 55%.",
-  "createdAt": 1793351691034
- },
- {
   "fotmobId": 6093754,
   "match": "FC Voluntari – Universitatea Craiova",
   "score": "1-1",
@@ -1798,5 +1744,59 @@
   "correct": null,
   "lesson": "Villa, cu cotă de favorită nominală, a pierdut în Turcia; semnal: Galatasaray puternică acasă, Villa fără ritm în deplasări europene.",
   "createdAt": 1795597456920
+ },
+ {
+  "fotmobId": 6106253,
+  "match": "Inter – VfB Stuttgart",
+  "score": "2-0",
+  "pick": "Peste 2.5 goluri",
+  "correct": false,
+  "lesson": "Am pus Over 2.5 pe seama mediei mari din LC, deși Inter acasă contra unei echipe fără atac de top controlează meciul și se oprește la 2 goluri; când gazda e clar favorită, 2-0 e scorul modal, nu 3+ goluri.",
+  "createdAt": 1795683833321
+ },
+ {
+  "fotmobId": 6106269,
+  "match": "Atlético Madrid – Viking",
+  "score": "2-0",
+  "pick": "Peste 2.5 goluri",
+  "correct": false,
+  "lesson": "Over 2.5 pe un meci cu un favorit clar și un outsider slab ofensiv e riscant: victoria „curată” 2-0 e mai probabilă decât schimb de goluri; am dat prea mult credit apărării lui Viking ca sursă de goluri.",
+  "createdAt": 1795683833321
+ },
+ {
+  "fotmobId": 6106310,
+  "match": "Lille – Bayern München",
+  "score": "2-1",
+  "pick": null,
+  "correct": null,
+  "lesson": "Bayern a pierdut în deplasare cu un atac ciuntit de absențe; semnal: când un favorit are 3+ atacanți indisponibili, cota lui nu mai merită încredere în deplasare în LC.",
+  "createdAt": 1795683833321
+ },
+ {
+  "fotmobId": 6106235,
+  "match": "Paris Saint-Germain – Roma",
+  "score": "2-2",
+  "pick": null,
+  "correct": null,
+  "lesson": "Roma cu 3 fundași a egalat la Paris: echipele italiene cu linie de 3 și contraatac au găsit goluri chiar și contra celor mai puternice atacuri; X sau GG erau subevaluate.",
+  "createdAt": 1795683833321
+ },
+ {
+  "fotmobId": 6106279,
+  "match": "Sporting CP – Manchester United",
+  "score": "2-2",
+  "pick": null,
+  "correct": null,
+  "lesson": "United decimat în atac a marcat totuși de 2 ori: echipele cu nume mare în deplasare europeană rămân periculoase pe faze fixe/contraatac; GG a fost o variantă mai sigură decât victoria gazdelor.",
+  "createdAt": 1795683833321
+ },
+ {
+  "fotmobId": 5836956,
+  "match": "Burnley – Birmingham City",
+  "score": "0-2",
+  "pick": null,
+  "correct": null,
+  "lesson": "Burnley a pierdut acasă fără gol marcat: în Championship gazdele favorite nu câștigă automat, iar echipele din deplasare cu formă bună (Birmingham) contează mai mult decât clasamentul.",
+  "createdAt": 1795683833321
  }
 ]

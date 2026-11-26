@@ -435,37 +435,37 @@
  },
  "SuperLiga Serbia": {
   "meciuri": 60,
-  "goluriMedii": 2.51,
-  "procentGG": 46.8,
-  "procentPeste25": 47.0,
-  "victoriiGazde": 45.3,
+  "goluriMedii": 2.5,
+  "procentGG": 46.0,
+  "procentPeste25": 46.2,
+  "victoriiGazde": 44.6,
   "note": [
-   "28.10: Radnički Niš 2-3 Partizan, Radnički 1923 1-2 Železničar – meciuri cu goluri de ambele părți.",
    "31.10 (1 meciuri): 2-4; gol medii 6.0.",
    "01.11: Partizan 3-0 Zemun, Novi Pazar 2-0 Radnički, Vojvodina 2-0 OFK, IMT 0-0 Čukarički.",
    "02.11 (1 meciuri, 1.0 goluri/meci): Mladost Lučani 0-1 FK Radnik Surdulica",
    "07.11 (3 meciuri, 3.0 goluri/meci): FK 1-1 Beograd, Čukarički 2-1 Niš, Železničar 3-1 1923",
    "08.11 (4 meciuri, 2.2 goluri/meci): Novi Pazar 2-0 Mladost Lučani, FK Radnik Surdulica 2-1 OFK Beograd, Partizan Beograd 1-2 Mačva Šabac, Vojvodina 0-1 FK Crvena Zvezda",
    "20-21.11 (4 meciuri, 2.2 goluri/meci): Radnički Niš 1-0 FK Zemun, FK Crvena Zvezda 2-0 FK Radnik Surdulica, Mladost Lučani 0-4 Železničar Pančevo, OFK Beograd 0-2 Novi Pazar",
-   "22.11 (3 meciuri, 4.3 goluri/meci): FK Radnički 1923 1-3 Čukarički, FK IMT Beograd 2-1 Partizan Beograd, Mačva Šabac 1-5 Vojvodina"
+   "22.11 (3 meciuri, 4.3 goluri/meci): FK Radnički 1923 1-3 Čukarički, FK IMT Beograd 2-1 Partizan Beograd, Mačva Šabac 1-5 Vojvodina",
+   "25.11: Radnički Niš 0-2 Železničar Pančevo – victorie în deplasare, sub 2.5."
   ],
   "echipe": {}
  },
  "Championship": {
   "meciuri": 60,
-  "goluriMedii": 2.87,
-  "procentGG": 53.6,
-  "procentPeste25": 56.3,
-  "victoriiGazde": 47.8,
+  "goluriMedii": 2.85,
+  "procentGG": 51.8,
+  "procentPeste25": 54.3,
+  "victoriiGazde": 46.4,
   "note": [
-   "31.10 (11 meciuri): 1-3, 3-2, 2-0, 2-3, 0-0, 3-0, 4-1, 4-1, 4-0, 1-3, 3-0; gol medii 3.6.",
    "03.11 (9 meciuri): 1-2, 0-4, 3-1, 2-3, 1-1, 1-0, 0-1, 3-0, 1-1; 5 din 9 cu GG, gol medii 2.0 sub media recentă.",
    "04.11: Cardiff 3-3 West Ham, Wrexham 2-0 Boro, Bristol City 1-2 Wolves; 2 din 3 cu GG, echipele retrogradate din PL sunt vulnerabile în deplasare.",
    "06.11 (1 meciuri): Derby County 3-1 Bolton Wanderers",
    "07.11 (11 meciuri, 3.2 goluri/meci): Bristol 0-5 City, Portsmouth 1-2 City, Wrexham 1-1 Wanderers, Birmingham 2-1 City, Blackburn 2-1 United, Cardiff 5-4 Burnley, Charlton 2-1 United, Preston 1-0 Southampton, Queens 2-1 City, Watford 0-0 Middlesbrough, West 3-0 Millwall",
    "20-21.11 (11 meciuri, 2.3 goluri/meci): Millwall 0-1 Queens Park Rangers, Norwich City 2-1 Cardiff City, Southampton 2-0 Derby County, Bolton Wanderers 1-1 Portsmouth, Lincoln City 0-1 Wrexham, Middlesbrough 2-0 Bristol City, Sheffield United 4-0 Watford, Stoke City 1-0 Birmingham City",
    "22.11 (1 meciuri, 4.0 goluri/meci): Burnley 2-2 Blackburn Rovers",
-   "24.11 (8 meciuri, 2.4 goluri/meci): Bristol 1-1 Wrexham, Cardiff 0-4 Preston, Charlton 4-0 Lincoln, Boro 2-1 Swansea, Norwich 1-1 QPR, Portsmouth 1-0 West Ham, Sheffield U 1-1 Southampton, Wolves 3-0 Derby; 3 egaluri 1-1, echipe retrogradate din PL cad în deplasare."
+   "24.11 (8 meciuri, 2.4 goluri/meci): Bristol 1-1 Wrexham, Cardiff 0-4 Preston, Charlton 4-0 Lincoln, Boro 2-1 Swansea, Norwich 1-1 QPR, Portsmouth 1-0 West Ham, Sheffield U 1-1 Southampton, Wolves 3-0 Derby; 3 egaluri 1-1, echipe retrogradate din PL cad în deplasare.",
+   "25.11 (4 meciuri, 2.5 goluri/meci): Bolton 1-3 WBA, Burnley 0-2 Birmingham, Watford 0-1 Blackburn, Stoke 2-1 Millwall – 3 din 4 victorii în deplasare, gazdele din subsolul/mijlocul tabelei sunt vulnerabile."
   ],
   "echipe": {
    "Middlesbrough": "5-1 în deplasare la Bolton (23.10), xG 4.17",
@@ -517,22 +517,23 @@
   }
  },
  "Liga Campionilor": {
-  "meciuri": 54,
-  "goluriMedii": 3.78,
-  "procentGG": 58.6,
-  "procentPeste25": 69.5,
-  "victoriiGazde": 54.0,
+  "meciuri": 60,
+  "goluriMedii": 3.64,
+  "procentGG": 56.6,
+  "procentPeste25": 67.5,
+  "victoriiGazde": 51.0,
   "note": [
    "Eșantion 36 meciuri (10-21.10), ~4 goluri/meci.",
    "20.10: 9 meciuri, 33 goluri, 7 din 9 GG; 21.10: 9 meciuri, 35 goluri, dar 3 meciuri 1-0/1-0/3-0 fără GG.",
    "Gazdele din top câștigă mult (Real 4-1, Villa 3-1, Como 4-1, Brugge 3-0), dar Galatasaray (4-2 la Lille) și LASK (3-2 la Sporting) au câștigat în deplasare.",
    "03.11 (9 meciuri): 2-0, 0-1, 0-2, 3-0, 0-0, 0-3, 4-0, 3-2, 0-6; doar 1 din 9 GG, 5 din 9 peste 2.5, 4 victorii gazdă; scoruri 'tăiate' (victorii fără gol primit) foarte frecvente – GG supraestimat.",
    "04.11: 9 meciuri, 36 goluri (medie 4.0), toate cu GG; Lens 1-9 Como, Porto 4-1 Napoli, AEK 2-3 Real, Leipzig 2-3 City; GG și Peste 2.5 foarte sigure în LC acum.",
-   "24.11 (9 meciuri, 2.3 goluri/meci): 1-0, 1-0, 1-1, 1-0, 0-1, 2-2, 3-1, 5-1, 0-2; doar 3 din 9 GG – 6 meciuri cu un singur gol sau fără GG; ‘tăiate’ frecvente, Peste 2.5 nu mai e automat."
+   "24.11 (9 meciuri, 2.3 goluri/meci): 1-0, 1-0, 1-1, 1-0, 0-1, 2-2, 3-1, 5-1, 0-2; doar 3 din 9 GG – 6 meciuri cu un singur gol sau fără GG; ‘tăiate’ frecvente, Peste 2.5 nu mai e automat.",
+   "25.11 (9 meciuri, 2.8 goluri/meci): Sabah 1-4 Barcelona, Slavia 0-1 Villarreal, Atlético 2-0 Viking, Brugge 0-3 Liverpool, Inter 2-0 Stuttgart, Lille 2-1 Bayern, PSG 2-2 Roma, Shakhtar 0-1 Fenerbahçe, Sporting 2-2 United; 4/9 GG, 5/9 peste 2.5; 3 victorii gazdă, 4 victorii în deplasare – Bayern a pierdut la Lille."
   ],
   "echipe": {
    "PSV": "1-0 la Porto în LC; formă bună",
-   "Liverpool": "4-3 cu Villarreal, apărare vulnerabilă",
+   "Liverpool": "3-0 în deplasare la Brugge",
    "Napoli": "4-3 cu Bodø/Glimt, primește goluri",
    "Manchester City": "2-2 cu Napoli",
    "PSG": "6-0 la Villarreal, atac devastator",
@@ -542,9 +543,11 @@
    "Real Madrid": "5-1 cu PSV",
    "Bayern München": "2-0 la Atlético, control total",
    "Arsenal": "1-1 cu Dortmund acasă",
-   "Inter": "3-0 în deplasare la Feyenoord, formă excelentă",
+   "Inter": "2-0 cu Stuttgart, controlează acasă",
    "Porto": "1-0 la Feyenoord",
-   "Aston Villa": "pierde 0-1 în Turcia"
+   "Aston Villa": "pierde 0-1 în Turcia",
+   "Lille": "a bătut Bayern 2-1 (25.11), formă bună acasă",
+   "Sporting CP": "2-2 cu Manchester United"
   }
  },
  "Primeira Liga": {

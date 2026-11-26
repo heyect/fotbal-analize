@@ -1988,5 +1988,65 @@
   "probability": 0.66,
   "score": "3-2",
   "correct": true
+ },
+ {
+  "fotmobId": 6106294,
+  "match": "Club Brugge – Liverpool",
+  "kickoff": "2026-11-25T20:00:00Z",
+  "pick": "Peste 2.5 goluri",
+  "code": "O2.5",
+  "probability": 0.66,
+  "score": "0-3",
+  "correct": true
+ },
+ {
+  "fotmobId": 6106253,
+  "match": "Inter – VfB Stuttgart",
+  "kickoff": "2026-11-25T20:00:00Z",
+  "pick": "Peste 2.5 goluri",
+  "code": "O2.5",
+  "probability": 0.62,
+  "score": "2-0",
+  "correct": false
+ },
+ {
+  "fotmobId": 6106310,
+  "match": "Lille – Bayern München",
+  "kickoff": "2026-11-25T20:00:00Z",
+  "pick": "Peste 2.5 goluri",
+  "code": "O2.5",
+  "probability": 0.6,
+  "score": "2-1",
+  "correct": true
+ },
+ {
+  "fotmobId": 6106235,
+  "match": "Paris Saint-Germain – Roma",
+  "kickoff": "2026-11-25T20:00:00Z",
+  "pick": "Peste 2.5 goluri",
+  "code": "O2.5",
+  "probability": 0.64,
+  "score": "2-2",
+  "correct": true
+ },
+ {
+  "fotmobId": 6106279,
+  "match": "Sporting CP – Manchester United",
+  "kickoff": "2026-11-25T20:00:00Z",
+  "pick": "Sporting nu pierde",
+  "code": "1X",
+  "probability": 0.71,
+  "score": "2-2",
+  "correct": true
+ },
+ {
+  "fotmobId": 6106269,
+  "match": "Atlético Madrid – Viking",
+  "kickoff": "2026-11-25T20:00:00Z",
+  "pick": "Peste 2.5 goluri",
+  "code": "O2.5",
+  "probability": 0.6,
+  "score": "2-0",
+  "correct": false
  }
 ]
