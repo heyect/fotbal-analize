@@ -2048,5 +2048,65 @@
   "probability": 0.6,
   "score": "2-0",
   "correct": false
+ },
+ {
+  "fotmobId": 6112348,
+  "match": "Celta Vigo – AFC Bournemouth",
+  "kickoff": "2026-11-26T17:45:00Z",
+  "pick": "Bournemouth nu pierde",
+  "code": "X2",
+  "probability": 0.64,
+  "score": "1-2",
+  "correct": true
+ },
+ {
+  "fotmobId": 6112266,
+  "match": "Olympiacos – Milan",
+  "kickoff": "2026-11-26T17:45:00Z",
+  "pick": "Olympiacos nu pierde",
+  "code": "1X",
+  "probability": 0.66,
+  "score": "2-4",
+  "correct": false
+ },
+ {
+  "fotmobId": 6112252,
+  "match": "Juventus – Omonia Nicosia",
+  "kickoff": "2026-11-26T20:00:00Z",
+  "pick": "Juventus câștigă",
+  "code": "1",
+  "probability": 0.7,
+  "score": "4-1",
+  "correct": true
+ },
+ {
+  "fotmobId": 6112421,
+  "match": "Brighton & Hove Albion – Universitatea Craiova",
+  "kickoff": "2026-11-26T17:45:00Z",
+  "pick": "Brighton câștigă",
+  "code": "1",
+  "probability": 0.64,
+  "score": "4-0",
+  "correct": true
+ },
+ {
+  "fotmobId": 6112322,
+  "match": "Crystal Palace – Real Sociedad",
+  "kickoff": "2026-11-26T20:00:00Z",
+  "pick": "Sub 3.5 goluri",
+  "code": "U3.5",
+  "probability": 0.69,
+  "score": "2-1",
+  "correct": true
+ },
+ {
+  "fotmobId": 6112290,
+  "match": "Dinamo Zagreb – Bayer Leverkusen",
+  "kickoff": "2026-11-26T17:45:00Z",
+  "pick": "Peste 2.5 goluri",
+  "code": "O2.5",
+  "probability": 0.63,
+  "score": "0-2",
+  "correct": false
  }
 ]

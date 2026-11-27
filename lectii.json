@@ -1,113 +1,5 @@
 [
  {
-  "fotmobId": 6093754,
-  "match": "FC Voluntari – Universitatea Craiova",
-  "score": "1-1",
-  "pick": null,
-  "correct": null,
-  "lesson": "Voluntari a smuls 1-1 cu Universitatea Craiova în Cupa României: favorita nu a câștigat; semnal: în grupele Cupei echipele mari joacă fără ritm, iar dublă șansă/sub goluri are valoare mai mare decât victoria.",
-  "createdAt": 1793351691034
- },
- {
-  "fotmobId": 6093736,
-  "match": "Concordia Chiajna – Sepsi OSK",
-  "score": "1-1",
-  "pick": null,
-  "correct": null,
-  "lesson": "Concordia Chiajna – Sepsi 1-1: o echipă din liga inferioară a ținut piept unei echipe de SuperLiga; semnal: diferența de clasă e mică în Cupă, miza redusă ridică probabilitatea egalului.",
-  "createdAt": 1793351691034
- },
- {
-  "fotmobId": 5868120,
-  "match": "Villarreal – Espanyol",
-  "score": "0-1",
-  "pick": "Villarreal câștigă",
-  "correct": false,
-  "lesson": "Am dat 55% unei gazde mai bune pe hârtie, dar Espanyol a închis jocul și a lovit o dată; când gazda nu are atac clar superior, dublă șansă 1X era alegerea mai sigură decât victoria simplă.",
-  "createdAt": 1793438060081
- },
- {
-  "fotmobId": 5904790,
-  "match": "Konyaspor – Galatasaray",
-  "score": "0-4",
-  "pick": "Galatasaray câștigă",
-  "correct": true,
-  "lesson": "Diferența de calitate dintre Galatasaray și o echipă de mijlocul clasamentului în deplasare a fost mai mare decât cota sugera; victoria favoritei a fost corect plasată la 57% și chiar subevaluată.",
-  "createdAt": 1793438060081
- },
- {
-  "fotmobId": 5887666,
-  "match": "Casa Pia AC – Sporting CP",
-  "score": "0-2",
-  "pick": "Peste 2.5 goluri",
-  "correct": false,
-  "lesson": "Sporting a controlat fără să forțeze după 2-0; Peste 2.5 s-a bazat pe numele favoritei, nu pe un ritm real de goluri al echipei oaspete în deplasare.",
-  "createdAt": 1793438060081
- },
- {
-  "fotmobId": 5853538,
-  "match": "Rapid București – Csikszereda Miercurea Ciuc",
-  "score": "2-0",
-  "pick": "Rapid câștigă",
-  "correct": true,
-  "lesson": "Diferența dintre o echipă din prima jumătate a clasamentului și una de jos, acasă, a fost respectată; victoria gazdelor la ~67% a ieșit.",
-  "createdAt": 1793438060081
- },
- {
-  "fotmobId": 5804024,
-  "match": "Górnik Zabrze – Legia Warszawa",
-  "score": "0-0",
-  "pick": "Sub 2.5 goluri",
-  "correct": true,
-  "lesson": "Ekstraklasa cu două apărări solide și puține ocazii: Sub 2.5 a ieșit; în meciurile dintre echipe cu xG mic, sub-ul rămâne valoros.",
-  "createdAt": 1793438060081
- },
- {
-  "fotmobId": 5802973,
-  "match": "Le Havre – Paris Saint-Germain",
-  "score": "1-5",
-  "pick": "Peste 2.5 goluri",
-  "correct": true,
-  "lesson": "PSG în deplasare la o echipă slabă produce multe goluri chiar și cu rotații; Peste 2.5 a ieșit cu marjă.",
-  "createdAt": 1793438060081
- },
- {
-  "fotmobId": 5802974,
-  "match": "Lille – Lens",
-  "score": "1-0",
-  "pick": "Sub 3.5 goluri",
-  "correct": true,
-  "lesson": "Atacuri decimate de absențe (Ueda, Sima, Édouard) au dat un meci cu puține goluri; absențele în linia ofensivă ghidează bine pariurile pe sub.",
-  "createdAt": 1793438060081
- },
- {
-  "fotmobId": null,
-  "match": "Elversberg – Mainz 05",
-  "score": "4-1",
-  "pick": null,
-  "correct": null,
-  "lesson": "Elversberg a bătut cu 4-1 o echipă mai cotată din Bundesliga: gazda a marcat 4 din puține ocazii și Mainz a rămas în 10; semnal: eficiența ridicată a promovatelor acasă și cartonașele roșii care schimbă meciul.",
-  "createdAt": 1793438060081
- },
- {
-  "fotmobId": null,
-  "match": "Grazer AK – Hartberg",
-  "score": "0-4",
-  "pick": null,
-  "correct": null,
-  "lesson": "Hartberg a câștigat clar în deplasare, 4-0: formă mai bună și gazdă cu probleme defensive; semnal: într-o ligă cu diferențe mici de valoare, forma recentă contează mai mult decât avantajul terenului.",
-  "createdAt": 1793438060081
- },
- {
-  "fotmobId": 5804024,
-  "match": "Górnik Zabrze – Legia Warszawa",
-  "score": "0-0",
-  "pick": null,
-  "correct": null,
-  "lesson": "Legia, favorită la deplasare, nu a marcat: în Ekstraklasa jocurile cu miză mică de goluri sunt frecvente; semnal: xG-ul redus al ambelor echipe în ultimele meciuri.",
-  "createdAt": 1793438060081
- },
- {
   "fotmobId": null,
   "match": "Steaua București – Dinamo București",
   "score": "0-0",
@@ -1798,5 +1690,113 @@
   "correct": null,
   "lesson": "Burnley a pierdut acasă fără gol marcat: în Championship gazdele favorite nu câștigă automat, iar echipele din deplasare cu formă bună (Birmingham) contează mai mult decât clasamentul.",
   "createdAt": 1795683833321
+ },
+ {
+  "fotmobId": 6112348,
+  "match": "Celta Vigo – AFC Bournemouth",
+  "score": "1-2",
+  "pick": "Bournemouth nu pierde",
+  "correct": true,
+  "lesson": "Bournemouth a câștigat la Celta: echipa neînvinsă în serie lungă în deplasare europeană merită X2 chiar și la cote mici.",
+  "createdAt": 1795770217604
+ },
+ {
+  "fotmobId": 6112266,
+  "match": "Olympiacos – Milan",
+  "score": "2-4",
+  "pick": "Olympiacos nu pierde",
+  "correct": false,
+  "lesson": "Milan a câștigat 4-2 la Olympiacos deși o știam decimată: am supraestimat gazdele pe baza absențelor Milanului; calitatea individuală din atac a compensat și apărarea grecilor a cedat ușor.",
+  "createdAt": 1795770217604
+ },
+ {
+  "fotmobId": 6112252,
+  "match": "Juventus – Omonia Nicosia",
+  "score": "4-1",
+  "pick": "Juventus câștigă",
+  "correct": true,
+  "lesson": "Juventus a învins clar un outsider cu formă proastă în deplasare: diferența de clasă + formă slabă a oaspeților a confirmat victoria gazdei.",
+  "createdAt": 1795770217604
+ },
+ {
+  "fotmobId": 6112421,
+  "match": "Brighton & Hove Albion – Universitatea Craiova",
+  "score": "4-0",
+  "pick": "Brighton câștigă",
+  "correct": true,
+  "lesson": "Brighton 4-0 cu Craiova: în Conference echipele din ligile mari domină outsiderii est-europeni; victoria gazdei la ~64% a fost chiar prudentă.",
+  "createdAt": 1795770217604
+ },
+ {
+  "fotmobId": 6112322,
+  "match": "Crystal Palace – Real Sociedad",
+  "score": "2-1",
+  "pick": "Sub 3.5 goluri",
+  "correct": true,
+  "lesson": "Sub 3.5 a ieșit (2-1) fiindcă absențele ofensive ale lui Palace au ținut meciul strâns; absențele în atac scad golurile.",
+  "createdAt": 1795770217604
+ },
+ {
+  "fotmobId": 6112290,
+  "match": "Dinamo Zagreb – Bayer Leverkusen",
+  "score": "0-2",
+  "pick": "Peste 2.5 goluri",
+  "correct": false,
+  "lesson": "Dinamo Zagreb 0-2 Leverkusen: am mizat pe Over 2.5 deși Leverkusen a câștigat controlat cu doar 2 goluri; când favoritul din deplasare e superior, scorul 2-0 e mai probabil decât schimbul de goluri.",
+  "createdAt": 1795770217604
+ },
+ {
+  "fotmobId": 6112282,
+  "match": "Viktoria Plzeň – Benfica",
+  "score": "4-0",
+  "pick": null,
+  "correct": null,
+  "lesson": "Viktoria Plzeň 4-0 Benfica: Benfica a fost fragilă în deplasare europeană; semnal: gazdele cehe cu pressing intens acasă față de un favorit cu apărare instabilă.",
+  "createdAt": 1795770217604
+ },
+ {
+  "fotmobId": 6112302,
+  "match": "Sparta Prague – AZ Alkmaar",
+  "score": "2-4",
+  "pick": null,
+  "correct": null,
+  "lesson": "Sparta Praga 2-4 AZ: gazdele din Cehia au încasat 4 acasă; semnal: AZ eficientă în tranziții, iar Sparta primește goluri în meciuri deschise.",
+  "createdAt": 1795770217604
+ },
+ {
+  "fotmobId": 6112494,
+  "match": "Brann – AGF",
+  "score": "1-4",
+  "pick": null,
+  "correct": null,
+  "lesson": "Brann 1-4 AGF: gazdele norvegiene au fost învinse net; semnal: AGF în formă bună în deplasare, iar Brann (sfârșit de sezon) fără motivație.",
+  "createdAt": 1795770217604
+ },
+ {
+  "fotmobId": 6112524,
+  "match": "Hajduk Split – St.Truiden",
+  "score": "0-2",
+  "pick": null,
+  "correct": null,
+  "lesson": "Hajduk 0-2 St.Truiden: gazdele croate favorite nu au marcat; semnal: formă slabă acasă a lui Hajduk și echipă belgiană mai organizată.",
+  "createdAt": 1795770217604
+ },
+ {
+  "fotmobId": 6112529,
+  "match": "Nordsjælland – Panathinaikos",
+  "score": "3-2",
+  "pick": null,
+  "correct": null,
+  "lesson": "Nordsjælland 3-2 Panathinaikos: gazda daneză a câștigat un meci cu 5 goluri; semnal: Panathinaikos vulnerabilă în deplasare, goluri pe ambele părți.",
+  "createdAt": 1795770217604
+ },
+ {
+  "fotmobId": 6112288,
+  "match": "Union St.Gilloise – Lech Poznań",
+  "score": "2-2",
+  "pick": null,
+  "correct": null,
+  "lesson": "Union SG 2-2 Lech: egal acasă pentru favorită; semnal: Lech marchează în deplasare, iar Union nu a închis meciul.",
+  "createdAt": 1795770217604
  }
 ]
