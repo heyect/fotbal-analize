@@ -2108,5 +2108,45 @@
   "probability": 0.63,
   "score": "0-2",
   "correct": false
+ },
+ {
+  "fotmobId": 5853566,
+  "match": "Universitatea Cluj – Sepsi OSK",
+  "kickoff": "2026-11-27T15:30:00Z",
+  "pick": "Universitatea Cluj câștigă",
+  "code": "1",
+  "probability": 0.64,
+  "score": "0-1",
+  "correct": false
+ },
+ {
+  "fotmobId": 5795533,
+  "match": "Nottingham Forest – Chelsea",
+  "kickoff": "2026-11-27T20:00:00Z",
+  "pick": "Ambele echipe marchează",
+  "code": "GG",
+  "probability": 0.58,
+  "score": "3-2",
+  "correct": true
+ },
+ {
+  "fotmobId": 5881241,
+  "match": "Werder Bremen – Borussia Mönchengladbach",
+  "kickoff": "2026-11-27T19:30:00Z",
+  "pick": "Peste 2.5 goluri",
+  "code": "O2.5",
+  "probability": 0.63,
+  "score": "3-3",
+  "correct": true
+ },
+ {
+  "fotmobId": 5853565,
+  "match": "Petrolul Ploiești – FC Argeș Pitești",
+  "kickoff": "2026-11-27T18:30:00Z",
+  "pick": "Petrolul nu pierde",
+  "code": "1X",
+  "probability": 0.66,
+  "score": "0-1",
+  "correct": false
  }
 ]
